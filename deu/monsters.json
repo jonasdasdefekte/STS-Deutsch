@@ -264,7 +264,7 @@
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Ätzende Spucke",
+      "Klebrige Spucke",
       "Lecken"
     ],
     "NAME": "Säureschleim (M)",
@@ -471,7 +471,7 @@
   },
   "AcidSlime_L": {
     "MOVES": [
-      "Ätzende Spucke",
+      "Klebrige Spucke",
       "Spalten",
       "Lecken"
     ],
