@@ -298,7 +298,7 @@
   },
   "Pain": {
     "NAME": "Schmerz",
-    "DESCRIPTION": "Unspielbar. NL Solange diese Karte auf der Hand ist, verliere beim Ausspielen anderer Karten 1 TP."
+    "DESCRIPTION": "Unspielbar. NL Ist diese Karte auf der Hand, verliere beim Ausspielen anderer Karten 1 TP."
   },
   "Burst": {
     "NAME": "Durchbruch",
