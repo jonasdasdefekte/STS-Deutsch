@@ -1001,7 +1001,7 @@
   },
   "All For One": {
     "NAME": "Alle für Einen",
-    "DESCRIPTION": "Füge !D! Schaden zu. Nimm alle 0-Kost Karten vom Abwurfstapel in deine Hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. Nimm alle Karten mit Kosten 0 vom Abwurfstapel in deine Hand."
   },
   "Magnetism": {
     "NAME": "Magnetismus",
