@@ -955,7 +955,7 @@
     "NAME": "Echoform",
     "DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt. NL Flüchtig.",
     "UPGRADE_DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt."  
-  },
+},
   "Static Discharge": {
     "NAME": "Statische Entladung",
     "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, erschaffe !M! Blitz."
@@ -1018,9 +1018,8 @@
   "Thunder Strike": {
     "NAME": "Donnerschlag",
     "DESCRIPTION": "Füge für jeden in diesem Kampf erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
-    "EXTENDED_DESCRIPTION": [
+    "EXTENDED_DESCRIPTION":
       " (!M! Blitze erschaffen.)"  
-    ]
   },
   "Barrage": {
     "NAME": "Sperrfeuer",
@@ -1205,7 +1204,7 @@
   "Blizzard": {
     "NAME": "Schneesturm",
     "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu wie in diesem Kampf Frost erschaffen wurde.",
-    "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost."
+    "EXTENDED_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost."
   },
   "Rainbow": {
     "NAME": "Regenbogen",
