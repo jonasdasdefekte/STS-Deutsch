@@ -7,10 +7,12 @@ Wenn du Änderungsvorschläge hast, gibt es zwei Möglichkeiten:
 
 1. Möglichkeit - Direkt hier
 - Gehe hier auf GitHub in die Datei, die du ändern willst.
-- Stelle deine Änderungen mithilfe eines Pull Requests hoch.
-- Wir werden sie dann bald übernehmen, wenn sie sinnvoll sind.
+- Ändere das, was dir sinnvoll erscheint.
+- Stelle die Änderungen mit einem eigenen Branch hoch (Pull Request).
+- Wir werden sie dann bald übernehmen, wenn wir sie auch sinnvoll finden.
 
 2. Möglichkeit - Discord
 - Gehe auf den Slay The Spire Dischord-Channel: https://discord.gg/fZrCgyW 
 - Poste deine Vorschläge im Bereich #german.
-- Nach der Diskussion kannst du oder jemand anders direkt den Master-Branch bearbeiten.
+- Dort werden wir sie diskutieren.
+- Danach kannst du oder jemand anders direkt den Master-Branch bearbeiten.
