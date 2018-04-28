@@ -13,5 +13,4 @@ Wenn du Änderungsvorschläge hast, gibt es zwei Möglichkeiten:
 2. Möglichkeit - Discord
 - Gehe auf den Slay The Spire Dischord-Channel: https://discord.gg/fZrCgyW 
 - Poste deine Vorschläge im Bereich #german.
-- Wir werden die Änderungen dann diskutieren.
-- Dann kannst du oder jemand anders direkt den Haupt-Ordner bearbeiten.
+- Nach der Diskussion kannst du oder jemand anders direkt den Master-Branch bearbeiten.
