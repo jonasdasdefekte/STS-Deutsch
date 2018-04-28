@@ -120,7 +120,7 @@
     "UPGRADE_DESCRIPTION": "Verdreifache das Gift auf einem Gegner. NL Erschöpft."
   },
   "Reaper": {
-    "NAME": "Schnitter",
+    "NAME": "Ernter",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Du wirst um den wirklich zugefügten Schaden geheilt. NL Erschöpft."
   },
   "Shiv": {
@@ -219,7 +219,7 @@
     "DESCRIPTION": "Immer wenn du angegriffen wirst, füge dem Angreifer !M! Schaden zu."
   },
   "Poisoned Stab": {
-    "NAME": "Giftstich",
+    "NAME": "Giftiger Stich",
     "DESCRIPTION": "Füge !D! Schaden zu und wende !M! Gift an."
   },
   "Blur": {
@@ -537,7 +537,7 @@
     "DESCRIPTION": "Wenn dein Zug beginnt, wende auf ALLE Gegner !M! Gift an."
   },
   "Infinite Blades": {
-    "NAME": "Zahllose Klingen",
+    "NAME": "Unzählige Klingen",
     "DESCRIPTION": "Wenn dein Zug beginnt, füge deiner Hand ein Messer hinzu.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Wenn dein Zug beginnt, füge deiner Hand ein Messer hinzu."
   },
@@ -953,7 +953,7 @@
   },
   "Echo Form": {
     "NAME": "Echoform",
-    "DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt. NL Ätherisch."
+    "DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt. NL Ätherisch.",
     "UPGRADE_DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt."  
 },
   "Static Discharge": {
@@ -1132,7 +1132,7 @@
   "Scrape": {
     "NAME": "Ausschlachten",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten. NL Wirf jede Karte ab, die nicht 0 kostet."
-  }
+  },
   "Hello World": {
     "NAME": "Hallo Welt",
     "DESCRIPTION": "Wenn dein Zug beginnt, füge deiner Hand eine zufällige Gewöhnliche Karte zu.",
@@ -1204,7 +1204,7 @@
   "Blizzard": {
     "NAME": "Schneesturm",
     "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu wie in diesem Kampf Frost erschaffen wurde.",
-    "EXTENDED_DESCRIPTION": Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost.",
+    "EXTENDED_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost."
   },
   "Rainbow": {
     "NAME": "Regenbogen",
