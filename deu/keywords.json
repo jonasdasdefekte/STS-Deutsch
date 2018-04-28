@@ -27,7 +27,7 @@
     },
     "ETHEREAL": {
       "NAMES": [
-        "ätherisch"
+        "flüchtig"
       ],
       "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet, wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
     },
@@ -184,7 +184,7 @@
       "NAMES": [
         "benommen"
       ],
-      "DESCRIPTION": "Benommen ist eine unspielbare Statuskarte."
+      "DESCRIPTION": "Benommen ist eine unspielbare, flüchtige Statuskarte."
     },
     "EVOKE": {
       "NAMES": [
