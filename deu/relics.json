@@ -901,7 +901,7 @@
     "NAME": "Nadel und Faden",
     "FLAVOR": "Der magische Faden umhüllt deinen Körper und verleiht dir eine harte Schale.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte #b",
+      "Zu Beginn jedes Kampfes erhalte #b",
       " #yPanzerrüstung."
     ]
   },
@@ -936,7 +936,7 @@
     "NAME": "Werkzeugkiste",
     "FLAVOR": "Ein Werkzeug für jedes Problem.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte eine zufällige farblose Karte auf deine Hand."
+      "Zu Beginn jedes Kampfes erhalte eine zufällige farblose Karte auf deine Hand."
     ]
   },
   "Torii": {
@@ -982,7 +982,7 @@
     "NAME": "Vajra",
     "FLAVOR": "Ein dekoratives Relikt für Krieger, die sich im Kampf als ruhmreich erweisen.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte #b",
+      "Zu Beginn jedes Kampfes erhalte #b",
       " #yStärke."
     ]
   },
@@ -1043,7 +1043,7 @@
     "DESCRIPTIONS": [
       "Wähle bei Aufnahme eine Machtkarte. Bei Beginn jedes Kampfes wird diese sich in deiner Hand befinden.",
       "Wähle eine Karte für ",
-      "Wenn jeder Kampf beginnt, erhalte ",
+      "Zu Beginn jedes Kampfes erhalte ",
       " auf deine Hand."
     ]
   },
@@ -1094,7 +1094,7 @@
     "NAME": "Rübe",
     "FLAVOR": "Am Besten mit Ingwer.",
     "DESCRIPTIONS": [
-      "Du kannst nicht mehr #yGebrechlich werden."
+      "Du kannst nicht mehr #ygebrechlich werden."
     ]
   },
   "Inserter": {
@@ -1108,7 +1108,7 @@
     "NAME": "Nuklearbatterie",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yPlasma."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yPlasma."
     ]
   },
   "Runic Capacitor": {
@@ -1129,7 +1129,7 @@
     "NAME": "Festplatte",
     "FLAVOR": "Diese Festplatte beinhaltet wertvolle Daten über Vögel und Schlangen.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, erhalte #b",
+      "Zu Beginn jedes Kampfes erhalte #b",
       " #yFokus."
     ]
   },
@@ -1137,14 +1137,14 @@
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft die die Automatone des Spire antreibt. Er scheint kaputt zu sein.",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yBlitz."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yBlitz."
     ]
   },
   "Symbiotic Virus": {
     "NAME": "Symbiotischer Virus",
     "FLAVOR": "Ein bisschen #rSchlechtes kann viel #gGutes tun...",
     "DESCRIPTIONS": [
-      "Wenn jeder Kampf beginnt, #yKanalisiere #b1 #yDunkelheit."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yDunkelheit."
     ]
   }
 }
