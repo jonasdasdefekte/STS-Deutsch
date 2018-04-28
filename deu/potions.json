@@ -1,0 +1,105 @@
+{
+  "Block Potion": {
+    "NAME": "Blocktrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yBlock."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Geschicklichkeitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yGeschicklichkeit."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Elixier",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#yErschöpfe alle #yStatuskarten und #Flüche auf deiner Hand.",
+      "",
+      "Es hatte keinen Effekt …"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energietrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Energie."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Explosivtrank",
+    "DESCRIPTIONS": [
+      "Verursache #b",
+      " Schaden an ALLEN Gegnern."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Feuertrank",
+    "DESCRIPTIONS": [
+      "Verursache #b",
+      " Schaden."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Gesundheitstrank",
+    "DESCRIPTIONS": [
+      "Heile #b",
+      " TP."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Gifttrank",
+    "DESCRIPTIONS": [
+      "Wende #b",
+      " #yGift an."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Trankslot",
+    "DESCRIPTIONS": [
+      "Nutze während des Kampfes Tränke, um #gBoni zu erhalten oder Gegner zu #rbehindern.",
+      "Trankslot"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Regenerationstrank",
+    "DESCRIPTIONS": [
+      "Heile #b",
+      " #yTP am Ende jedes Zuges für #b",
+      " Züge."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Stärketrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yStärke."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Schnelligkeitstrank",
+    "DESCRIPTIONS": [
+      "",
+      "Ziehe #b",
+      " Karten."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Schwächetrank",
+    "DESCRIPTIONS": [
+      "Wende #b",
+      " #ySchwach an."
+    ]
+  },
+  "Ancient Potion": {
+    "NAME": "Uralter Trank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yArtifakt."
+    ]
+  }
+}

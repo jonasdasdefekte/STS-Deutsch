@@ -1,0 +1,255 @@
+{
+  "Game Dictionary": {
+    "INNATE": {
+      "NAMES": [
+        "angeboren"
+      ],
+      "DESCRIPTION": "Beginne jeden Kampf mit dieser Karte in deiner Hand."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "verwundbar"
+      ],
+      "DESCRIPTION": "Verwundbare Kreaturen erleiden #b50% mehr Schaden durch Angriffe."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "stärke"
+      ],
+      "DESCRIPTION": "Stärke lässt Angriffe mehr Schaden zufügen."
+    },
+    "SHIV": {
+      "NAMES": [
+        "messer",
+        "messer"
+      ],
+      "DESCRIPTION": "Messer sind #bkostenlose Angriffskarten, die bei Benutzung erschöpfen."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "ätherisch"
+      ],
+      "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet, wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "verbessern",
+        "verbessere",
+        "verbessert"
+      ],
+      "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur ein mal verbessert werden."
+    },
+    "POISON": {
+      "NAMES": [
+        "gift",
+        "vergiftet"
+      ],
+      "DESCRIPTION": "Vergiftete Kreaturen verlieren zu ihrem Zugbeginn TP. In jedem Zug wird Gift um #b1 reduziert."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "gesperrt"
+      ],
+      "DESCRIPTION": "Diese Karte muss noch freigeschaltet werden."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "unbekannt"
+      ],
+      "DESCRIPTION": "Dieser Karte muss noch begegnet werden."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "unspielbar"
+      ],
+      "DESCRIPTION": "Unspielbare Karten können nicht aus deiner Hand ausgespielt werden."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "block",
+        "blockt"
+      ],
+      "DESCRIPTION": "Verhindert Schaden bis zum nächsten Zug."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "verwirrt",
+        "Gepreised sei Snecko!"
+      ],
+      "DESCRIPTION": "Immer wenn du eine Karte ziehst, sind ihre Kosten zufällig."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "schlag"
+      ],
+      "DESCRIPTION": "Jede Karte mit dem Wort \"Schlag\" in ihrem Namen."
+    },
+    "CURSE": {
+      "NAMES": [
+        "fluch",
+        "flüche"
+      ],
+      "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformieren",
+        "transformierst",
+        "transformiere"
+      ],
+      "DESCRIPTION": "Transformierte Karten werden zu einer Karte von zufälliger Seltenheit."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "erschöpfen",
+        "erschöpfe",
+        "erschöpft"
+      ],
+      "DESCRIPTION": "Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "behalte",
+        "behalten"
+      ],
+      "DESCRIPTION": "Behaltene Karten werden am Ende des Zuges nicht abgeworfen."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status"
+      ],
+      "DESCRIPTION": "Statuskarten werden am Ende des Kampfes entfernt."
+    },
+    "WOUND": {
+      "NAMES": [
+        "wunde",
+        "wunden"
+      ],
+      "DESCRIPTION": "Wunden sind unspielbare Statuskarten."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "geschicklichkeit"
+      ],
+      "DESCRIPTION": "Geschicklichkeit verbessert von Karten erhaltenen Block."
+    },
+    "TEXT": [
+      "Energie wird verwendet, um Karten aus deiner Hand auszuspielen."
+    ],
+    "WEAK": {
+      "NAMES": [
+        "schwach",
+        "schwächen",
+        "schwach",
+        "schwächt"
+      ],
+      "DESCRIPTION": "Schwache Kreaturen verursachen #b25% weniger Schaden mit Angriffen."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "gebrechlich"
+      ],
+      "DESCRIPTION": "Bist du Gebrechlich, erhältst du #b25% weniger #yBlock von Karten."
+    },
+    "ARTIFACT": {
+      "NAMES": [
+        "artefakt"
+      ],
+      "DESCRIPTION": "Negiert den nächsten Debuff."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "unangreifbar"
+      ],
+      "DESCRIPTION": "Reduziere jeglichen genommenen Schaden auf #b1."
+    },
+    "BURN": {
+      "NAMES": [
+        "brennen",
+        ""
+      ],
+      "DESCRIPTION": "Brennen ist eine unspielbare Statuskarte, die dir Schaden zufügt."
+    },
+    "DAZED": {
+      "NAMES": [
+        "benommen"
+      ],
+      "DESCRIPTION": "Benommen ist eine unspielbare Statuskarte."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "erwecke",
+        "erweckt",
+        "erwecken"
+      ],
+      "DESCRIPTION": "Verbrauche den Orb auf der rechten Seite und nutze seinen Erwecken-Effekt."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Bringt #yBlock."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "erschaffen",
+        "erschaffe",
+        "erschaffst",
+        "erschaffene",
+        "erschaffenen"
+      ],
+      "DESCRIPTION": "Wenn du einen Orb erschaffst, kommt er in deinen ersten freien Slot. Wenn du keine freien Slots hast, wird dein erster Orb automatisch #yentladen, um Platz zu machen."
+    },
+    "VOID": {
+      "NAMES": [
+        "Leere",
+        "voids"
+      ],
+      "DESCRIPTION": "Leere ist eine unspielbare Statuskarte, die beim Ziehen Energie verbraucht."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "blitz",
+        "blitz+"
+      ],
+      "DESCRIPTION": "Orb: Fügt zufälligen Gegnern Schaden zu."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Bringt Energie."
+    },
+    "OPENER": {
+      "NAMES": [
+        "eröffnung"
+      ],
+      "DESCRIPTION": "Eine Karte mit Eröffnung kann nur als erste Karte eines Zuges gespielt werden."
+    },
+    "DARK": {
+      "NAMES": [
+        "dunkelheit",
+        "dunkelheit+"
+      ],
+      "DESCRIPTION": "Orb: Erhöht seinen Schaden pro Zug. Beim #yErwecken fügt er dem Gegner mit den wenigsten TP Schaden zu."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Fokus erhöht die Effektivität von #yerschaffenen Orbs."
+    }
+  }
+}
