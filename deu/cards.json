@@ -1019,7 +1019,7 @@
     "NAME": "Donnerschlag",
     "DESCRIPTION": "Füge für jeden in diesem Kampf erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      "( !M! Blitze erschaffen.)"  
+      "(Bisher !M! Blitze.)"  
     ]
   },
   "Barrage": {
@@ -1200,7 +1200,7 @@
   },
   "Blaster": {
     "NAME": "Blaster",
-    "DESCRIPTION": "Füge ALLEN Gegner !D! Schaden zu. NL Erhalte [B] für jeden erschaffenen Orb. NL Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte [B] für jeden erschaffenen Orb. NL Erschöpft."
   },
   "Blizzard": {
     "NAME": "Schneesturm",
