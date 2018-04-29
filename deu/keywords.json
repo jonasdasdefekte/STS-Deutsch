@@ -188,11 +188,11 @@
     },
     "EVOKE": {
       "NAMES": [
-        "erwecke",
-        "erweckt",
-        "erwecken"
+        "entlade",
+        "entladen",
+        "entladenen"
       ],
-      "DESCRIPTION": "Verbrauche den Orb auf der rechten Seite und nutze seinen Erwecken-Effekt."
+      "DESCRIPTION": "Verbrauche den Orb auf der rechten Seite und nutze seinen Entladen-Effekt."
     },
     "FROST": {
       "NAMES": [
