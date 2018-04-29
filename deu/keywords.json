@@ -188,8 +188,8 @@
     },
     "EVOKE": {
       "NAMES": [
-        "entlade",
         "entladen",
+        "entlade",
         "entladenen"
       ],
       "DESCRIPTION": "Verbrauche den Orb auf der rechten Seite und nutze seinen Entladen-Effekt."
@@ -246,7 +246,7 @@
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "fokus"
       ],
       "DESCRIPTION": "Fokus erhöht die Effektivität von #yerschaffenen Orbs."
     }
