@@ -1187,7 +1187,7 @@
   },
   "Reboot": {
     "NAME": "Reboot",
-    "DESCRIPTION": "Mische alle deine Karten in den Nachziehstapel, und ziehe dann !M! Karten nach. NL Erschöpft."
+    "DESCRIPTION": "Mische alle Karten in den Nachziehstapel und ziehe !M! Karten. NL Erschöpft."
   },
   "Go for the Eyes": {
     "NAME": "In die Augen",
