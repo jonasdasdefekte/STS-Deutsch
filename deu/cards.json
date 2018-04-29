@@ -1019,7 +1019,7 @@
     "NAME": "Donnerschlag",
     "DESCRIPTION": "Füge für jeden in diesem Kampf erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      " (!M! Blitze erschaffen.)"  
+      "( !M! Blitze erschaffen.)"  
     ]
   },
   "Barrage": {
