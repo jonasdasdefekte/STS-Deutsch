@@ -71,7 +71,7 @@
   "Fountain of Cleansing": {
     "NAME": "Der Göttliche Brunnen",
     "DESCRIPTIONS": [
-      "Du kommst an #b~glitzerndem~ #b~Wasser~ vorbei, das endlos aus einem Brunnen auf einer nahen Mauer.",
+      "Du kommst an #b~glitzerndem~ #b~Wasser~ vorbei, das endlos aus einem Brunnen auf einer nahen Mauer sprudelt.",
       "Als du das #b~Wasser~ trinkst, spürst du, wie sich ein #pdunkler #pGriff löst.",
       "Da du den Eigenarten dieses Wassers nicht traust, setzt du deinen Weg mit großem Durst fort."
     ],
@@ -152,7 +152,7 @@
       "„Ah, ein #gGeschenk! NL Viel Spaß damit!“",
       "„Oooh, eine kostenlose #gHeilung für dich!“",
       "„Sieht aus, als hättest du einen #pFluch gewonnen! NL Das ist nicht gut. NL Naja! Nächstes Mal hast du mehr Glück!“",
-      "„Ooh, die Macht der #r~Dunkelheit~ ~...~“ NL Wähle eine Karte, die aus deinem Deck entfern´t wird!",
+      "„Ooh, die Macht der #r~Dunkelheit~ ~...~“ NL Wähle eine Karte, die aus deinem Deck entfernt wird!",
       "„Oh-oh! NL Du verlierst!“ NL Du bemerkst, wie er eine Klinge zieht...",
       "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL Damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
     ],
