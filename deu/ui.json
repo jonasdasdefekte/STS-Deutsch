@@ -419,6 +419,22 @@
       "behältst"
     ]
   },
+  "RecycleAction": {
+    "TEXT": [
+      "erschöpfst"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf die Hand nimmst",
+      "Wähle Karten, die du auf die Hand nimmst"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Dieser Gegner beabsichtigt anzugreifen!"
+    ]
+  },
   "AbandonRunButton": {
     "TEXT": [
       "Durchlauf abbrechen"

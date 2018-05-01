@@ -899,7 +899,7 @@
   },
   "Self Repair": {
     "NAME": "Reparatur-Routine",
-    "DESCRIPTION": "Heile am Ende des Kampfes !M! LP."
+    "DESCRIPTION": "Heile am Ende des Kampfes !M! TP."
   },
   "Cold Snap": {
     "NAME": "Kälteeinbruch",
@@ -907,14 +907,14 @@
   },
   "Streamline": {
     "NAME": "Stromlinie",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du Stromlinie spielst, senke ihre Kosten für diesem Kampf um !M! ."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte spielst, senke ihre Kosten für diesem Kampf um !M! ."
   },
   "Nova": {
     "NAME": "Nova",
     "DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jede in diesem Kampf gespielte Macht.",
     "EXTENDED_DESCRIPTION": [
       " NL Erschöpft.",
-      " NL Fügt !D! Schaden zu."
+      " NL (Fügt !D! Schaden zu.)"
     ]
   },
   "Creative AI": {
@@ -954,11 +954,12 @@
   "Echo Form": {
     "NAME": "Echoform",
     "DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt. NL Flüchtig.",
-    "UPGRADE_DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt."  
+    "UPGRADE_DESCRIPTION": "In jedem Zug wird die erste Karte, die du spielst, zweimal gespielt."
   },
   "Static Discharge": {
     "NAME": "Statische Entladung",
-    "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, erschaffe !M! Blitz."
+    "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, erschaffe !M! Blitz.",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Capacitor": {
     "NAME": "Kapazität",
@@ -1019,7 +1020,7 @@
     "NAME": "Donnerschlag",
     "DESCRIPTION": "Füge für jeden in diesem Kampf erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      "(Bisher !M! Blitze.)"  
+      "(Bisher !M! Blitze.)"
     ]
   },
   "Barrage": {
@@ -1039,7 +1040,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner dadurch getötet wird, erhalte [B] [B] [B]."
   },
   "Rebound": {
-    "NAME": "Abprallen",
+    "NAME": "Rückstoß",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Lege die nächste in diesem Zug gespielte Karte auf deinen Nachziehstapel."
   },
   "Conserve Battery": {
@@ -1132,7 +1133,7 @@
   },
   "Scrape": {
     "NAME": "Ausschlachten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten. NL Wirf jede Karte ab, die nicht 0 kostet."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten. NL Wirf jede so gezogene Karte ab, die nicht 0 kostet."
   },
   "Hello World": {
     "NAME": "Hallo Welt",
@@ -1205,7 +1206,11 @@
   "Blizzard": {
     "NAME": "Schneesturm",
     "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu, wie in diesem Kampf Frost erschaffen wurde.",
-    "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost."
+    "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)",
+      ""
+    ]
   },
   "Rainbow": {
     "NAME": "Regenbogen",
@@ -1238,5 +1243,17 @@
     "NAME": "Doppelte Energie",
     "DESCRIPTION": "Verdopple deine Energie. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verdopple deine Energie."
+  },
+  "Reprieve": {
+    "NAME": "Atempause",
+    "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, erhalte !M! Fokus."
+  },
+  "Lockon": {
+    "NAME": "Fest im Griff",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL In diesem Zug treffen die Orbs Blitz und Dunkelheit diesen Gegner."
+  },
+  "Consume": {
+    "NAME": "Verbrauchen",
+    "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
   }
 }
