@@ -894,7 +894,7 @@
     "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Macht spielst, erschaffe 1 Blitz."
   },
   "Redo": {
-    "NAME": "Erneuerung",
+    "NAME": "Rekursion",
     "DESCRIPTION": "Entlade deinen vordersten Orb. NL Erschaffe den Orb, der gerade Entladen wurde."
   },
   "Self Repair": {
