@@ -1105,7 +1105,7 @@
   },
   "Undo": {
     "NAME": "Zurücksetzen",
-    "DESCRIPTION": "Setzen deine TP auf ihren Wert vom letzten Zug. NL Erschöpft."
+    "DESCRIPTION": "Setze deine TP auf ihren Wert vom letzten Zug. NL Erschöpft."
   },
   "Glacier": {
     "NAME": "Gletscher",
@@ -1208,7 +1208,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu, wie in diesem Kampf Frost erschaffen wurde.",
     "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)",
+      " NL (Fügt !D! Schaden zu.)",
       ""
     ]
   },
