@@ -1063,21 +1063,21 @@
     ]
   },
   "Molten Egg 2": {
-    "NAME": "Geschmolzenes Ei (BETA)",
-    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot mit schimmernder Lava.",
+    "NAME": "Geschmolzenes Ei",
+    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot, heiß mit siedender Lava.",
     "DESCRIPTIONS": [
       "Jedes mal, wenn du eine #yAngriffskarte erhältst, ist sie #yverbessert."
     ]
   },
   "Frozen Egg 2": {
-    "NAME": "Gefrorenes Ei (BETA)",
+    "NAME": "Gefrorenes Ei",
     "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
     "DESCRIPTIONS": [
       "Jedes mal, wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
     ]
   },
   "Toxic Egg 2": {
-    "NAME": "Toxisches Ei (BETA)",
+    "NAME": "Toxisches Ei",
     "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
     "DESCRIPTIONS": [
       "Jedes mal, wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
