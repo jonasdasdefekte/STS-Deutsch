@@ -1214,8 +1214,8 @@
   },
   "Rainbow": {
     "NAME": "Regenbogen",
-    "DESCRIPTION": "Erschaffe 1 Blitz, 1 Frost, und 1 Dunkelheit. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erschaffe 1 Blitz, 1 Frost, und 1 Dunkelheit."
+    "DESCRIPTION": "Erschaffe 1 Blitz, NL 1 Frost und NL 1 Dunkelheit. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erschaffe 1 Blitz, NL 1 Frost und NL 1 Dunkelheit."
   },
   "Ice Wall": {
     "NAME": "Eiswall",
