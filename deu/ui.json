@@ -464,7 +464,7 @@
       "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
       "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
       "Präferenzen",
-      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Wählen einer einzelnen Karte ohne Bestätigen",
+      "Zusammengezählten Schaden in Gold anzeigen NL Blockierten Schaden in Blau anzeigen NL Wählen einer einzelnen Karte ohne Bestätigen",
       "Schnellmodus",
       "",
       "Diverses",
@@ -635,7 +635,7 @@
       "Dieser Gegner schläft.",
       "Dieser Gegner ist in seinem Zug #ybetäubt.",
       "Die Absichten dieses Gegners sind #yunbekannt (wird nicht angreifen).",
-      "Geblockt"
+      "Blockiert"
     ]
   },
   "AbstractDungeon": {
@@ -739,7 +739,7 @@
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Geblockt",
+      "Blockiert",
       "Der Eiserne",
       "Die Stille",
       "Das Defekte"
