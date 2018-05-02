@@ -184,7 +184,7 @@
   },
   "Decay": {
     "NAME": "Verfall",
-    "DESCRIPTION": "Unspielbar. NL Erleide zu Beginn deines Zuges 2 Schaden."
+    "DESCRIPTION": "Unspielbar. NL Erleide am Ende deines Zuges 2 Schaden."
   },
   "Tools of the Trade": {
     "NAME": "Handwerkszeug",
@@ -1246,7 +1246,7 @@
   },
   "Reprieve": {
     "NAME": "Atempause",
-    "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, erhalte !M! Fokus."
+    "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, NL erhalte !M! Fokus."
   },
   "Lockon": {
     "NAME": "Fest im Griff",
