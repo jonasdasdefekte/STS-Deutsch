@@ -1099,5 +1099,10 @@
     "TEXT": [
       ""
     ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du zurück auf deine Hand nimmst."
+    ]
   }
 }
