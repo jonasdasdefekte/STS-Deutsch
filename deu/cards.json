@@ -911,7 +911,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jede in diesem Kampf gespielte Macht.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu entsprechend !M! mal der Zahl in diesem Kampf gespielter Mächte.",
     "EXTENDED_DESCRIPTION": [
       " NL Erschöpft.",
       " NL (Fügt !D! Schaden zu.)"
@@ -1205,8 +1205,7 @@
   },
   "Blizzard": {
     "NAME": "Schneesturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu, wie in diesem Kampf Frost erschaffen wurde.",
-    "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu entsprechend !M! mal dem in diesem Kampf erschaffenen Frost.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)",
       ""
@@ -1250,10 +1249,14 @@
   },
   "Lockon": {
     "NAME": "Fest im Griff",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL In diesem Zug treffen die Orbs Blitz und Dunkelheit diesen Gegner."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Für die nächsten !M! Züge treffen die Orbs Blitz und Dunkelheit diesen Gegner."
   },
   "Consume": {
     "NAME": "Verbrauchen",
     "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
+  },
+  "BootSequence": {
+    "NAME": "Systemstart",
+    "DESCRIPTION": "Erhalte !B! Block. NL Angeboren. NL Erschöpft."
   }
 }

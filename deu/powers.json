@@ -888,7 +888,9 @@
   "Lockon": {
     "NAME": "Fest im Griff",
     "DESCRIPTIONS": [
-      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner."
+      "Die Orbs #yBlitz and #yDunkelheit treffen diesen Gegner für die nächsten #b",
+      " Züge.",
+      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner in diesem Zug."
     ]
   }
 }
