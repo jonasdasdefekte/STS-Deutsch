@@ -199,7 +199,7 @@
         "frost",
         "frost+"
       ],
-      "DESCRIPTION": "Orb: Bringt #yBlock."
+      "DESCRIPTION": "Orb: Erhalte #yBlock."
     },
     "CHANNEL": {
       "NAMES": [
@@ -229,7 +229,7 @@
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Orb: Bringt Energie."
+      "DESCRIPTION": "Orb: Erhalte Energie."
     },
     "OPENER": {
       "NAMES": [
@@ -242,7 +242,7 @@
         "dunkelheit",
         "dunkelheit+"
       ],
-      "DESCRIPTION": "Orb: Erhöht seinen Schaden pro Zug. Beim #yErwecken fügt er dem Gegner mit den wenigsten TP Schaden zu."
+      "DESCRIPTION": "Orb: Erhöht seinen Schaden pro Zug. Beim #yEntladen fügt er dem Gegner mit den wenigsten TP Schaden zu."
     },
     "FOCUS": {
       "NAMES": [
