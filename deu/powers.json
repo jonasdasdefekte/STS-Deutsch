@@ -795,9 +795,9 @@
   "Echo Form": {
     "NAME": "Echoform",
     "DESCRIPTIONS": [
-      "Die erste in deinem Zug gespielte Karte wird #b",
-      " mal wiederholt.",
-      " mal wiederholt."
+      "Die erste in deinem Zug gespielte Karte wird zweimal gespielt.",
+      "Die ersten #b",
+      " in deinem Zug gespielten Karten werden zweimal gespielt."
     ]
   },
   "Magnetism": {

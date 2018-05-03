@@ -911,7 +911,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu entsprechend !M! mal der Zahl in diesem Kampf gespielter Mächte.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal der Zahl in diesem Kampf gespielter Mächte.",
     "EXTENDED_DESCRIPTION": [
       " NL Erschöpft.",
       " NL (Fügt !D! Schaden zu.)"
@@ -1020,7 +1020,7 @@
     "NAME": "Donnerschlag",
     "DESCRIPTION": "Füge für jeden in diesem Kampf erschaffenen Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      "(Bisher !M! Blitze.)"
+      " (Bisher !M! Blitze.)"
     ]
   },
   "Barrage": {
