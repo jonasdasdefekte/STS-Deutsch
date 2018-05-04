@@ -959,7 +959,7 @@
   "Static Discharge": {
     "NAME": "Statische Entladung",
     "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, erschaffe !M! Blitz.",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "UPGRADE_DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, erschaffe !M! Blitze."
   },
   "Capacitor": {
     "NAME": "Kapazität",
