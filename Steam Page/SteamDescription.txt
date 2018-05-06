@@ -1,0 +1,21 @@
+[img]{STEAM_APP_IMAGE}/extras/ezgif.com-gif-to-apng.png[/img]
+We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!
+
+[img]{STEAM_APP_IMAGE}/extras/featuresBanner4.png[/img]
+[list]
+[*]Two core characters that each have their own unique set of cards. (With more planned)
+[*]200+ fully implemented cards.
+[*]50+ unique combat encounters.
+[*]100+ different items to be found.
+[*]Procedurally generated levels.
+[*]Tons of unlockables.
+[/list]
+
+[h2][b]Dynamic Deck Building[/b][/h2]
+Choose your cards wisely! Discover hundreds of cards to add to your deck with each attempt at climbing the Spire. Select cards that work together to efficiently dispatch foes and reach the top.
+
+[h2][b]An Everchanging Spire[/b][/h2]
+Whenever you embark on a journey up the Spire, the layout differs each time. Choose a risky or safe path, face different enemies, choose different cards, discover different relics, and even fight different bosses!
+
+[h2][b]Powerful Relics to Discover[/b][/h2]
+Powerful items known as relics can be found throughout the Spire. The effects of these relics can greatly enhance your deck through powerful interactions. But beware, obtaining a relic may cost you more than just gold...
