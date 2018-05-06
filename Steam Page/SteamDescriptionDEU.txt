@@ -1,5 +1,5 @@
 [img]{STEAM_APP_IMAGE}/extras/ezgif.com-gif-to-apng.png[/img]
-Wir haben Kartenspiele und Roguelikes zusammengeworfen, um den bestmöglichen Singleplayer-Deckbauer zu machen. Fertige dein eigenes Deck, begegne bizarren Kreaturen, entdecke Relikte von unermesslicher Macht und kämpf dich den Spire hinauf!
+Wir haben Kartenspiele und Roguelikes miteinander verbunden, um den bestmöglichen Singleplayer-Deckbauer zu erschaffen. Fertige dein eigenes Deck, begegne bizarren Kreaturen, entdecke Relikte von unermesslicher Macht und kämpf dich den Spire hinauf!
 
 [img]{STEAM_APP_IMAGE}/extras/featuresBanner4.png[/img]
 [list]
@@ -18,4 +18,4 @@ Wähle deine Karten weise! Entdecke bei jedem Versuch, den Spire zu besteigen, H
 Immer wenn du zur Reise den Spire hinauf aufbrichst, ist der Aufbau dieses Turmes anders. Wähle einen riskanten oder sicheren Weg, triff andere Gegner, wähle andere Karten - und bekämpfe sogar andere Bosse!
 
 [h2][b]Mächtige Relikte zu entdecken[/b][/h2]
-Mächtige Gegenstände, bekannt als Relikte, können innerhalb des Spire gefunden werden. Die Effekte dieser Relikte können dein Deck durch mächtige Interaktionen stark verbessern. Aber pass auf, ein Relikt zu erhalten könnte dich mehr kosten als nur Gold...
+Mächtige Gegenstände, bekannt als Relikte, können innerhalb des Spire gefunden werden. Die Effekte dieser Relikte können dein Deck durch mächtige Interaktionen erheblich verbessern. Aber pass auf, ein Relikt zu erhalten könnte dich mehr als nur Gold kosten...
