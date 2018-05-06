@@ -1,4 +1,4 @@
-[b]TL;DR:[/b] Gerade hat Slay the Spire viele Inhalte und ist gut ausgearbeitet. Wir wollen Early Access benutzen, um es noch besser zu machen. Wir werden alle das Spiel alle zwei Wochen updaten mit neuem Inhalt, Bugfixes und eingearbeitetem Feedback. Um allen zu danken, die uns unterstützen, wird Slay the Spire während EA günstiger sein!
+[b]TL;DR:[/b] Schon jetzt hat Slay the Spire viele Inhalte und ist gut ausgearbeitet. Wir wollen Early Access benutzen, um es noch besser zu machen. Wir werden das Spiel alle zwei Wochen mit neuem Inhalt, Bugfixes und eingearbeitetem Feedback updaten. Um allen zu danken, die uns unterstützen, wird Slay the Spire während EA günstiger sein!
 
 -------------------------------------------------------------------------------------------------------
 
@@ -6,18 +6,18 @@ Wir finden, dass Early Access von solchen Spielen am besten genutzt wird, deren 
 
 
 
-Das Spiel wird für etwa 4-8 Monate im Early Access sein. Wir haben an Slay the Spire über 2 Jahre gearbeitet und glauben, dass das die nötige Zeit war, um das Spiel mit all den Inhalten und Verbesserungen, die wir wollen, zu vollenden.
+Das Spiel wird für etwa 4-8 Monate im Early Access sein. Wir haben an Slay the Spire über 2 Jahre gearbeitet und glauben, dass das die nötige Zeit ist, um das Spiel mit all den Inhalten und Verbesserungen, die wir wollen, zu vollenden.
 
 
 
-Die Vollversion wird eine Menge weiteren und verbesserten Inhalt haben, darunter ein neuer Charakter mit einem komplett neuen Satz Karten. Leaderboards, ein Täglicher Aufstiegsmodus und soziale Funktionen werden hinzugefügt, während die Community wächst. Wir werden direkt auf die Community schauen, um festzulegen, wie und wann neue Funktionen und Inhalte hinzugefügt werden.
+Die Vollversion wird eine Menge weiteren und verbesserten Inhalt haben, darunter ein neuer Charakter mit einem komplett neuen Satz Karten. Leaderboards, ein täglicher Aufstiegsmodus und soziale Funktionen werden hinzugefügt, während die Community wächst. Wir werden direkt auf die Community schauen, um festzulegen, wie und wann neue Funktionen und Inhalte hinzugefügt werden.
 
 
 
 Gerade gibt es:
 
 [list]
-[*]Zwei Hauptcharaktere, jeweils mit eigenen individuellen Kartensatz,
+[*]Zwei Hauptcharaktere, jeweils mit eigenem individuellen Kartensatz,
 [*]~200 Karten, die meisten haben eine eigene Verbesserung,
 [*]50+ unterschiedliche Kampfbegegnungen,
 [*]9 verschiedene Bosse und
