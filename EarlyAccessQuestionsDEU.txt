@@ -1,12 +1,12 @@
-[b]TL;DR:[/b] Schon jetzt hat Slay the Spire viele Inhalte und ist gut ausgearbeitet. Wir wollen Early Access benutzen, um es noch besser zu machen. Wir werden das Spiel alle zwei Wochen mit neuem Inhalt, Bugfixes und eingearbeitetem Feedback updaten. Um allen zu danken, die uns unterstützen, wird Slay the Spire während EA günstiger sein!
+[b]TL;DR:[/b] Schon jetzt hat Slay the Spire viele Inhalte und ist gut ausgearbeitet. Wir wollen Early Access benutzen, um es noch besser zu machen. Wir werden das Spiel alle zwei Wochen mit neuen Inhalten, Bugfixes und durch Feedback der Spieler updaten. Um allen zu danken, die uns unterstützen, wird Slay the Spire während EA günstiger sein!
 
 -------------------------------------------------------------------------------------------------------
 
-Wir finden, dass Early Access von solchen Spielen am besten genutzt wird, deren Communities aktiv miteinbezogen werden. Häufige Updates dank Feedback und Community-Hilfe - genau das wollen wir bieten. Indem wir Slay the Spire in die Hände der Spieler geben, können wir ein Erlebnis, das schon viel Spielspaß bietet, noch besser machen.
+Wir finden, dass Early Access von Spielen, die ihre Community aktiv miteinbeziehen, am besten genutzt wird. Häufige Updates dank Feedback und Community-Hilfe - genau das wollen wir bieten. Indem wir Slay the Spire in die Hände der Spieler geben, können wir ein Erlebnis, das jetzt schon viel Spielspaß bietet, noch besser machen.
 
 
 
-Das Spiel wird für etwa 4-8 Monate im Early Access sein. Wir haben an Slay the Spire über 2 Jahre gearbeitet und glauben, dass das die nötige Zeit ist, um das Spiel mit all den Inhalten und Verbesserungen, die wir wollen, zu vollenden.
+Das Spiel wird für etwa 4-8 Monate im Early Access sein. Wir haben über 2 Jahre lang an Slay the Spire gearbeitet und glauben, dass das die nötige Zeit ist, um das Spiel mit all den Inhalten und Verbesserungen zu vollenden, die wir haben wollen.
 
 
 
@@ -14,23 +14,23 @@ Die Vollversion wird eine Menge weiteren und verbesserten Inhalt haben, darunter
 
 
 
-Gerade gibt es:
+Zurzeit gibt es:
 
 [list]
-[*]Zwei Hauptcharaktere, jeweils mit eigenem individuellen Kartensatz,
+[*]Zwei Hauptcharaktere, jeweils mit eigenem individuellem Kartensatz,
 [*]~200 Karten, die meisten haben eine eigene Verbesserung,
 [*]50+ unterschiedliche Kampfbegegnungen,
 [*]9 verschiedene Bosse und
 [*]100+ verschiedene Gegenstände zu finden.
 [/list]
 
-In seiner momentanen Fassung bietet Slay the Spire schon eine Masse Inhalt zum Entdecken und großartige Wiederspielbarkeit. Zurzeit dauert es durchschnittlich etwa 15-30 Stunden, das Spiel komplett zu besiegen. Das Hauptziel von Early Access wird es sein, das Communityfeedback zu nutzen, um das Spiel noch weiter zu verbessern.
+In seiner momentanen Fassung bietet Slay the Spire schon eine Masse an Inhalten zum Entdecken und damit großartige Wiederspielbarkeit. Zurzeit dauert es durchschnittlich etwa 15-30 Stunden, das Spiel komplett zu besiegen. Das Hauptziel von Early Access wird es sein, das Feedback der Community zu nutzen, um das Spiel noch weiter zu verbessern.
 
 
 
 
 
-Ja. Early Access-Unterstützer zahlen einen niedrigeren Preis. Wir planen, den Preis zu erhöhen, wenn das volle Spiel veröffentlicht wird.
+Ja. Early Access-Unterstützer zahlen einen niedrigeren Preis. Wir planen, den Preis zu erhöhen, wenn das vollendete Spiel veröffentlicht wird.
 
 
 
@@ -47,7 +47,7 @@ Keiner kann übermächtige Strategien besser entdecken als eine lebhafte Communi
 Jede Idee und jedes Feedback ist willkommen und wird ernsthaft betrachtet werden. Vielleicht wird es deine tolle Kartenidee sogar bis ins Spiel schaffen!
 
 [b]Bugs:[/b]
-In den letzten 2 Jahren haben wir unermüdlich mit einem internen Testteam Bugs gefixt. Allerdings werden, bei so vielen Kartenkombinationen und immer neuem Inhalt, unvermeidlich neue Probleme auftauchen. Wir glauben, dass ein bugfreies Erlebnis das Wichtigste ist, um in das Spiel einzutauchen.
+In den letzten 2 Jahren haben wir unermüdlich mit einem internen Testteam Bugs gefixt. Allerdings tauchen unvermeidlich neue Probleme  bei so vielen Kartenkombinationen und immer neuem Inhalt auf. Wir glauben, dass ein bugfreies Erlebnis das Wichtigste ist, um in das Spiel einzutauchen.
 
 [b]Übersetzung:[/b]
 Bei so vielen Karten (und Texten) gibt es eine Menge zu übersetzen. Wir wollen, dass Slay the Spire von so vielen Menschen aus der ganzen Welt wie nur möglich gesehen wird, und können das nicht ohne Unterstützung der Community schaffen. Spieler, die das Spiel auf einem tiefen und technischen Niveau verstehen, können immer besser übersetzen, als wenn man es an Nichtspieler abgibt. Bleibt dran für mehr Informationen.
