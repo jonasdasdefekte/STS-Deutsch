@@ -151,7 +151,7 @@
     ]
   },
   "GhostInAJar": {
-    "NAME": "Geist im Krug",
+    "NAME": "Flaschengeist",
     "DESCRIPTIONS": [
       "Erhalte #b",
       " #yImmateriell"
@@ -181,7 +181,7 @@
   "GamblersBrew": {
     "NAME": "Zocker-Gebräu",
     "DESCRIPTIONS": [
-      "Wirf eine beliebige Anzahl an Karten ab, dann ziehe genauso viele."
+      "Wirf beliebig viele Karten ab, dann ziehe genauso viele."
     ]
   },
   "EssenceOfSteel": {
