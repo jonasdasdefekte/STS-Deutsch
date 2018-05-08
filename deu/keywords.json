@@ -171,7 +171,7 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "unangreifbar"
+        "immateriell"
       ],
       "DESCRIPTION": "Reduziere jeglichen genommenen Schaden auf #b1."
     },
@@ -250,6 +250,13 @@
         "fokus"
       ],
       "DESCRIPTION": "Fokus erhöht die Effektivität von #yerschaffenen Orbs."
+    },
+    "THORNS": {
+      "NAMES": [
+        "stachel",
+		"stacheln"
+      ],
+      "DESCRIPTION": "Gibt beim Erleiden von #yAngriffsschaden Schaden zurück."
     }
   }
 }
