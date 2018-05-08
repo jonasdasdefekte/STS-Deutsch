@@ -111,7 +111,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern zweimal !D! Schaden zu."
   },
   "Bullet Time": {
-    "NAME": "Bullet Time",
+    "NAME": "Zeitlupe",
     "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Senke die Kosten deiner Handkarten für diesen Zug auf 0."
   },
   "Catalyst": {
@@ -873,12 +873,12 @@
   },
   "Ghostly": {
     "NAME": "Apparieren",
-    "DESCRIPTION": "Erhalte NL 1 Unangreifbar. NL Erschöpft. NL Flüchtig.",
-    "UPGRADE_DESCRIPTION": "Erhalte NL 1 Unangreifbar. NL Erschöpft."
+    "DESCRIPTION": "Erhalte NL 1 Immateriell. NL Erschöpft. NL Flüchtig.",
+    "UPGRADE_DESCRIPTION": "Erhalte NL 1 Immateriell. NL Erschöpft."
   },
   "Wraith Form v2": {
     "NAME": "Geistform",
-    "DESCRIPTION": "Erhalte NL !M! Unangreifbar. NL Verliere am Ende deines Zuges NL 1 Geschicklichkeit."
+    "DESCRIPTION": "Erhalte NL !M! Immateriell. NL Verliere am Ende deines Zuges NL 1 Geschicklichkeit."
   },
   "Allocate": {
     "NAME": "Umlegen",

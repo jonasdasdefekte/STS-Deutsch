@@ -66,5 +66,13 @@
   "Draft": {
     "NAME": "Draft",
     "DESCRIPTION": "Drafte die Karten für dein Startdeck."
+  },
+  "Brewmaster": {
+    "NAME": "Braumeister",
+    "DESCRIPTION": "Starte mit 5 Kopien von Alchemisieren, Spielzeug-Ornithopter und der Weißen Bestienstatue."
+  },
+  "Specialized": {
+    "NAME": "Spezialisiert",
+    "DESCRIPTION": "Starte mit 5 Kopien einer seltenen Karte."
   }
 }
