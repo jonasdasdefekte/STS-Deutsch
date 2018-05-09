@@ -659,8 +659,8 @@
   },
   "Impulse": {
     "NAME": "Impuls",
-    "DESCRIPTION": "Verwende den passiven Effekt all deiner erschaffenen Orbs. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Verwende den passiven Effekt all deiner erschaffenen Orbs."
+    "DESCRIPTION": "Nutze den passiven Effekt aller erschaffenen Orbs. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Nutze den passiven Effekt aller erschaffenen Orbs."
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
