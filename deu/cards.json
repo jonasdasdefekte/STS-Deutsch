@@ -664,7 +664,7 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf deine Hand. NL Dieser kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf deine Hand. NL Dieser kostet 0 in diesem Zug. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Unzählige Klingen",
