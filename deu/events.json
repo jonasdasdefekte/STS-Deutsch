@@ -387,7 +387,7 @@
     ]
   },
   "Match and Keep!": {
-    "NAME": "Paare finden und behalten!",
+    "NAME": "Finde die Paare!",
     "DESCRIPTIONS": [
       "„Hier sind #bzwölf Karten! Ordne sie zu, um sie zu behalten! NL #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Fangen wir an!“",
       "Du beendest das Spiel des Gremlins und siehst auf. NL Er ist... verschwunden?",
@@ -578,7 +578,7 @@
       "[Mörder] #ySetze #y",
       " #yGold – #g70%: #gGewinne #g",
       " #gGold.",
-      "[Besitzer] #Setze #y",
+      "[Besitzer] #ySetze #y",
       " #yGold – #g30%: #gGewinne #g",
       "[Zusehen]",
       "[Verlassen]"
