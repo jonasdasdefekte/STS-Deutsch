@@ -1012,7 +1012,7 @@
     "DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft."
   },
   "Self Repair": {
-    "NAME": "Reparatur-Routine",
+    "NAME": "Auto-Reparatur",
     "DESCRIPTION": "Heile am Ende des Kampfes !M! TP."
   },
   "Sentinel": {
