@@ -440,7 +440,7 @@
   "DrawPileViewScreen": {
     "TEXT": [
       "Von hier werden zu Beginn jedes Zuges Karten gezogen.",
-      "(Gezeigte Karten sind in zufälliger Reihenfolge)",
+      "(Gezeigte Karten sind nach Seltenheit sortiert)",
       "Zurückkehren",
       "Nachziehstapel"
     ]
