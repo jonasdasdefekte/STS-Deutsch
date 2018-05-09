@@ -27,7 +27,7 @@
   },
   "All For One": {
     "NAME": "Alle für Einen",
-    "DESCRIPTION": "Füge !D! Schaden zu. Nimm alle Karten mit Kosten 0 vom Abwurfstapel in deine Hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. Nimm alle Karten mit Kosten 0 vom Abwurfstapel auf die Hand."
   },
   "All Out Attack": {
     "NAME": "Großangriff",
@@ -624,8 +624,8 @@
   },
   "Hello World": {
     "NAME": "Hallo Welt",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf deine Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf deine Hand."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
   },
   "Hemokinesis": {
     "NAME": "Hämokinese",
@@ -664,7 +664,7 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf deine Hand. NL Dieser kostet 0 in diesem Zug. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. NL Dieser kostet 0 in diesem Zug. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Unzählige Klingen",
@@ -693,8 +693,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
-    "DESCRIPTION": "Erhalte !M! zufällige farblose Karte auf deine Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf deine Hand. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !M! zufällige farblose Karte auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
   },
   "Juggernaut": {
     "NAME": "Verwüster",
@@ -714,7 +714,7 @@
     "UPGRADE_DESCRIPTION": "Verdoppele deine Stärke."
   },
   "Lockon": {
-    "NAME": "Fest im Griff",
+    "NAME": "Anvisieren",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Für die nächsten !M! Züge treffen die Orbs Blitz und Dunkelheit diesen Gegner."
   },
   "Loop": {
@@ -783,7 +783,7 @@
   },
   "Night Terror": {
     "NAME": "Albtraum",
-    "DESCRIPTION": "Wähle eine Karte. NL Erhalte im nächsten Zug !M! Exemplare dieser Karte auf deine Hand. Erschöpft.",
+    "DESCRIPTION": "Wähle eine Karte. NL Erhalte im nächsten Zug !M! Exemplare dieser Karte auf die Hand. Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Ich kann NL ",
       " NL nur einmal pro Zug verwenden."
@@ -1174,8 +1174,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf deine Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf deine Hand. NL Erschöpft."
+    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. NL Erschöpft."
   },
   "Trip": {
     "NAME": "Straucheln",
