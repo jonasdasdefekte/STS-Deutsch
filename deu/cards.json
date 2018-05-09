@@ -307,7 +307,7 @@
   },
   "Creative AI": {
     "NAME": "Kreative KI",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige Machtkarte auf die Hand."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige Macht auf die Hand."
   },
   "Crippling Poison": {
     "NAME": "Lähmende Wolke",
@@ -389,7 +389,7 @@
   },
   "Distraction": {
     "NAME": "Ablenkung",
-    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet 0 in diesem Zug. NL Erschöpft."
   },
   "Dodge and Roll": {
     "NAME": "Ausweichrolle",
@@ -693,8 +693,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
-    "DESCRIPTION": "Erhalte !M! zufällige farblose Karte auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !M! zufällige farblose Karte auf deine Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf deine Hand. NL Erschöpft."
   },
   "Juggernaut": {
     "NAME": "Verwüster",
@@ -1255,7 +1255,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Geistform",
-    "DESCRIPTION": "Erhalte !M! Immateriell. NL Verliere am Ende jedes Zuges NL 1 Geschicklichkeit."
+    "DESCRIPTION": "Erhalte !M! Immateriell. NL Verliere am Ende jedes NL Zuges 1 Geschicklichkeit."
   },
   "Writhe": {
     "NAME": "Leid",
