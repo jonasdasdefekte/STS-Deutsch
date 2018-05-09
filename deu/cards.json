@@ -389,7 +389,7 @@
   },
   "Distraction": {
     "NAME": "Ablenkung",
-    "DESCRIPTION": "Füge deiner Hand eine zufällige Fertigkeit hinzu. Diese kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
   },
   "Dodge and Roll": {
     "NAME": "Ausweichrolle",
@@ -664,7 +664,8 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Füge deiner Hand einen zufälligen Angriff hinzu. NL Dieser kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Füge einen zufälligen Angriff deiner Hand hinzu. NL Dieser kostet in diesem Zug 0. NL Erschöpft."
+	"Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet in diesem Zug 0. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Unzählige Klingen",
@@ -1074,11 +1075,11 @@
     "UPGRADE_DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, NL erschaffe !M! Blitze."
   },
   "Steam": {
-    "NAME": "Steam",
-    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+    "NAME": "Dampf",
+    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 2 verringert."
   },
   "Steam Power": {
-    "NAME": "Dampfkraft",
+    "NAME": "Schnellsuche",
     "DESCRIPTION": "Ziehe !M! Karten. NL Füge deinem Abwurfstapel ein Brennen hinzu."
   },
   "Storm": {
@@ -1239,7 +1240,7 @@
   },
   "White Noise": {
     "NAME": "Rauschen",
-    "DESCRIPTION": "Erhalte eine zufällige Machtkarte auf die Hand. Sie kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
   },
   "Wild Strike": {
     "NAME": "Wilder Schlag",
@@ -1255,7 +1256,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Geistform",
-    "DESCRIPTION": "Erhalte NL !M! Immateriell. NL Verliere am Ende deines Zuges NL 1 Geschicklichkeit."
+    "DESCRIPTION": "Erhalte !M! Immateriell. NL Verliere am Ende jedes Zuges NL 1 Geschicklichkeit."
   },
   "Writhe": {
     "NAME": "Leid",
