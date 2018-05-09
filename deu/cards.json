@@ -331,8 +331,8 @@
   },
   "Darkness": {
     "NAME": "Dunkelheit",
-    "DESCRIPTION": "Erschaffe NL !M! Dunkelheit.",
-    "UPGRADE_DESCRIPTION": "Erschaffe NL !M! Dunkelheit."
+    "DESCRIPTION": "Erschaffe NL !M! Schatten.",
+    "UPGRADE_DESCRIPTION": "Erschaffe NL !M! Schatten."
   },
   "Dash": {
     "NAME": "Spurt",
@@ -397,7 +397,7 @@
   },
   "Doom and Gloom": {
     "NAME": "Dunkles Schicksal",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erschaffe NL !M! Dunkelheit."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erschaffe NL !M! Schatten."
   },
   "Doppelganger": {
     "NAME": "Doppelgänger",
@@ -715,7 +715,7 @@
   },
   "Lockon": {
     "NAME": "Anvisieren",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Für die nächsten !M! Züge treffen die Orbs Blitz und Dunkelheit diesen Gegner."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Für die nächsten !M! Züge treffen die Orbs Blitz und Schatten diesen Gegner."
   },
   "Loop": {
     "NAME": "Schleife",
@@ -853,7 +853,7 @@
     "DESCRIPTION": "In deinem nächsten Zug ist dein Angriffsschaden verdoppelt."
   },
   "PiercingWail": {
-    "NAME": "Durchdringendes Heulen",
+    "NAME": "Schrilles Heulen",
     "DESCRIPTION": "ALLE Gegner verlieren 1 Zug lang !M! Stärke. NL Erschöpft."
   },
   "Poisoned Stab": {
@@ -904,8 +904,8 @@
   },
   "Rainbow": {
     "NAME": "Regenbogen",
-    "DESCRIPTION": "Erschaffe 1 Blitz, NL 1 Frost und NL 1 Dunkelheit. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erschaffe 1 Blitz, NL 1 Frost und NL 1 Dunkelheit."
+    "DESCRIPTION": "Erschaffe 1 Blitz, NL 1 Frost und NL 1 Schatten. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erschaffe 1 Blitz, NL 1 Frost und NL 1 Schatten."
   },
   "Rampage": {
     "NAME": "Toben",
@@ -1197,7 +1197,7 @@
     "DESCRIPTION": "Füge zweimal NL !D! Schaden zu."
   },
   "Underhanded Strike": {
-    "NAME": "Hinterlistiger Schlag",
+    "NAME": "Tückischer Schlag",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du in diesem Zug eine Karte abgeworfen hast, NL erhalte [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Ich kann diese Karte nicht ausspielen."

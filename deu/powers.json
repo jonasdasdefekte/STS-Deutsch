@@ -474,11 +474,11 @@
     ]
   },
   "Lockon": {
-    "NAME": "Fest im Griff",
+    "NAME": "Anvisieren",
     "DESCRIPTIONS": [
-      "Die Orbs #yBlitz and #yDunkelheit treffen diesen Gegner für die nächsten #b",
+      "Die Orbs #yBlitz and #ySchatten treffen diesen Gegner für die nächsten #b",
       " Züge.",
-      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner in diesem Zug."
+      "Die Orbs #yBlitz und #ySchatten treffen diesen Gegner in diesem Zug."
     ]
   },
   "Loop": {
