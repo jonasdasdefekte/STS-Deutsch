@@ -121,7 +121,7 @@
   },
   "Blade Dance": {
     "NAME": "Messertanz",
-    "DESCRIPTION": "Füge deiner Hand NL !M! Messer hinzu."
+    "DESCRIPTION": "Erhalte !M! Messer auf die Hand."
   },
   "Blaster": {
     "NAME": "Blaster",
@@ -257,8 +257,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "Dolch und Mantel",
-    "DESCRIPTION": "Erhalte !B! Block. NL Füge deiner Hand NL !M! Messer hinzu.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Füge deiner Hand NL !M! Messer hinzu."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Messer hinzu auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Messer auf die Hand."
   },
   "Clothesline": {
     "NAME": "Kinnhaken",
@@ -307,7 +307,7 @@
   },
   "Creative AI": {
     "NAME": "Kreative KI",
-    "DESCRIPTION": "Füge zu Beginn deines Zuges deiner Hand eine zufällige Machtkarte hinzu."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige Machtkarte auf die Hand."
   },
   "Crippling Poison": {
     "NAME": "Lähmende Wolke",
@@ -442,7 +442,7 @@
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
-    "DESCRIPTION": "Immer wenn du diese Karte ziehst, füge deiner Hand eine Kopie davon hinzu. NL Füge !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Immer wenn du diese Karte ziehst, erhalte ein weiteres Exemplar auf die Hand. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Energy Pulse": {
     "NAME": "Energie-Puls",
@@ -478,7 +478,7 @@
   },
   "Exhume": {
     "NAME": "Exhumieren",
-    "DESCRIPTION": "Wähle eine erschöpfte Karte und nimm sie zurück auf deine Hand. NL Erschöpft."
+    "DESCRIPTION": "Wähle eine erschöpfte Karte und nimm sie zurück auf die Hand. NL Erschöpft."
   },
   "Expertise": {
     "NAME": "Expertise",
@@ -624,8 +624,8 @@
   },
   "Hello World": {
     "NAME": "Hallo Welt",
-    "DESCRIPTION": "Füge zu Beginn deines Zuges eine zufällige gewöhnliche Karte deiner Hand hinzu.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Füge zu Beginn deines Zuges eine zufällige gewöhnliche Karte deiner Hand hinzu."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf deine Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf deine Hand."
   },
   "Hemokinesis": {
     "NAME": "Hämokinese",
@@ -668,8 +668,8 @@
   },
   "Infinite Blades": {
     "NAME": "Unzählige Klingen",
-    "DESCRIPTION": "Füge zu Beginn deines Zuges deiner Hand ein Messer hinzu.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Füge zu Beginn deines Zuges deiner Hand ein Messer hinzu."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges ein Messer auf die Hand."
   },
   "Inflame": {
     "NAME": "Entflammen",
@@ -693,8 +693,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
-    "DESCRIPTION": "Füge deiner Hand NL !M! zufällige farblose Karte hinzu. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Füge deiner Hand NL !M! zufällige farblose Karten hinzu. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !M! zufällige farblose Karte auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
   },
   "Juggernaut": {
     "NAME": "Verwüster",
@@ -732,7 +732,7 @@
   },
   "Magnetism": {
     "NAME": "Magnetismus",
-    "DESCRIPTION": "Füge zu Beginn deines Zuges deiner Hand eine zufällige farblose Karte hinzu."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige farblose Karte auf die Hand."
   },
   "Malaise": {
     "NAME": "Unwohlsein",
@@ -783,7 +783,7 @@
   },
   "Night Terror": {
     "NAME": "Albtraum",
-    "DESCRIPTION": "Wähle eine Karte. NL Füge im nächsten Zug !M! Kopien dieser Karte deiner Hand hinzu. Erschöpft.",
+    "DESCRIPTION": "Wähle eine Karte. NL Erhalte im nächsten Zug !M! Exemplare dieser Karte auf deine Hand. Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Ich kann NL ",
       " NL nur einmal pro Zug verwenden."
@@ -867,7 +867,7 @@
   },
   "Power Through": {
     "NAME": "Durchkämpfen",
-    "DESCRIPTION": "Füge deiner Hand NL 2 Wunden hinzu. NL Erhalte !B! Block."
+    "DESCRIPTION": "Erhalte 2 Wunden auf die Hand. NL Erhalte !B! Block."
   },
   "Predator": {
     "NAME": "Jäger",
@@ -1088,8 +1088,8 @@
   },
   "Storm of Steel": {
     "NAME": "Stahlsturm",
-    "DESCRIPTION": "Wirf deine Hand ab. NL Füge deiner Hand für jede abgeworfene Karte 1 Messer hinzu.",
-    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Füge deiner Hand für jede abgeworfene Karte 1 verbessertes Messer hinzu."
+    "DESCRIPTION": "Wirf deine Hand ab. NL Erhalte für jede abgeworfene Karte 1 Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte für jede abgeworfene Karte 1 verbessertes Messer auf die Hand."
   },
   "Streamline": {
     "NAME": "Stromlinie",
