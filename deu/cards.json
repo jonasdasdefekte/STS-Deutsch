@@ -93,7 +93,7 @@
   },
   "Barricade": {
     "NAME": "Barrikade",
-    "DESCRIPTION": "Dein Block endet nicht mehr zu Beginn deines Zuges."
+    "DESCRIPTION": "Dein Block verfällt nicht mehr zu Beginn deines Zuges."
   },
   "Bash": {
     "NAME": "Schmettern",
