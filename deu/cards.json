@@ -1062,8 +1062,8 @@
   },
   "Stack": {
     "NAME": "Stapeln",
-    "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
+    "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel +3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Erhalte !B! Block.)"
     ]
