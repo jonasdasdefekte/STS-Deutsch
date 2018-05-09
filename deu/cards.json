@@ -1239,7 +1239,7 @@
   },
   "White Noise": {
     "NAME": "Rauschen",
-    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet 0 in diesem Zug. NL Erschöpft."
   },
   "Wild Strike": {
     "NAME": "Wilder Schlag",
