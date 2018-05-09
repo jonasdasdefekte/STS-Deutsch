@@ -9,7 +9,7 @@
   "AttackPotion": {
     "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
-      "Füge eine zufällige Angriffskarte deiner Hand hinzu. Sie kostet #b0."
+	  "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet in diesem Zug #b0."
     ]
   },
   "Block Potion": {
@@ -71,7 +71,7 @@
     ]
   },
   "FairyPotion": {
-    "NAME": "Feentrank",
+    "NAME": "Feenflasche",
     "DESCRIPTIONS": [
       "Anstatt zu sterben, werden #b10% deiner max. TP geheilt und dieser Trank verschwindet."
     ]
@@ -148,7 +148,7 @@
   "PowerPotion": {
     "NAME": "Machttrank",
     "DESCRIPTIONS": [
-      "Füge eine zufällige Machtkarte deiner Hand hinzu. Sie kostet #b0."
+      "Erhalte eine zufällige Macht auf die Hand. Diese kostet in diesem Zug #b0."
     ]
   },
   "Regen Potion": {
@@ -162,20 +162,20 @@
   "SkillPotion": {
     "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
-      "Füge eine zufällige Fertigkeitskarte deiner Hand hinzu. Sie kostet #b0."
+	  "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet in diesem Zug #b0."
     ]
   },
   "SmokeBomb": {
     "NAME": "Rauchbombe",
     "DESCRIPTIONS": [
-      "Fliehe aus einem Kampf (Bosskämpfe ausgenommen). Erhalte keine Belohnungen."
+      "Fliehe aus einem Kampf. (Bosskämpfe ausgenommen) Erhalte keine Belohnungen."
     ]
   },
   "SneckoOil": {
     "NAME": "Snecko-Öl",
     "DESCRIPTIONS": [
-      "Ziehe #b",
-      "Karten. Du wirst #yVerwirrt."
+      "Du wirst #yVerwirrt. Ziehe #b",
+      " Karten."
     ]
   },
   "SpeedPotion": {
