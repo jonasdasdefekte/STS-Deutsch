@@ -257,7 +257,7 @@
     "NAME": "Toter Ast",
     "FLAVOR": "Der Ast eines Baumes aus einer längst vergessenen Zeit.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Karte #yerschöpfst, füge deiner Hand eine zufällige Karte hinzu."
+      "Immer wenn du eine Karte #yerschöpfst, erhalte eine zufällige Karte auf die Hand."
     ]
   },
   "Derp Rock": {
@@ -324,7 +324,7 @@
     "NAME": "Enchiridion",
     "FLAVOR": "Das legendäre Tagebuch eines uralten Lichs.",
     "DESCRIPTIONS": [
-      "Füge deiner Hand zu Beginn jedes Kampfes eine zufällige #yMachtkarte hinzu. Sie kostet #b0 bis zum Ende des Zuges."
+      "Erhalte zu Beginn jedes Kampfes eine zufällige #yMachtkarte auf die Hand. Sie kostet #b0 bis zum Ende des Zuges."
     ]
   },
   "Eternal Feather": {
@@ -1048,7 +1048,7 @@
     "NAME": "Werkzeugkiste",
     "FLAVOR": "Ein Werkzeug für jedes Problem.",
     "DESCRIPTIONS": [
-      "Füge deiner Hand zu Beginn jedes Kampfes eine zufällige farblose Karte hinzu."
+      "Erhalte zu Beginn jedes Kampfes eine zufällige farblose Karte auf die Hand."
     ]
   },
   "Torii": {

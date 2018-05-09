@@ -33,7 +33,7 @@
   },
   "Hoarder": {
     "NAME": "Sammler",
-    "DESCRIPTION": "Immer wenn du deinem Deck eine Karte hinzufügst, fügst du 2 weitere Kopien hinzu. Du kannst beim Händler keine Karten entfernen."
+    "DESCRIPTION": "Immer wenn du deinem Deck eine Karte hinzufügst, erhalte 2 weitere Exemplare. Du kannst beim Händler keine Karten entfernen."
   },
   "Insanity": {
     "NAME": "Wahnsinn",

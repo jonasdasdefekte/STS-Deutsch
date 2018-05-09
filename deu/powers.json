@@ -545,8 +545,8 @@
   "Night Terror": {
     "NAME": "Albtraum",
     "DESCRIPTIONS": [
-      "Am Anfang deines nächsten Zuges füge #b",
-      " Karten deiner Hand hinzu."
+      "Am Anfang deines nächsten Zuges erhalte #b",
+      " Karten auf deine Hand."
     ]
   },
   "No Attack": {
@@ -577,7 +577,7 @@
   "Painful Stabs": {
     "NAME": "Schmerzende Stiche",
     "DESCRIPTIONS": [
-      "Wenn dieser Gegner dir Schaden zufügt, füge deinem Abwurfstapel eine #yWunde hinzu."
+      "Wenn dieser Gegner dir Schaden zufügt, erhalte eine #yWunde auf deinen Abwurfstapel."
     ]
   },
   "Panache": {

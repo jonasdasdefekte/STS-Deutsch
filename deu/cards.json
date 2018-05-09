@@ -44,7 +44,7 @@
   },
   "Anger": {
     "NAME": "Zorn",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Füge eine Kopie dieser Karte deinem Abwurfstapel hinzu."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Exemplar dieser Karte auf deinen Abwurfstapel."
   },
   "Apotheosis": {
     "NAME": "Apotheose",
@@ -257,7 +257,7 @@
   },
   "Cloak And Dagger": {
     "NAME": "Dolch und Mantel",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Messer hinzu auf die Hand.",
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Messer auf die Hand.",
     "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Messer auf die Hand."
   },
   "Clothesline": {
@@ -651,7 +651,7 @@
   },
   "Immolate": {
     "NAME": "Opfer",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Füge deinem Abwurfstapel ein Brennen hinzu."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein Brennen auf deinen Abwurfstapel."
   },
   "Impervious": {
     "NAME": "Unempfindlich",
@@ -664,7 +664,7 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Füge einen zufälligen Angriff deiner Hand hinzu. NL Dieser kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf deine Hand. NL Dieser kostet in diesem Zug 0. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Unzählige Klingen",
@@ -1079,7 +1079,7 @@
   },
   "Steam Power": {
     "NAME": "Schnellsuche",
-    "DESCRIPTION": "Ziehe !M! Karten. NL Füge deinem Abwurfstapel ein Brennen hinzu."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Erhalte ein Brennen auf deinen Abwurfstapel."
   },
   "Storm": {
     "NAME": "Sturm",
@@ -1174,8 +1174,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Füge X zufällige farblose Karten deiner Hand hinzu. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Füge X zufällige verbesserte farblose Karten deiner Hand hinzu. NL Erschöpft."
+    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf deine Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf deine Hand. NL Erschöpft."
   },
   "Trip": {
     "NAME": "Straucheln",
@@ -1189,8 +1189,8 @@
   },
   "Turbo": {
     "NAME": "Turbo",
-    "DESCRIPTION": "Erhalte [B] [B]. NL Füge deinem Abwurfstapel eine Leere hinzu.",
-    "UPGRADE_DESCRIPTION": "Erhalte [B] [B] [B]. NL Füge deinem Abwurfstapel eine Leere hinzu."
+    "DESCRIPTION": "Erhalte [B] [B]. NL Erhalte eine Leere auf deinen Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte [B] [B] [B]. NL Erhalte eine Leere auf deinen Abwurfstapel."
   },
   "Twin Strike": {
     "NAME": "Doppelschlag",
