@@ -23,7 +23,7 @@
   },
   "Aggregate": {
     "NAME": "Ansammeln",
-    "DESCRIPTION": "Erhalte [B] für NL jede !M!. Karte in deinem Nachziehstapel."
+    "DESCRIPTION": "Erhalte [B] für NL jede !M!. Karte im Nachziehstapel."
   },
   "All For One": {
     "NAME": "Alle für Einen",
@@ -44,7 +44,7 @@
   },
   "Anger": {
     "NAME": "Zorn",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Exemplar dieser Karte auf deinen Abwurfstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Exemplar dieser Karte auf den Abwurfstapel."
   },
   "Apotheosis": {
     "NAME": "Apotheose",
@@ -52,8 +52,8 @@
   },
   "Armaments": {
     "NAME": "Aufrüsten",
-    "DESCRIPTION": "Erhalte !B! Block. NL Verbessere eine Karte deiner Hand bis zum Kampfende.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Verbessere ALLE Karten deiner Hand bis zum Kampfende."
+    "DESCRIPTION": "Erhalte !B! Block. NL Verbessere eine Handkarte bis zum Kampfende.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Verbessere ALLE Handkarten bis zum Kampfende."
   },
   "AscendersBane": {
     "NAME": "Aufstiegsfluch",
@@ -352,8 +352,8 @@
   },
   "Deep Breath": {
     "NAME": "Tiefer Atemzug",
-    "DESCRIPTION": "Mische deinen Abwurfstapel in deinen Nachziehstapel. NL Ziehe !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Mische deinen Abwurfstapel in deinen Nachziehstapel. NL Ziehe !M! Karten."
+    "DESCRIPTION": "Mische den Abwurfstapel in den Nachziehstapel. NL Ziehe !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Mische den Abwurfstapel in den Nachziehstapel. NL Ziehe !M! Karten."
   },
   "Defend_B": {
     "NAME": "Verteidigen",
@@ -572,8 +572,8 @@
   },
   "Ghostly": {
     "NAME": "Apparieren",
-    "DESCRIPTION": "Erhalte NL 1 Immateriell. NL Erschöpft. NL Flüchtig.",
-    "UPGRADE_DESCRIPTION": "Erhalte NL 1 Immateriell. NL Erschöpft."
+    "DESCRIPTION": "Erhalte 1 Immateriell. NL Erschöpft. NL Flüchtig.",
+    "UPGRADE_DESCRIPTION": "Erhalte 1 Immateriell. NL Erschöpft."
   },
   "Ghostly Armor": {
     "NAME": "Geisterhafte Rüstung",
@@ -603,11 +603,11 @@
   },
   "Havoc": {
     "NAME": "Verwüstung",
-    "DESCRIPTION": "Spiele die oberste Karte deines Nachziehstapels aus und erschöpfe sie."
+    "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels aus und erschöpfe sie."
   },
   "Headbutt": {
     "NAME": "Kopfstoß",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege eine Karte deines Abwurfstapels auf deinen Nachziehstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege eine Karte aus dem Abwurfstapel auf den Nachziehstapel."
   },
   "Heatsinks": {
     "NAME": "Wärmetauscher",
@@ -651,7 +651,7 @@
   },
   "Immolate": {
     "NAME": "Opfer",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein Brennen auf deinen Abwurfstapel."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein Brennen auf den Abwurfstapel."
   },
   "Impervious": {
     "NAME": "Unempfindlich",
@@ -762,8 +762,8 @@
   },
   "Mind Blast": {
     "NAME": "Gedankenstrahl",
-    "DESCRIPTION": "Füge Schaden zu in Höhe der Karten in deinem Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Füge Schaden zu in Höhe der Karten in deinem Nachziehstapel.",
+    "DESCRIPTION": "Füge Schaden zu in Höhe der Kartenzahl im Nachziehstapel.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Füge Schaden zu in Höhe der Kartenzahl im Nachziehstapel.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)"
     ]
@@ -921,11 +921,11 @@
   },
   "Rebound": {
     "NAME": "Rückstoß",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege die nächste in diesem Zug gespielte Karte auf deinen Nachziehstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege die nächste in diesem Zug gespielte Karte auf den Nachziehstapel."
   },
   "Reckless Charge": {
     "NAME": "Gewagter Ansturm",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein Benommen in deinen Nachziehstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein Benommen in den Nachziehstapel."
   },
   "Recycle": {
     "NAME": "Recyclen",
@@ -957,7 +957,7 @@
   },
   "Reprogram": {
     "NAME": "Neuprogrammieren",
-    "DESCRIPTION": "Schau die obersten !M! Karten deines Nachziehstapels an. Wirf beliebig viele davon ab."
+    "DESCRIPTION": "Schau die obersten !M! Karten des Nachziehstapels an. Wirf beliebig viele davon ab."
   },
   "Riddle With Holes": {
     "NAME": "Durchsieben",
@@ -989,16 +989,16 @@
   },
   "Secret Technique": {
     "NAME": "Geheime Technik",
-    "DESCRIPTION": "Wähle eine Fertigkeit aus deinem Nachziehstapel und nimm sie auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle eine Fertigkeit aus deinem Nachziehstapel und nimm sie auf die Hand.",
+    "DESCRIPTION": "Wähle eine Fertigkeit aus dem Nachziehstapel und nimm sie auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle eine Fertigkeit aus dem Nachziehstapel und nimm sie auf die Hand.",
     "EXTENDED_DESCRIPTION": [
       "Es befinden sich keine Fertigkeiten NL in meinem Nachziehstapel."
     ]
   },
   "Secret Weapon": {
     "NAME": "Geheimwaffe",
-    "DESCRIPTION": "Wähle einen Angriff aus deinem Nachziehstapel und nimm ihn auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle einen Angriff aus deinem Nachziehstapel und nimm ihn auf die Hand.",
+    "DESCRIPTION": "Wähle einen Angriff aus dem Nachziehstapel und nimm ihn auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle einen Angriff aus dem Nachziehstapel und nimm ihn auf die Hand.",
     "EXTENDED_DESCRIPTION": [
       "Es befinden sich keine Angriffe NL in meinem Nachziehstapel."
     ]
@@ -1022,7 +1022,7 @@
   },
   "Setup": {
     "NAME": "Abgekartet",
-    "DESCRIPTION": "Lege eine Handkarte auf deinen Nachziehstapel. NL Sie kostet 0, bis sie gespielt wird."
+    "DESCRIPTION": "Lege eine Handkarte auf den Nachziehstapel. NL Sie kostet 0, bis sie gespielt wird."
   },
   "Sever Soul": {
     "NAME": "Seele trennen",
@@ -1062,8 +1062,8 @@
   },
   "Stack": {
     "NAME": "Stapeln",
-    "DESCRIPTION": "Erhalte Block in Höhe der Anzahl Karten in deinem Abwurfstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Anzahl Karten in deinem Abwurfstapel.",
+    "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
     "EXTENDED_DESCRIPTION": [
       " NL (Erhalte !B! Block.)"
     ]
@@ -1079,7 +1079,7 @@
   },
   "Steam Power": {
     "NAME": "Schnellsuche",
-    "DESCRIPTION": "Ziehe !M! Karten. NL Erhalte ein Brennen auf deinen Abwurfstapel."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Erhalte ein Brennen auf den Abwurfstapel."
   },
   "Storm": {
     "NAME": "Sturm",
@@ -1154,8 +1154,8 @@
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",
-    "DESCRIPTION": "Ziehe 2 Karten. NL Lege eine Handkarte auf deinen Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Ziehe 2 Karten. NL Lege eine Handkarte auf deinen Nachziehstapel."
+    "DESCRIPTION": "Ziehe 2 Karten. NL Lege eine Handkarte auf den Nachziehstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Ziehe 2 Karten. NL Lege eine Handkarte auf den Nachziehstapel."
   },
   "Thunder Strike": {
     "NAME": "Donnerschlag",
@@ -1189,8 +1189,8 @@
   },
   "Turbo": {
     "NAME": "Turbo",
-    "DESCRIPTION": "Erhalte [B] [B]. NL Erhalte eine Leere auf deinen Abwurfstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte [B] [B] [B]. NL Erhalte eine Leere auf deinen Abwurfstapel."
+    "DESCRIPTION": "Erhalte [B] [B]. NL Erhalte eine Leere auf den Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte [B] [B] [B]. NL Erhalte eine Leere auf den Abwurfstapel."
   },
   "Twin Strike": {
     "NAME": "Doppelschlag",
@@ -1225,8 +1225,8 @@
   },
   "Warcry": {
     "NAME": "Schlachtruf",
-    "DESCRIPTION": "Ziehe !M! Karte. NL Lege eine Handkarte auf deinen Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Lege eine Handkarte auf deinen Nachziehstapel. NL Erschöpft."
+    "DESCRIPTION": "Ziehe !M! Karte. NL Lege eine Handkarte auf den Nachziehstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Lege eine Handkarte auf den Nachziehstapel. NL Erschöpft."
   },
   "Well Laid Plans": {
     "NAME": "Gut ausgeklügelt",
@@ -1243,7 +1243,7 @@
   },
   "Wild Strike": {
     "NAME": "Wilder Schlag",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Mische eine Wunde in deinen Nachziehstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Mische eine Wunde in den Nachziehstapel."
   },
   "Winter": {
     "NAME": "Winter",
