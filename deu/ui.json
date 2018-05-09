@@ -422,7 +422,7 @@
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Wähle eine Karte, die du auf deinen Nachziehstapel lest."
+      "Wähle eine Karte, die du auf deinen Nachziehstapel legst."
     ]
   },
   "DiscardPileViewScreen": {
@@ -537,7 +537,7 @@
       "Karten bestätigen, die du ",
       "Wähle ",
       " Karten, die du ",
-      "Wähle eine beliebig viele Karten, die du ",
+      "Wähle beliebig viele Karten, die du ",
       "Wähle eine Karte, die du "
     ]
   },
