@@ -1012,7 +1012,7 @@
     "DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft."
   },
   "Self Repair": {
-    "NAME": "Reparatur-Routine",
+    "NAME": "Auto-Reparatur",
     "DESCRIPTION": "Heile am Ende des Kampfes !M! TP."
   },
   "Sentinel": {
@@ -1120,7 +1120,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Wirf eine Karte ab."
   },
   "Sweeping Beam": {
-    "NAME": "Mitreißender Strahl",
+    "NAME": "Breiter Strahl",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Ziehe !M! Karte."
   },
   "Swift Strike": {
