@@ -486,7 +486,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Füge !D! Schaden zu. Wenn du diesen Zug weniger als !M! Karten ausgepielt hast, NL ziehe 1 Karte."
+    "DESCRIPTION": "Füge !D! Schaden zu. Wenn du diesen Zug weniger als !M! Karten ausgepielt hast, NL ziehe 1 Karte.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " Karte gespielt.)",
+      " Karten gespielt.)"
+    ]
   },
   "Feed": {
     "NAME": "Verschlingen",
@@ -508,7 +513,7 @@
     "NAME": "Vollstrecker",
     "DESCRIPTION": "Füge für jeden in diesem Zug gespielten Angriff !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Du hast ",
+      " NL (",
       " Angriff gespielt.)",
       " Angriffe gespielt.)"
     ]
@@ -1009,7 +1014,8 @@
   },
   "Seek": {
     "NAME": "Suchen",
-    "DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Wähle !M! Karte aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft."
   },
   "Self Repair": {
     "NAME": "Auto-Reparatur",
@@ -1078,7 +1084,7 @@
     "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 2 verringert."
   },
   "Steam Power": {
-    "NAME": "Schnellsuche",
+    "NAME": "Übertakten",
     "DESCRIPTION": "Ziehe !M! Karten. NL Erhalte ein Brennen auf den Abwurfstapel."
   },
   "Storm": {
