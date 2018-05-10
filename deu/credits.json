@@ -20,7 +20,7 @@
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "Zusätzliche Übersetzungen",
     "NAMES": [
       "MoGi Group"
     ]
@@ -36,7 +36,7 @@
     ]
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "Französische Lokalisierung",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -52,7 +52,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "Italienische Lokalisierung",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -60,13 +60,13 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "Japanische Lokalisierung",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "Koreanische Lokalisierung",
     "NAMES": [
       "Translation Manager:",
       "Eteriny",
@@ -81,13 +81,13 @@
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Norsk Oversettelse",
+    "HEADER": "Norwegische Lokalisierung",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "Polnische Lokalisierung",
     "NAMES": [
       "Translation and Coordination:",
       "Stanis³aw \"ST4H\" Borkowski",
@@ -106,7 +106,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Localização - Português do Brasil",
+    "HEADER": "Brasilianisch-Portugiesische Lokalisierung",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -117,7 +117,7 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "Russische Lokalisierung",
     "NAMES": [
       "Translation and coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -134,25 +134,25 @@
     ]
   },
   "LOC_SRB": {
-    "HEADER": "Serbian Localization",
+    "HEADER": "Serbische Lokalisierung",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljević"
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "Türkische Lokalisierung",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+    "HEADER": "Vereinfachte Chinesische Lokalisierung",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "Traditionelle Chinesische Lokalisierung",
     "NAMES": []
   },
   "OPS": {
