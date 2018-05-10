@@ -3,3 +3,4 @@
 eng
 validate_localization.py
 validate.bat
+validation_results.txt
