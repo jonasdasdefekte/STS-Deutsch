@@ -25,6 +25,11 @@
       "MoGi Group"
     ]
   },
+  "LOC_CAT": {
+    "HEADER": "Katalanische Lokalisierung",
+    "NAMES": [
+    ]
+  }, 
   "LOC_DEU": {
     "HEADER": "Deutsche Lokalisierung",
     "NAMES": [
@@ -143,6 +148,11 @@
     "HEADER": "Türkische Lokalisierung",
     "NAMES": [
       "Erdem Gürbüz"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Ukrainische Lokalisierung",
+    "NAMES": [
     ]
   },
   "LOC_ZHS": {
