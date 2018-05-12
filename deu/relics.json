@@ -20,7 +20,7 @@
     "NAME": "Kriegskunst",
     "FLAVOR": "Dieses uralte Manuskript enthält Weisheiten aus einer vergangenen Zeit.",
     "DESCRIPTIONS": [
-      "Spielst du bei deinem Zug keine #yAngriffe aus, erhalte im nächsten Zug ein ",
+      "Spielst du in deinem Zug keine #yAngriffe aus, erhalte im nächsten Zug ein ",
       "[R] mehr.",
       "[G] mehr.",
       "[B] mehr."
@@ -144,10 +144,10 @@
     ]
   },
   "Cables": {
-    "NAME": "Gold-Beschichtete Kabel",
+    "NAME": "Gold-beschichtete Kabel",
     "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Dein ganz rechter Orb aktiviert seinen passiven Effekt ein weiteres Mal."
+      "Dein vorderster Orb aktiviert seinen passiven Effekt ein weiteres Mal."
     ]
   },
   "Calipers": {
@@ -232,17 +232,17 @@
     "NAME": "Verfluchter Schlüssel",
     "FLAVOR": "Du spürst, wie vom Schlüssel eine böse Energie ausgeht. Macht hat ihren Preis.",
     "DESCRIPTIONS": [
-      " Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      " NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Darkstone Periapt": {
     "NAME": "Dunkelstein-Amulett",
     "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
     "DESCRIPTIONS": [
-      "Wenn du einen #yFluch erhältst, erhöhe deine Max-TP um #b"
+      "Wenn du einen #yFluch erhältst, erhöhe deine max. TP um #b"
     ]
   },
   "DataDisk": {
@@ -279,10 +279,10 @@
     "NAME": "Runischer Dodekaeder",
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
-      "Hast du volle TP, erhalte ",
-      "[R] zu Beginn jedes Zuges.",
-      "[G] zu Beginn jedes Zuges.",
-      "[B] zu Beginn jedes Zuges."
+      "Erhalte in jedem Zug, in dem du volle TP hast, ",
+      "[R] .",
+      "[G] .",
+      "[B] ."
     ]
   },
   "Dream Catcher": {
@@ -307,10 +307,10 @@
     "NAME": "Ektoplasma",
     "FLAVOR": "Dieser Klumpen aus Schleim und Energie scheint vor Leben zu strotzen.",
     "DESCRIPTIONS": [
-      " Du kannst kein #yGold mehr erhalten.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      " NL Du kannst kein #yGold mehr erhalten.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Emotion Chip": {
@@ -451,7 +451,7 @@
     "NAME": "Lees Waffel",
     "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
     "DESCRIPTIONS": [
-      "Erhöhe deine Max-TP um #b",
+      "Erhöhe deine max. TP um #b",
       " und heile all deine TP."
     ]
   },
@@ -474,7 +474,7 @@
     "NAME": "Echsenschwanz",
     "FLAVOR": "Ein falscher Schwanz, um Gegner während des Kampfes hereinzulegen.",
     "DESCRIPTIONS": [
-      "Anstatt zu sterben, werden #b50% deiner Max-TP geheilt (funktioniert einmal)."
+      "Anstatt zu sterben, werden #b50% deiner max. TP geheilt (funktioniert einmal)."
     ]
   },
   "Magic Flower": {
@@ -488,14 +488,14 @@
     "NAME": "Mango",
     "FLAVOR": "Die begehrteste vergessene Frucht. Perfekt erhalten und ohne Spuren von Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine Max-TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich um #b"
     ]
   },
   "Mark of Pain": {
     "NAME": "Zeichen der Qual",
     "FLAVOR": "Dieses Brandzeichen erhielten Krieger der nördlichen Stämme, wenn sie im Kampf die Qual bezwangen.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Zuges [R] . Du beginnst Kämpfe mit #b2 #rWunden in deinem Nachziehstapel."
+      "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden in deinem Nachziehstapel."
     ]
   },
   "Matryoshka": {
@@ -718,7 +718,7 @@
     "NAME": "Birne",
     "FLAVOR": "Eine weit verbreitete Frucht vor der Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine Max-TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich um #b"
     ]
   },
   "Pen Nib": {
@@ -732,10 +732,10 @@
     "NAME": "Stein der Weisen",
     "FLAVOR": "Eine rohe Energie geht vom Stein aus und stärkt alle in der Nähe.",
     "DESCRIPTIONS": [
-      " ALLE Gegner beginnen mit #b2 #yStärke.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      " NL ALLE Gegner beginnen mit #b2 #yStärke.",
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Potion Belt": {
@@ -793,7 +793,7 @@
   "Ring of the Serpent": {
     "NAME": "Giftschlangenring",
     "DESCRIPTIONS": [
-      "Ersetzt #gSchlangenring. Besiegst du einen #yElitegegner, erhöhen sich deine Max-TP um #b"
+      "Ersetzt #gSchlangenring. Besiegst du einen #yElitegegner, erhöhen sich deine max. TP um #b"
     ]
   },
   "Ring of the Snake": {
@@ -825,9 +825,9 @@
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr die #bAbsichten von Gegnern sehen.",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Runic Pyramid": {
@@ -866,7 +866,7 @@
     "NAME": "Klangschale",
     "FLAVOR": "Dieses oft genutzte Artefakt lässt eine wunderschöne Melodie erklingen, wenn man draufschlägt.",
     "DESCRIPTIONS": [
-      "Anstatt eine Karte deinem Deck hinzuzufügen, kannst du #b+2 Max-TP erhalten."
+      "Anstatt eine Karte deinem Deck hinzuzufügen, kannst du #b+2 max. TP erhalten."
     ]
   },
   "Smiling Mask": {
@@ -897,9 +897,9 @@
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
       " NL Du kannst keine Tränke mehr aufnehmen. ",
-      "Erhalte zu Beginn jedes Zuges [R] .",
-      "Erhalte zu Beginn jedes Zuges [G] .",
-      "Erhalte zu Beginn jedes Zuges [B] ."
+      "Erhalte in jedem Zug [R] .",
+      "Erhalte in jedem Zug [G] .",
+      "Erhalte in jedem Zug [B] ."
     ]
   },
   "Spirit Poop": {
@@ -920,7 +920,7 @@
     "NAME": "Erdbeere",
     "FLAVOR": "„Köstlich! Seit der Fäule habe ich so etwas nicht mehr gesehen.“ – Ranwind",
     "DESCRIPTIONS": [
-      "Deine Max-TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich um #b"
     ]
   },
   "Sundial": {
@@ -944,7 +944,7 @@
     "NAME": "Test 1",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "Immer wenn du einen #yFluch erhältst, erhöhen sich deine Max-TP um #b",
+      "Immer wenn du einen #yFluch erhältst, erhöhen sich deine max. TP um #b",
       " [R] .",
       " [G] .",
       " [B] ."
@@ -1046,7 +1046,7 @@
     "FLAVOR": "„Ein fast perfektes Miniaturexemplar. Meine bisher beste Arbeit, allerdings noch immer nicht ausreichend.“– Der Architekt",
     "DESCRIPTIONS": [
       "Erhalte #b1 Trank. NL Erhalte #b",
-      " #yGold. NL Erhöhe deine Max-TP um #b",
+      " #yGold. NL Erhöhe deine max. TP um #b",
       ". NL Erhalte #b1 Karte. NL Verbessere #b1 zufällige Karte.",
       "Winziges Haus!"
     ]
@@ -1125,9 +1125,9 @@
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr als #b",
       " Karten pro Zug spielen.",
-      "Wenn jeder Zug beginnt, erhalte [R] . ",
-      "Wenn jeder Zug beginnt, erhalte [G] . ",
-      "Wenn jeder Zug beginnt, erhalte [B] . ",
+      "Erhalte in jedem Zug [R] . ",
+      "Erhalte in jedem Zug [G] . ",
+      "Erhalte in jedem Zug [B] . ",
       "Ich kann nur bis zu NL #r"
     ]
   },
