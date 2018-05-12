@@ -440,6 +440,11 @@
     "DESCRIPTION": "In jedem Zug wird die erste gespielte Karte zweimal gespielt. NL Flüchtig.",
     "UPGRADE_DESCRIPTION": "In jedem Zug wird die erste gespielte Karte zweimal gespielt."
   },
+  "Electrodynamics": {
+    "NAME": "Elektrodynamik",
+    "DESCRIPTION": "Blitze treffen jetzt ALLE Gegner.",
+    "UPGRADE_DESCRIPTION": "Blitze treffen jetzt ALLE Gegner. NL Bei nur 1 Gegner treffen Blitze zweimal."
+  },
   "Endless Agony": {
     "NAME": "Endlose Qual",
     "DESCRIPTION": "Immer wenn du diese Karte ziehst, erhalte ein weiteres Exemplar auf die Hand. NL Füge !D! Schaden zu. NL Erschöpft."
@@ -724,7 +729,8 @@
   },
   "Loop": {
     "NAME": "Schleife",
-    "DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs."
+    "DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
+    "UPGRADE_DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! mal."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
@@ -1080,8 +1086,8 @@
     "UPGRADE_DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, NL erschaffe !M! Blitze."
   },
   "Steam": {
-    "NAME": "Dampf",
-    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 2 verringert."
+    "NAME": "Dampfwall",
+    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 1 verringert."
   },
   "Steam Power": {
     "NAME": "Übertakten",

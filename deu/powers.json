@@ -276,6 +276,14 @@
       " in deinem Zug gespielten Karten werden zweimal gespielt."
     ]
   },
+  "Electro": {
+    "NAME": "Elektro",
+    "DESCRIPTIONS": [
+      "#yBlitze treffen ALLE Gegner.",
+      " NL Bei nur #b1 Gegner treffen #yBlitze #b",
+      " mal."
+    ]
+  },
   "Energized": {
     "NAME": "Energiegeladen",
     "DESCRIPTIONS": [
@@ -485,8 +493,8 @@
     "NAME": "Schleife",
     "DESCRIPTIONS": [
       "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
-      "Nutze zu Beginn deines Zuges die passive Fähigkeit deiner #b",
-      " vordersten Orbs."
+      "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs #b",
+      " mal."
     ]
   },
   "Machine Learning": {

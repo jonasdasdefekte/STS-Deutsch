@@ -30,7 +30,7 @@
     "NAME": "Astrolabium",
     "FLAVOR": "Mit diesem Instrument eignest du dir das wertvolle Wissen der Sterne an.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
+      "Wähle sofort #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
       "Wähle 3 Karten für "
     ]
   },
@@ -101,7 +101,7 @@
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle sofort eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -111,7 +111,7 @@
     "NAME": "Flaschenblitz",
     "FLAVOR": "Im wirbelnden Mahlstrom siehst du einen Teil deiner selbst zurückstarren.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle sofort eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -121,7 +121,7 @@
     "NAME": "Flaschentornado",
     "FLAVOR": "Testrelikt.",
     "DESCRIPTIONS": [
-      "Wähle bei Aufnahme eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle sofort eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -340,7 +340,7 @@
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Das Ei ist erstarrt und gefroren, aus ihm wird nie etwas schlüpfen.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine #yMacht und #yverbessere sie.",
+      "Wähle sofort eine #yMacht und #yverbessere sie.",
       "Wähle eine Karte für "
     ]
   },
@@ -541,7 +541,7 @@
     "NAME": "Geschmolzenes Ei",
     "FLAVOR": "Das Ei eines Phönix. Die heiße Lava glüht feuerrot.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben einen #yAngriff und #yverbessere ihn.",
+      "Wähle sofort einen #yAngriff und #yverbessere ihn.",
       "Wähle eine Karte für "
     ]
   },
@@ -736,6 +736,13 @@
       "Erhalte zu Beginn jedes Zuges [R] .",
       "Erhalte zu Beginn jedes Zuges [G] .",
       "Erhalte zu Beginn jedes Zuges [B] ."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Trankgürtel",
+    "FLAVOR": "Mit diesem Gürtel kann ich mehr Tränke tragen!",
+    "DESCRIPTIONS": [
+      "Erhalte sofort #b1 Trankslot."
     ]
   },
   "Prayer Wheel": {
@@ -968,7 +975,7 @@
     "NAME": "Test 5",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "#yVerbessere beim Aufheben #b",
+      "#yVerbessere sofort #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1071,7 +1078,7 @@
     "NAME": "Giftiges Ei",
     "FLAVOR": "„Eine tolle Entdeckung! Das dürfte das erstarrte Ei einer magischen Kreatur sein. Wer oder was ist dafür verantwortlich?“ – Ranwid",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine #yFertigkeit und #yverbessere sie.",
+      "Wähle sofort eine #yFertigkeit und #yverbessere sie.",
       "Wähle eine Karte für "
     ]
   },
@@ -1128,7 +1135,7 @@
     "NAME": "Kriegsbemalung",
     "FLAVOR": "Eiserne nutzen diese Bemalung, um sich vor der Schlacht magische Kreise erstellen.",
     "DESCRIPTIONS": [
-      "Bei Aufnahme: #yVerbessere #b",
+      "#yVerbessere sofort #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1136,7 +1143,7 @@
     "NAME": "Schleifstein",
     "FLAVOR": "„Dem Stahl kann das Fleisch nicht das Wasser reichen.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "#yVerbessere beim Aufheben #b",
+      "#yVerbessere sofort #b",
       " zufällige #yAngriffe."
     ]
   },
