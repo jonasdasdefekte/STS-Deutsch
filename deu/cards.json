@@ -64,7 +64,7 @@
     "DESCRIPTION": "Wenn du 0 Block hast, erhalte !B! Block."
   },
   "Axe Kick": {
-    "NAME": "Axt-Kick",
+    "NAME": "Axttritt",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Entlade deinen vordersten Orb."
   },
   "Backflip": {
@@ -151,7 +151,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte [R] [R]. NL Du verlierst 3 TP."
   },
   "Bludgeon": {
-    "NAME": "Hämmern",
+    "NAME": "Knüppeln",
     "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Blur": {
@@ -285,7 +285,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Energie wird für den nächsten Zug aufgespeichert."
   },
   "Consume": {
-    "NAME": "Verbrauchen",
+    "NAME": "Konsumieren",
     "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
   },
   "Coolheaded": {
@@ -719,7 +719,7 @@
     "DESCRIPTION": "Wende !M! Schwach an. NL Erhalte !B! Block."
   },
   "Limit Break": {
-    "NAME": "Limitbrecher",
+    "NAME": "Extase",
     "DESCRIPTION": "Verdoppele deine Stärke. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verdoppele deine Stärke."
   },
@@ -898,7 +898,7 @@
     "DESCRIPTION": "Nicht mehr verwendet."
   },
   "Pummel": {
-    "NAME": "Knüppeln",
+    "NAME": "Prügeln",
     "DESCRIPTION": "Füge !M! mal NL !D! Schaden zu. NL Erschöpft."
   },
   "Purity": {
@@ -967,7 +967,7 @@
     "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, NL erhalte !M! Fokus."
   },
   "Reprogram": {
-    "NAME": "Neuprogrammieren",
+    "NAME": "Umprogrammieren",
     "DESCRIPTION": "Schau die obersten !M! Karten des Nachziehstapels an. Wirf beliebig viele davon ab."
   },
   "Riddle With Holes": {
