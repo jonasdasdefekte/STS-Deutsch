@@ -46,7 +46,7 @@
     "NAME": "Tasche der Vorbereitung",
     "FLAVOR": "Übergroßer Abenteurerrucksack. Mit vielen Taschen und Riemen.",
     "DESCRIPTIONS": [
-      "Ziehe zu Beginn des Kampfes #b",
+      "Ziehe zu Beginn jedes Kampfes #b",
       " zusätzliche Karten."
     ]
   },
@@ -131,13 +131,13 @@
     "NAME": "Bronzeschuppen",
     "FLAVOR": "Die scharfen Schuppen des Wächters. Platzieren sich neu, um den Benutzer zu schützen. ",
     "DESCRIPTIONS": [
-      "Immer wenn du Schaden erleidest, gib #b",
-      " Schaden zurück."
+      "Immer wenn dich ein Gegner angreift, nimmt dieser #b",
+      " Schaden."
     ]
   },
   "Burning Blood": {
     "NAME": "Glühendes Blut",
-    "FLAVOR": "Das Blut deines eigenen Körpers brennt mit unendlicher Wut.",
+    "FLAVOR": "Das Blut deines eigenen Körpers brennt vor unendlicher Wut.",
     "DESCRIPTIONS": [
       "Heile am Ende des Kampfes #b",
       " TP."
@@ -597,8 +597,8 @@
     "NAME": "Ninja-Schriftrolle",
     "FLAVOR": "Enthält die Geheimnisse der Assassinen.",
     "DESCRIPTIONS": [
-      "Du beginnst jeden Kampf mit #b",
-      " #yMessern auf deiner Hand."
+      "Erhalte zu Beginn jedes Kampfes #b",
+      " #yMesser auf die Hand."
     ]
   },
   "Nloth's Gift": {
