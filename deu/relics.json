@@ -317,7 +317,7 @@
     "NAME": "Gefühlschip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Wenn ein Zug beginnt und du im letzten Zug Schaden genommen hast, löse den passiven Effekt all deiner Orbs aus."
+      "Löse zu Beginn deines Zuges den passiven Effekt ALL deiner Orbs aus, wenn du im letzten Zug Schaden genommen hast."
     ]
   },
   "Enchiridion": {
@@ -533,7 +533,7 @@
     "NAME": "Quecksilber-Sanduhr",
     "FLAVOR": "Eine verzauberte Sanduhr, die immerfort fließt.",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges füge ALLEN Gegnern #b",
+      "Füge zu Beginn deines Zuges ALLEN Gegnern #b",
       " Schaden zu."
     ]
   },
