@@ -443,7 +443,7 @@
   "Electrodynamics": {
     "NAME": "Elektrodynamik",
     "DESCRIPTION": "Blitze treffen jetzt ALLE Gegner.",
-    "UPGRADE_DESCRIPTION": "Blitze treffen jetzt ALLE Gegner. NL Bei nur 1 Gegner treffen Blitze zweimal."
+    "UPGRADE_DESCRIPTION": "Blitze treffen jetzt ALLE Gegner. NL Bei nur einem Gegner treffen Blitze ein weiteres Mal."
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
