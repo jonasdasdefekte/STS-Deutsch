@@ -154,7 +154,7 @@
     "NAME": "Messschieber",
     "FLAVOR": "„Mechanische Präzision führt zu wahrer Größe.“ – Der Architekt",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges verliere #b",
+      "Verliere zu Beginn deines Zuges #b",
       " #yBlock statt dein gesamtes #yBlock."
     ]
   },
@@ -225,7 +225,7 @@
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft, welche die Automatone im Spire antreibt. Scheint kaputt zu sein.",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yBlitz."
+      "#yErschaffe zu Beginn jedes Kampfes #b1 #yBlitz."
     ]
   },
   "Cursed Key": {
@@ -937,7 +937,7 @@
     "NAME": "Symbiotischer Virus",
     "FLAVOR": "Ein bisschen Schlechtes kann viel Gutes bringen...",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes #yerschaffe #b1 #ySchatten."
+      "#yErschaffe zu Beginn jedes Kampfes #b1 #ySchatten."
     ]
   },
   "Test 1": {
