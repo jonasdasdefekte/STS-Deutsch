@@ -881,8 +881,8 @@
     "NAME": "Snecko-Schädel",
     "FLAVOR": "Ein Snecko-Schädel in tadellosem Zustand. Überraschend sauber und glatt, Dreck fällt einfach davon ab.",
     "DESCRIPTIONS": [
-      "Immer wenn du #yGift anwendest, wendest du zusätzlich #b",
-      " #yGift an."
+      "Immer wenn du #yGift anwendest, wende #b",
+      " #yGift mehr an."
     ]
   },
   "Snecko Eye": {
