@@ -172,7 +172,7 @@
     "NAME": "Kessel",
     "FLAVOR": "Der Händler ist ein ziemlich geschickter Trankbrauer. Kaufe 4, erhalte 1 kostenlos.",
     "DESCRIPTIONS": [
-      "Bei Erhalt werden #b5 zufällige Tränke gebraut.",
+      "Dir werden sofort #b5 zufällige Tränke gebraut.",
       "Blupp, blipp, bluuupp...!"
     ]
   },
@@ -725,7 +725,7 @@
     "NAME": "Schreibfeder",
     "FLAVOR": "Mit der Feder siehst du alle, die jemals von den Vorbesitzern des Füllers erschlagen wurden. Äußerst brutale Geschichte.",
     "DESCRIPTIONS": [
-      "Bei jedem #b10. #yAngriff verursachst du doppelten Schaden."
+      "Verursache bei jedem #b10. #yAngriff doppelten Schaden."
     ]
   },
   "Philosopher's Stone": {
