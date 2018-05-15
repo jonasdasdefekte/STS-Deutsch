@@ -914,7 +914,12 @@
       "#y%s #yGold",
       "Gewählt:",
       "Übersprungen:",
-      "Fehlende Infos"
+      "Fehlende Infos",
+      "+2 max. TP",
+      "#bK ",
+      "#bR ",
+      "#bT ",
+      "#bS "
     ]
   },
   "RunHistoryScreen": {

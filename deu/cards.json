@@ -647,8 +647,8 @@
   },
   "Hologram": {
     "NAME": "Hologramm",
-    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine zufällige Karte des Abwurfstapels wieder auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels wieder auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels zurück auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels zurück auf die Hand."
   },
   "Hyperbeam": {
     "NAME": "Hyperstrahl",
@@ -719,7 +719,7 @@
     "DESCRIPTION": "Wende !M! Schwach an. NL Erhalte !B! Block."
   },
   "Limit Break": {
-    "NAME": "Extase",
+    "NAME": "Ekstase",
     "DESCRIPTION": "Verdoppele deine Stärke. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verdoppele deine Stärke."
   },
@@ -1216,8 +1216,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Zurücksetzen",
-    "DESCRIPTION": "Setze deine TP auf ihren Wert vom letzten Zug. NL Erschöpft."
+    "NAME": "Ausgeglichenheit",
+    "DESCRIPTION": "Erhalte !B! Block. NL Behalte deine Hand in diesem Zug."
   },
   "Unload": {
     "NAME": "Entlasten",

@@ -306,6 +306,14 @@
       " #yGift an."
     ]
   },
+  "Equilibrium": {
+    "NAME": "Ausgeglichen",
+    "DESCRIPTIONS": [
+      "Behalte deine Hand in diesem Zug.",
+      "Behalte deine Hand für #b",
+      " Züge."
+    ]
+  },
   "Evolve": {
     "NAME": "Entwickeln",
     "DESCRIPTIONS": [
@@ -673,11 +681,11 @@
     ]
   },
   "Regeneration": {
-    "NAME": "Regeneration",
+    "NAME": "Erholen",
     "DESCRIPTIONS": [
       "Heile #b",
-      " #yTP am Ende deines Zuges für #b",
-      " Züge."
+      " #yTP am Ende deines Zuges, dann reduziere #yErholen um #b1.",
+      ""
     ]
   },
   "Repair": {

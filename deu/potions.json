@@ -154,9 +154,9 @@
   "Regen Potion": {
     "NAME": "Regenerationstrank",
     "DESCRIPTIONS": [
-      "Heile #b",
-      " #yTP am Ende jedes Zuges für #b",
-      " Züge."
+      "Erhalte #b",
+      " #yErholen.",
+      ""
     ]
   },
   "SkillPotion": {
