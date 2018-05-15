@@ -39,7 +39,7 @@
     "FLAVOR": "Ein einst beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b",
-      " #yVerwundbar an ALLEN Gegnern an."
+      " #yVerwundbar auf ALLE Gegnern an."
     ]
   },
   "Bag of Preparation": {
@@ -242,7 +242,7 @@
     "NAME": "Dunkelstein-Amulett",
     "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
     "DESCRIPTIONS": [
-      "Wenn du einen #yFluch erhältst, erhöhe deine max. TP um #b"
+      "Immer wenn du einen #yFluch erhältst, erhöhe deine max. TP um #b"
     ]
   },
   "DataDisk": {
@@ -289,7 +289,7 @@
     "NAME": "Traumfänger",
     "FLAVOR": "Die nördlichen Stämme setzten in der Hoffnung auf Selbstbesserung nachts gern Traumfänger ein.",
     "DESCRIPTIONS": [
-      "Immer wenn du dich ausruhst, kannst du deinem Deck eine Karte hinzufügen."
+      "Immer wenn du dich #yausruhst, kannst du deinem Deck eine Karte hinzufügen."
     ]
   },
   "Du-Vu Doll": {
