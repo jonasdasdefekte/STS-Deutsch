@@ -97,6 +97,14 @@
       " TP und #yerschöpfst die Karte."
     ]
   },
+  "Boot": {
+    "NAME": "Der Stiefel",
+    "FLAVOR": "Er vergrößert sich, wenn er aufgezogen wird.",
+    "DESCRIPTIONS": [
+      "Anstatt #b",
+      " oder weniger ungeblockten #yAngriffsschaden zuzufügen, wird dieser auf #b5 erhöht."
+    ]
+  },
   "Bottled Flame": {
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
@@ -1152,14 +1160,6 @@
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
-    ]
-  },
-  "Boot": {
-    "NAME": "Der Stiefel",
-    "FLAVOR": "Er vergrößert sich, wenn er aufgezogen wird.",
-    "DESCRIPTIONS": [
-      "Anstatt #b",
-      " oder weniger ungeblockten #yAngriffsschaden zuzufügen, wird dieser auf #b5 erhöht."
     ]
   }
 }
