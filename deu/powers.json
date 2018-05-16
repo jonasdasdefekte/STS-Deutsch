@@ -413,7 +413,7 @@
     ]
   },
   "Heatsink": {
-    "NAME": "Kühlkörper",
+    "NAME": "Wärmetauscher",
     "DESCRIPTIONS": [
       "Immer wenn du eine Macht spielst, ziehe #b",
       " Karte.",
