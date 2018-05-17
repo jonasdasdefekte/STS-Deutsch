@@ -459,7 +459,7 @@
     "NAME": "Lees Waffel",
     "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
     "DESCRIPTIONS": [
-      "Erhöhe deine max. TP um #b",
+      "Erhöhe deine max. TP sofort um #b",
       " und heile all deine TP."
     ]
   },
@@ -496,7 +496,7 @@
     "NAME": "Mango",
     "FLAVOR": "Die begehrteste vergessene Frucht. Perfekt erhalten und ohne Spuren von Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine max. TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich sofort um #b"
     ]
   },
   "Mark of Pain": {
@@ -726,7 +726,7 @@
     "NAME": "Birne",
     "FLAVOR": "Eine weit verbreitete Frucht vor der Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Deine max. TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich sofort um #b"
     ]
   },
   "Pen Nib": {
@@ -928,7 +928,7 @@
     "NAME": "Erdbeere",
     "FLAVOR": "„Köstlich! Seit der Fäule habe ich so etwas nicht mehr gesehen.“ – Ranwind",
     "DESCRIPTIONS": [
-      "Deine max. TP erhöhen sich um #b"
+      "Deine max. TP erhöhen sich sofort um #b"
     ]
   },
   "Sundial": {
