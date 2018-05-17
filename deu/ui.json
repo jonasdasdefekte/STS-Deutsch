@@ -919,7 +919,12 @@
       "#bK ",
       "#bR ",
       "#bT ",
-      "#bS "
+      "#bS ",
+      "#bAusgeruht",
+      "#bVerbessert %s",
+      "#bEntfernt %s",
+      "#bGegraben",
+      "#bTrainiert %s/%s"
     ]
   },
   "RunHistoryScreen": {
