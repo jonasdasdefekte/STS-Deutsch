@@ -924,7 +924,8 @@
       "#bVerbessert %s",
       "#bEntfernt %s",
       "#bGegraben",
-      "#bTrainiert %s/%s"
+      "#bTrainiert %s/%s",
+      "#yGekauft:"
     ]
   },
   "RunHistoryScreen": {
