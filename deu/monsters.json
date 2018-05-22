@@ -191,7 +191,7 @@
   },
   "Donu": {
     "MOVES": [
-      "Machtkreis"
+      "Kreis der Macht"
     ],
     "NAME": "Donu",
     "DIALOG": [
@@ -646,6 +646,15 @@
     "NAME": "Fackelkopf",
     "DIALOG": [
       ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Verflüchtiger",
+    "DIALOG": [
+    ""
     ]
   }
 }

@@ -339,6 +339,14 @@
       " Extrakarten."
     ]
   },
+  "Fading": {
+    "NAME": "Verblassen",
+    "DESCRIPTIONS": [
+      "Stirbt in #b",
+      " Zügen.",
+      "Stirbt diesen Zug."
+    ]
+  },
   "Feel No Pain": {
     "NAME": "Schmerzlos",
     "DESCRIPTIONS": [
@@ -764,6 +772,13 @@
     "DESCRIPTIONS": [
       "Immer wenn du einen #yAngriff ausspielst, erleidest du #b",
       " Schaden."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Veränderlich",
+    "DESCRIPTIONS": [
+      "Immer wenn ",
+      " Schaden erleidet, verliert er für diesen Zug genauso viel #yStärke."
     ]
   },
   "Shriek From Beyond": {
