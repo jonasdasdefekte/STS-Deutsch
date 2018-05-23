@@ -107,7 +107,7 @@
       "NAMES": [
         "angeboren"
       ],
-      "DESCRIPTION": "Beginne jeden Kampf mit dieser Karte in deiner Hand."
+      "DESCRIPTION": "Beginne jeden Kampf mit dieser Karte auf deiner Hand."
     },
     "INTANGIBLE": {
       "NAMES": [
@@ -211,7 +211,7 @@
       "NAMES": [
         "unbekannt"
       ],
-      "DESCRIPTION": "Dieser Karte muss noch begegnet werden."
+      "DESCRIPTION": "Du bist dieser Karte noch nicht begegnet."
     },
     "UNPLAYABLE": {
       "NAMES": [
