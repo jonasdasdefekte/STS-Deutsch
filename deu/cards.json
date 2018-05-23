@@ -276,6 +276,10 @@
     "NAME": "Verbrennen",
     "DESCRIPTION": "Verliere am Ende deines Zuges 1 TP und füge ALLEN Gegnern !M! Schaden zu."
   },
+  "Compile Driver": {
+    "NAME": "Treiber anlegen",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karte pro unterschiedlichem Orb."
+  },
   "Concentrate": {
     "NAME": "Konzentrieren",
     "DESCRIPTION": "Wirf !M! Karten ab. NL Erhalte [G] [G]."
@@ -533,7 +537,7 @@
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot für jeden entladenen Orb."
+    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot für jeden entladenen Orb. NL Erschöpft."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
