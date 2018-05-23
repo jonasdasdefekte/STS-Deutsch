@@ -298,8 +298,8 @@
     "UPGRADE_DESCRIPTION": "Erschaffe 1 Frost. NL Ziehe !M! Karten."
   },
   "Core Surge": {
-    "NAME": "Kernschwall",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte !M! Artifakt. NL Erschöpft."
+    "NAME": "Erhitzter Kern",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte !M! Artefakt. NL Erschöpft."
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
