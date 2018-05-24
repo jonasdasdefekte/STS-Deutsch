@@ -9,7 +9,7 @@
   "AttackPotion": {
     "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
-	  "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet #b0 in diesem Zug."
+      "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet #b0 in diesem Zug."
     ]
   },
   "Block Potion": {
@@ -162,7 +162,7 @@
   "SkillPotion": {
     "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
-	  "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet #b0 in diesem Zug."
+      "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet #b0 in diesem Zug."
     ]
   },
   "SmokeBomb": {

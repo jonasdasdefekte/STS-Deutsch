@@ -27,14 +27,13 @@
   },
   "LOC_CAT": {
     "HEADER": "Katalanische Lokalisierung",
-    "NAMES": [
-    ]
-  }, 
+    "NAMES": []
+  },
   "LOC_DEU": {
     "HEADER": "Deutsche Lokalisierung",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand ",
-	  "Dustin \"Skrelpoid\" Kristen",
+      "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly"

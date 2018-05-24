@@ -46,7 +46,8 @@
     },
     "DARK": {
       "NAMES": [
-        "schatten"
+        "schatten",
+        "dark+"
       ],
       "DESCRIPTION": "Orb: Erhöht seinen Schaden pro Zug. Beim #yEntladen fügt er dem Gegner mit den wenigsten TP Schaden zu."
     },
@@ -136,7 +137,8 @@
     },
     "PLASMA": {
       "NAMES": [
-        "plasma"
+        "plasma",
+        "plasma+"
       ],
       "DESCRIPTION": "Orb: Erhalte Energie."
     },
