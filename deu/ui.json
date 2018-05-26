@@ -572,8 +572,8 @@
       "Auf Standard zurücksetzen",
       "Bestätigen",
       "Abbrechen / Schließen",
-      "Karte",
-      "Gesamtdeck",
+      "Karte ansehen",
+      "Deck ansehen",
       "Nachziehstapel",
       "Abwurfstapel",
       "Erschöpfte Karten",
@@ -590,7 +590,7 @@
       "Wähle Karte Nr. 8",
       "Wähle Karte Nr. 9",
       "Wähle Karte Nr. 10",
-      "Drop Card"
+      "Karte loslassen"
     ]
   },
   "LanguageDropdown": {
@@ -658,7 +658,7 @@
       "???",
       "Ein unbekannter Raum. NL NL Du könntest auf Monster, Schätze, Läden oder etwas völlig anderes treffen.",
       "Händler",
-      "Laden",
+      "Läden",
       "Ein mysteriöser Händler verkauft seine Waren in diesen Räumen. NL NL Gib hier dein wohlverdientes #yGold aus!",
       "Schatz",
       "Schatzräume",

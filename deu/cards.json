@@ -1095,7 +1095,7 @@
   },
   "Steam": {
     "NAME": "Dampfwall",
-    "DESCRIPTION": "Erhalte !B! Block. Der Block dieser Karte wird für diesen Kampf um 1 verringert."
+    "DESCRIPTION": "Erhalte !B! Block. NL Der Block dieser Karte wird für diesen Kampf um 1 verringert."
   },
   "Steam Power": {
     "NAME": "Übertakten",
