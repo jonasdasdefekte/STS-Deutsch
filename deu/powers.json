@@ -280,8 +280,8 @@
   "Electro": {
     "NAME": "Elektro",
     "DESCRIPTIONS": [
-      "#yBlitze treffen jetzt zweimal.",
-      "#yBlitze treffen jetzt #b",
+      "#yBlitze treffen zweimal.",
+      "#yBlitze treffen #b",
       " Mal."
     ]
   },
