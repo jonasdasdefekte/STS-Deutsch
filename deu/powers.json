@@ -280,9 +280,9 @@
   "Electro": {
     "NAME": "Elektro",
     "DESCRIPTIONS": [
-      "#yBlitze treffen ALLE Gegner.",
-      " NL Bei nur #b1 Gegner treffen #yBlitze #b",
-      " mal."
+      "#yBlitze treffen jetzt zweimal.",
+      "#yBlitze treffen jetzt #b",
+      " Mal."
     ]
   },
   "Energized": {
