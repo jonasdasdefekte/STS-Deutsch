@@ -450,8 +450,8 @@
   },
   "Electrodynamics": {
     "NAME": "Elektrodynamik",
-    "DESCRIPTION": "Blitze treffen jetzt ALLE Gegner.",
-    "UPGRADE_DESCRIPTION": "Blitze treffen jetzt ALLE Gegner. NL Bei nur einem Gegner treffen Blitze ein weiteres Mal."
+    "DESCRIPTION": "Entladene Blitze treffen zweimal.",
+    "UPGRADE_DESCRIPTION": "Entladene Blitze treffen !M! mal mehr."
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
@@ -1161,8 +1161,8 @@
   },
   "Tempest": {
     "NAME": "Gewitter",
-    "DESCRIPTION": "Erschaffe X Blitz. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erschaffe X+1 Blitz. NL Erschöpft."
+    "DESCRIPTION": "Erschaffe X Blitze. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erschaffe X+1 Blitze. NL Erschöpft."
   },
   "Terror": {
     "NAME": "Terror",
