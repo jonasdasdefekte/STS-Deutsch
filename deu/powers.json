@@ -280,9 +280,9 @@
   "Electro": {
     "NAME": "Elektro",
     "DESCRIPTIONS": [
-      "#yErweckte #yBlitze treffen zweimal.",
-      "#yErweckte #yBlitze treffen #b",
-      " Mal mehr."
+      "#yBlitze treffen ALLE Gegner.",
+      "",
+      ""
     ]
   },
   "Energized": {
