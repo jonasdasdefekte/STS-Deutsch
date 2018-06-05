@@ -286,7 +286,7 @@
   },
   "Conserve Battery": {
     "NAME": "Speicherbatterie",
-    "DESCRIPTION": "Erhalte !B! Block. NL Energie wird für den nächsten Zug aufgespeichert."
+    "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug erhalte [B]."
   },
   "Consume": {
     "NAME": "Konsumieren",
