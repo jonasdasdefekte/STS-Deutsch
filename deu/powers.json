@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Energiegeladen",
+    "DESCRIPTIONS": [
+      "Du erhältst #b",
+      " [B] zusätzlich im nächsten Zug.",
+      " zusätzliche [B] im nächsten Zug.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+    },
   "Entangled": {
     "NAME": "Verstrickt",
     "DESCRIPTIONS": [
