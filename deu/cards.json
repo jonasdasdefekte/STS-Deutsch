@@ -986,6 +986,10 @@
     "NAME": "Zerfetzen",
     "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner NL !D! Schaden zu."
   },
+  "RitualDagger": {
+    "NAME": "Ritualmesser",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. Erschöpft."
+  }
   "Rupture": {
     "NAME": "Riss",
     "DESCRIPTION": "Immer wenn du TP durch eine Karte verlierst, NL erhalte 1 Stärke."
