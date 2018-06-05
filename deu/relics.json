@@ -150,6 +150,16 @@
       "Heile am Ende des Kampfes #b",
       " TP."
     ]
+    },
+    "Busted Crown": {
+    "NAME": "Zerbrochene Krone",
+    "FLAVOR": "Die Krone des Champs... oder nur eine minderwertige Nachahmung?",
+    "DESCRIPTIONS": [
+      "Auf Kartenbelohnungs- Bildschirmen hast du #b2 weniger #yKarten zur Auswahl.",
+      "Erhalte in jedem Zug [R] . ",
+      "Erhalte in jedem Zug [G] . ",
+      "Erhalte in jedem Zug [B] . ",
+    ]
   },
   "Cables": {
     "NAME": "Gold-beschichtete Kabel",
@@ -504,6 +514,13 @@
     "FLAVOR": "Dieses Brandzeichen erhielten Krieger der nördlichen Stämme, wenn sie im Kampf die Qual bezwangen.",
     "DESCRIPTIONS": [
       "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden im Nachziehstapel."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Zeichen der Blüte",
+    "FLAVOR": "Im Jenseits sind Gedanken und Realität vereint.",
+    "DESCRIPTIONS": [
+      "Du kannst nicht mehr geheilt werden."
     ]
   },
   "Matryoshka": {
