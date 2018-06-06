@@ -153,9 +153,9 @@
     },
     "Busted Crown": {
     "NAME": "Zerbrochene Krone",
-    "FLAVOR": "Die Krone des Champs... oder nur eine minderwertige Nachahmung?",
+    "FLAVOR": "Die Krone des Champs... oder nur eine billige Nachahmung?",
     "DESCRIPTIONS": [
-      "Auf Kartenbelohnungs- Bildschirmen hast du #b2 weniger #yKarten zur Auswahl.",
+      "Bei Kartenbelohnungen hast du #b2 Karten weniger zur Auswahl.",
       "Erhalte in jedem Zug [R] . ",
       "Erhalte in jedem Zug [G] . ",
       "Erhalte in jedem Zug [B] . ",
@@ -781,7 +781,7 @@
     "NAME": "Fragekarte",
     "FLAVOR": "„Jene mit mehr Auswahl mindern die Kehrseite des Chaos.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "Auf künftigen Kartenbelohnungs- Bildschirmen hast du #y1 #yzusätzliche #yKarte zur Auswahl."
+      "Bei künftigen Kartenbelohnungen hast du #y1 Karte mehr zur Auswahl."
     ]
   },
   "Red Circlet": {
