@@ -29,7 +29,7 @@
       " #yGold: #gErhalte #gein #gRelikt.",
       "[Gesperrt] Erfordert: ",
       " Gold.",
-      "[JAX geben] #gErhalte #gein #gRelikt. #rVerliere #rJ.A.X.",
+      "[JAX geben] #gErhalte #gein #gRelikt. #rVerliere J.A.X.",
       "[Gesperrt] Erfordert: J.A.X.",
       "[Verlassen] Ignoriere den Süchtigen.",
       "[Verlassen]"
@@ -240,7 +240,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Akzeptieren] #gErhalte #g5 #gApparieren. #rVerliere #r",
+      "[Akzeptieren] #gErhalte #g5 Apparieren. #rVerliere #r",
       "% #rMax #rTP.",
       "[Ablehnen]",
       "",
@@ -747,11 +747,11 @@
       "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Gebrochener,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~"
     ],
     "OPTIONS": [
-      "[Annehmen] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten. #rVerliere #r",
+      "[Annehmen] #gEntferne #galle Schläge. #gErhalte #g5 Bisskarten. #rVerliere #r",
       "% #rder #rmax. #rTP.",
       "[Ablehnen]",
       "[Verliere ",
-      "] #gEntferne #galle #gSchläge. #gErhalte #g5 #gBisskarten.",
+      "] #gEntferne #galle Schläge. #gErhalte #g5 Bisskarten.",
       "[Verlassen]"
     ]
   },
@@ -790,7 +790,7 @@
     ],
     "OPTIONS": [
       "...",
-      "[Dem Wahnsinn hingeben] #gErhalte #g2 #gWahnsinn. #rVerliere #r",
+      "[Dem Wahnsinn hingeben] #gErhalte #g2 Wahnsinn. #rVerliere #r",
       " #rTP.",
       "[Konzentrieren] #rWerde #rverflucht #r– #rLeid. #gHeile #g",
       "[Verlassen]",
