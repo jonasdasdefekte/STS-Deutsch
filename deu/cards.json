@@ -285,7 +285,7 @@
     "DESCRIPTION": "Wirf !M! Karten ab. NL Erhalte [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Speicherbatterie",
+    "NAME": "Batterie laden",
     "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug erhalte [B]."
   },
   "Consume": {
