@@ -1,0 +1,22 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Mörderische Gegner",
+    "DESCRIPTION": [
+      "Gegner greifen #b",
+	  "% stärker an."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Härtere Gegner",
+     "DESCRIPTION": [
+      "Gegner haben #b",
+	  "% mehr TP."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Verdrehte Zeit",
+     "DESCRIPTION": [
+      "Gegner haben die Macht Verdrehte Zeit."
+    ]
+  }
+}
