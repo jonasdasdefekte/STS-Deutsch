@@ -18,5 +18,26 @@
      "DESCRIPTION": [
       "Gegner haben die Macht Verdrehte Zeit."
     ]
+  },
+  "TwistingMind": {
+    "NAME": "Wechselnde Gedanken",
+     "DESCRIPTION": [
+      "Beim Aufheben: #yTransformiere #b",
+    " Karten."
+    ]
+  },
+  "Accursed": {
+    "NAME": "Verwünscht",
+     "DESCRIPTION": [
+      "Beim Aufheben: Erhalte #b",
+    " zufällige #yFlüche."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Wirrkopf",
+     "DESCRIPTION": [
+      "Beim Aufheben: Erhalte #b",
+    " zufällige Karten."
+    ]
   }
 }
