@@ -964,7 +964,7 @@
   },
   "Regret": {
     "NAME": "Reue",
-    "DESCRIPTION": "Unspielbar. NL Verliere am Ende deines Zuges für jede Karte auf deiner Hand 1 TP."
+    "DESCRIPTION": "Unspielbar. NL Verliere am Ende deines Zuges für jede Handkarte 1 TP."
   },
   "Reinforced Body": {
     "NAME": "Verstärkte Hülle",
@@ -1208,8 +1208,8 @@
   },
   "True Grit": {
     "NAME": "Standhaft",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine zufällige Karte auf deiner Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Karte auf deiner Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine zufällige Handkarte.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Handkarte."
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1237,7 +1237,7 @@
   },
   "Uppercut": {
     "NAME": "Kinnhaken",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach an. NL Wende !M! Verwundbar an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach und !M! Verwundbar an."
   },
   "Venomology": {
     "NAME": "Alchemisieren",

@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Fortfahren"
+      "Fortfahren",
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -750,10 +751,10 @@
       "Der Spire wird mit jedem Sieg stärker.\nTeste die Grenzen deiner stärksten Strategien.",
       "Kartenbibliothek",
       "",
-      "Sieh dir all die Karten an, die dir bereits im Spire begegnet sind.",
+      "Sieh dir alle Karten an, denen du bisher im Spire begegnet bist.",
       "Reliktsammlung",
       "",
-      "Untersuche die vielfältigen Schmuckstücke und Artefakte, die du in deinen Durchläufen erhalten hast.",
+      "Untersuche die Schmuckstücke und Artefakte, die du in deinen Durchläufen erhalten hast.",
       "Bestiarium",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
@@ -765,7 +766,7 @@
       "Erfahre deinen Score und vergleiche ihn mit Freunden und anderen Spielern.",
       "Run-Historie",
       "",
-      "Wirf einen Blick zurück auf deine vergangenen Versuche, den Spire zu erschlagen.",
+      "Wirf einen Blick auf deine vergangenen Versuche, den Spire zu erschlagen.",
       "Spiel- Einstellungen",
       "",
       "Ändere deine Auflösung und wähle weitere Optionen für das Spiel.",
@@ -774,12 +775,12 @@
       "Ändere deine Steuerung und Tastenbelegungen.",
       "Credits",
       "",
-      "Sieh dir all die Leute an, die zu Slay the Spire beigetragen haben!",
+      "Sieh dir all die Leute an, die an Slay the Spire mitgewirkt haben!",
       "Unbekannt",
-      "",
+      "Gewinne einen Täglichen Aufstieg, um diesen Spielmodus freizuschalten.",
       "Dieses Feature ist noch nicht verfügbar.",
-    "Endlos",
-    "Erklimme einen nicht endenden Spire."
+      "Endlos",
+      "Nach einem Sieg kehrst du mit demselben Deck zum Exordium zurück. \n\nVorsicht, am Ende verzehrt die Fäulnis jeden..."
     ]
   },
   "MerchantImageTextNotInGame": {

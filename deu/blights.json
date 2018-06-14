@@ -1,13 +1,13 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Mörderische Gegner",
+    "NAME": "Speer der Fäulnis",
     "DESCRIPTION": [
       "Gegner greifen #b",
 	  "% stärker an."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Härtere Gegner",
+    "NAME": "Schild der Fäulnis",
      "DESCRIPTION": [
       "Gegner haben #b",
 	  "% mehr TP."
@@ -20,7 +20,7 @@
     ]
   },
   "TwistingMind": {
-    "NAME": "Wechselnde Gedanken",
+    "NAME": "Wechselnder Verstand",
      "DESCRIPTION": [
       "Beim Aufheben: #yTransformiere #b",
     " Karten."
