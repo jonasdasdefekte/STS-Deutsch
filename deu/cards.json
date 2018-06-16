@@ -685,7 +685,7 @@
     "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. NL Dieser kostet 0 in diesem Zug. NL Erschöpft."
   },
   "Infinite Blades": {
-    "NAME": "Unzählige Klingen",
+    "NAME": "Zahllose Klingen",
     "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein Messer auf die Hand.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges ein Messer auf die Hand."
   },
@@ -991,7 +991,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. Erschöpft."
   },
   "Rupture": {
-    "NAME": "Riss",
+    "NAME": "Blutfluss",
     "DESCRIPTION": "Immer wenn du TP durch eine Karte verlierst, NL erhalte 1 Stärke."
   },
   "Sadistic Nature": {
