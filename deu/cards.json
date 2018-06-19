@@ -897,6 +897,10 @@
     "DESCRIPTION": "Ziehe !M! Karte. NL Wirf !M! Karte ab.",
     "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Wirf !M! Karten ab."
   },
+  "Pride": {
+    "NAME": "Stolz",
+    "DESCRIPTION": "Angeboren. Erschöpft. NL Lege am Ende deines Zuges ein Exemplar dieser Karte auf den Nachziehstapel."
+  },
   "Prime": {
     "NAME": "Scharfmachen",
     "DESCRIPTION": "Immer wenn du einen Orb erschaffst, NL ziehe !M! Karte."

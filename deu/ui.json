@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Fortfahren",
-      "Blights:"
+      "Fäulnis:"
     ]
   },
   "AbstractMonster": {
@@ -154,7 +154,8 @@
       "Wähle ein Relikt",
       "Überspringen",
       "JETZT ABSTIMMEN: ",
-      "s übrig."
+      "s übrig.",
+      "Wähle eine Folge der Fäulnis:"
     ]
   },
   "CacheAction": {

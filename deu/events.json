@@ -14,7 +14,7 @@
       "[Durchstöbern] #gErhalte #gein #gRelikt. #r75%: #rWerde #rverflucht #r– #rNormalität.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Addict": {
@@ -187,7 +187,8 @@
       "Im freien Fall wägst du deine Optionen ab: NL Dank deiner besten Technik sicher landen. NL Eine Macht kanalisieren, um den Sturz zu überleben. NL In die Wand schlagen, um daran hängenzubleiben.",
       "Du landest unglaublich graziös, bevor du deine Reise fortsetzt.",
       "Unter Einsatz deiner rohen Macht schaffst du es, unverletzt zu landen.",
-      "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen."
+      "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen.",
+      "Du scheinst so langsam wie eine Feder zu fallen, sodass du am Boden ohne einen Kratzer ankommst."
     ],
     "OPTIONS": [
       "[Fortsetzen]",
@@ -197,7 +198,8 @@
       "[Gesperrt] Erfordert: Machtkarte",
       "[Schlagen] #rVerliere ",
       "[Gesperrt] Erfordert: Angriffskarte",
-      "[Verlassen]"
+      "[Verlassen]",
+      "[Landen] "
     ]
   },
   "Forgotten Altar": {
@@ -367,7 +369,7 @@
       "Wähle eine Karte zum Transformieren.",
       "Wähle eine Karte zum Verbessern.",
       "[Verlassen]",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Masked Bandits": {
@@ -550,7 +552,7 @@
       "[Hindurchgehen] #gVerbessere #g2 #gzufällige #gKarten. #rVerliere #r",
       " #rTP.",
       "[Verlassen]",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Spire Heart": {
@@ -735,7 +737,7 @@
       "[Beten] #gVerbessere #geine #gKarte.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern.",
-      "[Gesperrt] Benötigt: Verbesserbare Karten"
+      "[Gesperrt] Erfordert: Verbesserbare Karten"
     ]
   },
   "Vampires": {

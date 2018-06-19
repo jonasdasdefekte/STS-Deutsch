@@ -39,5 +39,56 @@
       "Beim Aufheben: Erhalte #b",
     " zufällige Karten."
     ]
+  },
+  "MimicInfestation": {
+    "NAME": "Gesichtsbefall",
+     "DESCRIPTION": [
+      "Schatzräume werden in künftigen Leveln durch Eliten ersetzt."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Maulkorb",
+     "DESCRIPTION": [
+      "Du kannst nicht mehr deine max. TP erhöhen und heilst nur noch um die Hälfte."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteske Trophäe",
+     "DESCRIPTION": [
+      "Beim Aufheben: Erhalte #b",
+    " #rStolz.",
+    "Du wirst furchtbar stolz..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Fäulnis-Durianfrucht",
+     "DESCRIPTION": [
+      "Verliere #b",
+    "% deiner max. TP."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Schattenessenz",
+     "DESCRIPTION": [
+      "Erhalte in jedem Zug 1 [R] weniger.",
+    "Erhalte in jedem Zug 1 [G] weniger.",
+    "Erhalte in jedem Zug 1 [B] weniger."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Spuk",
+     "DESCRIPTION": [
+      "Gegner beginnen den Kampf mit #b",
+    " #yImmateriell."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Vorzeitliche Erweiterung",
+     "DESCRIPTION": [
+      "Gegner beginnen den Kampf mit #b",
+    " #yArtefakt, #b",
+    " #yPanzerrüstung, and #b",
+    " #yRegenerieren."
+    ]
   }
 }
