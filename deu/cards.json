@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Zeitlupe",
-    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Senke die Kosten deiner Handkarten für diesen Zug auf 0."
+    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Deine Handkarten kosten in diesem Zug 0."
   },
   "Burn": {
     "NAME": "Brennen",
@@ -541,7 +541,7 @@
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
-    "DESCRIPTION": "Erhalte !B! Block. NL Immer wenn du in diesem Zug angegriffen wirst, füge dem Angreifer !M! Schaden zu. "
+    "DESCRIPTION": "Erhalte !B! Block. NL Immer wenn dich in diesem Zug ein Gegner angreift, füge ihm !M! Schaden zu. "
   },
   "Flash of Steel": {
     "NAME": "Stahlblitz",
@@ -617,7 +617,7 @@
   "Grand Finale": {
     "NAME": "Großes Finale",
     "DESCRIPTION": "Nur spielbar, wenn keine Karten im Nachziehstapel sind. NL Füge ALLEN Gegnern !D! Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Mein Nachziehstapel NL muss #rLeer sein."
+    "UPGRADE_DESCRIPTION": "Mein Nachziehstapel NL muss #rleer sein."
   },
   "Havoc": {
     "NAME": "Verwüstung",
@@ -932,7 +932,7 @@
   },
   "Reaper": {
     "NAME": "Schnitter",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Du wirst um den wirklich zugefügten Schaden geheilt. NL Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile so viele TP, wie die Gegner TP verloren haben. NL Erschöpft."
   },
   "Reboot": {
     "NAME": "Reboot",
