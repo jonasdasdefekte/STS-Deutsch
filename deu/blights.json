@@ -16,28 +16,32 @@
   "TimeMaze": {
     "NAME": "Verirrte Zeit",
      "DESCRIPTION": [
-      "Gegner haben die Macht Verirrte Zeit."
+      "Du kannst nicht mehr als #b",
+      " Karten pro Zug spielen.",
+      "Ich kann nicht mehr als NL #r"
     ]
   },
   "TwistingMind": {
     "NAME": "Wechselnder Verstand",
      "DESCRIPTION": [
-      "Beim Aufheben: #yTransformiere #b",
-    " Karten."
+      "Erhalte am Ende deines Zuges #b",
+      "zufällige Statuskarten auf den Nachziehstapel.",
+      ""
     ]
   },
   "Accursed": {
     "NAME": "Verwünscht",
      "DESCRIPTION": [
-      "Beim Aufheben: Erhalte #b",
-    " zufällige #yFlüche."
+      "Immer wenn du einen Boss besiegst, erhalte #b",
+    " zufällige #yFlüche.",
+    ""
     ]
   },
   "Scatterbrain": {
     "NAME": "Wirrkopf",
      "DESCRIPTION": [
-      "Beim Aufheben: Erhalte #b",
-    " zufällige Karten."
+      "Ziehe pro Zug #b",
+    " Karte weniger."
     ]
   },
   "MimicInfestation": {
@@ -87,7 +91,7 @@
      "DESCRIPTION": [
       "Gegner beginnen den Kampf mit #b",
     " #yArtefakt, #b",
-    " #yPanzerrüstung, and #b",
+    " #yPanzerrüstung und #b",
     " #yRegenerieren."
     ]
   }
