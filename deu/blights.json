@@ -43,13 +43,13 @@
   "MimicInfestation": {
     "NAME": "Gesichtsbefall",
      "DESCRIPTION": [
-      "Schatzräume werden in künftigen Leveln durch Eliten ersetzt."
+      "Schatzräume werden in künftigen Leveln durch Eliten ersetzt. Eliten lassen keine Relikte mehr fallen."
     ]
   },
   "FullBelly": {
     "NAME": "Maulkorb",
      "DESCRIPTION": [
-      "Du kannst nicht mehr deine max. TP erhöhen und heilst nur noch um die Hälfte."
+      "Du kannst deine max. TP nicht mehr erhöhen. Jedes Heilen wird um die Hälfte reduziert."
     ]
   },
   "GrotesqueTrophy": {
