@@ -129,6 +129,11 @@
       " Freigeschaltet!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Aufstiegsmodus freigeschaltet!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Wähle einen Angriff, den du auf die Hand nimmst."
@@ -613,7 +618,8 @@
       "Links (Alt)*",
       "Rechts (Alt)*",
       "Hoch",
-      "Runter"
+      "Runter",
+      "Controller aktiviert"
     ]
   },
   "LanguageDropdown": {

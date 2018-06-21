@@ -372,6 +372,13 @@
       " TP, wenn du dich an einem Lagerfeuer befindest."
     ]
   },
+  "FaceOfCleric": {
+    "NAME": "Priesters Gesicht",
+    "FLAVOR": "Alle lieben Priester.",
+    "DESCRIPTIONS": [
+      "Erhöhe deine max. TP nach jedem Kampf um #b1."
+    ]
+  },
   "Frozen Egg": {
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Das Ei ist erstarrt und gefroren, aus ihm wird nie etwas schlüpfen.",
@@ -666,6 +673,14 @@
     "FLAVOR": "Das seltsame Geschenk von N’loth. Immer wenn du versuchst, es auszupacken, findest du darin ein gleich großes verpacktes Geschenk.",
     "DESCRIPTIONS": [
       "#bVerdreifacht die Chance auf seltene Karten als Monsterbelohnungen."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loths Maske",
+    "FLAVOR": "Du verspürst Hunger.",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine seltene Karte spielst, erhalte #b",
+      " #yBlock."
     ]
   },
   "Nuclear Battery": {
@@ -967,6 +982,14 @@
     "FLAVOR": "Die verkohlten Überreste deiner Opfergaben an die Geister.",
     "DESCRIPTIONS": [
       "Ziemlich widerlich."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssschlangenkopf",
+    "FLAVOR": "Am erfülltesten ist das Leben, in dem du #yalles #ykaufen #ykannst!",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn jedes Ereignisses #b",
+      " #yGold."
     ]
   },
   "Strange Spoon": {
