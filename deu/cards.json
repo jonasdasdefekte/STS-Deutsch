@@ -191,7 +191,7 @@
     "UPGRADE_DESCRIPTION": "Unspielbar. NL Erleide am Ende deines Zuges 4 Schaden."
   },
   "Burning Pact": {
-    "NAME": "Brennender Pakt",
+    "NAME": "Feuerpakt",
     "DESCRIPTION": "Erschöpfe 1 Karte. NL Ziehe !M! Karten."
   },
   "Burst": {
@@ -715,7 +715,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
   },
   "Juggernaut": {
-    "NAME": "Verwüster",
+    "NAME": "Juggernaut",
     "DESCRIPTION": "Immer wenn du Block erhältst, füge einem zufälligen Gegner !M! Schaden zu."
   },
   "Leap": {
