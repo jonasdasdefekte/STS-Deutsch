@@ -27,6 +27,10 @@
     "NAME": "Eliten-Schwarm",
     "DESCRIPTION": "Elite schwärmen den Spire und lassen besseren Loot fallen."
   },
+  "Endless": {
+    "NAME": "Endlos",
+    "DESCRIPTION": "Nach einem Sieg beginnst du wieder im 1. Akt mit demselben Deck. Aber hüte dich, am Ende verzehrt jeden die Fäulnis..."
+  },
   "Heirloom": {
     "NAME": "Erbstück",
     "DESCRIPTION": "Beginne mit 1 seltenen Relikt."

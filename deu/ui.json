@@ -36,7 +36,7 @@
       "Aggressiv",
       "Dieser Gegner beabsichtigt, NL für #b",
       " Schaden #b",
-      " mal #yanzugreifen.",
+      " Mal #yanzugreifen.",
       "Dieser Gegner beabsichtigt, NL für #b",
       " Schaden #yanzugreifen.",
       "Aggressiv",
@@ -303,6 +303,19 @@
       "kopierst"
     ]
   },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Sonderregeln",
+      "Errungenschaften und Ranglisten sind abgeschaltet.",
+      "Charakter",
+      "Aufstieg",
+      "Level ",
+      "Aufstiegsmodus",
+      "Modifikatoren",
+      "Seed",
+      "Seed einstellen"
+    ]
+  },
   "CreditsScreen": {
     "TEXT": [
       "Erneut klicken zum Verlassen",
@@ -351,7 +364,7 @@
       "Was du säst, das erntest du.",
       "Das lief verkehrt.",
       "Darauf war ich nicht vorbereitet.",
-      "Ich versuch’s morgen noch mal.",
+      "Ich versuch’s morgen nochmal.",
       "Ich werde einen neue Karte brauchen.",
       "Unzureichend vorbereitet.",
       "Unfassbar!",
@@ -786,8 +799,8 @@
       "Unbekannt",
       "Gewinne einen Täglichen Aufstieg, um diesen Spielmodus freizuschalten.",
       "Dieses Feature ist noch nicht verfügbar.",
-      "Endlos",
-      "Nach einem Sieg kehrst du mit demselben Deck zum Exordium zurück. \n\nVorsicht, am Ende verzehrt die Fäulnis jeden..."
+      "Sonderregeln",
+      "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen."
     ]
   },
   "MerchantImageTextNotInGame": {
