@@ -623,7 +623,7 @@
     "NAME": "Mumifizierte Hand",
     "FLAVOR": "Zuckt oft, vor allem, wenn du einen hohen Puls hast.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yMacht ausspielst, kostet eine zufällige Karte auf deiner Hand in diesem Zug #b0."
+      "Immer wenn du eine #yMacht ausspielst, kostet eine zufällige Handkarte in diesem Zug #b0."
     ]
   },
   "Necronomicon": {

@@ -488,7 +488,7 @@
     ]
   },
   "Juggernaut": {
-    "NAME": "Verwüster",
+    "NAME": "Juggernaut",
     "DESCRIPTIONS": [
       "Immer wenn du #yBlock erhältst, verursachst du an einem zufälligen Gegner #b",
       " Schaden."
