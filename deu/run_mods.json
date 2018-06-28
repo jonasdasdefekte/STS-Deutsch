@@ -64,7 +64,7 @@
     "DESCRIPTION": "Ausruhen an einem Lagerfeuer heilt dich komplett, aber kostet dich 5 max. TP."
   },
   "One Hit Wonder": {
-    "NAME": "Eintagsfliege",
+    "NAME": "One Hit Wonder",
     "DESCRIPTION": "Beginne das Spiel mit 1 max. TP."
   },
   "Praise Snecko": {
@@ -84,7 +84,7 @@
     "DESCRIPTION": "Beginne mit Zerbrochene Krone und Binär, sodass du bei Gegnern keine Kartenbelohnungen mehr erhältst."
   },
   "Terminal": {
-    "NAME": "Terminiert",
+    "NAME": "Das Ende naht",
     "DESCRIPTION": "Verliere 1 max. TP, wenn du einen Raum betrittst. Beginne jeden Kampf mit 5 Panzerrüstung."
   },
   "Time Dilation": {
