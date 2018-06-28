@@ -72,7 +72,7 @@
     ]
   },
   "VoidEssence": {
-    "NAME": "Schattenessenz",
+    "NAME": "Leerenessenz",
      "DESCRIPTION": [
       "Erhalte in jedem Zug 1 [R] weniger.",
     "Erhalte in jedem Zug 1 [G] weniger.",
@@ -87,7 +87,7 @@
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Vorzeitliche Erweiterung",
+    "NAME": "Eisernes Erwachen",
      "DESCRIPTION": [
       "Gegner beginnen den Kampf mit #b",
     " #yArtefakt, #b",
