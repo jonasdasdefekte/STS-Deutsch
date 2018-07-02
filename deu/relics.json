@@ -246,6 +246,14 @@
       "#yErschaffe zu Beginn jedes Kampfes #b1 #yBlitz."
     ]
   },
+  "CultistMask": {
+    "NAME": "Kultisten-Kopfstück",
+    "FLAVOR": "Ich bin Teil des Schwarms!",
+    "DESCRIPTIONS": [
+      "Du fühlst dich gesprächiger.",
+      "@KRÄH!@ NL @KRÄÄÄH@"
+    ]
+  },
   "Cursed Key": {
     "NAME": "Verfluchter Schlüssel",
     "FLAVOR": "Du spürst, wie vom Schlüssel eine böse Energie ausgeht. Macht hat ihren Preis.",
@@ -447,6 +455,13 @@
       "[R] und ziehe #b1 Karte.",
       "[G] und ziehe #b1 Karte.",
       "[B] und ziehe #b1 Karte."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin-Visage",
+    "FLAVOR": "Zeit, zu rennen.",
+    "DESCRIPTIONS": [
+      "Beginne jeden Kampf mit #b1 #ySchwach."
     ]
   },
   "Happy Flower": {
@@ -676,11 +691,11 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loths Maske",
+    "NAME": "N'Loths hungriges Gesicht",
     "FLAVOR": "Du verspürst Hunger.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine seltene Karte spielst, erhalte #b",
-      " #yBlock."
+      "Die nächste Truhe (außer Bosstruhen) ist leer.",
+      ""
     ]
   },
   "Nuclear Battery": {
