@@ -495,7 +495,7 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Ziehe Karten, bis sich !M! Karten in deiner Hand befinden."
+    "DESCRIPTION": "Ziehe Karten, bis du !M! Handkarten hast."
   },
   "FTL": {
     "NAME": "FTL",
