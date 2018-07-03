@@ -63,8 +63,8 @@
   "Berserk": {
     "NAME": "Berserker",
     "DESCRIPTIONS": [
-      "Wenn deine TP unter oder genau #b50% sind, erhältst du ",
-      " zu Beginn deines Zuges."
+      "Erhalte zu Beginn deines Zuges ",
+      "  ."
     ]
   },
   "Bias": {
@@ -547,6 +547,14 @@
       " zurück."
     ]
   },
+  "Mayhem": {
+    "NAME": "Wilder Kampf",
+    "DESCRIPTIONS": [
+      "Spiele zu Beginn deines Zuges die oberste Karte deines Nachziehstapels.",
+      "Spiele zu Beginn deines Zuges die obersten #b",
+      " Karten deines Nachziehstapels."
+    ]
+  },
   "Metallicize": {
     "NAME": "Metallschicht",
     "DESCRIPTIONS": [
@@ -587,6 +595,12 @@
     "NAME": "Entwaffnet",
     "DESCRIPTIONS": [
       "Du kannst keine #yAngriffe in diesem Zug spielen."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Kein Block",
+    "DESCRIPTIONS": [
+      "Du kannst keinen #yBlock erhalten."
     ]
   },
   "No Draw": {

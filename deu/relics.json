@@ -321,6 +321,14 @@
       "Erhalte in jedem Zug [B] ."
     ]
   },
+  "DollysMirror": {
+    "NAME": "Dollys Spiegel",
+    "FLAVOR": "\"Darin sehe ich komisch aus.\"",
+    "DESCRIPTIONS": [
+      "Beim Aufheben: Erhalte ein weiteres Exemplar einer Karte in deinem Deck.",
+      "Wähle 1 Karte, die du kopierst."
+    ]
+  },
   "Dream Catcher": {
     "NAME": "Traumfänger",
     "FLAVOR": "Die nördlichen Stämme setzten in der Hoffnung auf Selbstbesserung nachts gern Traumfänger ein.",
@@ -1098,6 +1106,13 @@
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
       "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Der Abakus",
+    "FLAVOR": "\"Eins... Zwei... Drei...\"",
+    "DESCRIPTIONS": [
+      "Erhalte #b6 #yBlock, wenn du deinen Nachziehstapel mischst."
     ]
   },
   "The Courier": {
