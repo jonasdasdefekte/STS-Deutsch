@@ -239,6 +239,13 @@
       "Sammle so viele wie möglich."
     ]
   },
+  "ClockworkSouvenir": {
+    "NAME": "Uhrwerk-Souvenir",
+    "FLAVOR": "\"So viele aufwändige Rädchen.\"",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn jedes Kampfes #b1 #yArtefakt."
+    ]
+  },
   "Cracked Core": {
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft, welche die Automatone im Spire antreibt. Scheint kaputt zu sein.",
@@ -597,6 +604,13 @@
       "Dieses Relikt wurde aufgebraucht."
     ]
   },
+  "MealTicket": {
+    "NAME": "Essenskarte",
+    "FLAVOR": "\"Kostenlose Fleischbällchen bei jedem Besuch!\"",
+    "DESCRIPTIONS": [
+      "Wenn du einen Laden-Raum betrittst, heile #b7 TP."
+    ]
+  },
   "Meat on the Bone": {
     "NAME": "Fleisch am Knochen",
     "FLAVOR": "Das Fleisch erneuert sich immer wieder und scheint nie komplett aufgebraucht zu werden.",
@@ -616,7 +630,7 @@
     "NAME": "Mitgliedskarte",
     "FLAVOR": "„Bonus-Mitgliedschaftsangebot für meine wertvollsten Kunden!“",
     "DESCRIPTIONS": [
-      "In zukünftigen Leveln erscheinen Läden 50% häufiger. NL #yBONUS: #b20% Rabatt auf alle Produkte!"
+      "In zukünftigen Akten erscheinen Läden 50% häufiger. NL #yBONUS: #b20% Rabatt auf alle Produkte!"
     ]
   },
   "Mercury Hourglass": {
@@ -1215,6 +1229,13 @@
     "FLAVOR": "Am Besten mit Ingwer.",
     "DESCRIPTIONS": [
       "Du kannst nicht mehr #yGebrechlich werden."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Knotiger Trichter",
+    "FLAVOR": "\"Daraus würde ich nicht trinken.\"",
+    "DESCRIPTIONS": [
+      "Wende zu Beginn jedes Kampfes #b4 #yGift auf ALLE Gegner an."
     ]
   },
   "Unceasing Top": {

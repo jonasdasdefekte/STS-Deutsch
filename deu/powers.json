@@ -151,6 +151,14 @@
       " Schaden."
     ]
   },
+  "CorpseExplosionPower": {
+    "NAME": "Leichenexplosion",
+    "DESCRIPTIONS": [
+      "Sobald dieser Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe seiner max. TP zu.",
+    "When this enemy dies, deal damage to ALL enemies equal to #b",
+    " times its Max HP."
+    ]
+  },
   "Corruption": {
     "NAME": "Korruption",
     "DESCRIPTIONS": [
@@ -600,7 +608,7 @@
   "NoBlockPower": {
     "NAME": "Kein Block",
     "DESCRIPTIONS": [
-      "Du kannst keinen #yBlock erhalten."
+      "Du kannst keinen #yBlock von Karten erhalten."
     ]
   },
   "No Draw": {
@@ -870,6 +878,13 @@
       "Erhöht Angriffsschaden um #b",
       "Verringert Angriffsschaden um #b",
       "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "Die Bombe",
+    "DESCRIPTIONS": [
+      "Füge am Ende von %1$s Zügen ALLEN Gegnern %2$s Schaden zu.",
+      "Füge am Ende dieses Zuges ALLEN Gegnern %1$s Schaden zu."
     ]
   },
   "Thievery": {

@@ -307,10 +307,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
-    "DESCRIPTION": "Gegner verliert gesamtes Gift. NL Füge entspr. der doppelten verlorenen Menge ALLEN Gegnern Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Gegner verliert gesamtes Gift. NL Füge entspr. dreimal der verlorenen Menge ALLEN Gegnern Schaden zu.",
+    "DESCRIPTION": "Wende !M! Gift an. NL Sobald der Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe seiner max. TP zu.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Dieser Gegner ist nicht vergiftet."
+      ""
     ]
   },
   "Corruption": {
@@ -879,7 +879,7 @@
   },
   "PanicButton": {
     "NAME": "Panikknopf",
-    "DESCRIPTION": "Erhalte !B! Block. Du kannst für nächsten !M! Züge keinen Block erhalten. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. Du kannst für die nächsten !M! Züge keinen Block von Karten erhalten. NL Erschöpft."
   },
   "Parasite": {
     "NAME": "Parasit",
@@ -1206,8 +1206,8 @@
     "DESCRIPTION": "Wende NL 99 Verwundbar an. NL Erschöpft."
   },
   "The Bomb": {
-    "NAME": "Sprengstoff",
-    "DESCRIPTION": "Füge allen Zielen (auch dir) !D! Schaden zu. NL Erschöpft."
+    "NAME": "Die Bombe",
+    "DESCRIPTION": "Füge für 3 Züge ALLEN Gegnern am Zugende !M! Schaden zu."
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",
