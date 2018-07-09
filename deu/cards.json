@@ -879,7 +879,7 @@
   },
   "PanicButton": {
     "NAME": "Panikknopf",
-    "DESCRIPTION": "Erhalte !B! Block. Du kannst für die nächsten !M! Züge keinen Block von Karten erhalten. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. NL Du kannst für die nächsten !M! Züge keinen Block von Karten erhalten. NL Erschöpft."
   },
   "Parasite": {
     "NAME": "Parasit",
@@ -1207,7 +1207,7 @@
   },
   "The Bomb": {
     "NAME": "Die Bombe",
-    "DESCRIPTION": "Füge für 3 Züge ALLEN Gegnern am Zugende !M! Schaden zu."
+    "DESCRIPTION": "Füge in 3 Zügen ALLEN Gegnern am Zugende !M! Schaden zu."
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",
