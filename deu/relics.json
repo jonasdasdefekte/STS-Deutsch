@@ -1008,7 +1008,7 @@
     "NAME": "Schleuder des Mutes",
     "FLAVOR": "\"Praktisch, wenn man besonders harten Widersachern gegenübersteht.\"",
     "DESCRIPTIONS": [
-      "Beginne jeden Kampf mit #b",
+      "Beginne jeden Elite-Kampf mit #b",
       " #yStärke."
     ]
   },
@@ -1054,7 +1054,7 @@
   },
   "SsserpentHead": {
     "NAME": "Ssschlangenkopf",
-    "FLAVOR": "Am erfülltesten ist das Leben, in dem du #yalles #ykaufen #ykannst!",
+    "FLAVOR": "Am erfülltesten ist das Leben, in dem du alles kaufen kannst!",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn jedes Ereignisses #b",
       " #yGold."
