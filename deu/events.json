@@ -190,11 +190,12 @@
       "~\"Stopp.~ ~Stopp.~ ~Stopp.~ ~Stopp.~ ~stopp.\"~ NL NL Wahrscheinlich war das die richtige Entscheidung."
     ],
     "OPTIONS": [
-      "[Anfassen] #rVerliere #r10% #rmax. #rTP, #gerhalte #g",
+      "[Anfassen] #rVerliere #r",
       " #gGold.",
       "[Austauschen] #g50%: #gGutes #gGesicht. #r50%: #rSchlechtes #rGesicht.",
       "[Verlassen]",
     "[Fortsetzen]"
+    " #rTP, #gerhalte #g"
     ]
   },
   "Falling": {

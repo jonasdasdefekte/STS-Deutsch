@@ -253,6 +253,13 @@
       "#yErschaffe zu Beginn jedes Kampfes #b1 #yBlitz."
     ]
   },
+  "FrozenCore": {
+    "NAME": "Gefrorener Kern",
+    "FLAVOR": "Der Sprung in deinem Kern ist mit einer pulsierenden kalten Energie gefüllt worden.",
+    "DESCRIPTIONS": [
+      "Ersetzt #rGesprungener #rKern. Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
+    ]
+  },
   "CultistMask": {
     "NAME": "Kultisten-Kopfstück",
     "FLAVOR": "Ich bin Teil des Schwarms!",
@@ -347,7 +354,7 @@
     "NAME": "Du-Vu-Puppe",
     "FLAVOR": "Eine Puppe, die Kraft aus böser Energie zieht.",
     "DESCRIPTIONS": [
-      "Beginne für jeden #yFluch in deinem Deck jeden Kampf mit #b",
+      "Beginne pro #yFluch in deinem Deck jeden Kampf mit #b",
       " #yStärke mehr.",
       " Du hast keine #yFlüche.",
       " Du hast #b",
@@ -479,6 +486,13 @@
       "Beginne jeden Kampf mit #b1 #ySchwach."
     ]
   },
+  "HandDrill": {
+    "NAME": "Handbohrer",
+    "FLAVOR": "\"Spiralen sind gefährlich.\"",
+    "DESCRIPTIONS": [
+      "Immer wenn du den Block eines Gegners durchbrichst, wende #b2 #yVerwundbar an."
+    ]
+  },
   "Happy Flower": {
     "NAME": "Fröhliche Blume",
     "FLAVOR": "Diese immerfort lachende Pflanze ist seit Neuestem äußerst beliebt beim Adel.",
@@ -487,6 +501,13 @@
       " Züge [R] .",
       " Züge [G] .",
       " Züge [B] ."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Schwebender Drachen",
+    "FLAVOR": "Der Drachen fliegt im Kampf, angetrieben von einer mysteriösen Kraft, in deiner Nähe herum.",
+    "DESCRIPTIONS": [
+      "Lege zu Beginn jedes Zuges #b1 Karte ab und erhalte [G] ."
     ]
   },
   "Ice Cream": {
@@ -904,8 +925,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Giftschlangenring",
+    "FLAVOR": "Dein Ring hat sich verändert und verformt.",
     "DESCRIPTIONS": [
-      "Ersetzt #gSchlangenring. Besiegst du einen #yElitegegner, erhöhen sich deine max. TP um #b"
+      "Ersetzt #gSchlangenring. ",
+    "Ziehe zu Beginn deines Zuges #b1 Karte mehr."
     ]
   },
   "Ring of the Snake": {
@@ -979,6 +1002,14 @@
     "FLAVOR": "Dieses oft genutzte Artefakt lässt eine wunderschöne Melodie erklingen, wenn man draufschlägt.",
     "DESCRIPTIONS": [
       "Anstatt eine Karte deinem Deck hinzuzufügen, kannst du #b+2 max. TP erhalten."
+    ]
+  },
+  "Sling": {
+    "NAME": "Schleuder des Mutes",
+    "FLAVOR": "\"Praktisch, wenn man besonders harten Widersachern gegenübersteht.\"",
+    "DESCRIPTIONS": [
+      "Beginne jeden Kampf mit #b",
+      " #yStärke."
     ]
   },
   "Smiling Mask": {

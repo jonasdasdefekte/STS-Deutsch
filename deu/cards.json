@@ -553,7 +553,7 @@
   },
   "Flechettes": {
     "NAME": "Wurfpfeile",
-    "DESCRIPTION": "Füge für jede Fertigkeit auf deiner Hand NL !D! Schaden zu.",
+    "DESCRIPTION": "Füge pro Fertigkeit auf deiner Hand NL !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " NL (Du hast ",
       " Fertigkeit).",
@@ -578,7 +578,7 @@
   },
   "Force Field": {
     "NAME": "Kraftfeld",
-    "DESCRIPTION": "Kostet 1 [B] weniger für jede in diesem Kampf gespielte Machtkarte. NL Erhalte !B! Block."
+    "DESCRIPTION": "Kostet 1 [B] weniger pro in diesem Kampf gespielter Machtkarte. NL Erhalte !B! Block."
   },
   "Fusion": {
     "NAME": "Fusion",
@@ -664,8 +664,8 @@
   },
   "Hologram": {
     "NAME": "Hologramm",
-    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels zurück auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte des Abwurfstapels zurück auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte aus dem Abwurfstapel zurück auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine Karte aus dem Abwurfstapel zurück auf die Hand."
   },
   "Hyperbeam": {
     "NAME": "Hyperstrahl",
@@ -992,7 +992,7 @@
   },
   "Regret": {
     "NAME": "Reue",
-    "DESCRIPTION": "Unspielbar. NL Verliere am Ende deines Zuges für jede Handkarte 1 TP."
+    "DESCRIPTION": "Unspielbar. NL Verliere am Ende deines Zuges pro Handkarte 1 TP."
   },
   "Reinforced Body": {
     "NAME": "Verstärkte Hülle",
@@ -1145,8 +1145,8 @@
   },
   "Storm of Steel": {
     "NAME": "Stahlsturm",
-    "DESCRIPTION": "Wirf deine Hand ab. NL Erhalte für jede abgeworfene Karte 1 Messer auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte für jede abgeworfene Karte 1 verbessertes Messer auf die Hand."
+    "DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 verbessertes Messer auf die Hand."
   },
   "Streamline": {
     "NAME": "Stromlinie",
