@@ -490,7 +490,7 @@
     "NAME": "Handbohrer",
     "FLAVOR": "\"Spiralen sind gefährlich.\"",
     "DESCRIPTIONS": [
-      "Immer wenn du den Block eines Gegners durchbrichst, wende #b2 #yVerwundbar an."
+      "Immer wenn du den #yBlock eines Gegners durchbrichst, wende #b2 #yVerwundbar an."
     ]
   },
   "Happy Flower": {
@@ -507,7 +507,7 @@
     "NAME": "Schwebender Drachen",
     "FLAVOR": "Der Drachen fliegt im Kampf, angetrieben von einer mysteriösen Kraft, in deiner Nähe herum.",
     "DESCRIPTIONS": [
-      "Lege zu Beginn jedes Zuges #b1 Karte ab und erhalte [G] ."
+      "Erhalte zu Beginn jedes Zuges [G] und wirf #b1 Karte ab."
     ]
   },
   "Ice Cream": {
@@ -784,6 +784,13 @@
       "Wehre die nächsten #b2 erhaltenen #rFlüche ab.",
       "Wehre den nächsten erhaltenen #yFluch ab.",
       "Dieses Relikt wurde aufgebraucht."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pastillen",
+    "FLAVOR": "\"Hergestellt aus diversen Pilzen des Spires - vertreiben jegliche Beschwerden.\"",
+    "DESCRIPTIONS": [
+      "Immer wenn du im selben Zug eine #yMacht, einen #yAngriff und eine #yFertigkeit spielst, entferne alle deine Debuffs."
     ]
   },
   "Orichalcum": {

@@ -829,11 +829,12 @@
     "NAME": "Normalität",
     "DESCRIPTION": "Unspielbar. NL Du kannst in diesem Zug nicht mehr als NL 3 Karten ausspielen.",
     "EXTENDED_DESCRIPTION": [
-      "Ich kann diesen Zug nur bis zu NL #r3 Karten spielen.",
+      "Ich kann diesen Zug nur NL #r3 Karten spielen.",
       "Unspielbar. NL Du kannst nicht mehr als ",
       " Karten pro Zug spielen.",
-      " Karten pro Zug spielen. NL Du hast bereits ",
-      " Karten diesen Zug gespielt."
+      " Karten pro Zug spielen. NL Du hast in diesem Zug ",
+      " Karte gespielt.",
+      " Karten gespielt."
     ]
   },
   "Nova": {
