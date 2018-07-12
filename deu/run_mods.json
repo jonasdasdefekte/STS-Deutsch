@@ -7,6 +7,10 @@
     "NAME": "Binär",
     "DESCRIPTION": "Kartenbelohnungen enthalten nur 2 Karten."
   },
+  "Blight Chests": {
+    "NAME": "Fäulnis-Truhen",
+    "DESCRIPTION": "Im Endlosmodus enthalten Boss-Truhen nach dem 3. Akt Fäulnis."
+  },
   "Brewmaster": {
     "NAME": "Braumeister",
     "DESCRIPTION": "Beginne mit 5 Kopien von Alchemisieren und der Weißen Bestienstatue."

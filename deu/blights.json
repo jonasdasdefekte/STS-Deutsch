@@ -74,9 +74,10 @@
   "VoidEssence": {
     "NAME": "Essenz der Leere",
      "DESCRIPTION": [
-      "Erhalte in jedem Zug 1 [R] weniger.",
-    "Erhalte in jedem Zug 1 [G] weniger.",
-    "Erhalte in jedem Zug 1 [B] weniger."
+      "Erhalte in jedem Zug #b",
+      " [R] weniger.",
+      " [G] weniger.",
+      " [B] weniger."
     ]
   },
   "GraspOfShadows": {
