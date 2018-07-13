@@ -127,7 +127,7 @@
   },
   "Bottled Tornado": {
     "NAME": "Flaschentornado",
-    "FLAVOR": "Testrelikt.",
+    "FLAVOR": "Diese Flasche summt und dröhnt ein wenig.",
     "DESCRIPTIONS": [
       "Beim Aufheben: Wähle eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
@@ -426,7 +426,7 @@
   },
   "Frozen Eye": {
     "NAME": "Gefrorenes Auge",
-    "FLAVOR": "Keine Beschreibung.",
+    "FLAVOR": "Wenn du in das Auge starrst, siehst du schemenhaft deine Zukunft.",
     "DESCRIPTIONS": [
       "Dein Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
     ]
