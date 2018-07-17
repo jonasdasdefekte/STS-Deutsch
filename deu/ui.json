@@ -523,7 +523,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Wähle eine Karte, die du auf die Hand nimmst"
+      "Wähle eine Karte, die du auf die Hand nimmst."
     ]
   },
   "ExitGameButton": {
@@ -534,6 +534,11 @@
   "Exordium": {
     "TEXT": [
       "Exordium"
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      ", die du unter deinen Nachziehstapel legst."
     ]
   },
   "GamblingChipAction": {

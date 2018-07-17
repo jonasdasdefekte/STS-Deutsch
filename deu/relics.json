@@ -229,7 +229,8 @@
     "NAME": "Chemikalie X",
     "FLAVOR": "ACHTUNG: Nicht mit Zucker, Pfeffer und lauter schönen Sachen mischen.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Karte mit Kosten von #bX ausspielst, erhöhen sich ihre Effekte um #b"
+      "Immer wenn du eine Karte mit Kosten von #bX ausspielst, erhöhen sich ihre Effekte um #b",
+      "."
     ]
   },
   "Circlet": {
@@ -625,6 +626,13 @@
       "Dieses Relikt wurde aufgebraucht."
     ]
   },
+  "MawBank": {
+    "NAME": "Spar-Schlund",
+    "FLAVOR": "Überraschend beliebt, obwohl immer wieder Schlund-Angriffe passieren.",
+    "DESCRIPTIONS": [
+      "Wenn du eine Etage erreichst, erhalte #b5 #yGold, bis du zum nächsten Mal #yGold im Laden ausgibst."
+    ]
+  },
   "MealTicket": {
     "NAME": "Essenskarte",
     "FLAVOR": "\"Kostenlose Fleischbällchen bei jedem Besuch!\"",
@@ -753,6 +761,16 @@
     "FLAVOR": "VERALTET.",
     "DESCRIPTIONS": [
       "Wehre den nächsten #yDebuff ab, den du vom Gegner erhältst. NL Wird in #b10 Zügen wiederaufgeladen."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "Ein gutes Übungsgerät, um die Haltung und Wendigkeit zu verbessern.",
+    "DESCRIPTIONS": [
+      "Immer wenn du #b",
+      " #yAngriffe spielst, erhalte [R] .",
+      " #yAngriffe spielst, erhalte [G] .",
+      " #yAngriffe spielst, erhalte [B] ."
     ]
   },
   "Odd Mushroom": {
@@ -1065,6 +1083,15 @@
     "DESCRIPTIONS": [
       "Erhalte zu Beginn jedes Ereignisses #b",
       " #yGold."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Steinkalender",
+    "FLAVOR": "Den Lauf der Zeit kann man im Spire nicht wahrnehmen.",
+    "DESCRIPTIONS": [
+      "Füge am Ende deines #b",
+      ". Zuges ALLEN Gegnern #b",
+      " Schaden zu."
     ]
   },
   "Strange Spoon": {

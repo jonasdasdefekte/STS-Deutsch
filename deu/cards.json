@@ -399,6 +399,11 @@
     "NAME": "Entwaffnen",
     "DESCRIPTION": "Dein Gegner verliert für den Rest dieses Kampfes !M! Stärke. NL Erschöpft."
   },
+  "Discovery": {
+    "NAME": "Entdeckung",
+    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst und in diesem Zug 0 kostet. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst und in diesem Zug 0 kostet."
+  },
   "Distraction": {
     "NAME": "Ablenkung",
     "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet 0 in diesem Zug. NL Erschöpft."
@@ -580,6 +585,10 @@
     "NAME": "Kraftfeld",
     "DESCRIPTION": "Kostet 1 [B] weniger pro in diesem Kampf gespielter Machtkarte. NL Erhalte !B! Block."
   },
+  "Forethought": {
+    "NAME": "Planung",
+    "DESCRIPTION": "Lege eine Handkarte unter deinen Nachziehstapel. NL Sie kostet 0, bis du sie spielst."
+  },
   "Fusion": {
     "NAME": "Fusion",
     "DESCRIPTION": "Erschaffe !M! Plasma."
@@ -679,6 +688,10 @@
   "Immolate": {
     "NAME": "Opfern",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein Brennen auf den Abwurfstapel."
+  },
+  "Impatience": {
+    "NAME": "Ungeduld",
+    "DESCRIPTION": "Wenn du keine Angriffe auf der Hand hast, ziehe !M! Karten."
   },
   "Impervious": {
     "NAME": "Unempfindlich",
@@ -1276,6 +1289,10 @@
   "Venomology": {
     "NAME": "Alchemisieren",
     "DESCRIPTION": "Erhalte einen zufälligen Trank. NL Erschöpft."
+  },
+  "Violence": {
+    "NAME": "Gewalt",
+    "DESCRIPTION": "Nimm !M! zufällige Angriffskarten aus dem Nachziehstapel auf die Hand."
   },
   "Void": {
     "NAME": "Leere",
