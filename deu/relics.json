@@ -109,7 +109,7 @@
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine Angriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Beim Aufheben: Wähle eine #yAngriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -119,7 +119,7 @@
     "NAME": "Flaschenblitz",
     "FLAVOR": "Im wirbelnden Mahlstrom siehst du einen Teil deiner selbst zurückstarren.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine Fertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Beim Aufheben: Wähle eine #yFertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -127,9 +127,9 @@
   },
   "Bottled Tornado": {
     "NAME": "Flaschentornado",
-    "FLAVOR": "Diese Flasche summt und dröhnt ein wenig.",
+    "FLAVOR": "Diese Flasche gibt ein sanftes Summen und Dröhnen von sich.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine Machtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Beim Aufheben: Wähle eine #yMachtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -630,7 +630,8 @@
     "NAME": "Spar-Schlund",
     "FLAVOR": "Überraschend beliebt, obwohl immer wieder Schlund-Angriffe passieren.",
     "DESCRIPTIONS": [
-      "Wenn du eine Etage erreichst, erhalte #b5 #yGold, bis du zum nächsten Mal #yGold im Laden ausgibst."
+      "Wenn du eine Etage erreichst, erhalte #b",
+      " #yGold. Verfällt, sobald du #yGold im Laden bezahlst."
     ]
   },
   "MealTicket": {

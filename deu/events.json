@@ -500,6 +500,22 @@
       "[Weiter]"
     ]
   },
+  "NoteForYourself": {
+    "NAME": "Notiz an dich selbst",
+    "DESCRIPTIONS": [
+      "Du bemerkst einen losen Stein einer Säule, der dir besonders ins Auge fällt.",
+      "Hinter dem Stein findest du eine gefaltete Notiz und eine #yKarte. Darauf steht: NL \"Das Herz wartet.\" NL NL Das ist deine Handschrift.",
+      "Wähle eine Karte, die du einlagerst.",
+      "Was geht da vor sich?"
+    ],
+    "OPTIONS": [
+      "[Weiter]",
+      "[Nehmen und Geben] #gErhalte ",
+      " #gund #glagere #geine #gKarte #gein.",
+      "[Ignorieren]",
+      "[Verlassen]"
+    ]
+  },
   "Purifier": {
     "NAME": "Schrein der Reinigung",
     "DESCRIPTIONS": [

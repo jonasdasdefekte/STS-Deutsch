@@ -87,6 +87,10 @@
     "NAME": "Startdeck",
     "DESCRIPTION": "Beginne mit Zerbrochene Krone und Binär, sodass du bei Gegnern keine Kartenbelohnungen mehr erhältst."
   },
+  "Stunted Growth": {
+    "NAME": "Verkümmerung",
+    "DESCRIPTION": "Du erhältst keine Kartenbelohnungen durch Gegner mehr, nachdem du den 3. Akt im Endlosmodus beendet hast."
+  },
   "Terminal": {
     "NAME": "Das Ende naht",
     "DESCRIPTION": "Verliere 1 max. TP, wenn du einen Raum betrittst. Beginne jeden Kampf mit 5 Panzerrüstung."

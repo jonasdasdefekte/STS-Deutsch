@@ -87,8 +87,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Wähle eine Karte, die du auf die Hand nimmst",
-      "Wähle Karten, die du auf die Hand nimmst"
+      "Wähle eine Karte, die du auf die Hand nimmst.",
+      "Wähle Karten, die du auf die Hand nimmst."
     ]
   },
   "ApplyPowerAction": {
