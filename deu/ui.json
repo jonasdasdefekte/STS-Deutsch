@@ -552,6 +552,11 @@
       "#y~Spiel~ #y~gespeichert~"
     ]
   },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
   "GridCardSelectScreen": {
     "TEXT": [
       "Bestätigen",

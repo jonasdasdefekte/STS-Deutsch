@@ -1031,7 +1031,7 @@
   },
   "RitualDagger": {
     "NAME": "Ritueller Dolch",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. NL Erschöpft."
   },
   "Rupture": {
     "NAME": "Blutfluss",
@@ -1292,7 +1292,7 @@
   },
   "Violence": {
     "NAME": "Gewalt",
-    "DESCRIPTION": "Nimm !M! zufällige Angriffskarten aus dem Nachziehstapel auf die Hand."
+    "DESCRIPTION": "Nimm !M! zufällige Angriffskarten aus dem Nachziehstapel auf die Hand. NL Erschöpft."
   },
   "Void": {
     "NAME": "Leere",
