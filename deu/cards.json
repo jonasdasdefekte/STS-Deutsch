@@ -865,8 +865,8 @@
   },
   "Offering": {
     "NAME": "Opfergabe",
-    "DESCRIPTION": "Verliere 4 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Verliere 4 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
+    "DESCRIPTION": "Verliere 5 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Verliere 5 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
 
   },
   "Outmaneuver": {

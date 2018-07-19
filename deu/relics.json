@@ -1353,5 +1353,12 @@
     "DESCRIPTIONS": [
       "Tränke werden immer nach dem Kampf fallen gelassen."
     ]
+  },
+  "WristBlade": {
+    "NAME": "Unterhand-Klinge",
+    "FLAVOR": "Für handliche Meuchelmorde.",
+    "DESCRIPTIONS": [
+      "#yAngriffe, die #b0 kosten, fügen #b3 Schaden mehr zu."
+    ]
   }
 }
