@@ -18,9 +18,9 @@
   "AbstractCreature": {
     "TEXT": [
       "Tot",
-      "Blockiert",
+      "Geblockt",
       "Max. TP +",
-      "Gestunnt!",
+      "Betäubt!",
       "Unterbrochen!",
       "Relikte"
     ]
@@ -351,8 +351,8 @@
       "Spielzeit",
       "Spielzeit",
       "Punktzahl",
-      "Erobert",
-      "Tod...",
+      "Bezwungen",
+      "Tot...",
       "Niederlage",
       "Besiegt!",
       "Entweiht",

@@ -326,7 +326,7 @@
     "DESCRIPTION": "Wende an ALLEN Gegnern !M! Gift und 2 Schwach an. NL Erschöpft."
   },
   "Dagger Spray": {
-    "NAME": "Dolchwolke",
+    "NAME": "Dolchfächer",
     "DESCRIPTION": "Füge ALLEN Gegnern zweimal !D! Schaden zu."
   },
   "Dagger Throw": {
@@ -598,7 +598,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Alle Krallen fügen in diesem Kampf NL !M! Schaden mehr zu."
   },
   "Genetic Algorithm": {
-    "NAME": "Gen-Algorithmus",
+    "NAME": "Genetischer Algorithmus",
     "DESCRIPTION": "Erhalte !B! Block. NL Erhöhe den Block dieser Karte permanent um !M!. NL Erschöpft."
   },
   "Ghostly": {
@@ -1079,7 +1079,7 @@
     "UPGRADE_DESCRIPTION": "Wähle !M! Karten aus dem Nachziehstapel. Nimm sie auf die Hand. NL Erschöpft."
   },
   "Self Repair": {
-    "NAME": "Auto-Reparatur",
+    "NAME": "Selbstreparatur",
     "DESCRIPTION": "Heile am Ende des Kampfes !M! TP."
   },
   "Sentinel": {
@@ -1132,7 +1132,7 @@
     "DESCRIPTION": "Wenn ein Gegner beabsichtigt anzugreifen, NL erhalte !M! Stärke."
   },
   "Stack": {
-    "NAME": "Stapeln",
+    "NAME": "Stapel",
     "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
     "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel +3.",
     "EXTENDED_DESCRIPTION": [
