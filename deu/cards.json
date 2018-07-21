@@ -598,7 +598,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Alle Krallen fügen in diesem Kampf NL !M! Schaden mehr zu."
   },
   "Genetic Algorithm": {
-    "NAME": "Genetischer Algorithmus",
+    "NAME": "Gen-Algorithmus",
     "DESCRIPTION": "Erhalte !B! Block. NL Erhöhe den Block dieser Karte permanent um !M!. NL Erschöpft."
   },
   "Ghostly": {
