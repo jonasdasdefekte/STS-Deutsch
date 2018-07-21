@@ -9,7 +9,7 @@
   "AttackPotion": {
     "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
-      "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet #b0 in diesem Zug."
+      "Erhalte #b1 von #b3 zufälligen #yAngriffskarten auf die Hand, die in diesem Zug #b0 kostet."
     ]
   },
   "Block Potion": {
@@ -148,7 +148,7 @@
   "PowerPotion": {
     "NAME": "Machttrank",
     "DESCRIPTIONS": [
-      "Erhalte eine zufällige Macht auf die Hand. Diese kostet #b0 in diesem Zug."
+      "Erhalte #b1 von #b3 zufälligen #yMachtkarten auf die Hand, die in diesem Zug #b0 kostet."
     ]
   },
   "Regen Potion": {
@@ -162,7 +162,7 @@
   "SkillPotion": {
     "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
-      "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet #b0 in diesem Zug."
+      "Erhalte #b1 von #b3 zufälligen #yFertigkeitskarten auf die Hand, die in diesem Zug #b0 kostet."
     ]
   },
   "SmokeBomb": {
