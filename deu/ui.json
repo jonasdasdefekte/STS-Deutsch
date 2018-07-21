@@ -63,12 +63,12 @@
       "Dieser Gegner schläft.",
       "Dieser Gegner ist in seinem Zug #ybetäubt.",
       "Die Absichten dieses Gegners sind #yunbekannt (wird nicht angreifen).",
-      "Blockiert"
+      "Geblockt"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Blockiert",
+      "Geblockt",
       "Der Eiserne",
       "Die Stille",
       "Das Defekte"
@@ -838,7 +838,7 @@
       "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
       "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
       "Präferenzen",
-      "Zusammengezählten Schaden in Gold anzeigen NL Blockierten Schaden in Blau anzeigen NL Einzelne Karte wählen ohne Bestätigen",
+      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Einzelne Karte wählen ohne Bestätigen",
       "Schnellmodus",
       "",
       "Diverses",

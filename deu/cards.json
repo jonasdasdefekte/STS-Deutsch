@@ -326,7 +326,7 @@
     "DESCRIPTION": "Wende an ALLEN Gegnern !M! Gift und 2 Schwach an. NL Erschöpft."
   },
   "Dagger Spray": {
-    "NAME": "Dolchfächer",
+    "NAME": "Dolchwolke",
     "DESCRIPTION": "Füge ALLEN Gegnern zweimal !D! Schaden zu."
   },
   "Dagger Throw": {
@@ -1132,7 +1132,7 @@
     "DESCRIPTION": "Wenn ein Gegner beabsichtigt anzugreifen, NL erhalte !M! Stärke."
   },
   "Stack": {
-    "NAME": "Stapel",
+    "NAME": "Stapeln",
     "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
     "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel +3.",
     "EXTENDED_DESCRIPTION": [
