@@ -508,7 +508,7 @@
     "NAME": "Schwebender Drachen",
     "FLAVOR": "Der Drachen fliegt im Kampf, angetrieben von einer mysteriösen Kraft, in deiner Nähe herum.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Zuges [G] und wirf #b1 Karte ab."
+      "Erhalte zu Beginn jedes Zuges [G] und wirf #b2 Karten ab."
     ]
   },
   "Ice Cream": {
@@ -1351,7 +1351,7 @@
     "NAME": "Weiße Bestienstatue",
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
-      "Tränke werden immer nach dem Kampf fallen gelassen."
+      "Nach jedem Kampf wird ein Trank fallen gelassen."
     ]
   },
   "WristBlade": {
