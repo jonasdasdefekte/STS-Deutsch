@@ -38,7 +38,7 @@
       "Hongkong Koma",
       "Moly",
       "koykoy13",
-	  "Magnus Upmann"
+      "Magnus Upmann"
     ]
   },
   "LOC_FRA": {
@@ -61,6 +61,14 @@
     "HEADER": "Griechische Übersetzung",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Indonesische Übersetzung",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Szaal"
     ]
   },
   "LOC_ITA": {

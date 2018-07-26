@@ -314,7 +314,7 @@
     ]
   },
   "Corruption": {
-    "NAME": "Verdorbenheit",
+    "NAME": "Verderbnis",
     "DESCRIPTION": "Fertigkeiten kosten 0. NL Immer wenn du eine Fertigkeit ausspielst, erschöpfe sie."
   },
   "Creative AI": {
@@ -334,7 +334,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe 1 Karte. NL Wirf 1 Karte ab."
   },
   "Dark Embrace": {
-    "NAME": "Dunkle Umarmung",
+    "NAME": "Dunkle Hingabe",
     "DESCRIPTION": "Immer wenn eine Karte erschöpft, NL ziehe 1 Karte."
   },
   "Dark Shackles": {
@@ -737,7 +737,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
   },
   "Juggernaut": {
-    "NAME": "Juggernaut",
+    "NAME": "Moloch",
     "DESCRIPTION": "Immer wenn du Block erhältst, füge einem zufälligen Gegner !M! Schaden zu."
   },
   "Leap": {
