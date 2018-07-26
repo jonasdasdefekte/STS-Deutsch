@@ -17,7 +17,7 @@
     ]
   },
   "Art of War": {
-    "NAME": "Kriegskunst",
+    "NAME": "Die Kunst des Krieges",
     "FLAVOR": "Dieses uralte Manuskript enthält Weisheiten aus einer vergangenen Zeit.",
     "DESCRIPTIONS": [
       "Spielst du in deinem Zug keine #yAngriffe aus, erhalte im nächsten Zug ein ",
@@ -162,8 +162,8 @@
     ]
   },
   "Cables": {
-    "NAME": "Gold-beschichtete Kabel",
-    "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
+    "NAME": "Goldbeschichtete Kabel",
+    "FLAVOR": "„Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.“ - Ranwid",
     "DESCRIPTIONS": [
       "Dein vorderster Orb aktiviert seinen passiven Effekt ein weiteres Mal."
     ]
@@ -195,7 +195,7 @@
     ]
   },
   "Centennial Puzzle": {
-    "NAME": "Jahrhunderträtsel",
+    "NAME": "Zentenniumspuzzle",
     "FLAVOR": "Du löst das Rätsel und deine Brust wird von einer starken Wärme erfüllt.",
     "DESCRIPTIONS": [
       "Das erste Mal, wenn du in einem Kampf TP verlierst, ziehe #b",
@@ -241,8 +241,8 @@
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Uhrwerk-Souvenir",
-    "FLAVOR": "\"So viele aufwändige Rädchen.\"",
+    "NAME": "Mechanisches Souvenir",
+    "FLAVOR": "„So viele aufwändige Rädchen.“",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn jedes Kampfes #b1 #yArtefakt."
     ]
@@ -328,7 +328,7 @@
   },
   "Coffee Dripper": {
     "NAME": "Kaffeefilter-Tasse",
-    "FLAVOR": "\"Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!\" - Der Architekt",
+    "FLAVOR": "„Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!“ - Der Architekt",
     "DESCRIPTIONS": [
       " NL Du kannst an Lagerfeuern nicht mehr ausruhen.",
       "Erhalte in jedem Zug [R] .",
@@ -338,7 +338,7 @@
   },
   "DollysMirror": {
     "NAME": "Dollys Spiegel",
-    "FLAVOR": "\"Darin sehe ich komisch aus.\"",
+    "FLAVOR": "„Darin sehe ich komisch aus.“",
     "DESCRIPTIONS": [
       "Beim Aufheben: Erhalte ein weiteres Exemplar einer Karte in deinem Deck.",
       "Wähle 1 Karte, die du kopierst."
@@ -381,7 +381,7 @@
   },
   "Empty Cage": {
     "NAME": "Leerer Käfig",
-    "FLAVOR": "\"Wie seltsam, etwas einzusperren, das du anbetest.\" - Ranwid",
+    "FLAVOR": "„Wie seltsam, etwas einzusperren, das du anbetest.“ - Ranwid",
     "DESCRIPTIONS": [
       "Beim Aufheben: Entferne #b2 Karten aus deinem Deck.",
       "Wähle 2 Karten, die du entfernst."
@@ -489,7 +489,7 @@
   },
   "HandDrill": {
     "NAME": "Handbohrer",
-    "FLAVOR": "\"Spiralen sind gefährlich.\"",
+    "FLAVOR": "„Spiralen sind gefährlich.“",
     "DESCRIPTIONS": [
       "Immer wenn du den #yBlock eines Gegners durchbrichst, wende #b2 #yVerwundbar an."
     ]
@@ -630,13 +630,13 @@
     "NAME": "Spar-Schlund",
     "FLAVOR": "Überraschend beliebt, obwohl immer wieder Schlund-Angriffe passieren.",
     "DESCRIPTIONS": [
-      "Wenn du eine Etage erreichst, erhalte #b",
-      " #yGold. Verfällt, sobald du #yGold im Laden bezahlst."
+      "Für jede erreichte Ebene erhältst du #b",
+      " #yGold. Endet, sobald du #yGold im Laden bezahlst."
     ]
   },
   "MealTicket": {
     "NAME": "Essenskarte",
-    "FLAVOR": "\"Kostenlose Fleischbällchen bei jedem Besuch!\"",
+    "FLAVOR": "„Kostenlose Fleischbällchen bei jedem Besuch!“",
     "DESCRIPTIONS": [
       "Wenn du einen Laden-Raum betrittst, heile #b7 TP."
     ]
@@ -694,7 +694,7 @@
     ]
   },
   "Necronomicon": {
-    "NAME": "Nekronomikon",
+    "NAME": "Necronomicon",
     "FLAVOR": "Nur ein Narr würde sich diese böse Macht aneignen wollen. Nachts träumst du davon, wie das Buch deinen Geist verschlingt.",
     "DESCRIPTIONS": [
       "Der erste #yAngriff, der jeden Zug ausgespielt wird und Kosten von #b",
@@ -743,7 +743,7 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loths hungriges Gesicht",
+    "NAME": "N'loths hungriges Gesicht",
     "FLAVOR": "Du verspürst Hunger.",
     "DESCRIPTIONS": [
       "Die nächste Truhe (außer Bosstruhen) ist leer.",
@@ -797,7 +797,7 @@
     ]
   },
   "Omamori": {
-    "NAME": "Omamori",
+    "NAME": "O-Mamori",
     "FLAVOR": "Wird oft als Talisman gegen böse Geister eingesetzt. Dieser hier enthält scheinbar einen Funken göttlicher Energie.",
     "DESCRIPTIONS": [
       "Wehre die nächsten #b2 erhaltenen #rFlüche ab.",
@@ -807,7 +807,7 @@
   },
   "OrangePellets": {
     "NAME": "Orange Pastillen",
-    "FLAVOR": "\"Hergestellt aus diversen Pilzen des Spires - vertreiben jegliche Beschwerden.\"",
+    "FLAVOR": "„Hergestellt aus diversen Pilzen des Spires - vertreiben jegliche Beschwerden.“",
     "DESCRIPTIONS": [
       "Immer wenn du im selben Zug eine #yMacht, einen #yAngriff und eine #yFertigkeit spielst, entferne alle deine Debuffs."
     ]
@@ -1001,7 +1001,7 @@
   },
   "Self Forming Clay": {
     "NAME": "Selbstformender Ton",
-    "FLAVOR": "„Wie merkwürdig! Er scheint sich basierend auf meinen Gedanken zu formen! Tele-Ton?\" – Ranwid",
+    "FLAVOR": "„Wie merkwürdig! Er scheint sich basierend auf meinen Gedanken zu formen! Tele-Ton?“ – Ranwid",
     "DESCRIPTIONS": [
       "Immer wenn du im Kampf TP verlierst, erhalte #b",
       " #yBlock im nächsten Zug."
@@ -1032,7 +1032,7 @@
   },
   "Sling": {
     "NAME": "Schleuder des Mutes",
-    "FLAVOR": "\"Praktisch, wenn man besonders harten Widersachern gegenübersteht.\"",
+    "FLAVOR": "„Praktisch, wenn man besonders harten Widersachern gegenübersteht.“",
     "DESCRIPTIONS": [
       "Beginne jeden Elite-Kampf mit #b",
       " #yStärke."
@@ -1079,7 +1079,7 @@
     ]
   },
   "SsserpentHead": {
-    "NAME": "Ssschlangenkopf",
+    "NAME": "Ssslangenkopf",
     "FLAVOR": "Am erfülltesten ist das Leben, in dem du alles kaufen kannst!",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn jedes Ereignisses #b",
@@ -1190,7 +1190,7 @@
   },
   "TheAbacus": {
     "NAME": "Der Abakus",
-    "FLAVOR": "\"Eins... Zwei... Drei...\"",
+    "FLAVOR": „Eins... Zwei... Drei...“",
     "DESCRIPTIONS": [
       "Erhalte #b6 #yBlock, wenn du deinen Nachziehstapel mischst."
     ]
@@ -1277,7 +1277,7 @@
   },
   "Toxic Egg 2": {
     "NAME": "Toxisches Ei",
-    "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
+    "FLAVOR": "„Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?“ - Ranwid",
     "DESCRIPTIONS": [
       "Immer wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
     ]
@@ -1292,14 +1292,14 @@
   },
   "Turnip": {
     "NAME": "Rübe",
-    "FLAVOR": "Am Besten mit Ingwer.",
+    "FLAVOR": "Am besten mit Ingwer.",
     "DESCRIPTIONS": [
       "Du kannst nicht mehr #yGebrechlich werden."
     ]
   },
   "TwistedFunnel": {
     "NAME": "Knotiger Trichter",
-    "FLAVOR": "\"Daraus würde ich nicht trinken.\"",
+    "FLAVOR": "„Daraus würde ich nicht trinken.“",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b4 #yGift auf ALLE Gegner an."
     ]
@@ -1351,7 +1351,7 @@
     "NAME": "Weiße Bestienstatue",
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
-      "Nach jedem Kampf wird ein Trank fallen gelassen."
+      "Tränke werden nach jedem Kampf fallen gelassen."
     ]
   },
   "WristBlade": {

@@ -314,7 +314,7 @@
     ]
   },
   "Corruption": {
-    "NAME": "Korruption",
+    "NAME": "Verdorbenheit",
     "DESCRIPTION": "Fertigkeiten kosten 0. NL Immer wenn du eine Fertigkeit ausspielst, erschöpfe sie."
   },
   "Creative AI": {
@@ -326,7 +326,7 @@
     "DESCRIPTION": "Wende an ALLEN Gegnern !M! Gift und 2 Schwach an. NL Erschöpft."
   },
   "Dagger Spray": {
-    "NAME": "Dolchwolke",
+    "NAME": "Dolchfächer",
     "DESCRIPTION": "Füge ALLEN Gegnern zweimal !D! Schaden zu."
   },
   "Dagger Throw": {
@@ -347,7 +347,7 @@
     "UPGRADE_DESCRIPTION": "Erschaffe NL !M! Schatten."
   },
   "Dash": {
-    "NAME": "Spurt",
+    "NAME": "Vorpreschen",
     "DESCRIPTION": "Erhalte !B! Block. NL Füge !D! Schaden zu."
   },
   "Dazed": {
@@ -1132,7 +1132,7 @@
     "DESCRIPTION": "Wenn ein Gegner beabsichtigt anzugreifen, NL erhalte !M! Stärke."
   },
   "Stack": {
-    "NAME": "Stapeln",
+    "NAME": "Stapel",
     "DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel.",
     "UPGRADE_DESCRIPTION": "Erhalte Block in Höhe der Kartenzahl im Abwurfstapel +3.",
     "EXTENDED_DESCRIPTION": [
@@ -1244,7 +1244,7 @@
     "DESCRIPTION": "Ziehe zu Beginn deines Zuges 1 Karte und wirf 1 Karte ab."
   },
   "Transmutation": {
-    "NAME": "Transmutation",
+    "NAME": "Umwandlung",
     "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. NL Erschöpft."
   },
