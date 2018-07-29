@@ -867,7 +867,6 @@
     "NAME": "Opfergabe",
     "DESCRIPTION": "Verliere 5 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verliere 5 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
-
   },
   "Outmaneuver": {
     "NAME": "Ausmanövrieren",
@@ -1283,7 +1282,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wirf ALLE Karten außer Angriffen ab."
   },
   "Uppercut": {
-    "NAME": "Kinnhaken",
+    "NAME": "Aufwärtshaken",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Schwach und !M! Verwundbar an."
   },
   "Venomology": {
