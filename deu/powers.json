@@ -382,8 +382,8 @@
   "Flame Barrier": {
     "NAME": "Flammenwall",
     "DESCRIPTIONS": [
-      "Immer wenn du #yAngriffsschaden erleidest, gibst du #b",
-      " Schaden zurück."
+      "Wenn du #yAngriffsschaden erleidest, werden dem Angreifer #b",
+      " Schaden zugefügt."
     ]
   },
   "Flex": {

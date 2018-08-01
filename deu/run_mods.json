@@ -23,6 +23,22 @@
     "NAME": "Vielfalt",
     "DESCRIPTION": "Karten sind nicht durch deinen Charakter eingeschränkt."
   },
+  "Red Cards": {
+    "NAME": "Rote Karten",
+    "DESCRIPTION": "Rote Karten tauchen bei Belohnungen und im Laden auf."
+  },
+  "Green Cards": {
+    "NAME": "Grüne Karten",
+    "DESCRIPTION": "Grüne Karten tauchen bei Belohnungen und im Laden auf."
+  },
+  "Blue Cards": {
+    "NAME": "Blaue Karten",
+    "DESCRIPTION": "Blaue Karten tauchen bei Belohnungen und im Laden auf."
+  },
+  "Colorless Cards": {
+    "NAME": "Farblose Karten",
+    "DESCRIPTION": "Farblose Karten tauchen häufiger auf."
+  },
   "Draft": {
     "NAME": "Draft",
     "DESCRIPTION": "Drafte die Karten für dein Startdeck."
