@@ -977,7 +977,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile so viele TP, wie die Gegner TP verloren haben. Erschöpft."
   },
   "Reboot": {
-    "NAME": "Reboot",
+    "NAME": "Neustart",
     "DESCRIPTION": "Mische alle Karten in den Nachziehstapel und ziehe !M! Karten. NL Erschöpft."
   },
   "Rebound": {
