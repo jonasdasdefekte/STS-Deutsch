@@ -587,7 +587,8 @@
   },
   "Forethought": {
     "NAME": "Planung",
-    "DESCRIPTION": "Lege eine Handkarte unter deinen Nachziehstapel. NL Sie kostet 0, bis du sie spielst."
+    "DESCRIPTION": "Lege eine Handkarte unter deinen Nachziehstapel. NL Sie kostet 0, bis du sie spielst.",
+    "UPGRADE_DESCRIPTION": "Lege eine beliebige Anzahl Handkarten unter deinen Nachziehstapel. NL Sie kosten 0, bis du sie spielst."
   },
   "Fusion": {
     "NAME": "Fusion",
@@ -865,9 +866,8 @@
   },
   "Offering": {
     "NAME": "Opfergabe",
-    "DESCRIPTION": "Verliere 5 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Verliere 5 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
-
+    "DESCRIPTION": "Verliere 6 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Verliere 6 TP. NL Erhalte [R] [R]. NL Ziehe !M! Karten. NL Erschöpft."
   },
   "Outmaneuver": {
     "NAME": "Ausmanövrieren",

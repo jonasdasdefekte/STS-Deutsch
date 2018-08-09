@@ -3,14 +3,14 @@
     "NAME": "Speer der Fäulnis",
     "DESCRIPTION": [
       "Gegner greifen #b",
-	  "% stärker an."
+      "% stärker an."
     ]
   },
   "ToughEnemies": {
     "NAME": "Schild der Fäulnis",
      "DESCRIPTION": [
       "Gegner haben #b",
-	  "% mehr TP."
+      "% mehr TP."
     ]
   },
   "TimeMaze": {
@@ -41,7 +41,8 @@
     "NAME": "Wirrkopf",
      "DESCRIPTION": [
       "Ziehe pro Zug #b",
-    " Karte weniger."
+      " Karte weniger.",
+      ""
     ]
   },
   "MimicInfestation": {

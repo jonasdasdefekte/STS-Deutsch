@@ -102,14 +102,15 @@
       " #rmax. #rTP und ",
       "[ #rVerliere #rdein #rgesamtes #rGold und ",
       "[ #rErhalte #reinen #rFluch und ",
-      "[ #rVerliere #r50% #rdeiner #raktuellen #rTP und ",
+      "[ #rVerliere #r",
       "Wähle eine Karte",
       "Wähle eine Karte, die du entfernst",
       "Wähle 2 Karten, die du entfernst",
       "Wähle eine Karte, die du transformierst",
       "Wähle 2 Karten, die du transformierst",
       "Wähle eine Karte, die du verbesserst",
-      "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]"
+      "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]",
+      " #rTP und "
     ],
     "UNIQUE_REWARDS": [
       "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"

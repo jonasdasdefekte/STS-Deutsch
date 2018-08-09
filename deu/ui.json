@@ -1179,5 +1179,24 @@
     "TEXT": [
       "Neue Freischaltung!"
     ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Spielzeit ",
+      "Freier Slot"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Spielstand löschen?",
+      "Ja",
+      "Nein",
+      "ACHTUNG: Dies kann nicht rückgängig gemacht werden."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Wähle einen Spielstand"
+    ]
   }
 }
