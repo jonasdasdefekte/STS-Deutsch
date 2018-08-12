@@ -422,6 +422,14 @@
       " Freigeschaltet!"
     ]
   },
+  "DeletePopup": {
+    "TEXT": [
+      "Spielstand löschen?",
+      "Ja",
+      "Nein",
+      "ACHTUNG: Dies kann nicht rückgängig gemacht werden."
+    ]
+  },
   "Dig Option": {
     "TEXT": [
       "Graben",
@@ -1186,17 +1194,11 @@
       "Freier Slot"
     ]
   },
-  "DeletePopup": {
-    "TEXT": [
-      "Spielstand löschen?",
-      "Ja",
-      "Nein",
-      "ACHTUNG: Dies kann nicht rückgängig gemacht werden."
-    ]
-  },
   "SaveSlotScreen": {
     "TEXT": [
-      "Wähle einen Spielstand"
+      "Wähle einen Spielstand",
+      "Umbenennen",
+      "Diesen Spielstand löschen"
     ]
   }
 }
