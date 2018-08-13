@@ -1050,7 +1050,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Kann beliebig oft verbessert werden."
   },
   "Second Wind": {
-    "NAME": "Kräfte sammeln",
+    "NAME": "Kräfte bündeln",
     "DESCRIPTION": "Erschöpfe alle Handkarten außer Angriffen und erhalte !B! Block für jede."
   },
   "Secret Technique": {
@@ -1093,7 +1093,7 @@
   },
   "Sever Soul": {
     "NAME": "Seele trennen",
-    "DESCRIPTION": "Erschöpfe alle Handkarten, die keine Angriffe sind. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Erschöpfe alle Handkarten außer Angriffen. NL Füge !D! Schaden zu."
   },
   "Shiv": {
     "NAME": "Messer",
