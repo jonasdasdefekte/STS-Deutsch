@@ -335,7 +335,7 @@
   },
   "Dark Embrace": {
     "NAME": "Dunkle Hingabe",
-    "DESCRIPTION": "Immer wenn eine Karte erschöpft, NL ziehe 1 Karte."
+    "DESCRIPTION": "Immer wenn eine Karte erschöpft wird, NL ziehe 1 Karte."
   },
   "Dark Shackles": {
     "NAME": "Dunkle Fesseln",
@@ -521,7 +521,7 @@
   },
   "Feel No Pain": {
     "NAME": "Schmerzfrei",
-    "DESCRIPTION": "Immer wenn du eine Karte erschöpfst, NL erhalte !M! Block."
+    "DESCRIPTION": "Immer wenn eine Karte erschöpft wird, NL erhalte !M! Block."
   },
   "Fiend Fire": {
     "NAME": "Teufelsfeuer",
