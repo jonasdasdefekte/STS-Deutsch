@@ -522,7 +522,7 @@
     "NAME": "Räucherschale",
     "FLAVOR": "Der Weihrauch durchtränkt den Besitzer mit dem Geist des Verbrannten.",
     "DESCRIPTIONS": [
-      "Erhalte alle #b5 Züge #b1 #yImmateriell."
+      "Erhalte alle #b6 Züge #b1 #yImmateriell."
     ]
   },
   "Inserter": {
@@ -856,7 +856,7 @@
     "NAME": "Papierkranich",
     "FLAVOR": "Origami in der Form einer Kreatur aus einer vergangenen Zeit.",
     "DESCRIPTIONS": [
-      "Gegner mit #ySchwach verursachen #b50% weniger Schaden statt #b25%."
+      "Gegner mit #ySchwach verursachen #b40% weniger Schaden statt #b25%."
     ]
   },
   "Paper Frog": {

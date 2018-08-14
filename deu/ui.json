@@ -120,7 +120,12 @@
       "Verbesserte Karten erscheinen seltener.",
       "Arme Bosse.",
       "Weniger max. TP.",
-      "(Höchstes Level) Ungünstige Ereignisse."
+      "Ungünstige Ereignisse.",
+      "Läden sind teurer.",
+      "Normale Gegner haben eine schwerere KI.",
+      "Eliten haben eine schwerere KI.",
+      "Bosse haben eine schwerere KI.",
+      "(Höchstes Level) Doppelter Boss."
     ]
   },
   "AscensionTextEffect": {
@@ -679,7 +684,8 @@
       "Serbisch (Latinisiert)",
       "Katalanisch",
       "Griechisch",
-      "Indonesisch"
+      "Indonesisch",
+      "Esperanto"
     ]
   },
   "LeaderboardFilters": {
