@@ -396,7 +396,8 @@
   "Flight": {
     "NAME": "Flug",
     "DESCRIPTIONS": [
-      "Verringert zugefügten #yAngriffsschaden um #b50%. Flug endet, wenn in einem Zug #b3 Mal #yAngriffsschaden verursacht wird."
+      "Verringert zugefügten #yAngriffsschaden um #b50%. Flug endet nach #b",
+      " Mal #yAngriffsschaden in einem Zug."
     ]
   },
   "Focus": {
