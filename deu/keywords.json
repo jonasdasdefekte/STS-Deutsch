@@ -130,6 +130,12 @@
       ],
       "DESCRIPTION": "Diese Karte muss noch freigeschaltet werden."
     },
+    "LOCK_ON": {
+      "NAMES": [
+        "anvisieren"
+      ],
+      "DESCRIPTION": "Anvisierte Ziele erhalten #b50% mehr Schaden durch Orbs."
+    },
     "OPENER": {
       "NAMES": [
         "eröffnung"

@@ -693,6 +693,14 @@
       "Immer wenn du eine #yMacht ausspielst, kostet eine zufällige Handkarte in diesem Zug #b0."
     ]
   },
+  "MutagenicStrength": {
+    "NAME": "Mutagen-Kraft",
+    "FLAVOR": "„Die Resultate sind wohl flüchtig und werden ausgelöst, wenn das Subjekt in Gefahr ist.“ - Unbekannt",
+    "DESCRIPTIONS": [
+      "Beginne jeden Kampf mit #b",
+      " #yStärke, die du am Ende deines Zuges verlierst."
+    ]
+  },
   "Necronomicon": {
     "NAME": "Necronomicon",
     "FLAVOR": "Nur ein Narr würde sich diese böse Macht aneignen wollen. Nachts träumst du davon, wie das Buch deinen Geist verschlingt.",

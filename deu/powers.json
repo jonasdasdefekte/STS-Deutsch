@@ -519,9 +519,10 @@
   "Lockon": {
     "NAME": "Anvisieren",
     "DESCRIPTIONS": [
-      "Die Orbs #yBlitz and #ySchatten treffen diesen Gegner für die nächsten #b",
-      " Züge.",
-      "Die Orbs #yBlitz und #ySchatten treffen diesen Gegner in diesem Zug."
+      "Erleidet #b",
+      "% mehr Schaden durch Orbs (für #b",
+      " Zug).",
+      " Züge)."
     ]
   },
   "Loop": {

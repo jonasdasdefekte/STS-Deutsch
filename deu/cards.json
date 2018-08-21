@@ -546,7 +546,7 @@
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Entlade alle deine Orbs. Erhalte einen Orb-Slot pro entladenem Orb. NL Erschöpft."
+    "DESCRIPTION": "Entferne alle deine Orbs. Erhalte [B] und ziehe !M! Karte pro entferntem Orb. NL Erschöpft."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
@@ -730,7 +730,7 @@
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
-    "DESCRIPTION": "Verliere 3 TP. NL Erhalte !M! Stärke. NL Erschöpft."
+    "DESCRIPTION": "Verliere 3 TP. NL Erhalte !M! Stärke."
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
@@ -755,8 +755,8 @@
     "UPGRADE_DESCRIPTION": "Verdoppele deine Stärke."
   },
   "Lockon": {
-    "NAME": "Anvisieren",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Für die nächsten !M! Züge treffen die Orbs Blitz und Schatten diesen Gegner."
+    "NAME": "Ins Schwarze",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wende !M! Anvisieren an."
   },
   "Loop": {
     "NAME": "Schleife",
@@ -787,8 +787,8 @@
   },
   "Masterful Stab": {
     "NAME": "Meisterstich",
-    "DESCRIPTION": "Nur spielbar, wenn du keine anderen Karten auf deiner Hand hast. NL Füge !D! Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Das muss meine NL einzige Karte sein."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du Schaden erleidest, steigen die Kosten dieser Karte um 1.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
     "NAME": "Wilder Kampf",

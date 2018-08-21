@@ -18,21 +18,21 @@
     ]
   },
   "Addict": {
-    "NAME": "Abhängiger",
+    "NAME": "Flehender Landstreicher",
     "DESCRIPTIONS": [
-      "Als du versuchst, dich an einer Gruppe verschleierter Figuren vorbeizuschleichen, kommt ein nackter, rothäutiger Mann auf dich zu. NL „Hast du etwas #yJ.A.X., mein Freund? Ich hab schlimmes @Zittern!@ Bitte... vielleicht ein paar #yMünzen?“ NL Er scheint wahnhaft, aber harmlos zu sein.",
+      "Als du an einer Gruppe verschleierter Figuren vorbeischleichst, kommt einer von ihnen auf dich zu. NL „Hast du etwas für mich, mein Freund? Bitte... vielleicht ein paar #yMünzen?“ NL „Ich brauche nur einen Platz zum Wohnen, ich habe Schätze dafür einzutauschen...“ NL Er wirkt wahnhaft, aber harmlos.",
       "„Oh ja, ~ja!~ Hier, ein fairer Handel!“",
-      "Der Süchtige ist außer sich, er schreit dich an und verflucht dich. NL Du entkommst, bevor du ungewollte Aufmerksamkeit erregst."
+      "Du schnappst dir das wertvolle #yRelikt aus seiner Jackentasche und läufst fort. NL Hinter dir kannst du hören: NL „Schämst du nicht nicht? ~SCHÄÄÄÄMST~ ~DU~ ~DICH~ ~NICHT?!~“ NL Du #pschämst dich."
     ],
     "OPTIONS": [
       "[Gold geben] #y",
       " #yGold: #gErhalte #gein #gRelikt.",
       "[Gesperrt] Erfordert: ",
       " Gold.",
-      "[JAX geben] #gErhalte #gein #gRelikt. #rVerliere J.A.X.",
-      "[Gesperrt] Erfordert: J.A.X.",
-      "[Verlassen] Ignoriere den Süchtigen.",
-      "[Verlassen]"
+      "[Rauben] #gErhalte #gein #gRelikt. #rWerde #rverflucht #r- #rScham.",
+      "[Verlassen]",
+      "",
+      ""
     ]
   },
   "Back to Basics": {
@@ -140,8 +140,8 @@
       "NL Obwohl seine #yBesitztümer #ynoch #yintakt #ysind, kannst du nicht nachvollziehen, was hier passiert ist...",
       "Du hast ein wenig #yGold gefunden! NL Weitersuchen?",
       "Hmmm, nichts gefunden... NL Weitersuchen?",
-      "Du hast ein #yRelikt gefunden! Weitersuchen?",
-      "Sieht aus, als hättest all seine Besitztümer durchsucht!"
+      "Du hast ein #yRelikt gefunden! NL Weitersuchen?",
+      "Anscheinend hast du all seine Habseligkeiten durchsucht, ohne dabei gestört zu werden!"
     ],
     "OPTIONS": [
       "[Durchsuchen] #gFinde #gBeute. #r",
@@ -151,20 +151,49 @@
       "%: #rMonster #rkehrt #rzurück."
     ]
   },
-  "Drug Dealer": {
-    "NAME": "J.A.X.-Dealer",
+  "Designer": {
+    "NAME": "Designer In-Spire",
     "DESCRIPTIONS": [
-      "Ein Mann mit einer Augenklappe und einem teuflischem Grinsten schlendert lässig zu dir herüber. NL „Heda, Fremder. Bist du an ein wenig #yJ.A.X. interessiert? Es wird dich stärker als machen als jedes Training und jeder Segen. Du wirst es brauchen, falls du einer dieser Helden mit Todessehnsucht bist. NL Was sagst du? Willst du #yGEJAXXT werden?“ NL ",
-      "~„Ausgezeichnet.“~ NL Der Mann reicht dir eine gefährlich aussehende Spritze, die mit einer leuchtenden Flüssigkeit gefüllt ist, bevor er in eine dunkle Gasse davonschleicht.",
-      "„Auch egal, es gibt immer einen anderen...“ NL Der Mann schlendert davon."
+      "Du entdeckst einen #g~bunten~ Laden mit dem Banner „IN-SPIRE“ und gehst hinein, um zu schauen, was drinnen ist. NL „Nein, auf keinen Fall. Nö. Ich kann dich nicht reinlassen!“ NL NL Ein Mann mit lächerlicher Kleidung erscheint am Eingang, um dich auszuschließen.",
+      "„Das reicht nicht aus, nein nein. Was ist das für ein Stil? @Scheußlich!@ #rBluuuutest du etwa? #p~Eeeklig.~ @Geschäfte??@ Du bist ein Kunde? Gut. ~Egaaal.“~ NL Er lässt ein übertriebenes Seufzen heraus und zeigt auf eine Liste mit Diensten. NL NL Die Dienste sehen gut aus, aber lieber würdest du diesem eingebildeten Typen in sein eingebildetes Gesicht schlagen.",
+      "„Okay, tschüss jetzt.“ NL NL ...du hättest ihn schlagen sollen.",
+      "Du schlägst ihn so stark, dass deine Faust wehtut. NL „Mein @GESICHT!!@ Jetzt muss ich-“ NL NL Er ist in Ohnmacht gefallen. Wer ist jetzt #p~eeeklig~ und #rbluuuutet?"
     ],
     "OPTIONS": [
-      "[Bezahlen] #y",
-      " #yGold: #gWerde #gGEJAXXT.",
-      "[Gesperrt] Erfordert: ",
-      " Gold.",
+      "[Fortsetzen]",
+      "[Anpassungen] #rVerliere #r",
+      "[Entrümpeln] #rVerliere #r",
+      "[Komplettservice] #rVerliere #r",
+      "[Schlagen] #rVerliere #r",
+      " #rTP.",
+      " #rGold. ",
+      "#gVerbessere #g",
+      " #gzufällige #gKarten.",
+      "#gVerbessere #geine #gKarte.",
+      "#gEntferne #geine #gKarte.",
+      "#gTransformiere #g",
+      " #gKarten.",
+      "#gEntferne #geine #gKarte #gund #gverbessere #geine #gzufällige #gKarte.",
       "[Verlassen]",
-      "[Ablehnen]"
+      "Wähle eine Karte, die du verbesserst",
+      "Wähle 2 Karten, die du transformierst",
+      "Wähle eine Karte, die du entfernst"
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Erweiterer",
+    "DESCRIPTIONS": [
+      "Ein Mann mit einer Augenklappe und einem teuflischem Grinsen schlendert lässig zu dir herüber. NL „Heda, Fremder. Bist du interessiert, die Wissenschaft voranzubringen? Kein Training oder Segen kann dich so stark machen, wie ich es kann. Du wirst es brauchen, falls du einer dieser Helden mit Todessehnsucht bist. NL ~Was~ ~sagste?~“",
+      "~„Ausgezeichnet.“~ NL Der Mann reicht dir eine gefährlich aussehende Spritze, die mit einer leuchtenden Flüssigkeit gefüllt ist, bevor er in eine dunkle Gasse davonschleicht.",
+      "~„Großartig.“~ NL Der Mann spritzt dir drei unbekannte Substanzen ein und zieht ein Notizbuch hervor. Als dir langsam schwindlig wird, fängt er an, wie wahnsinnig Notizen niederzukritzeln. NL Ohne jegliches Gespür von Zeit zu haben, kommst du irgendwann wieder zu Sinnen, aber die dubiose Person ist verschwunden."
+      "~„Wunderbar.“~ NL Du säufst die mysteriöse Substanz herunter. Sofort bist du gestärkt und spürst deine Muskelfasern @zucken.@"
+    ],
+    "OPTIONS": [
+      "[J.A.X. testen] #gWerde #gGEJAXXT.",
+      "[Versuchsperson werden] #gTransformiere #g3 #gzufällige #gKarten.",
+      "[Mutagene einnehmen] #gErhalte #gein #gbesonderes #gRelikt.",
+      "[Verlassen]",
+      "[Gesperrt] Erfordert: 3 oder mehr Karten im Deck."
     ]
   },
   "Duplicator": {
