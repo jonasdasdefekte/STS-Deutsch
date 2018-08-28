@@ -344,7 +344,7 @@
   "Darkness": {
     "NAME": "Dunkelheit",
     "DESCRIPTION": "Erschaffe NL !M! Schatten.",
-    "UPGRADE_DESCRIPTION": "Erschaffe NL !M! Schatten."
+    "UPGRADE_DESCRIPTION": "Erschaffe NL !M! Schatten. NL Löse den passiven Effekt aller Schattenorbs aus."
   },
   "Dash": {
     "NAME": "Vorpreschen",
@@ -978,7 +978,7 @@
   },
   "Reboot": {
     "NAME": "Neustart",
-    "DESCRIPTION": "Mische alle Karten in den Nachziehstapel und ziehe !M! Karten. NL Erschöpft."
+    "DESCRIPTION": "Mische alle Karten in den Nachziehstapel. NL Ziehe !M! Karten. NL Erschöpft."
   },
   "Rebound": {
     "NAME": "Rückstoß",
