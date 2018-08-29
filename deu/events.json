@@ -2,12 +2,12 @@
   "Accursed Blacksmith": {
     "NAME": "Verwunschene Schmiede",
     "DESCRIPTIONS": [
-      "Du betrittst eine kleine Hütte. Drinnen findest du etwas, das eine Schmiede zu sein scheint. Die Schmiedewerkzeuge sind mit Staub bedeckt, doch im Ofen lodert ein Feuer. Du bist nervös...",
+      "Du betrittst eine kleine Hütte. Drinnen stellst du fest, dass es wohl eine Schmiede ist. Die Schmiedewerkzeuge sind mit Staub bedeckt, doch im Ofen lodert ein Feuer. Du bist nervös...",
       "Du entschließt dich, die Schmiede zu benutzen und... NL #y@KLONK @ #y@KLOOONK@ #y@KLONK!@ NL ... verbesserst dein Arsenal!",
-      "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Nachdem du unter Planen und in Kisten, Ecken und Rissen gesucht hast, findest du ein verstaubtes #y~Relikt!~ ",
+      "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Nachdem du Planen gelüftet, Kisten durchsucht und in die Winkel und Ecken geschaut hast, findest du ein staubbedecktes #y~Relikt!~ ",
       "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir und #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme...",
       "Du kannst dieses #r~üble~ #r~Gefühl~ nicht abschütteln, als du die Hütte verlässt. Vielleicht hast du eine Art Geist aufgeschreckt?",
-      "Es scheint nichts von Nutzen zu geben. Du verschwindest auf dem Weg, den du gekommen bist, während die Flammen des Ofens #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
+      "Es scheint hier nichts von Nutzen zu geben. Du verschwindest auf dem Weg, den du gekommen bist, während die Flammen des Ofens #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
     ],
     "OPTIONS": [
       "[Schmieden] #gVerbessere #geine #gKarte.",
@@ -889,7 +889,7 @@
   "Winding Halls": {
     "NAME": "Gewundene Hallen",
     "DESCRIPTIONS": [
-      "Während du deinen Weg über die grkrümmten Pfade fortsetzt, verläufst du dich immer wieder, da die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. NL NL Die ständig in deinem Hinterkopf #p~flüsternden~ #p~Stimmen~ helfen auch nicht gerade weiter.",
+      "Während du deinen Weg über die gekrümmten Pfade fortsetzt, verläufst du dich immer wieder, da die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. NL NL Die ständig in deinem Hinterkopf #p~flüsternden~ #p~Stimmen~ helfen auch nicht gerade weiter.",
       "An einem Gebilde, von dem du sicher bist, dass du es schon vorher gesehen hast, fängst du an, dich zu fragen, ob du den Verstand verlierst oder ob die unmögliche Geographie dieses Ortes dich langsam in die Irre führt. Du musst etwas ändern, und zwar schnell. NL NL Jedenfalls sagen das #p~die~ #p~Stimmen~, und warum sollten sie lügen?",
       "Etwas in dir zerbricht. NL NL Nur ein wahrhaft Verrückter kann einen Ort wie diesen verstehen, also gibst du den plappernden Stimmen nach und setzt deine Reise mit einem #p~„neuen“~ Blickwinkel fort. NL Alles scheint jetzt soviel mehr Sinn zu ergeben.",
       "Als du einen Moment anhältst, um die hügelige Landschaft zu betrachten, meinst du plötzlich eine Art Muster in der Willkürlichkeit der Umgebung zu erkennen. Immer, wenn die verrückten Geräusche deine Gedanken zu stören beginnen, erträgst du den geistigen Schmerz und ignorierst sie. NL NL Nach eine Weile gelingt es dir, einen Weg nach vorn festzulegen, und du gehst weiter – fortan immun gegen die schändliche Natur dieses fremdartigen Ortes.",
@@ -902,7 +902,7 @@
       "[Konzentrieren] #rWerde #rverflucht #r– #rLeid. #gHeile #g",
       "[Verlassen]",
       " #gTP.",
-      "[Spur Zurückverfolgen] #rVerliere #r",
+      "[Spur zurückverfolgen] #rVerliere #r",
       " #rMax #rTP."
     ]
   },

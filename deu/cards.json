@@ -1221,7 +1221,7 @@
   },
   "The Bomb": {
     "NAME": "Die Bombe",
-    "DESCRIPTION": "Füge in 3 Zügen ALLEN Gegnern am Zugende !M! Schaden zu."
+    "DESCRIPTION": "Füge nach 3 Zügen ALLEN Gegnern !M! Schaden zu."
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",
