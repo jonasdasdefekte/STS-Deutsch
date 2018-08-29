@@ -344,7 +344,8 @@
       " NL TAB #yMods: ",
       "Modifikatoren: ",
       "Ranglisten",
-      "*Errungenschaften sind beim Täglichen Aufstieg abgeschaltet."
+      "*Errungenschaften sind beim Täglichen Aufstieg abgeschaltet.",
+    "  [OFFLINEMODUS]"
     ]
   },
   "DeathScreen": {
