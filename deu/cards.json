@@ -1245,8 +1245,8 @@
   },
   "Transmutation": {
     "NAME": "Umwandlung",
-    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. Sie kosten in diesem Zug 0. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. Sie kosten in diesem Zug 0. NL Erschöpft."
   },
   "Trip": {
     "NAME": "Straucheln",
