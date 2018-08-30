@@ -93,7 +93,7 @@
     "NAME": "Blaue Kerze",
     "FLAVOR": "In der Dunkelheit entzündet sich die Flamme von selbst.",
     "DESCRIPTIONS": [
-      "#yFluchkarten können jetzt ausgespielt werden. NL NL Spielst du einen #yFluch aus, verlierst du #b",
+      "#yUnspielbare #yFluchkarten können jetzt ausgespielt werden. NL NL Spielst du einen #yFluch aus, verlierst du #b",
       " TP und #yerschöpfst die Karte."
     ]
   },
@@ -653,7 +653,7 @@
     "NAME": "Verbandskasten",
     "FLAVOR": "„Enthält alles, was du brauchst! Anti-Juckreiz, Anti-Brandwunden, Anti-Gift und vieles mehr!“",
     "DESCRIPTIONS": [
-      "#yStatuskarten können jetzt ausgespielt werden. Spielst du einen #yStatus aus, wird die Karte #yerschöpft."
+      "#yUnspielbare #yStatuskarten können jetzt ausgespielt werden. Spielst du einen #yStatus aus, wird die Karte #yerschöpft."
     ]
   },
   "Membership Card": {
