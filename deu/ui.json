@@ -968,6 +968,35 @@
       "Wähle eine Karte"
     ]
   },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+     "Gremlinbande",
+   "Großer Schleim",
+   "Exordium-Diebe",
+   "Exordium-Fauna",
+   "Schleimhorde",
+   "Kleine Schleime",
+   "Stadt-Räuber",
+   "Drei Fögl",
+   "Vier Fögl",
+   "Kultisten-Trio",
+   "Erwählte mit Vieh",
+   "Wache und Sphärischer Wächter",
+   "Zenturio und Mystikerin",
+   "Parasit und Pilzbestie",
+   "Bande maskierter Banditen",
+   "Kolosseum-Aristos",
+   "Kolosseum-Sklavenhändler",
+   "Drei Gestalten",
+   "Kieferwurmhorde",
+   "Vier Gestalten",
+   "Sphärischer Wächter mit Gestalten",
+   "Zwei Kugelwandler",
+   "Donu und Deca",
+   "Drei Wachen",
+   "Erwählter und Kultist"
+    ]
+  },
   "RunHistoryPathNodes": {
     "TEXT": [
       "Unbekannt",

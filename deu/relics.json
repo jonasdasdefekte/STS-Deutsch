@@ -135,6 +135,14 @@
       " auf deiner Hand."
     ]
   },
+  "Brimstone": {
+    "NAME": "Schwefel",
+    "FLAVOR": "Verströmt teuflische Hitze.",
+    "DESCRIPTIONS": [
+      "Jeder erhält zu Beginn deines Zuges #b",
+      " #yStärke."
+    ]
+  },
   "Bronze Scales": {
     "NAME": "Bronzeschuppen",
     "FLAVOR": "Die scharfen Schuppen des Wächters. Platzieren sich neu, um den Benutzer zu schützen. ",
@@ -408,6 +416,13 @@
     "FLAVOR": "Alle lieben Priester.",
     "DESCRIPTIONS": [
       "Erhöhe deine max. TP nach jedem Kampf um #b1."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Versteinerte Helix",
+    "FLAVOR": "Dieses Fossil wirkt unzerstörbar - du fragst dich, zu was für einer Kreatur es einst gehörte.",
+    "DESCRIPTIONS": [
+      "Verhindere deinen ersten TP-Verlust in jedem Kampf."
     ]
   },
   "Frozen Egg": {
@@ -905,6 +920,13 @@
       "Erhalte in jedem Zug [B] ."
     ]
   },
+  "Pocketwatch": {
+    "NAME": "Taschenuhr",
+    "FLAVOR": "Anscheinend sind die Zeiger auf 3 Uhr stehengeblieben.",
+    "DESCRIPTIONS": [
+      "Immer wenn du #b3 oder weniger Karten in einem Zug spielst, ziehe zu Beginn deines nächsten Zuges #b3 Karten mehr."
+    ]
+  },
   "Potion Belt": {
     "NAME": "Trankgürtel",
     "FLAVOR": "Mit diesem Gürtel kann ich mehr Tränke tragen!",
@@ -917,6 +939,21 @@
     "FLAVOR": "Das Rad dreht sich immerfort und bleibt nie stehen.",
     "DESCRIPTIONS": [
       "Reguläre Gegner lassen jetzt ein weiteres Mal Karten fallen."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Konserviertes Insekt",
+    "FLAVOR": "Das Insekt scheint eine Schrumpf-Aura auszustrahlen, welche besonders große Gegner trifft.",
+    "DESCRIPTIONS": [
+      "Gegner in Elite-Räumen haben #b",
+      "% weniger TP."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prisma-Scherbe",
+    "FLAVOR": "Beim Blick durch die Glasscherbe eröffnen sich dir völlig neue Perspektiven.",
+    "DESCRIPTIONS": [
+      "Kampf-Kartenbelohnungen enthalten jetzt auch farblose und andersfarbige Karten."
     ]
   },
   "Question Card": {

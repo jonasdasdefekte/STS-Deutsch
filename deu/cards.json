@@ -546,7 +546,8 @@
   },
   "Fission": {
     "NAME": "Spaltung",
-    "DESCRIPTION": "Entferne alle deine Orbs. Erhalte [B] und ziehe !M! Karte pro entferntem Orb. NL Erschöpft."
+    "DESCRIPTION": "Entferne alle deine Orbs. Erhalte [B] und ziehe !M! Karte pro entferntem Orb. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Entferne alle deine Orbs. Erhalte [B] und ziehe !M! Karte pro entferntem Orb. NL Erschöpft."
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
