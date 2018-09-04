@@ -970,11 +970,11 @@
   },
   "RunHistoryMonsterNames": {
     "TEXT": [
-     "Gremlinbande",
+     "Gremlingruppe",
    "Großer Schleim",
    "Exordium-Diebe",
    "Exordium-Fauna",
-   "Schleimhorde",
+   "Schleimschwarm",
    "Kleine Schleime",
    "Stadt-Räuber",
    "Drei Fögl",
@@ -994,7 +994,7 @@
    "Zwei Kugelwandler",
    "Donu und Deca",
    "Drei Wachen",
-   "Erwählter und Kultist"
+   "Erwählte und Kultist"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1041,7 +1041,7 @@
       "Zurück",
       "Keine Run-Historie gefunden. NL Geh und Schlag den Spire!",
       "Aufstieg Level: ",
-      "Besiegt auf Ebene %1$d von %2$s",
+      "Besiegt auf Ebene %1$d - Gegner: %2$s",
       "Run verlassen auf Ebene %d",
       "Sieg!",
       "Karten",
