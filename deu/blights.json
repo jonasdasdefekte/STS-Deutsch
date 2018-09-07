@@ -8,14 +8,14 @@
   },
   "ToughEnemies": {
     "NAME": "Schild der Fäulnis",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Gegner haben #b",
       "% mehr TP."
     ]
   },
   "TimeMaze": {
     "NAME": "Verirrte Zeit",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Du kannst nicht mehr als #b",
       " Karten pro Zug spielen.",
       "Ich kann nicht mehr als NL #r"
@@ -23,7 +23,7 @@
   },
   "TwistingMind": {
     "NAME": "Verdrehter Verstand",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Erhalte am Ende deines Zuges #b",
       " zufällige Statuskarte auf den Nachziehstapel.",
       ""
@@ -31,15 +31,15 @@
   },
   "Accursed": {
     "NAME": "Verwünscht",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Immer wenn du einen Boss besiegst, erhalte #b",
-    " zufällige #yFlüche.",
-    ""
+      " zufällige #yFlüche.",
+      ""
     ]
   },
   "Scatterbrain": {
     "NAME": "Wirrkopf",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Ziehe pro Zug #b",
       " Karte weniger.",
       ""
@@ -47,34 +47,34 @@
   },
   "MimicInfestation": {
     "NAME": "Tückische Truhen",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Schatzräume werden in künftigen Akten durch Eliten ersetzt. Eliten lassen keine Relikte mehr fallen."
     ]
   },
   "FullBelly": {
     "NAME": "Maulkorb",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Du kannst deine max. TP nicht mehr erhöhen. Jedes Heilen wird um die Hälfte reduziert."
     ]
   },
   "GrotesqueTrophy": {
     "NAME": "Groteske Trophäe",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Beim Aufheben: Erhalte #b",
-    " #rStolz.",
-    "Du wirst furchtbar stolz..."
+      " #rStolz.",
+      "Du wirst furchtbar stolz..."
     ]
   },
   "BlightedDurian": {
     "NAME": "Fäulnis-Durianfrucht",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Verliere #b",
-    "% deiner max. TP."
+      "% deiner max. TP."
     ]
   },
   "VoidEssence": {
     "NAME": "Essenz der Leere",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Erhalte in jedem Zug #b",
       " [R] weniger.",
       " [G] weniger.",
@@ -83,18 +83,18 @@
   },
   "GraspOfShadows": {
     "NAME": "Spuk",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Gegner beginnen den Kampf mit #b",
-    " #yImmateriell."
+      " #yImmateriell."
     ]
   },
   "MetallicRebirth": {
     "NAME": "Antike Aufwertung",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Gegner beginnen den Kampf mit #b",
-    " #yArtefakt, #b",
-    " #yPanzerrüstung und #b",
-    " #yRegenerieren."
+      " #yArtefakt, #b",
+      " #yPanzerrüstung und #b",
+      " #yRegenerieren."
     ]
   }
 }

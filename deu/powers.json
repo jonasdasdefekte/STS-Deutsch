@@ -155,8 +155,8 @@
     "NAME": "Leichenexplosion",
     "DESCRIPTIONS": [
       "Sobald dieser Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe seiner max. TP zu.",
-    "When this enemy dies, deal damage to ALL enemies equal to #b",
-    " times its Max HP."
+      "Sobald dieser Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe #b",
+      " mal seiner max. TP zu."
     ]
   },
   "Corruption": {
@@ -310,7 +310,7 @@
       " zusätzliche [B] im nächsten Zug.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
-    },
+  },
   "Entangled": {
     "NAME": "Verstrickt",
     "DESCRIPTIONS": [

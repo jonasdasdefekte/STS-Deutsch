@@ -6,12 +6,12 @@
       "Du entschließt dich, die Schmiede zu benutzen und... NL #y@KLONK@ #y@KLOOONK@ #y@KLONK!@ NL ... verbesserst dein Arsenal!",
       "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Nachdem du Planen gelüftet, Kisten durchsucht und in die Winkel und Ecken geschaut hast, findest du ein staubbedecktes #y~Relikt!~ ",
       "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir und #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme...",
-      "Du kannst dieses #r~üble~ #r~Gefühl~ nicht abschütteln, als du die Hütte verlässt. Vielleicht hast du eine Art Geist aufgeschreckt?",
+      "NL NL Nachdem du das Relikt genommen hast, wirst du während des verlassens der Hütte dieses plötzliche Gefühl eines #r~stechenden~ #r~Schmerzes~ nicht los. Vielleicht hast du eine Art Geist aufgeschreckt?",
       "Es scheint hier nichts von Nutzen zu geben. Du verschwindest auf dem Weg, den du gekommen bist, während die Flammen des Ofens #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
     ],
     "OPTIONS": [
       "[Schmieden] #gVerbessere #geine #gKarte.",
-      "[Durchstöbern] #gErhalte #gein #gRelikt. #rWerde #rverflucht #r– #rNormalität.",
+      "[Durchstöbern] #gErhalte #gein #gbesonderes #gRelikt. #rWerde #rverflucht #r– #rSchmerz.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern",
       "[Gesperrt] Erfordert: Verbesserbare Karten"
@@ -109,16 +109,16 @@
     "NAME": "Das Kolosseum",
     "DESCRIPTIONS": [
       "@Tschack!!!@ NL .. NL ...... NL ... NL ~Du~ ~wurdest~ ~bewusstlos~ ~geschlagen...~",
-    "~Benommen~ und mit @pochendem@ Schädel wachst du auf und findest dich wieder inmitten eines riesigen Stadions mit einem überbordenden Publikum von #bSlavernhändlern, #pKultisten und anderen Bewohnern der Stadt! NL ",
-    " NL Ein gepanzerter Riese mit einer #ygoldenen #yKrone brüllt von oben in deine Richtung: NL @„WIR@ @BEGINNEN@ @NUN@ @DEN@ @",
-    ".@ @KAMPF!!!!“@ NL Auf der Seite dir gegenüber öffnet sich ein Tor...",
-    "@„GUT@ @GEMACHT,@ @SCHWÄCHLING!“@ NL Der Riese lässt sich zu einem spöttischen Klatschen herab und stachelt die Menge mit seinen übertriebenen Gesten an. NL #y~Gold~ ~und~ #y~Konfetti~ ~regnen~ ~auf~ ~dich!~ NL @„ZEIT@ @FÜR@ @DIE@ @ECHTE@ @HERAUSFORDERUNG!!“@ NL NL Der vorige Kampf hat eine kleine Öffnung in der Mauer des Kolosseums hinterlassen, durch die du leicht fliehen könntest, solange die Leute abgelenkt sind. NL Willst du bleiben und kämpfen?"
+      "~Benommen~ und mit @pochendem@ Schädel wachst du auf und findest dich wieder inmitten eines riesigen Stadions mit einem überbordenden Publikum von #bSlavernhändlern, #pKultisten und anderen Bewohnern der Stadt! NL ",
+      " NL Ein gepanzerter Riese mit einer #ygoldenen #yKrone brüllt von oben in deine Richtung: NL @„WIR@ @BEGINNEN@ @NUN@ @DEN@ @",
+      ".@ @KAMPF!!!!“@ NL Auf der Seite dir gegenüber öffnet sich ein Tor...",
+      "@„GUT@ @GEMACHT,@ @SCHWÄCHLING!“@ NL Der Riese lässt sich zu einem spöttischen Klatschen herab und stachelt die Menge mit seinen übertriebenen Gesten an. NL #y~Gold~ ~und~ #y~Konfetti~ ~regnen~ ~auf~ ~dich!~ NL @„ZEIT@ @FÜR@ @DIE@ @ECHTE@ @HERAUSFORDERUNG!!“@ NL NL Der vorige Kampf hat eine kleine Öffnung in der Mauer des Kolosseums hinterlassen, durch die du leicht fliehen könntest, solange die Leute abgelenkt sind. NL Willst du bleiben und kämpfen?"
     ],
     "OPTIONS": [
       "[Weiter]",
-    "[Kämpfen]",
-    "[FEIGHEIT] Fliehen.",
-    "[SIEG] Ein mächtiger Kampf mit vielen Belohnungen."
+      "[Kämpfen]",
+      "[FEIGHEIT] Fliehen.",
+      "[SIEG] Ein mächtiger Kampf mit vielen Belohnungen."
     ]
   },
   "Cursed Tome": {
@@ -209,7 +209,8 @@
       "[Versuchsperson werden] #gTransformiere #g3 #gzufällige #gKarten.",
       "[Mutagene einnehmen] #gErhalte #gein #gbesonderes #gRelikt.",
       "[Verlassen]",
-      "[Gesperrt] Erfordert: 3 oder mehr Karten im Deck."
+      "[Gesperrt] Erfordert: 3 oder mehr Karten im Deck.",
+      ""
     ]
   },
   "Duplicator": {
@@ -239,8 +240,8 @@
       " #gGold.",
       "[Austauschen] #g50%: #gGutes #gGesicht. #r50%: #rSchlechtes #rGesicht.",
       "[Verlassen]",
-    "[Fortsetzen]",
-    " #rTP, #gerhalte #g"
+      "[Fortsetzen]",
+      " #rTP, #gerhalte #g"
     ]
   },
   "Falling": {
@@ -473,7 +474,7 @@
       "Alles macht jetzt Sinn. NL Die fehlenden Erinnerungen, der Aufstieg, die #yAhnin. NL NL Genau so ist es immer gewesen. NL Genau so wird es immer sein. NL Und alles wird bald wieder vergessen sein..."
     ],
     "OPTIONS": [
-      "[Ich bin Krieg] #rKämpfe #rgegen #reinen #rBoss #raus #rdem #r1. #rAkt. #gErhalte #gein #gseltenes #gRelikt.",  
+      "[Ich bin Krieg] #rKämpfe #rgegen #reinen #rBoss #raus #rdem #r1. #rAkt. #gErhalte #gein #gseltenes #gRelikt.",
       "[Ich bin reich] #gErhalte #g999 #gGold. #rWerde #rverflucht #r- #r2 #rNormalität.",
       "[Ich bin gesund] #gHeile #gdeine #gTP #gkomplett. #rWerde #rverflucht #r- #rZweifel.",
       "[Ich bin wach] #gVerbessere #galle #gKarten. #rDu #rkannst #rdich #rnicht #rmehr #rheilen.",
@@ -538,9 +539,9 @@
     ],
     "OPTIONS": [
       "[Einreihen] #gErhalte #gRitueller #gDolch. #rVerliere #r",
-    " #rTP.",
+      " #rTP.",
       "[Schlagen und Stehlen] #gErhalte #g",
-    " #gGold.",
+      " #gGold.",
       "[Verlassen]",
       "[Weiter]"
     ]
