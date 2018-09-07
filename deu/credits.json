@@ -27,7 +27,8 @@
   },
   "LOC_CAT": {
     "HEADER": "Katalanische Übersetzung",
-    "NAMES": []
+    "NAMES": [
+    ]
   },
   "LOC_DEU": {
     "HEADER": "Deutsche Übersetzung",
@@ -162,6 +163,19 @@
       "Urist McFerrum"
     ]
   },
+  "LOC_SPA": {
+    "HEADER": "Spanische Übersetzung",
+    "NAMES": [
+      "Übersetzung und Koordination:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Übersetzung:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Skiddome",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Grammar and Cleanup:",
+      "Joaquín \"Pip1n\" López"
+    ]
+  },
   "LOC_SRB": {
     "HEADER": "Serbische Übersetzung",
     "NAMES": [
@@ -270,17 +284,6 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
-    ]
-  },
-  "LOC_SPA": {
-    "HEADER": "Spanische Übersetzung",
-    "NAMES": [
-      "Übersetzung und Koordination:",
-      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
-      "Übersetzung:",
-      "Xavier \"xabad98\" Abad Salinas",
-      "Skiddome",
-      "Juanjo \"ajuanjojjj\" Martinez"
     ]
   }
 }
