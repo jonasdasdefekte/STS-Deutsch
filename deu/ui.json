@@ -995,7 +995,9 @@
       "Donu und Deca",
       "Drei Wachen",
       "Erwählte und Kultist",
-      "(Veraltet) Flammenschläger"
+      "(Veraltet) Flammenschläger",
+      "(Veraltet) Sklavenhändler und Parasit",
+      "(Veraltet) Snecko und Mytikerinnen"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1022,10 +1024,10 @@
       "Übersprungen:",
       "Fehlende Infos",
       "+2 max. TP",
-      "#bK ",
-      "#bR ",
-      "#bT ",
-      "#bS ",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
       "#bAusgeruht",
       "#bVerbessert %s",
       "#bEntfernt %s",
