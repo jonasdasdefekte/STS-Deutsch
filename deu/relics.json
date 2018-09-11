@@ -758,9 +758,9 @@
       " #yMesser auf die Hand."
     ]
   },
-  "N'loth's Gift": {
-    "NAME": "N’loths Geschenk",
-    "FLAVOR": "Das seltsame Geschenk von N’loth. Immer wenn du versuchst, es auszupacken, findest du darin ein gleich großes verpacktes Geschenk.",
+  "Nloth's Gift": {
+    "NAME": "N'loths Geschenk",
+    "FLAVOR": "Das seltsame Geschenk von N'loth. Immer wenn du versuchst, es auszupacken, findest du darin ein gleich großes verpacktes Geschenk.",
     "DESCRIPTIONS": [
       "#bVerdreifacht die Chance auf seltene Karten als Monsterbelohnungen."
     ]
