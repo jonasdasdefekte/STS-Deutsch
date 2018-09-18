@@ -1410,7 +1410,7 @@
     "NAME": "Verformte Zangen",
     "FLAVOR": "Diese verfluchten Zangen geben dir das Gefühl, dass sie an den Ort zurück wollen, an dem sie gestohlen wurden.",
     "DESCRIPTIONS": [
-      "#yVerbessere am Anfang jedes Zuges eine zufällige Karte auf deiner Hand."
+      "#yVerbessere am Anfang jedes Zuges eine zufällige Karte auf deiner Hand für den Rest des Kampfes."
     ]
   },
   "WingedGreaves": {
