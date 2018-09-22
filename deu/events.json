@@ -170,10 +170,10 @@
   "Designer": {
     "NAME": "Designer In-Spire",
     "DESCRIPTIONS": [
-      "Du entdeckst einen #g~bunten~ Laden mit dem Banner „IN-SPIRE“ und gehst hinein, um zu schauen, was drinnen ist. NL „Nein, auf keinen Fall. Nö. Ich kann dich nicht reinlassen!“ NL NL Ein Mann mit lächerlicher Kleidung erscheint am Eingang, um dich auszuschließen.",
-      "„Das reicht nicht aus, nein nein. Was ist das für ein Stil? @Scheußlich!@ #rBluuuutest du etwa? #p~Eeeklig.~ @Geschäfte??@ Du bist ein Kunde? Gut. ~Egaaal.“~ NL Er lässt ein übertriebenes Seufzen heraus und zeigt auf eine Liste mit Diensten. NL NL Die Dienste sehen gut aus, aber lieber würdest du diesem eingebildeten Typen in sein eingebildetes Gesicht schlagen.",
+      "Du entdeckst einen #g~bunten~ Laden mit dem Banner „IN-SPIRE“ und gehst hinein, um zu schauen, was drinnen ist. NL „Nein, auf keinen Fall. Nö. Ich kann dich nicht reinlassen!“ NL NL Ein Mann mit lächerlicher Kleidung erscheint am Eingang, um dich zu blockieren.",
+      "„Das reicht nicht aus, nein nein. Was ist das für ein Stil? @Scheußlich!@ #rBluuuutest du etwa? #p~Eeeklig.~ @Geschäfte??@ Du bist ein Kunde? Gut. ~Egaaal.“~ NL Mit einem übertriebenen Seufzer zeigt er auf eine Liste mit Diensten. NL Die Dienste sehen gut aus, aber lieber würdest du diesem eingebildeten Typen auf seine eingebildete Nase schlagen.",
       "„Okay, tschüss jetzt.“ NL NL ...du hättest ihn schlagen sollen.",
-      "Du schlägst ihn so stark, dass deine Faust wehtut. NL „Mein @GESICHT!!@ Jetzt muss ich-“ NL NL Er ist in Ohnmacht gefallen. Wer ist jetzt #p~eeeklig~ und #rbluuuutet?"
+      "Du schlägst ihn so stark, dass deine Faust wehtut. NL „Meine @NASE!!@ Jetzt muss ich-“ NL NL Er ist in Ohnmacht gefallen. Wer ist jetzt #p~eeeklig~ und #rbluuuutet?"
     ],
     "OPTIONS": [
       "[Fortsetzen]",
