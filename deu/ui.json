@@ -122,9 +122,9 @@
       "Weniger max. TP.",
       "Ungünstige Ereignisse.",
       "Läden sind teurer.",
-      "Normale Gegner haben anspruchsvollere Intentionen.",
-      "Eliten haben anspruchsvollere Intentionen.",
-      "Bosse haben anspruchsvollere Intentionen.",
+      "Normale Gegner haben anspruchsvollere Absichten.",
+      "Eliten haben anspruchsvollere Absichten.",
+      "Bosse haben anspruchsvollere Absichten.",
       "(Höchstes Level) Doppelter Boss."
     ]
   },
@@ -997,7 +997,7 @@
       "Erwählte und Kultist",
       "(Veraltet) Flammenschläger",
       "(Veraltet) Sklavenhändler und Parasit",
-      "(Veraltet) Snecko und Mytikerinnen"
+      "(Veraltet) Snecko und Mystikerinnen"
     ]
   },
   "RunHistoryPathNodes": {
