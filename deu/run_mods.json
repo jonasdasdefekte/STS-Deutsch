@@ -97,7 +97,7 @@
   },
   "Specialized": {
     "NAME": "Spezialisiert",
-    "DESCRIPTION": "Beginne mit 5 Exemplaren einer seltenen Karte."
+    "DESCRIPTION": "Beginne mit 5 Exemplaren einer Karte."
   },
   "Starter Deck": {
     "NAME": "Startdeck",
@@ -122,5 +122,41 @@
   "Vintage": {
     "NAME": "Antiquitäten",
     "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
+  },
+  "SealedDeck": {
+    "NAME": "Sealed-Deck",
+    "DESCRIPTION": "Erstelle ein Deck, indem du aus 30 zufälligen Karten wählst."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Fortgeschrittene Feinde",
+    "DESCRIPTION": "Alle Gegner haben anspruchsvollere Intentionen."
+  },
+  "MonsterHunter": {
+    "NAME": "Monsterjäger",
+    "DESCRIPTION": "Gegner haben mehr TP und hinterlassen bessere Belohnungen."
+  },
+  "NeowTime": {
+    "NAME": "Zeit der Niau",
+    "DESCRIPTION": "Erhalte 3 Segen und 1 Fäulnis von Niau."
+  },
+  "Flight": {
+    "NAME": "Flug",
+    "DESCRIPTION": "Beim wählen des nächsten Raums kannst du den Pfad ignorieren."
+  },
+  "ControlledChaos": {
+    "NAME": "Herr des Chaos",
+    "DESCRIPTION": "Beginne mit Gefrorenes Auge. Mische am Anfang deines Zuges 10 zufällige Karten unter den Nachziehstapel."
+  },
+  "Careless": {
+    "NAME": "Achtlos",
+    "DESCRIPTION": "Wirf am Anfang deines Zuges die oberste Karte des Nachziehstapels ab."
+  },
+  "Chimera": {
+    "NAME": "Chimäre",
+    "DESCRIPTION": "Dein Startdeck ist eine Kombination aus denen der 3 charaktere."
+  },
+  "DeadlyEvents": {
+    "NAME": "Tödliche Ereignisse",
+    "DESCRIPTION": "? Räume können nun Elite enthalten und es ist wahrscheinlicher dort Schätze zu finden."
   }
 }
