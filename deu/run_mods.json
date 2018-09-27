@@ -37,7 +37,7 @@
   },
   "Colorless Cards": {
     "NAME": "Farblose Karten",
-    "DESCRIPTION": "Farblose Karten tauchen häufiger auf."
+    "DESCRIPTION": "Farblose Karten tauchen bei Belohnungen auf."
   },
   "Draft": {
     "NAME": "Draft",
@@ -45,7 +45,7 @@
   },
   "Elite Swarm": {
     "NAME": "Eliten-Schwarm",
-    "DESCRIPTION": "Elite schwärmen den Spire und lassen besseren Loot fallen."
+    "DESCRIPTION": "Elite schwärmen den Spire und hinterlassen bessere Beute."
   },
   "Endless": {
     "NAME": "Endlos",
@@ -69,7 +69,7 @@
   },
   "Lethality": {
     "NAME": "Tödlichkeit",
-    "DESCRIPTION": "Du beginnst jeden Kampf mit +3 Stärke. Alle Gegner beginnen den Kampf mit +3 Stärke."
+    "DESCRIPTION": "Beginne jeden Kampf mit +3 Stärke. Alle Gegner beginnen den Kampf mit +3 Stärke."
   },
   "Midas": {
     "NAME": "Midas",
@@ -101,11 +101,11 @@
   },
   "Starter Deck": {
     "NAME": "Startdeck",
-    "DESCRIPTION": "Beginne mit Zerbrochene Krone und Binär, sodass du bei Gegnern keine Kartenbelohnungen mehr erhältst."
+    "DESCRIPTION": "Beginne mit Zerbrochene Krone und Binär, sodass Gegner keine Karten hinterlassen."
   },
   "Stunted Growth": {
     "NAME": "Verkümmerung",
-    "DESCRIPTION": "Du erhältst keine Kartenbelohnungen durch Gegner mehr, nachdem du den 3. Akt im Endlosmodus beendet hast."
+    "DESCRIPTION": "Im Endlosmodus hinterlassen Gegner nach dem Besiegen des 3. Aktes keine Kartenbelohnungen mehr."
   },
   "Terminal": {
     "NAME": "Das Ende naht",
@@ -128,35 +128,35 @@
     "DESCRIPTION": "Erstelle ein Deck, indem du aus 30 zufälligen Karten wählst."
   },
   "IntelligentEnemies": {
-    "NAME": "Fortgeschrittene Feinde",
-    "DESCRIPTION": "Alle Gegner haben anspruchsvollere Absichten."
+    "NAME": "Kluge Feinde",
+    "DESCRIPTION": "Alle Gegner haben anspruchsvollere Absichten und Fähigkeiten."
   },
   "MonsterHunter": {
     "NAME": "Monsterjäger",
-    "DESCRIPTION": "Gegner haben mehr TP und hinterlassen bessere Belohnungen."
+    "DESCRIPTION": "Gegner haben mehr TP, aber hinterlassen dafür bessere Belohnungen."
   },
   "NeowTime": {
     "NAME": "Zeit der Niau",
     "DESCRIPTION": "Erhalte 3 Segen und 1 Fäulnis von Niau."
   },
   "Flight": {
-    "NAME": "Flug",
-    "DESCRIPTION": "Beim wählen des nächsten Raums kannst du den Pfad ignorieren."
+    "NAME": "Fliegen",
+    "DESCRIPTION": "Beim Wählen des nächsten Raumes kannst du den Pfad ignorieren."
   },
   "ControlledChaos": {
     "NAME": "Herr des Chaos",
-    "DESCRIPTION": "Beginne mit Gefrorenes Auge. Mische am Anfang deines Zuges 10 zufällige Karten unter den Nachziehstapel."
+    "DESCRIPTION": "Beginne mit Gefrorenes Auge. Erhalte am Anfang deines Zuges 10 zufällige Karten unter den Nachziehstapel."
   },
   "Careless": {
     "NAME": "Achtlos",
-    "DESCRIPTION": "Wirf am Anfang deines Zuges die oberste Karte des Nachziehstapels ab."
+    "DESCRIPTION": "Wirf am Anfang jedes Zuges die oberste Karte des Nachziehstapels ab."
   },
   "Chimera": {
     "NAME": "Chimäre",
-    "DESCRIPTION": "Dein Startdeck ist eine Kombination aus denen der 3 charaktere."
+    "DESCRIPTION": "Dein Startdeck ist eine Kombination aus 3 Charakteren."
   },
   "DeadlyEvents": {
     "NAME": "Tödliche Ereignisse",
-    "DESCRIPTION": "? Räume können nun Elite enthalten und es ist wahrscheinlicher dort Schätze zu finden."
+    "DESCRIPTION": "In ?-Räumen können Eliten sein, aber es ist wahrscheinlicher dort Schätze zu finden."
   }
 }
