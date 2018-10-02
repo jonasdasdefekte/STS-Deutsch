@@ -199,10 +199,6 @@
     "DESCRIPTION": "Deine nächste Fertigkeit in diesem Zug wird zweimal ausgespielt.",
     "UPGRADE_DESCRIPTION": "Deine nächsten !M! Fertigkeiten in diesem Zug werden zweimal ausgespielt."
   },
-  "Cache": {
-    "NAME": "Versteck",
-    "DESCRIPTION": "Nicht mehr verwendet."
-  },
   "Calculated Gamble": {
     "NAME": "Kalkuliertes Risiko",
     "DESCRIPTION": "Wirf deine Hand ab und ziehe genauso viele Karten. NL Erschöpft.",
@@ -225,10 +221,6 @@
     "NAME": "Katalysator",
     "DESCRIPTION": "Verdoppele das Gift auf einem Gegner. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Verdreifache das Gift auf einem Gegner. NL Erschöpft."
-  },
-  "Channel": {
-    "NAME": "Erschaffen",
-    "DESCRIPTION": "Nicht mehr verwendet."
   },
   "Chaos": {
     "NAME": "Chaos",
@@ -682,11 +674,6 @@
     "NAME": "Hyperstrahl",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Verliere !M! Fokus."
   },
-  "Ice Wall": {
-    "NAME": "Eiswall",
-    "DESCRIPTION": "Erhalte !B! Block. Erhalte +3 Block pro erschaffenem Frost.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. Erhalte +5 Block pro erschaffenem Frost."
-  },
   "Immolate": {
     "NAME": "Opfern",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein Brennen auf den Abwurfstapel."
@@ -698,11 +685,6 @@
   "Impervious": {
     "NAME": "Unempfindlich",
     "DESCRIPTION": "Erhalte !B! Block. NL Erschöpft."
-  },
-  "Impulse": {
-    "NAME": "Impuls",
-    "DESCRIPTION": "Nutze den passiven Effekt aller erschaffenen Orbs. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Nutze den passiven Effekt aller erschaffenen Orbs."
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
@@ -852,15 +834,6 @@
       " Karten gespielt."
     ]
   },
-  "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu NL in Höhe !M! Mal der Zahl in diesem Kampf gespielter Mächte.",
-    "EXTENDED_DESCRIPTION": [
-      " NL Erschöpft.",
-      " NL (Fügt !D! Schaden zu.)"
-    ],
-    "UPGRADE_DESCRIPTION": ""
-  },
   "Noxious Fumes": {
     "NAME": "Giftige Dämpfe",
     "DESCRIPTION": "Wende zu Beginn deines Zuges auf ALLE Gegner !M! Gift an."
@@ -874,11 +847,6 @@
     "NAME": "Ausmanövrieren",
     "DESCRIPTION": "Im nächsten Zug erhalte [G] [G].",
     "UPGRADE_DESCRIPTION": "Im nächsten Zug erhalte [G] [G] [G]."
-  },
-  "Overclock": {
-    "NAME": "Übertakten",
-    "DESCRIPTION": "Nicht mehr verwendet.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. Verbessere alle Orbs."
   },
   "Pain": {
     "NAME": "Schmerz",
@@ -938,14 +906,6 @@
   "Pride": {
     "NAME": "Stolz",
     "DESCRIPTION": "Angeboren. Erschöpft. NL Lege am Ende deines Zuges ein Exemplar dieser Karte auf den Nachziehstapel."
-  },
-  "Prime": {
-    "NAME": "Scharfmachen",
-    "DESCRIPTION": "Immer wenn du einen Orb erschaffst, NL ziehe !M! Karte."
-  },
-  "Primitive Tech": {
-    "NAME": "Primitive Technik",
-    "DESCRIPTION": "Nicht mehr verwendet."
   },
   "Pummel": {
     "NAME": "Prügeln",
@@ -1012,10 +972,6 @@
   "Reinforced Body": {
     "NAME": "Verstärkte Hülle",
     "DESCRIPTION": "Erhalte X Mal !B! Block."
-  },
-  "Reprieve": {
-    "NAME": "Atempause",
-    "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, NL erhalte !M! Fokus."
   },
   "Reprogram": {
     "NAME": "Umprogrammieren",
@@ -1320,10 +1276,6 @@
   "Wild Strike": {
     "NAME": "Wilder Schlag",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Mische eine Wunde in den Nachziehstapel."
-  },
-  "Winter": {
-    "NAME": "Winter",
-    "DESCRIPTION": "Nicht mehr verwendet."
   },
   "Wound": {
     "NAME": "Wunde",

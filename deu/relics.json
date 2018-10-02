@@ -646,7 +646,8 @@
     "FLAVOR": "Überraschend beliebt, obwohl immer wieder Schlund-Angriffe passieren.",
     "DESCRIPTIONS": [
       "Für jede erreichte Ebene erhältst du #b",
-      " #yGold. Endet, sobald du #yGold im Laden bezahlst."
+      " #yGold. Endet, sobald du #yGold im Laden bezahlst.",
+      "Dieses Relikt wurde aufgebraucht."
     ]
   },
   "MealTicket": {
@@ -730,7 +731,7 @@
     "FLAVOR": "Der von Niau verliehene Segen ihres Klageliedes.",
     "DESCRIPTIONS": [
       "Die Gegner in deinen ersten #b3 Kämpfen haben nur #b1 TP.",
-      "Der Segen ist aufgebraucht."
+      "Dieses Relikt wurde aufgebraucht."
     ]
   },
   "Nilry's Codex": {
@@ -738,16 +739,6 @@
     "FLAVOR": "Dies stammt vom berüchtigten Spielemeister selbst. Soll den Geist erweitern.",
     "DESCRIPTIONS": [
       "Am Ende jedes Zuges kannst du #b1 von #b3 zufälligen Karten wählen und in deinen Nachziehstapel mischen."
-    ]
-  },
-  "Nine Lives": {
-    "NAME": "Neun Leben",
-    "FLAVOR": "VERALTET.",
-    "DESCRIPTIONS": [
-      "Anstatt zu sterben, werden deine TP komplett geheilt. NL (Funktioniert #b9 Mal)",
-      "Anstatt zu sterben, werden deine TP komplett geheilt. NL (Keine Leben mehr)",
-      "Anstatt zu sterben, werden deine TP komplett geheilt. NL (Funktioniert noch #b",
-      " Mal)"
     ]
   },
   "Ninja Scroll": {
