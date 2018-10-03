@@ -149,7 +149,7 @@
   },
   "Careless": {
     "NAME": "Achtlos",
-    "DESCRIPTION": "Wirf am Anfang jedes Zuges die oberste Karte des Nachziehstapels ab."
+    "DESCRIPTION": "Wirf am Anfang deines Zuges die oberste Karte des Nachziehstapels ab."
   },
   "Chimera": {
     "NAME": "Chimäre",
