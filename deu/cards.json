@@ -748,7 +748,7 @@
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
-    "DESCRIPTION": "Ziehe zu Beginn jedes Zuges !M! Karte mehr.",
+    "DESCRIPTION": "Ziehe zu Beginn deines Zuges !M! Karte mehr.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Ziehe zu Beginn jedes Zuges !M! Karte mehr."
   },
   "Madness": {
