@@ -607,16 +607,16 @@
       "Du kannst keine #yAngriffe in diesem Zug spielen."
     ]
   },
-  "NoBlockPower": {
-    "NAME": "Kein Block",
-    "DESCRIPTIONS": [
-      "Du kannst keinen #yBlock von Karten erhalten."
-    ]
-  },
   "No Draw": {
     "NAME": "Keine Karten",
     "DESCRIPTIONS": [
       "Du kannst bis zum Ende des Zuges keine Karten ziehen."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Kein Block",
+    "DESCRIPTIONS": [
+      "Du kannst keinen #yBlock von Karten erhalten."
     ]
   },
   "Noxious Fumes": {
@@ -910,19 +910,19 @@
       " Schaden an ALLEN Gegnern."
     ]
   },
-  "TimeMazePower": {
-    "NAME": "Verirrte Zeit",
-    "DESCRIPTIONS": [
-      "Bei jeder #b",
-      ". gespielten Karte endet dein Zug."
-    ]
-  },
   "Time Warp": {
     "NAME": "Zeitschleife",
     "DESCRIPTIONS": [
       "Bei jeder #b",
       ". gespielten Karte endet dein Zug und der Zeitfresser erhält #b",
       " #yStärke."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Verirrte Zeit",
+    "DESCRIPTIONS": [
+      "Bei jeder #b",
+      ". gespielten Karte endet dein Zug."
     ]
   },
   "Tools Of The Trade": {

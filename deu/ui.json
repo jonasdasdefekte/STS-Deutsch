@@ -308,6 +308,12 @@
       "kopierst"
     ]
   },
+  "CreditsScreen": {
+    "TEXT": [
+      "Erneut klicken zum Verlassen",
+      "zum Verlassen"
+    ]
+  },
   "CustomModeScreen": {
     "TEXT": [
       "Sonderregeln",
@@ -319,12 +325,6 @@
       "Modifikatoren",
       "Seed",
       "Seed einstellen"
-    ]
-  },
-  "CreditsScreen": {
-    "TEXT": [
-      "Erneut klicken zum Verlassen",
-      "zum Verlassen"
     ]
   },
   "DailyScreen": {
@@ -555,6 +555,11 @@
       "unter deinen Nachziehstapel legst."
     ]
   },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
   "GamblingChipAction": {
     "TEXT": [
       "ersetzt (Spielchip)",
@@ -564,11 +569,6 @@
   "GameSavedEffect": {
     "TEXT": [
       "#y~Spiel~ #y~gespeichert~"
-    ]
-  },
-  "GainGoldTextEffect": {
-    "TEXT": [
-      " Gold"
     ]
   },
   "GridCardSelectScreen": {
@@ -1074,6 +1074,19 @@
       "Eigener Seed: %s"
     ]
   },
+  "SaveSlot": {
+    "TEXT": [
+      "Spielzeit ",
+      "Freier Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Wähle einen Spielstand",
+      "Umbenennen",
+      "Diesen Spielstand löschen"
+    ]
+  },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
@@ -1225,19 +1238,6 @@
   "UnlockTextEffect": {
     "TEXT": [
       "Neue Freischaltung!"
-    ]
-  },
-  "SaveSlot": {
-    "TEXT": [
-      "Spielzeit ",
-      "Freier Slot"
-    ]
-  },
-  "SaveSlotScreen": {
-    "TEXT": [
-      "Wähle einen Spielstand",
-      "Umbenennen",
-      "Diesen Spielstand löschen"
     ]
   }
 }

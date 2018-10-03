@@ -255,18 +255,21 @@
       "Erhalte zu Beginn jedes Kampfes #b1 #yArtefakt."
     ]
   },
+  "Coffee Dripper": {
+    "NAME": "Kaffeefilter-Tasse",
+    "FLAVOR": "„Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!“ - Der Architekt",
+    "DESCRIPTIONS": [
+      " NL Du kannst an Lagerfeuern nicht mehr ausruhen.",
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
+    ]
+  },
   "Cracked Core": {
     "NAME": "Gesprungener Kern",
     "FLAVOR": "Die mysteriöse Lebenskraft, welche die Automatone im Spire antreibt. Scheint kaputt zu sein.",
     "DESCRIPTIONS": [
       "#yErschaffe zu Beginn jedes Kampfes #b1 #yBlitz."
-    ]
-  },
-  "FrozenCore": {
-    "NAME": "Gefrorener Kern",
-    "FLAVOR": "Der Sprung in deinem Kern ist mit einer pulsierenden kalten Energie gefüllt worden.",
-    "DESCRIPTIONS": [
-      "Ersetzt #rGesprungener #rKern. Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
     ]
   },
   "CultistMask": {
@@ -332,16 +335,6 @@
       "[R] .",
       "[G] .",
       "[B] ."
-    ]
-  },
-  "Coffee Dripper": {
-    "NAME": "Kaffeefilter-Tasse",
-    "FLAVOR": "„Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!“ - Der Architekt",
-    "DESCRIPTIONS": [
-      " NL Du kannst an Lagerfeuern nicht mehr ausruhen.",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
     ]
   },
   "DollysMirror": {
@@ -445,6 +438,13 @@
     "FLAVOR": "Wenn du in das Auge starrst, siehst du schemenhaft deine Zukunft.",
     "DESCRIPTIONS": [
       "Dein Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Gefrorener Kern",
+    "FLAVOR": "Der Sprung in deinem Kern ist mit einer pulsierenden kalten Energie gefüllt worden.",
+    "DESCRIPTIONS": [
+      "Ersetzt #rGesprungener #rKern. Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
     ]
   },
   "Fusion Hammer": {
@@ -1224,13 +1224,6 @@
       "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
     ]
   },
-  "TheAbacus": {
-    "NAME": "Der Abakus",
-    "FLAVOR": "„Eins... Zwei... Drei...“",
-    "DESCRIPTIONS": [
-      "Erhalte #b6 #yBlock, wenn du deinen Nachziehstapel mischst."
-    ]
-  },
   "The Courier": {
     "NAME": "Die Kurierin",
     "FLAVOR": "Die persönliche Gehilfin des Händlers!",
@@ -1243,6 +1236,13 @@
     "FLAVOR": "„Faszinierend! Ich fand eine mutierte Kreatur mit erstaunlichen Gifteffekten. Ich nehme eine Probe mit.“ – Ranwid",
     "DESCRIPTIONS": [
       "Immer wenn ein Gegner stirbt, übertrage sein #yGift auf einen zufälligen Gegner."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Der Abakus",
+    "FLAVOR": "„Eins... Zwei... Drei...“",
+    "DESCRIPTIONS": [
+      "Erhalte #b6 #yBlock, wenn du deinen Nachziehstapel mischst."
     ]
   },
   "Thread and Needle": {
@@ -1375,6 +1375,13 @@
       " zufällige #yFertigkeiten."
     ]
   },
+  "WarpedTongs": {
+    "NAME": "Verformte Zangen",
+    "FLAVOR": "Diese verfluchten Zangen geben dir das Gefühl, dass sie an den Ort zurück wollen, an dem sie gestohlen wurden.",
+    "DESCRIPTIONS": [
+      "#yVerbessere am Anfang jedes Zuges eine zufällige Karte auf deiner Hand für den Rest des Kampfes."
+    ]
+  },
   "Whetstone": {
     "NAME": "Schleifstein",
     "FLAVOR": "„Dem Stahl kann das Fleisch nicht das Wasser reichen.“ – Kublai der Große",
@@ -1390,25 +1397,18 @@
       "Tränke werden nach jedem Kampf fallen gelassen."
     ]
   },
-  "WristBlade": {
-    "NAME": "Unterhand-Klinge",
-    "FLAVOR": "Für handliche Meuchelmorde.",
-    "DESCRIPTIONS": [
-      "#yAngriffe, die #b0 kosten, fügen #b3 Schaden mehr zu."
-    ]
-  },
-  "WarpedTongs": {
-    "NAME": "Verformte Zangen",
-    "FLAVOR": "Diese verfluchten Zangen geben dir das Gefühl, dass sie an den Ort zurück wollen, an dem sie gestohlen wurden.",
-    "DESCRIPTIONS": [
-      "#yVerbessere am Anfang jedes Zuges eine zufällige Karte auf deiner Hand für den Rest des Kampfes."
-    ]
-  },
   "WingedGreaves": {
     "NAME": "Geflügelte Schuhe",
     "FLAVOR": "Mit Stil.",
     "DESCRIPTIONS": [
       "Beim Wählen des nächsten Raums kannst du den Pfad #b3 mal ignorieren."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Unterhand-Klinge",
+    "FLAVOR": "Für handliche Meuchelmorde.",
+    "DESCRIPTIONS": [
+      "#yAngriffe, die #b0 kosten, fügen #b3 Schaden mehr zu."
     ]
   }
 }

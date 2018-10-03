@@ -626,13 +626,13 @@
     "DESCRIPTION": "Nur spielbar, wenn keine Karten im Nachziehstapel sind. NL Füge ALLEN Gegnern !D! Schaden zu.",
     "UPGRADE_DESCRIPTION": "Mein Nachziehstapel NL muss #rleer sein."
   },
-  "Havoc": {
-    "NAME": "Verwüstung",
-    "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels aus und erschöpfe sie."
-  },
   "HandOfGreed": {
     "NAME": "Arm der Gier",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner außer Untertanen, erhalte !M! Gold."
+  },
+  "Havoc": {
+    "NAME": "Verwüstung",
+    "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels aus und erschöpfe sie."
   },
   "Headbutt": {
     "NAME": "Kopfnuss",
@@ -1052,13 +1052,13 @@
     "NAME": "Seele trennen",
     "DESCRIPTION": "Erschöpfe alle Handkarten außer Angriffen. NL Füge !D! Schaden zu."
   },
-  "Shiv": {
-    "NAME": "Messer",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erschöpft."
-  },
   "Shame": {
     "NAME": "Scham",
     "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Gebrechlich."
+  },
+  "Shiv": {
+    "NAME": "Messer",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erschöpft."
   },
   "Shockwave": {
     "NAME": "Schockwelle",
