@@ -164,9 +164,9 @@
     "FLAVOR": "Die Krone des Champs... oder nur eine billige Nachahmung?",
     "DESCRIPTIONS": [
       "Bei Kartenbelohnungen hast du #b2 Karten weniger zur Auswahl.",
-      "Erhalte in jedem Zug [R] . ",
-      "Erhalte in jedem Zug [G] . ",
-      "Erhalte in jedem Zug [B] . "
+      "Erhalte in deinem Zug [R] . ",
+      "Erhalte in deinem Zug [G] . ",
+      "Erhalte in deinem Zug [B] . "
     ]
   },
   "Cables": {
@@ -282,9 +282,9 @@
     "FLAVOR": "Du spürst, wie vom Schlüssel eine böse Energie ausgeht. Macht hat ihren Preis.",
     "DESCRIPTIONS": [
       " NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
-      "Erhalte in jedem Zug [R] .",
-      "Erhalte in jedem Zug [G] .",
-      "Erhalte in jedem Zug [B] ."
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
     ]
   },
   "Darkstone Periapt": {
@@ -328,7 +328,7 @@
     "NAME": "Runischer Dodekaeder",
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
-      "Erhalte in jedem Zug, in dem du volle TP hast, ",
+      "Wenn du volle TP hast, erhalte in deinem Zug ",
       "[R] .",
       "[G] .",
       "[B] ."
@@ -339,9 +339,9 @@
     "FLAVOR": "„Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!“ - Der Architekt",
     "DESCRIPTIONS": [
       " NL Du kannst an Lagerfeuern nicht mehr ausruhen.",
-      "Erhalte in jedem Zug [R] .",
-      "Erhalte in jedem Zug [G] .",
-      "Erhalte in jedem Zug [B] ."
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
     ]
   },
   "DollysMirror": {
@@ -375,9 +375,9 @@
     "FLAVOR": "Dieser Klumpen aus Schleim und Energie scheint vor Leben zu strotzen.",
     "DESCRIPTIONS": [
       " NL Du kannst kein #yGold mehr erhalten.",
-      "Erhalte in jedem Zug [R] .",
-      "Erhalte in jedem Zug [G] .",
-      "Erhalte in jedem Zug [B] ."
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
     ]
   },
   "Emotion Chip": {
@@ -452,9 +452,9 @@
     "FLAVOR": "Wer ihn einmal schwingt, kann ihn nie wieder loslassen.",
     "DESCRIPTIONS": [
       " NL Du kannst an Lagerfeuern nicht mehr schmieden.",
-      "Erhalte in jedem Zug [R] . ",
-      "Erhalte in jedem Zug [G] . ",
-      "Erhalte in jedem Zug [B] . "
+      "Erhalte in deinem Zug [R] . ",
+      "Erhalte in deinem Zug [G] . ",
+      "Erhalte in deinem Zug [B] . "
     ]
   },
   "Gambling Chip": {
@@ -523,7 +523,7 @@
     "NAME": "Schwebender Drachen",
     "FLAVOR": "Der Drachen fliegt im Kampf, angetrieben von einer mysteriösen Kraft, in deiner Nähe herum.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Zuges [G] und wirf #b2 Karten ab."
+      "Erhalte zu Beginn deines Zuges [G] und wirf #b2 Karten ab."
     ]
   },
   "Ice Cream": {
@@ -622,7 +622,7 @@
     "NAME": "Zeichen der Qual",
     "FLAVOR": "Dieses Brandzeichen erhielten Krieger der nördlichen Stämme, wenn sie im Kampf die Qual bezwangen.",
     "DESCRIPTIONS": [
-      "Erhalte in jedem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden im Nachziehstapel."
+      "Erhalte in deinem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden im Nachziehstapel."
     ]
   },
   "Mark of the Bloom": {
@@ -906,9 +906,9 @@
     "FLAVOR": "Eine rohe Energie geht vom Stein aus und stärkt alle in der Nähe.",
     "DESCRIPTIONS": [
       " NL ALLE Gegner beginnen mit #b2 #yStärke.",
-      "Erhalte in jedem Zug [R] .",
-      "Erhalte in jedem Zug [G] .",
-      "Erhalte in jedem Zug [B] ."
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
     ]
   },
   "Pocketwatch": {
@@ -1022,9 +1022,9 @@
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr die #bAbsichten von Gegnern sehen.",
-      "Erhalte in jedem Zug [R] .",
-      "Erhalte in jedem Zug [G] .",
-      "Erhalte in jedem Zug [B] ."
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
     ]
   },
   "Runic Pyramid": {
@@ -1102,9 +1102,9 @@
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
       " NL Du kannst keine Tränke mehr aufnehmen. ",
-      "Erhalte in jedem Zug [R] .",
-      "Erhalte in jedem Zug [G] .",
-      "Erhalte in jedem Zug [B] ."
+      "Erhalte in deinem Zug [R] .",
+      "Erhalte in deinem Zug [G] .",
+      "Erhalte in deinem Zug [B] ."
     ]
   },
   "Spirit Poop": {
@@ -1361,9 +1361,9 @@
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr als #b",
       " Karten pro Zug spielen.",
-      "Erhalte in jedem Zug [R] . ",
-      "Erhalte in jedem Zug [G] . ",
-      "Erhalte in jedem Zug [B] . ",
+      "Erhalte in deinem Zug [R] . ",
+      "Erhalte in deinem Zug [G] . ",
+      "Erhalte in deinem Zug [B] . ",
       "Ich kann nur bis zu NL #r"
     ]
   },
