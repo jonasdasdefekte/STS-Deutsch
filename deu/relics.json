@@ -139,7 +139,8 @@
     "NAME": "Schwefel",
     "FLAVOR": "Verströmt teuflische Hitze.",
     "DESCRIPTIONS": [
-      "Jeder erhält zu Beginn deines Zuges #b",
+      "Erhalte zu Beginn deines Zuges #b",
+      " #yStärke und alle Gegner erhalten #b",
       " #yStärke."
     ]
   },
@@ -418,14 +419,6 @@
       "Verhindere deinen ersten TP-Verlust in jedem Kampf."
     ]
   },
-  "Frozen Egg": {
-    "NAME": "Gefrorenes Ei",
-    "FLAVOR": "Das Ei ist erstarrt und gefroren, aus ihm wird nie etwas schlüpfen.",
-    "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine #yMacht und #yverbessere sie.",
-      "Wähle eine Karte für "
-    ]
-  },
   "Frozen Egg 2": {
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
@@ -654,7 +647,8 @@
     "NAME": "Essenskarte",
     "FLAVOR": "„Kostenlose Fleischbällchen bei jedem Besuch!“",
     "DESCRIPTIONS": [
-      "Wenn du einen Laden-Raum betrittst, heile #b7 TP."
+      "Wenn du einen Laden-Raum betrittst, heile #b",
+       " TP."
     ]
   },
   "Meat on the Bone": {
@@ -676,7 +670,7 @@
     "NAME": "Mitgliedskarte",
     "FLAVOR": "„Bonus-Mitgliedschaftsangebot für meine wertvollsten Kunden!“",
     "DESCRIPTIONS": [
-      "In zukünftigen Akten erscheinen Läden 50% häufiger. #yBONUS: #b50% Rabatt auf alle Produkte!"
+      "#b50% Rabatt auf alle Produkte!"
     ]
   },
   "Mercury Hourglass": {
@@ -685,14 +679,6 @@
     "DESCRIPTIONS": [
       "Füge zu Beginn deines Zuges ALLEN Gegnern #b",
       " Schaden zu."
-    ]
-  },
-  "Molten Egg": {
-    "NAME": "Geschmolzenes Ei",
-    "FLAVOR": "Das Ei eines Phönix. Die heiße Lava glüht feuerrot.",
-    "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle einen #yAngriff und #yverbessere ihn.",
-      "Wähle eine Karte für "
     ]
   },
   "Molten Egg 2": {
@@ -1301,14 +1287,6 @@
     "DESCRIPTIONS": [
       "Wirfst du in deinem Zug eine Karte ab, erhalte pro abgeworfener Karte #b",
       " #yBlock."
-    ]
-  },
-  "Toxic Egg": {
-    "NAME": "Giftiges Ei",
-    "FLAVOR": "„Eine tolle Entdeckung! Das dürfte das erstarrte Ei einer magischen Kreatur sein. Wer oder was ist dafür verantwortlich?“ – Ranwid",
-    "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine #yFertigkeit und #yverbessere sie.",
-      "Wähle eine Karte für "
     ]
   },
   "Toxic Egg 2": {

@@ -875,6 +875,11 @@
       " NL (VORÜBERGEHEND: Benutze die Pfeiltasten, um durch ältere Protokolle zu navigieren)"
     ]
   },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
   "PotionPopUp": {
     "TEXT": [
       "Werfen",

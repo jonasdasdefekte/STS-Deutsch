@@ -10,7 +10,7 @@
       "Es scheint hier nichts von Nutzen zu geben. Du verschwindest auf dem Weg, den du gekommen bist, während die Flammen des Ofens #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
     ],
     "OPTIONS": [
-      "[Schmieden] #gVerbessere #geine #gKarte.",
+      "[Schmieden] #gVerbessere #geine #gKarte #gin #gdeinem #gDeck.",
       "[Durchstöbern] #gErhalte #gein #gbesonderes #gRelikt. #rWerde #rverflucht #r– #rSchmerz.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern",
@@ -206,11 +206,11 @@
     ],
     "OPTIONS": [
       "[J.A.X. testen] #gWerde #gGEJAXXT.",
-      "[Versuchsperson werden] #gTransformiere #g3 #gzufällige #gKarten.",
+      "[Versuchsperson werden] #gTransformiere #g2 #gKarten.",
       "[Mutagene einnehmen] #gErhalte #gein #gbesonderes #gRelikt.",
       "[Verlassen]",
-      "[Gesperrt] Erfordert: 3 oder mehr Karten im Deck.",
-      ""
+      "[Gesperrt] Erfordert: 2 oder mehr Karten im Deck.",
+      "Wähle Karten zum Transformieren."
     ]
   },
   "Duplicator": {
