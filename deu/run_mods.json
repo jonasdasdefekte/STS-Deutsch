@@ -93,7 +93,7 @@
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Gegner lassen 200% mehr Gold fallen, aber du kannst keine Karten am Lagerfeuer verbessern."
+    "DESCRIPTION": "Gegner lassen 200% mehr Gold fallen, aber du kannst am Lagerfeuer nicht schmieden."
   },
   "MonsterHunter": {
     "NAME": "Koloss",

@@ -865,7 +865,8 @@
       "NL NL VSync",
       "Spieltester Kartendesign",
       "Zeige Tasten für Kartenschnellwahl",
-      "Eingabeoptionen"
+      "Eingabeoptionen",
+      "Partikeleffekte deaktivieren"
     ]
   },
   "PatchNotesScreen": {
