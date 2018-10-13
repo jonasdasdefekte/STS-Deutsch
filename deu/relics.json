@@ -475,7 +475,7 @@
     "NAME": "Goldener Götze",
     "FLAVOR": "Beim bloßen Halten dieses Gegenstands aus reinem Gold fühlst du dich schon reicher.",
     "DESCRIPTIONS": [
-      "Gegner lassen #b25% mehr #yGold fallen."
+      "Gegner hinterlassen #b25% mehr #yGold."
     ]
   },
   "Gremlin Horn": {
@@ -915,7 +915,7 @@
     "NAME": "Gebetsmühle",
     "FLAVOR": "Das Rad dreht sich immerfort und bleibt nie stehen.",
     "DESCRIPTIONS": [
-      "Reguläre Gegner lassen jetzt ein weiteres Mal Karten fallen."
+      "Reguläre Gegner hinterlassen jetzt ein weiteres Mal Karten."
     ]
   },
   "PreservedInsect": {
@@ -1200,7 +1200,7 @@
     "NAME": "Test 7",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "#yEliten lassen jetzt #b2 #yRelikte fallen, wenn sie besiegt werden."
+      "#yEliten hinterlassen jetzt #b2 #yRelikte, wenn sie besiegt werden."
     ]
   },
   "Test 8": {
@@ -1372,7 +1372,7 @@
     "NAME": "Weiße Bestienstatue",
     "FLAVOR": "Eine kleine weiße Statue einer Kreatur, die du noch nie gesehen hast.",
     "DESCRIPTIONS": [
-      "Tränke werden nach jedem Kampf fallen gelassen."
+      "Tränke werden nach jedem Kampf hinterlassen."
     ]
   },
   "WingedGreaves": {
