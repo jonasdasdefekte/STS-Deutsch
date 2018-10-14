@@ -220,7 +220,7 @@
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Kartengrafik & Ereignisbilder",
+    "HEADER": "Karten- & Ereignisbilder",
     "NAMES": [
       "Anailis Dorta"
     ]
@@ -283,7 +283,7 @@
     "NAMES": []
   },
   "VOICE": {
-    "HEADER": "Talentierte Stimmen",
+    "HEADER": "Stimmen",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"

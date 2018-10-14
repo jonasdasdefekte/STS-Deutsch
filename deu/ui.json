@@ -322,7 +322,7 @@
       "Aufstieg",
       "Level ",
       "Aufstiegsmodus",
-      "Modifikatoren",
+      "Regeln",
       "Seed",
       "Seed einstellen"
     ]
@@ -732,9 +732,9 @@
       "Schatz",
       "Schatzräume",
       "In diesen begehrten Räumen kannst du #yRelikte und #yGold finden.",
-      "Ruheort",
-      "Ruheorte",
-      "Halte in diesen Räumen inne, um deine TP zu #gHeilen oder eine Karte zu #yVerbessern.",
+      "Lagerfeuer",
+      "Lagerfeuer",
+      "Halte an diesen Orten inne, um deine TP zu #gheilen oder eine Karte zu #yverbessern.",
       "Gegner",
       "Gegner",
       "Feindselige Gegner hausen in diesen Räumen.",
@@ -747,7 +747,7 @@
   "Lift Option": {
     "TEXT": [
       "Trainieren",
-      "Beginne Kämpfe mit +1 Stärke. (Bis zu 3)"
+      "Beginne Kämpfe mit +1 Stärke (bis zu 3)."
     ]
   },
   "MainMenuScreen": {
