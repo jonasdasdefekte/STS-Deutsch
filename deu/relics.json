@@ -11,9 +11,7 @@
     "NAME": "Uraltes Teeservice",
     "FLAVOR": "Unerlässlich für entspannten Schlaf.",
     "DESCRIPTIONS": [
-      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [R] [R] .",
-      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [G] [G] .",
-      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [B] [B] ."
+      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit [E] [E] ."
     ]
   },
   "Art of War": {
@@ -21,9 +19,7 @@
     "FLAVOR": "Dieses uralte Manuskript enthält Weisheiten aus einer vergangenen Zeit.",
     "DESCRIPTIONS": [
       "Spielst du in deinem Zug keine #yAngriffe aus, erhalte im nächsten Zug ein ",
-      "[R] mehr.",
-      "[G] mehr.",
-      "[B] mehr."
+      "[E] mehr."
     ]
   },
   "Astrolabe": {
@@ -165,9 +161,7 @@
     "FLAVOR": "Die Krone des Champs... oder nur eine billige Nachahmung?",
     "DESCRIPTIONS": [
       "Bei Kartenbelohnungen hast du #b2 Karten weniger zur Auswahl.",
-      "Erhalte in deinem Zug [R] . ",
-      "Erhalte in deinem Zug [G] . ",
-      "Erhalte in deinem Zug [B] . "
+      "Erhalte in deinem Zug [E] . "
     ]
   },
   "Cables": {
@@ -261,9 +255,7 @@
     "FLAVOR": "„Ja, bitte noch eine Tasse. Zurück an die Arbeit. An die Arbeit!“ - Der Architekt",
     "DESCRIPTIONS": [
       " NL Du kannst an Lagerfeuern nicht mehr ausruhen.",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
+      "Erhalte in deinem Zug [E] ."
     ]
   },
   "Cracked Core": {
@@ -286,9 +278,7 @@
     "FLAVOR": "Du spürst, wie vom Schlüssel eine böse Energie ausgeht. Macht hat ihren Preis.",
     "DESCRIPTIONS": [
       " NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
+      "Erhalte in deinem Zug [E] ."
     ]
   },
   "Darkstone Periapt": {
@@ -333,9 +323,7 @@
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
       "Wenn du volle TP hast, erhalte in deinem Zug ",
-      "[R] .",
-      "[G] .",
-      "[B] ."
+      "[E] ."
     ]
   },
   "DollysMirror": {
@@ -369,9 +357,7 @@
     "FLAVOR": "Dieser Klumpen aus Schleim und Energie scheint vor Leben zu strotzen.",
     "DESCRIPTIONS": [
       " NL Du kannst kein #yGold mehr erhalten.",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
+      "Erhalte in deinem Zug [E] ."
     ]
   },
   "Emotion Chip": {
@@ -445,9 +431,7 @@
     "FLAVOR": "Wer ihn einmal schwingt, kann ihn nie wieder loslassen.",
     "DESCRIPTIONS": [
       " NL Du kannst an Lagerfeuern nicht mehr schmieden.",
-      "Erhalte in deinem Zug [R] . ",
-      "Erhalte in deinem Zug [G] . ",
-      "Erhalte in deinem Zug [B] . "
+      "Erhalte in deinem Zug [E] . "
     ]
   },
   "Gambling Chip": {
@@ -483,9 +467,7 @@
     "FLAVOR": "„Gremlin-Aristos können bis zu ihrem Todestag wachsen. Bemerkenswert.“ – Ranwid",
     "DESCRIPTIONS": [
       "Immer wenn ein Gegner stirbt, erhalte ",
-      "[R] und ziehe #b1 Karte.",
-      "[G] und ziehe #b1 Karte.",
-      "[B] und ziehe #b1 Karte."
+      "[E] und ziehe #b1 Karte."
     ]
   },
   "GremlinMask": {
@@ -507,9 +489,7 @@
     "FLAVOR": "Diese immerfort lachende Pflanze ist seit Neuestem äußerst beliebt beim Adel.",
     "DESCRIPTIONS": [
       "Erhalte alle #b",
-      " Züge [R] .",
-      " Züge [G] .",
-      " Züge [B] ."
+      " Züge [E] ."
     ]
   },
   "HoveringKite": {
@@ -561,9 +541,7 @@
     "FLAVOR": "Eine gespenstische Laterne, die nur für ihren Träger leuchtet.",
     "DESCRIPTIONS": [
       "Erhalte im ersten Zug jedes Kampfes ",
-      "[R] ",
-      "[G] ",
-      "[B] ",
+      "[E] ",
       "."
     ]
   },
@@ -769,9 +747,7 @@
     "FLAVOR": "Ein gutes Übungsgerät, um die Haltung und Wendigkeit zu verbessern.",
     "DESCRIPTIONS": [
       "Immer wenn du #b",
-      " #yAngriffe spielst, erhalte [R] .",
-      " #yAngriffe spielst, erhalte [G] .",
-      " #yAngriffe spielst, erhalte [B] ."
+      " #yAngriffe spielst, erhalte [E] ."
     ]
   },
   "Odd Mushroom": {
@@ -892,9 +868,7 @@
     "FLAVOR": "Eine rohe Energie geht vom Stein aus und stärkt alle in der Nähe.",
     "DESCRIPTIONS": [
       " NL ALLE Gegner beginnen mit #b2 #yStärke.",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
+      "Erhalte in deinem Zug [E] ."
     ]
   },
   "Pocketwatch": {
@@ -1008,9 +982,7 @@
     "FLAVOR": "Die Runen sind unentzifferbar.",
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr die #bAbsichten von Gegnern sehen.",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
+      "Erhalte in deinem Zug [E] ."
     ]
   },
   "Runic Pyramid": {
@@ -1088,9 +1060,7 @@
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
       " NL Du kannst keine Tränke mehr aufnehmen. ",
-      "Erhalte in deinem Zug [R] .",
-      "Erhalte in deinem Zug [G] .",
-      "Erhalte in deinem Zug [B] ."
+      "Erhalte in deinem Zug [E] ."
     ]
   },
   "Spirit Poop": {
@@ -1136,9 +1106,7 @@
     "FLAVOR": "„Töricht und besessen von der Zeit blickten die frühen Menschen auf der Suche nach Beständigkeit gen Himmel.“ – Zoroth",
     "DESCRIPTIONS": [
       "Jedes #b",
-      ". Mal, wenn du dein Deck mischst, erhalte [R] [R] .",
-      ". Mal, wenn du dein Deck mischst, erhalte [G] [G] .",
-      ". Mal, wenn du dein Deck mischst, erhalte [B] [B] ."
+      ". Mal, wenn du dein Deck mischst, erhalte [E] [E] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1149,65 +1117,65 @@
     ]
   },
   "Test 1": {
-    "NAME": "Test 1",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Immer wenn du einen #yFluch erhältst, erhöhen sich deine max. TP um #b",
-      " [R] .",
-      " [G] .",
-      " [B] ."
+      "",
+      "",
+      "",
+      ""
     ]
   },
   "Test 2": {
-    "NAME": "Test 2",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Wenn deine TP zu Beginn eines Zuges unter 50% betragen, erhalte #b"
+      ""
     ]
   },
   "Test 3": {
-    "NAME": "Test 3",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Wenn du dies erhältst, #yVerbessere all deine #yVerteidigungskarten."
+      ""
     ]
   },
   "Test 4": {
-    "NAME": "Test 4",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes sind die Kosten aller #ySchlagkarten #b0."
+      ""
     ]
   },
   "Test 5": {
-    "NAME": "Test 5",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Beim Aufheben: #yVerbessere #b",
-      " zufällige #yFertigkeiten."
+      "",
+      ""
     ]
   },
   "Test 6": {
-    "NAME": "Test 6",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Am Ende jedes Zuges erhalte #b",
-      " #yBlock pro #b",
-      " #yGold in deinem Besitz."
+      "",
+      "",
+      ""
     ]
   },
   "Test 7": {
-    "NAME": "Test 7",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "#yEliten hinterlassen jetzt #b2 #yRelikte, wenn sie besiegt werden."
+      ""
     ]
   },
   "Test 8": {
-    "NAME": "Test 8",
-    "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
+      ""
     ]
   },
   "The Courier": {
@@ -1339,9 +1307,7 @@
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr als #b",
       " Karten pro Zug spielen.",
-      "Erhalte in deinem Zug [R] . ",
-      "Erhalte in deinem Zug [G] . ",
-      "Erhalte in deinem Zug [B] . ",
+      "Erhalte in deinem Zug [E] . ",
       "Ich kann nur bis zu NL #r"
     ]
   },

@@ -885,8 +885,8 @@
   "TheBomb": {
     "NAME": "Die Bombe",
     "DESCRIPTIONS": [
-      "Füge am Ende von %1$s Zügen ALLEN Gegnern %2$s Schaden zu.",
-      "Füge am Ende dieses Zuges ALLEN Gegnern %1$s Schaden zu."
+      "Füge am Ende von #b%1$s Zügen ALLEN Gegnern #b%2$s Schaden zu.",
+      "Füge am Ende dieses Zuges ALLEN Gegnern #b%1$s Schaden zu."
     ]
   },
   "Thievery": {
