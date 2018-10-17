@@ -678,7 +678,8 @@
     "FLAVOR": "„Die Resultate sind wohl flüchtig und werden ausgelöst, wenn das Subjekt in Gefahr ist.“ - Unbekannt",
     "DESCRIPTIONS": [
       "Beginne jeden Kampf mit #b",
-      " #yStärke, die du am Ende deines Zuges verlierst."
+      " #yStärke. Verliere am Ende deines ersten Zuges #b",
+      "#yStärke."
     ]
   },
   "Necronomicon": {
