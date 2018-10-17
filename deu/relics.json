@@ -1197,7 +1197,8 @@
     "NAME": "Der Abakus",
     "FLAVOR": "„Eins... Zwei... Drei...“",
     "DESCRIPTIONS": [
-      "Erhalte #b6 #yBlock, wenn du deinen Nachziehstapel mischst."
+      "Wenn du deinen Nachziehstapel mischst, erhalte #b",
+      " #yBlock."
     ]
   },
   "Thread and Needle": {
