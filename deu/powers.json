@@ -130,6 +130,12 @@
       " Schaden an ALLEN Gegnern."
     ]
   },
+  "Compulsive": {
+    "NAME": "Zwanghaft",
+    "DESCRIPTIONS": [
+      "Ändert seine Absicht beim Erleiden von Angriffsschaden."
+    ]
+  },
   "Confusion": {
     "NAME": "Verwirrung",
     "DESCRIPTIONS": [

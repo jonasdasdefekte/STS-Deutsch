@@ -1039,7 +1039,21 @@
       "#bEntfernt %s",
       "#bGegraben",
       "#bTrainiert %s/%s",
-      "#yGekauft:"
+      "#yGekauft:",
+    "#rPreis: ",
+    "#rNahm ",
+    "#rVerlust #rvon ",
+    "%s max. TP",
+    "#bHeilung #bum ",
+    "#bErhalten: ",
+    "#bIgnoriert: ",
+    "%s TP",
+    "%s #berhalten",
+    "#rVerflucht #rmit #r%s",
+    "%s Schaden",
+    "%s #bverbessert",
+    "%s #btransformiert",
+    "%s #rverloren"
     ]
   },
   "RunHistoryScreen": {
