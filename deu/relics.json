@@ -388,7 +388,7 @@
     "DESCRIPTIONS": [
       "Heile für je #b",
       " Karten in deinem Deck #b",
-      " TP, wenn du dich an einem Lagerfeuer befindest."
+      " TP, wenn du an ein Lagerfeuer kommst."
     ]
   },
   "FaceOfCleric": {
@@ -679,7 +679,7 @@
     "DESCRIPTIONS": [
       "Beginne jeden Kampf mit #b",
       " #yStärke. Verliere am Ende deines ersten Zuges #b",
-      "#yStärke."
+      " #yStärke."
     ]
   },
   "Necronomicon": {
@@ -998,8 +998,8 @@
     "NAME": "Selbstformender Ton",
     "FLAVOR": "„Wie merkwürdig! Er scheint sich basierend auf meinen Gedanken zu formen! Tele-Ton?“ – Ranwid",
     "DESCRIPTIONS": [
-      "Immer wenn du im Kampf TP verlierst, erhalte #b",
-      " #yBlock im nächsten Zug."
+      "Immer wenn du im Kampf TP verlierst, erhalte im nächsten Zug #b",
+      " #yBlock."
     ]
   },
   "Shovel": {
@@ -1075,7 +1075,7 @@
     "NAME": "Ssslangenkopf",
     "FLAVOR": "Am erfülltesten ist das Leben, in dem du alles kaufen kannst!",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Ereignisses #b",
+      "Immer, wenn du einen #y?-Raum betrittst, erhalte #b",
       " #yGold."
     ]
   },

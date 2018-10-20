@@ -393,12 +393,12 @@
   },
   "Discovery": {
     "NAME": "Entdeckung",
-    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst und in diesem Zug 0 kostet. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst und in diesem Zug 0 kostet."
+    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Sie kostet in diesem Zug 0. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet in diesem Zug 0."
   },
   "Distraction": {
     "NAME": "Ablenkung",
-    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet 0 in diesem Zug. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
   },
   "Dodge and Roll": {
     "NAME": "Ausweichrolle",
@@ -688,7 +688,7 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. NL Dieser kostet 0 in diesem Zug. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. NL Dieser kostet in diesem Zug 0. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Zahllose Klingen",
@@ -743,8 +743,8 @@
   },
   "Loop": {
     "NAME": "Schleife",
-    "DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs.",
-    "UPGRADE_DESCRIPTION": "Nutze zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! Mal."
+    "DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs aus.",
+    "UPGRADE_DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! Mal aus."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
@@ -1271,7 +1271,7 @@
   },
   "White Noise": {
     "NAME": "Rauschen",
-    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet 0 in diesem Zug. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
   },
   "Wild Strike": {
     "NAME": "Wilder Schlag",
