@@ -393,7 +393,7 @@
   },
   "Discovery": {
     "NAME": "Entdeckung",
-    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Sie kostet in diesem Zug 0. NL Erschöpft.",
+    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet in diesem Zug 0. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet in diesem Zug 0."
   },
   "Distraction": {
