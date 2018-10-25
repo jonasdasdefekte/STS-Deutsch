@@ -147,8 +147,8 @@
   },
   "Bloodletting": {
     "NAME": "Aderlass",
-    "DESCRIPTION": "Erhalte [R]. NL Du verlierst 3 TP.",
-    "UPGRADE_DESCRIPTION": "Erhalte [R] [R]. NL Du verlierst 3 TP."
+    "DESCRIPTION": "Erhalte [R]. NL Verliere 3 TP.",
+    "UPGRADE_DESCRIPTION": "Erhalte [R] [R]. NL Verliere 3 TP."
   },
   "Bludgeon": {
     "NAME": "Knüppeln",
