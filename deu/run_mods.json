@@ -39,6 +39,10 @@
     "NAME": "Verfluchter Run",
     "DESCRIPTION": "Erhalte einen Fluch, wenn du einen Boss besiegst. Dein Startrelikt ist ersetzt durch Verfluchter Schlüssel, Nullstein-Amulett und die Du-Vu-Puppe."
   },
+  "Daily Mods": {
+    "NAME": "Der Tägliche",
+    "DESCRIPTION": "Beginne einen Run mit 3 zufälligen täglichen Modifikatoren."
+  },
   "DeadlyEvents": {
     "NAME": "Tödliche Ereignisse",
     "DESCRIPTION": "In ?-Räumen können Eliten sein, aber es ist wahrscheinlicher dort Schätze zu finden."
