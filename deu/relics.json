@@ -897,7 +897,7 @@
     "NAME": "Konserviertes Insekt",
     "FLAVOR": "Das Insekt scheint eine Schrumpf-Aura auszustrahlen, welche besonders große Gegner trifft.",
     "DESCRIPTIONS": [
-      "Gegner in Elite-Kämpfen haben #b",
+      "Gegner in Elite-Räumen haben #b",
       "% weniger TP."
     ]
   },
