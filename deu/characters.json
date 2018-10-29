@@ -32,9 +32,9 @@
       "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
       "Ich mag deine Frisur.",
       "Hast du so viel Zeit?",
-      "Bist du ein Hunde- oder ein Katzenmensch?",
+      "Bist du ein Hunde- oder ein Katzentyp?",
       "Du siehst ~gefährlich~ aus, NL hehe ...",
-      "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
+      "Lass dir Zeit ... NL ...... NL oder halt nicht.",
       "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
       "Unterstütze Kleinunternehmen!",
       "Masken sind cool, ich muss es ja wissen!",
@@ -50,10 +50,10 @@
       "Wie ich hierher gekommen bin? NL Keine Ahnung.",
       "Letzte Chance was zu kaufen! NL ~*zwinker*~ ~*zwinker*~",
       "..... NL .... NL .........",
-      "Ich bin eher ein Katzenliebhaber .",
+      "Ich bin ein Katzentyp.",
       "Keine Eile. NL Keine Eile.",
       "Ist das nicht @aufregend!?@",
-      "Ich war einmal so wie du.",
+      "Ich war mal so wie du.",
       "Auf dem Weg nach oben?"
     ]
   },
@@ -129,6 +129,14 @@
       "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
     ]
   },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Was... nun..? NL ..ist es endlich... geschehen....?",
+      "...der Spire schläft.....",
+      "..und das.... werde... auch.. NL ....ich......"
+    ]
+  },
   "Shop Screen": {
     "NAMES": [
       "~Willkommen,~ NL ~willkommen!~",
@@ -171,14 +179,6 @@
     ],
     "TEXT": [
       "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
-    ]
-  },
-  "PostCreditsNeow": {
-    "NAMES": [],
-    "TEXT": [
-      "was... nun..? NL ..ist es endlich... geschehen....?",
-      "...der Spire schläft..... NL Auch ich...... sollte...",
-      "..schlafen......."
     ]
   }
 }

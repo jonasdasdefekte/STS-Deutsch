@@ -53,11 +53,24 @@
       " Züge."
     ]
   },
+  "BackAttack": {
+    "NAME": "Hinterhalt",
+    "DESCRIPTIONS": [
+      "Verursacht #b50% mehr Schaden, da es dich von hinten angreift."
+    ]
+  },
   "Barricade": {
     "NAME": "Barrikade",
     "DESCRIPTIONS": [
       "#yBlock wird zu Beginn deines Zuges nicht entfernt.",
       "#yBlock wird zu Beginn des Zuges nicht entfernt."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Pochen des Todes",
+    "DESCRIPTIONS": [
+      "Wenn du eine Karte spielst, nimm #b",
+      " Schaden."
     ]
   },
   "Berserk": {
@@ -502,6 +515,12 @@
       "Immun gegen Schaden. Immer wenn du #yBlock erhältst, wird dieselbe Menge an TP verloren."
     ]
   },
+  "Invincible": {
+    "NAME": "Unverwundbar",
+    "DESCRIPTIONS": [
+      "JEDER Schaden und TP-Verlust wird auf #b100 begrenzt."
+    ]
+  },
   "Juggernaut": {
     "NAME": "Moloch",
     "DESCRIPTIONS": [
@@ -888,6 +907,12 @@
       "."
     ]
   },
+  "Surrounded": {
+    "NAME": "Umzingelt",
+    "DESCRIPTIONS": [
+      "Erleide #b50% mehr Schaden, wenn du von hinten angegriffen wirst. Nutze Karten mit Zielauswahl oder Tränke, um deine Ausrichtung zu ändern."
+    ]
+  },
   "TheBomb": {
     "NAME": "Die Bombe",
     "DESCRIPTIONS": [
@@ -983,31 +1008,6 @@
     "DESCRIPTIONS": [
       "Verliere am Ende deines Zuges #b",
       " Geschicklichkeit."
-    ]
-  },
-  "BeatOfDeath": {
-    "NAME": "Pochen des Todes",
-    "DESCRIPTIONS": [
-      "Wenn du eine Karte spielst, nimm #b",
-      " Schaden und erhöhe den Schaden dieser Macht um #b1. Wird jeden Zug zurückgesetzt."
-    ]
-  },
-  "Invincible": {
-    "NAME": "Unverwundbar",
-    "DESCRIPTIONS": [
-      "Es kann nicht mehr als #b100 Schaden auf einmal erlitten werden."
-    ]
-  },
-  "Surrounded": {
-    "NAME": "Umzingelt",
-    "DESCRIPTIONS": [
-      "Erleide #b50% mehr Schaden, wenn du von hinten angegriffen wirst. Nutze Karten mit Ziehlauswahl und Tränke um deine Ausrichtung zu ändern."
-    ]
-  },
-  "BackAttack": {
-    "NAME": "Hinterhalt",
-    "DESCRIPTIONS": [
-      "Verursacht #b50% mehr Schaden, da es dich von hinten angreift."
     ]
   }
 }

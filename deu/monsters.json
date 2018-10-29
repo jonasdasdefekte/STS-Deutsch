@@ -615,6 +615,21 @@
       ""
     ]
   },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire-Schild",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire-Speer"
+  },
   "TheCollector": {
     "MOVES": [
       ""
@@ -680,21 +695,6 @@
       ""
     ],
     "NAME": "Knäuelmasse",
-    "DIALOG": [
-      ""
-    ]
-  },
-  "SpireSpear": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Spire Speer"
-  },
-  "SpireShield": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Spire Schild",
     "DIALOG": [
       ""
     ]

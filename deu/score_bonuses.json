@@ -69,6 +69,12 @@
     "NAME": "Exordium-Eliten getötet",
     "DESCRIPTIONS": []
   },
+  "Heartbreaker": {
+    "NAME": "Herzensbrecher",
+    "DESCRIPTIONS": [
+      "Besiege das Herz."
+    ]
+  },
   "Highlander": {
     "NAME": "Highlander",
     "DESCRIPTIONS": [
@@ -169,12 +175,6 @@
     "NAME": "Gut genährt",
     "DESCRIPTIONS": [
       "Maximale TP um 15+ erhöht."
-    ]
-  },
-  "Heartbreaker": {
-    "NAME": "Herzensbrecher",
-    "DESCRIPTIONS": [
-      "Besiege das Herz."
     ]
   }
 }

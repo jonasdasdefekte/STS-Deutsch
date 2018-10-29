@@ -905,6 +905,12 @@
       "auf deinen Nachziehstapel legst"
     ]
   },
+  "Recall Option": {
+    "TEXT": [
+      "Erinnern",
+      "Erhalte den Rubinschlüssel."
+    ]
+  },
   "RecycleAction": {
     "TEXT": [
       "erschöpfst"
@@ -1152,13 +1158,13 @@
       "Unbekannt",
       "Verbesserung ansehen",
       "Status",
-      "Munition",
+      "",
       "Ich kann Karten nur während meines Zuges spielen.",
       "Ich bin #rVerwickelt ! NL Ich kann keine Angriffskarten spielen.",
       "Nicht genug #rEnergie.",
       "Nicht genug #rLadung.",
-      "Ich kann diese NL Karte nicht spielen.",
-      "Beta Kunst"
+      "Diese Karte kann NL ich nicht spielen.",
+      "Beta-Grafik"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1203,6 +1209,11 @@
   "TheCity": {
     "TEXT": [
       "Die Stadt"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Das Ende"
     ]
   },
   "TipHelper": {
@@ -1267,12 +1278,6 @@
       "Neue Freischaltung!"
     ]
   },
-  "Recall Option": {
-    "TEXT": [
-      "Erinnern",
-      "Den Rubinschlüssel erhalten."
-    ]
-  },
   "VictoryScreen": {
     "TEXT": [
       "Weiter",
@@ -1288,11 +1293,6 @@
       "Unverbrauchtes Gold",
       "TP Bonus",
       "Gewonnen!"
-    ]
-  },
-  "TheEnding": {
-    "TEXT": [
-      "Das Ende"
     ]
   }
 }

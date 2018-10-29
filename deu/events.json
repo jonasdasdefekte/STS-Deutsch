@@ -641,7 +641,7 @@
       "@Ba-bumm...@ @Ba-bumm...@ @Ba-bumm...@ NL Eine tief pulsierende Bedrohung ist im gesamten Raum zu spüren... NL Ist dies das #r~Herz~ des Spires? Die Quelle des Bösen?",
       "Du verursachst #b",
       " Schaden! NL Das Herz #r@windet@ sich und #r~blutet~ ... doch es schlägt letztendlich noch immer. NL Reichen deine mächtigsten Angriffe nicht aus?",
-      "Du fragst dich: ~„Bin~ ~ich~ ~schonmal~ ~hier~ ~gewesen?“~ NL Du spürst, dass du insgesamt #b",
+      "Du fragst dich: ~„War~ ~ich~ ~früher~ ~schonmal~ ~hier?“~ NL Du spürst, dass du insgesamt #b",
       " Schaden am Herzen verursacht hast.",
       " NL Insgesamt wurde #b",
       " Schaden von all jenen verursacht, die es herausgefordert haben.",
@@ -649,8 +649,8 @@
       "NL Du ziehst deine Klinge...",
       "NL Du zückst deine Dolche...",
       "NL Du lädst deinen Kern bis zum Maximum auf...",
-      " NL Das Herz #gentflieht aufwärts! Eine große Tür erscheint an seiner Stelle.",
-      " NL Das Herz pulsiert lauter und lauter, während dein #p~Bewusstseins~ #p~zu~ #p~schwinden~ #p~beginnt...~",
+      "Du fragst dich: ~„War~ ~ich~ ~früher~ ~schonmal~ ~hier?“~",
+      " NL Das Herz pulsiert lauter und lauter, während dein #p~Bewusstsein~ #p~zu~ #p~schwinden~ #p~beginnt...~",
       " NL Ein plötzlicher #y@Energieschub@ strömt aus deinem inneren, welcher dich #b@aufschreckt@.",
       " NL Das Herz #gentflieht aufwärts! Eine große Tür erscheint an seiner Stelle."
     ],
@@ -658,7 +658,7 @@
       "[Fortsetzen]",
       "[Angreifen] #b???",
       "[Schlafen]",
-      "[Der Tür annähern]"
+      "[Zur Tür gehen]"
     ]
   },
   "The Cleric": {
