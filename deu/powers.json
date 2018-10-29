@@ -995,7 +995,7 @@
   "Invincible": {
     "NAME": "Unverwundbar",
     "DESCRIPTIONS": [
-      "Es kann nicht mehr als #b100 Schaden auf einmal genommen werden."
+      "Es kann nicht mehr als #b100 Schaden auf einmal erlitten werden."
     ]
   },
   "Surrounded": {

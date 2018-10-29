@@ -47,14 +47,14 @@
       "Meine Lieblingsfarbe ist Blau. NL Und deine?"
     ],
     "OPTIONS": [
-      "How did I get here? NL Beats me.",
-      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "Wie ich hierher gekommen bin? NL Keine Ahnung.",
+      "Letzte Chance was zu kaufen! NL ~*zwinker*~ ~*zwinker*~",
       "..... NL .... NL .........",
-      "I'm a cat person.",
-      "No rush. NL No rush.",
-      "Now isn't this @exciting!?@",
-      "I used to be like you.",
-      "Heading up?"
+      "Ich bin eher ein Katzenliebhaber .",
+      "Keine Eile. NL Keine Eile.",
+      "Ist das nicht @aufregend!?@",
+      "Ich war einmal so wie du.",
+      "Auf dem Weg nach oben?"
     ]
   },
   "Neow Event": {
@@ -150,7 +150,7 @@
       "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
       "Ich mag deine Frisur.",
       "Hast du die Zeit?",
-      "Bist du ein Hunde- oder ein Katzenmensch?",
+      "Bist du ein Hunde- oder ein Katzenliebhaber?",
       "Du siehst ~gefährlich~ aus, NL hehe ...",
       "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
       "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
@@ -176,9 +176,9 @@
   "PostCreditsNeow": {
     "NAMES": [],
     "TEXT": [
-      "Now... what..? NL ..has it been... done....?",
-      "...the Spire sleeps..... NL So...... shall...",
-      "..I......."
+      "was... nun..? NL ..ist es endlich... geschehen....?",
+      "...der Spire schläft..... NL Auch ich...... sollte...",
+      "..schlafen......."
     ]
   }
 }
