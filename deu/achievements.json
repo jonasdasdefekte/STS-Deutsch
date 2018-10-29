@@ -42,10 +42,10 @@
       "Mein Glückstag",
       "Der Schwundling",
       "Aufstieg 20",
-      "Ruby+",
-      "Emerald+",
-      "Sapphire+",
-      "The Ending"
+      "Rubin+",
+      "Smaragd+",
+      "Saphir+",
+      "Das Ende"
     ],
     "TEXT": [
       "Gewinne einen Kampf, in dem dir nur noch 1 TP bleibt.",
@@ -89,10 +89,10 @@
       "Gewinne einen täglichen Aufstieg.",
       "Besiege den Schwundling, bevor er verschwindet.",
       "Beende das 20. Aufstiegslevel.",
-      "Complete the Ending with the Ironclad.",
-      "Complete the Ending with the Silent.",
-      "Complete the Ending with the Defect.",
-      "Complete the Ending with the Ironclad, Silent, and Defect."
+      "Schließe das Ende mit dem Eisernen ab.",
+      "Schließe das Ende mit der Stillen ab.",
+      "Schließe das Ende mit dem Defekten ab.",
+      "Schließe das Ende mit dem Eisernen, der Stillen und dem Defekten ab."
     ]
   },
   "CharStat": {
