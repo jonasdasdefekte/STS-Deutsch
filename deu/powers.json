@@ -986,28 +986,28 @@
     ]
   },
   "BeatOfDeath": {
-    "NAME": "Beat Of Death",
+    "NAME": "Pochen des Todes",
     "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage and increase this powers damage by #b1. Resets every turn."
+      "Wenn du eine Karte spielst, nimm #b",
+      " Schaden und erhöhe den Schaden dieser Macht um #b1. Wird jeden Zug zurückgesetzt."
     ]
   },
   "Invincible": {
-    "NAME": "Invincible",
+    "NAME": "Unverwundbar",
     "DESCRIPTIONS": [
-      "Caps ALL damage and HP loss taken to #b100."
+      "Es kann nicht mehr als #b100 Schaden auf einmal genommen werden."
     ]
   },
   "Surrounded": {
-    "NAME": "Surrounded",
+    "NAME": "Umzingelt",
     "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+      "Erleide #b50% mehr Schaden, wenn du von hinten angegriffen wirst. Nutze Karten mit Ziehlauswahl und Tränke um deine Ausrichtung zu ändern."
     ]
   },
   "BackAttack": {
-    "NAME": "Back Attack",
+    "NAME": "Hinterhalt",
     "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
+      "Verursacht #b50% mehr Schaden, da es dich von hinten angreift."
     ]
   }
 }
