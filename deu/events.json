@@ -648,12 +648,17 @@
       " NL Das Herz pulsiert lauter und lauter, während dein #y~Bewusstsein~ #y~schwindet~ ~...~",
       "NL Du ziehst deine Klinge...",
       "NL Du zückst deine Dolche...",
-      "NL Du lädst deinen Kern bis zum Maximum auf..."
+      "NL Du lädst deinen Kern bis zum Maximum auf...",
+      " NL The heart #gretreats upwards! A large door is revealed in its place.",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place."
     ],
     "OPTIONS": [
       "[Fortsetzen]",
       "[Angreifen] #b???",
-      "[Schlafen]"
+      "[Schlafen]",
+      "[Approach Door]"
     ]
   },
   "The Cleric": {

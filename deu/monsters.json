@@ -681,7 +681,22 @@
     ],
     "NAME": "Knäuelmasse",
     "DIALOG": [
-    ""
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Spear"
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Shield",
+    "DIALOG": [
+      ""
     ]
   }
 }

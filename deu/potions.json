@@ -168,7 +168,8 @@
   "SmokeBomb": {
     "NAME": "Rauchbombe",
     "DESCRIPTIONS": [
-      "Fliehe aus einem Kampf (Bosskämpfe ausgenommen). Erhalte keine Belohnungen."
+      "Fliehe aus einem Kampf (Bosskämpfe ausgenommen). Erhalte keine Belohnungen.",
+      "I'm Surrounded!"
     ]
   },
   "SneckoOil": {

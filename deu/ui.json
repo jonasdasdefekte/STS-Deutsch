@@ -971,7 +971,12 @@
       " Gold",
       "Erhalte eine Karte",
       "",
-      "Wähle eine Karte"
+      "Wähle eine Karte",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this relic will remove ",
+      "."
     ]
   },
   "RunHistoryMonsterNames": {
@@ -1003,7 +1008,8 @@
       "Erwählte und Kultist",
       "(Veraltet) Flammenschläger",
       "(Veraltet) Sklavenhändler und Parasit",
-      "(Veraltet) Snecko und Mystikerinnen"
+      "(Veraltet) Snecko und Mystikerinnen",
+      "Shield and Spear"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1040,20 +1046,20 @@
       "#bGegraben",
       "#bTrainiert %s/%s",
       "#yGekauft:",
-    "#rZahlte ",
-    "#rNahm ",
-    "#rVerlor ",
-    "%s max. TP",
-    "#bHeilte ",
-    "#bErhielt ",
-    "#bIgnoriert ",
-    "%s TP",
-    "%s #berhalten",
-    "#rVerflucht #rmit #r%s",
-    "%s Schaden",
-    "%s #bverbessert",
-    "%s #btransformiert",
-    "%s #rverloren"
+      "#rZahlte ",
+      "#rNahm ",
+      "#rVerlor ",
+      "%s max. TP",
+      "#bHeilte ",
+      "#bErhielt ",
+      "#bIgnoriert ",
+      "%s TP",
+      "%s #berhalten",
+      "#rVerflucht #rmit #r%s",
+      "%s Schaden",
+      "%s #bverbessert",
+      "%s #btransformiert",
+      "%s #rverloren"
     ]
   },
   "RunHistoryScreen": {
@@ -1151,7 +1157,8 @@
       "Ich bin #rVerwickelt ! NL Ich kann keine Angriffskarten spielen.",
       "Nicht genug #rEnergie.",
       "Nicht genug #rLadung.",
-      "Ich kann diese NL Karte nicht spielen."
+      "Ich kann diese NL Karte nicht spielen.",
+      "Beta Art"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1258,6 +1265,34 @@
   "UnlockTextEffect": {
     "TEXT": [
       "Neue Freischaltung!"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
     ]
   }
 }

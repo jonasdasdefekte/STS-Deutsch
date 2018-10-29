@@ -170,5 +170,11 @@
     "DESCRIPTIONS": [
       "Maximale TP um 15+ erhöht."
     ]
+  },
+  "Heartbreaker": {
+    "NAME": "Heartbreaker",
+    "DESCRIPTIONS": [
+      "Defeat the Heart."
+    ]
   }
 }
