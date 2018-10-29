@@ -972,10 +972,10 @@
       "Erhalte eine Karte",
       "",
       "Wähle eine Karte",
-      "Emerald Key",
-      "Sapphire Key",
-      "Linked",
-      "Obtaining this relic will remove ",
+      "Smaragdschlüssel",
+      "Saphirschlüssel",
+      "Verbunden",
+      "Das Erhalten dieses relikts entfernt ",
       "."
     ]
   },
@@ -1009,7 +1009,7 @@
       "(Veraltet) Flammenschläger",
       "(Veraltet) Sklavenhändler und Parasit",
       "(Veraltet) Snecko und Mystikerinnen",
-      "Shield and Spear"
+      "Schild und Speer"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1158,7 +1158,7 @@
       "Nicht genug #rEnergie.",
       "Nicht genug #rLadung.",
       "Ich kann diese NL Karte nicht spielen.",
-      "Beta Art"
+      "Beta Kunst"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1269,30 +1269,30 @@
   },
   "Recall Option": {
     "TEXT": [
-      "Recall",
-      "Obtain the Ruby Key."
+      "Erinnern",
+      "Den Rubinschlüssel erhalten."
     ]
   },
   "VictoryScreen": {
     "TEXT": [
-      "Proceed",
-      "Floors Climbed",
-      "Bosses Defeated",
-      "Play Time",
+      "Weiter",
+      "Ebenen erklommen",
+      "Bosse getötet",
+      "Spielzeit",
       "Score",
-      "Unlock",
-      "Unlocks Remaining: ",
-      "Unlock Remaining: ",
-      "Enemies Slain",
-      "Elites Killed",
-      "Unspent Gold",
-      "HP Bonus",
-      "Victory!"
+      "Freigeschalten",
+      "Freischaltbares übrig: ",
+      "Freischaltbares übrig: ",
+      "Gegner erschlagen",
+      "Eliten getötet",
+      "Unverbrauchtes Gold",
+      "TP Bonus",
+      "Gewonnen!"
     ]
   },
   "TheEnding": {
     "TEXT": [
-      "The Ending"
+      "Das Ende"
     ]
   }
 }
