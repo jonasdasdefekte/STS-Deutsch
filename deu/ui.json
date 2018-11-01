@@ -152,6 +152,14 @@
       ". Zug"
     ]
   },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Beta-Kartenbilder Der Eiserne freigeschaltet!",
+      "Beta-Kartenbilder Die Stille freigeschaltet!",
+      "Beta-Kartenbilder Das Defekte freigeschaltet!",
+      "Alle Beta-Kartenbilder freigeschaltet!"
+    ]
+  },
   "BossChest": {
     "TEXT": [
       "Fortfahren"
@@ -503,8 +511,8 @@
       "Die Stadt",
       "3. Akt",
       "Das Jenseits",
-      "? Akt",
-      "???",
+      "Letzter Akt",
+      "Das Ende",
       "Klicke irgendwohin, um fortzufahren"
     ]
   },
@@ -1056,8 +1064,8 @@
       "#rNahm ",
       "#rVerlor ",
       "%s max. TP",
-      "#bHeilte ",
-      "#bErhielt ",
+      "#bGeheilt: ",
+      "#bErhalten: ",
       "#bIgnoriert ",
       "%s TP",
       "%s #berhalten",
