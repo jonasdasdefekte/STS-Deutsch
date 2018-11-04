@@ -518,7 +518,9 @@
   "Invincible": {
     "NAME": "Unverwundbar",
     "DESCRIPTIONS": [
-      "JEDER Schaden und TP-Verlust wird auf #b100 begrenzt."
+      "Kann diese Runde nur noch #b",
+    " weitere TP verlieren.",
+    "Kann diese Runde nicht mehr verletzt werden.."
     ]
   },
   "Juggernaut": {
