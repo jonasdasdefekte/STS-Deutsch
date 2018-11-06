@@ -151,6 +151,10 @@
     "NAME": "Das Ende naht",
     "DESCRIPTION": "Verliere 1 max. TP, wenn du einen Raum betrittst. Beginne jeden Kampf mit 5 Panzerrüstung."
   },
+  "The Ending": {
+    "NAME": "Das Ende",
+    "DESCRIPTION": "Aktiviert den Letzten Akt."
+  },
   "Time Dilation": {
     "NAME": "Zeitverzögerung",
     "DESCRIPTION": "Alle Gegner beginnen mit dem Debuff Langsam."
