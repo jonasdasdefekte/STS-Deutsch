@@ -518,9 +518,9 @@
   "Invincible": {
     "NAME": "Unverwundbar",
     "DESCRIPTIONS": [
-      "Kann in diesem Zug nur noch #b",
+      "Kann diese Runde nur noch #b",
     " weitere TP verlieren.",
-    "Kann in diesem Zug nicht mehr verletzt werden."
+    "Kann diese Runde nicht mehr verletzt werden."
     ]
   },
   "Juggernaut": {
