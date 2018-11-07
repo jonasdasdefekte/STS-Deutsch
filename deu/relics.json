@@ -866,10 +866,10 @@
   },
   "Philosopher's Stone": {
     "NAME": "Stein der Weisen",
-    "FLAVOR": "Eine rohe Energie geht vom Stein aus und stärkt alle in der Nähe.",
+    "FLAVOR": "Der Stein verströmt raue Energie, die alle im nahen Umkreis stärker macht.",
     "DESCRIPTIONS": [
-      " NL ALLE Gegner beginnen mit #b2 #yStärke.",
-      "Erhalte in deinem Zug [E] ."
+      "Erhalte in deinem Zug [E] . NL ALLE Gegner beginnen mit #b",
+      " #yStärke."
     ]
   },
   "Pocketwatch": {
