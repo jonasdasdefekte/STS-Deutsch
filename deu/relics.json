@@ -868,7 +868,7 @@
     "NAME": "Stein der Weisen",
     "FLAVOR": "Der Stein verströmt raue Energie, die alle im nahen Umkreis stärker macht.",
     "DESCRIPTIONS": [
-      "Erhalte in deinem Zug [E] . NL ALLE Gegner beginnen mit #b",
+      "Erhalte in deinem Zug [E] . NL ALLE Gegner beginnen den Kampf mit #b",
       " #yStärke."
     ]
   },
