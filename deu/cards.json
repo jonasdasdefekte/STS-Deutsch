@@ -895,7 +895,7 @@
     "DESCRIPTION": "Erhalte 2 Wunden auf die Hand. NL Erhalte !B! Block."
   },
   "Predator": {
-    "NAME": "Jäger",
+    "NAME": "Jagd",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe im nächsten Zug 2 Karten mehr."
   },
   "Prepared": {
@@ -1144,7 +1144,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner dadurch getötet wird, erhalte [B] [B] [B]."
   },
   "Survivor": {
-    "NAME": "Überlebenskünstler",
+    "NAME": "Überlebenskünstlerin",
     "DESCRIPTION": "Erhalte !B! Block. NL Wirf eine Karte ab."
   },
   "Sweeping Beam": {
@@ -1160,7 +1160,7 @@
     "DESCRIPTION": "Füge !M! Mal einem zufälligen Gegner !D! Schaden zu."
   },
   "Tactician": {
-    "NAME": "Taktiker",
+    "NAME": "Taktikerin",
     "DESCRIPTION": "Unspielbar. NL Wenn du diese Karte abwirfst, erhalte [G].",
     "UPGRADE_DESCRIPTION": "Unspielbar. NL Wenn du diese Karte abwirfst, erhalte [G] [G].",
     "EXTENDED_DESCRIPTION": [
