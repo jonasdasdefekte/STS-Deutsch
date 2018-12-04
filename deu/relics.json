@@ -364,7 +364,7 @@
     "NAME": "Gefühlschip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Löse zu Beginn deines Zuges den passiven Effekt ALL deiner Orbs aus, wenn du im letzten Zug Schaden genommen hast."
+      "Falls du im letzten Zug TP verloren hast, löse zu Beginn deines Zuges den passiven Effekt all deiner Orbs aus."
     ]
   },
   "Empty Cage": {
