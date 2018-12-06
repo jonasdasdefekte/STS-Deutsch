@@ -571,8 +571,8 @@
   "Magnetism": {
     "NAME": "Magnetismus",
     "DESCRIPTIONS": [
-      "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karte auf die Hand.",
-      "Zu Beginn deines Zuges erhältst du #b%s zufällige farblose Karten auf die Hand."
+      "Zu Beginn deines Zuges erhältst du #b%s zufällige Farblose Karte auf die Hand.",
+      "Zu Beginn deines Zuges erhältst du #b%s zufällige Farblose Karten auf die Hand."
     ]
   },
   "Malleable": {
@@ -692,9 +692,9 @@
     "NAME": "Panzerrüstung",
     "DESCRIPTIONS": [
       "Du erhältst #b",
-      " #yBlock am Ende deines Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1.",
+      " #yBlock am Ende deines Zuges. Jeder Angriffsschaden reduziert #yPanzerrüstung um #b1.",
       "Erhält #b",
-      " #yBlock am Ende des eigenen Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1."
+      " #yBlock am Ende des eigenen Zuges. Jeder Angriffsschaden reduziert #yPanzerrüstung um #b1."
     ]
   },
   "Poison": {
