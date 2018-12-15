@@ -52,8 +52,8 @@
   },
   "Armaments": {
     "NAME": "Aufrüsten",
-    "DESCRIPTION": "Erhalte !B! Block. NL Verbessere eine Handkarte bis zum Kampfende.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Verbessere ALLE Handkarten bis zum Kampfende."
+    "DESCRIPTION": "Erhalte !B! Block. NL Verbessere eine Handkarte bis zum Ende des Kampfes.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Verbessere alle Handkarten bis zum Ende des Kampfes."
   },
   "AscendersBane": {
     "NAME": "Aufstiegsfluch",
@@ -1237,7 +1237,7 @@
   },
   "Unload": {
     "NAME": "Entlasten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wirf ALLE Karten außer Angriffen ab."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wirf alle Karten außer Angriffen ab."
   },
   "Uppercut": {
     "NAME": "Kinnhaken",
