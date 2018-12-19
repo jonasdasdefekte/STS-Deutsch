@@ -26,7 +26,7 @@
     "NAME": "Astrolabium",
     "FLAVOR": "Mit diesem Instrument eignest du dir das wertvolle Wissen der Sterne an.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
+      "Wähle beim Aufheben #b3 Karten, #ytransformiere sie und #yverbessere sie dann.",
       "Wähle 3 Karten für "
     ]
   },
@@ -105,7 +105,7 @@
     "NAME": "Flaschenflamme",
     "FLAVOR": "In der Flasche haust eine Flamme, die auf ewig brennt.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine #yAngriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle beim Aufheben eine #yAngriffskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -115,7 +115,7 @@
     "NAME": "Flaschenblitz",
     "FLAVOR": "Im wirbelnden Mahlstrom siehst du einen Teil deiner selbst zurückstarren.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine #yFertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle beim Aufheben eine #yFertigkeitskarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -125,7 +125,7 @@
     "NAME": "Flaschentornado",
     "FLAVOR": "Diese Flasche gibt ein sanftes Summen und Dröhnen von sich.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Wähle eine #yMachtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
+      "Wähle beim Aufheben eine #yMachtkarte. Diese Karte ist zu Beginn jedes Kampfes auf deiner Hand.",
       "Wähle eine Karte für ",
       "Beginne jeden Kampf mit ",
       " auf deiner Hand."
@@ -193,7 +193,7 @@
     "NAME": "Kessel",
     "FLAVOR": "Tatsächlich ist der Händler ein ziemlich guter Trankbrauer. Kaufe 4, bekomme 1 gratis.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Dir werden #b5 zufällige Tränke gebraut.",
+      "Braut beim Aufheben #b5 zufällige Tränke.",
       "Blupp, blipp, bluuupp...!"
     ]
   },
@@ -330,7 +330,7 @@
     "NAME": "Dollys Spiegel",
     "FLAVOR": "„Darin sehe ich komisch aus.“",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhalte ein weiteres Exemplar einer Karte in deinem Deck.",
+      "Erhalte beim Aufheben ein weiteres Exemplar einer Karte in deinem Deck.",
       "Wähle 1 Karte, die du kopierst."
     ]
   },
@@ -371,7 +371,7 @@
     "NAME": "Leerer Käfig",
     "FLAVOR": "„Wie seltsam, etwas einzusperren, das du anbetest.“ - Ranwid",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Entferne #b2 Karten aus deinem Deck.",
+      "Entferne beim Aufheben #b2 Karten aus deinem Deck.",
       "Wähle 2 Karten, die du entfernst."
     ]
   },
@@ -549,7 +549,7 @@
     "NAME": "Lees Waffel",
     "FLAVOR": "„Der köstlichste Leckerbissen im ganzen Spire! Heute speziell für dich gemacht.“",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhöhe deine max. TP um #b",
+      "Erhöhe beim Aufheben deine max. TP um #b",
       " und heile all deine TP."
     ]
   },
@@ -586,7 +586,7 @@
     "NAME": "Mango",
     "FLAVOR": "Die begehrteste vergessene Frucht. Perfekt erhalten und ohne Spuren von Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhöhe deine max. TP um #b"
+      "Erhöhe beim Aufheben deine max. TP um #b"
     ]
   },
   "Mark of Pain": {
@@ -770,7 +770,7 @@
     "NAME": "Alte Münze",
     "FLAVOR": "Münz-Unikate werden von Händlern wegen ihres historischen Werts und ihrer seltenen Metalle als sehr wertvoll angesehen.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhalte #b300 #yGold."
+      "Erhalte beim Aufheben #b300 #yGold."
     ]
   },
   "Omamori": {
@@ -854,7 +854,7 @@
     "NAME": "Birne",
     "FLAVOR": "Eine weit verbreitete Frucht vor der Spire-Fäule.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhöhe deine max. TP um #b"
+      "Erhöhe beim Aufheben deine max. TP um #b"
     ]
   },
   "Pen Nib": {
@@ -883,7 +883,7 @@
     "NAME": "Trankgürtel",
     "FLAVOR": "Mit diesem Gürtel kann ich mehr Tränke tragen!",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhalte #b2 Trankslots."
+      "Erhalte beim Aufheben #b2 Trankslots."
     ]
   },
   "Prayer Wheel": {
@@ -1099,7 +1099,7 @@
     "NAME": "Erdbeere",
     "FLAVOR": "„Köstlich! Nach der Fäule habe ich so eine noch nie gesehen.“ – Ranwind",
     "DESCRIPTIONS": [
-      "Beim Aufheben: Erhöhe deine max. TP um #b"
+      "Erhöhe beim Aufheben deine max. TP um #b"
     ]
   },
   "Sundial": {
@@ -1317,7 +1317,7 @@
     "NAME": "Kriegsbemalung",
     "FLAVOR": "Eiserne nutzten so eine Bemalung, um vor der Schlacht magische Kreise zu erschaffen.",
     "DESCRIPTIONS": [
-      "Beim Aufheben: #yVerbessere #b",
+      "#yVerbessere beim Aufheben #b",
       " zufällige #yFertigkeiten."
     ]
   },
@@ -1332,7 +1332,7 @@
     "NAME": "Schleifstein",
     "FLAVOR": "„Fleisch besiegt niemals Stahl.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "Beim Aufheben: #yVerbessere #b",
+      "#yVerbessere beim Aufheben #b",
       " zufällige #yAngriffe."
     ]
   },
