@@ -1047,7 +1047,7 @@
       "#r%s Runden",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "Erhalten:",
+      "Erhalten: ",
       "Übersprungen:",
       "Fehlende Infos",
       "+2 max. TP",
@@ -1056,14 +1056,14 @@
       "[P] ",
       "[S] ",
       "#bAusgeruht",
-      "#bVerbessert %s",
-      "#bEntfernt %s",
+      "#bVerbessert: %s",
+      "#bEntfernt: %s",
       "#bGegraben",
       "#bTrainiert %s/%s",
       "#yGekauft:",
-      "#rZahlte ",
+      "#rBezahlt: ",
       "#rNahm ",
-      "#rVerlor ",
+      "#rVerloren: ",
       "%s max. TP",
       "#bGeheilt: ",
       "#bErhalten: ",
@@ -1074,7 +1074,8 @@
       "%s Schaden",
       "%s #bverbessert",
       "%s #btransformiert",
-      "%s #rverloren"
+      "%s #rverloren",
+      "#bErinnert"
     ]
   },
   "RunHistoryScreen": {
