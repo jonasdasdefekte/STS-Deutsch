@@ -28,7 +28,7 @@
   "Champion": {
     "NAME": "Champion",
     "DESCRIPTIONS": [
-      "Töte einen Elite, ohne Schaden zu nehmen."
+      "Gewinne einen Elite-Kampf, ohne Schaden zu nehmen."
     ]
   },
   "Cheater": {
@@ -44,7 +44,7 @@
   "Collector": {
     "NAME": "Sammler",
     "DESCRIPTIONS": [
-      "Habe 4 Kopien einer Nicht-Startkarte."
+      "Habe 4 Exemplare einer Nicht-Startkarte."
     ]
   },
   "Combo": {
