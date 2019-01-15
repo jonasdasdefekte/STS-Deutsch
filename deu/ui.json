@@ -324,7 +324,7 @@
   },
   "CustomModeScreen": {
     "TEXT": [
-      "Sonderregeln",
+      "Spezialmodus",
       "Errungenschaften und Ranglisten sind abgeschaltet.",
       "Charakter",
       "Aufstieg",
@@ -834,7 +834,7 @@
       "Unbekannt",
       "Gewinne einen Täglichen Aufstieg, um diesen Spielmodus freizuschalten.",
       "Dieses Feature ist noch nicht verfügbar.",
-      "Sonderregeln",
+      "Spezialmodus",
       "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen."
     ]
   },
@@ -992,6 +992,14 @@
       "Verbunden",
       "Das Aufheben dieses Relikts entfernt ",
       "."
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Täglich - Ebene %s",
+      "Spezial - Ebene %s",
+      " - Ebene %s",
+      "Hauptmenü"
     ]
   },
   "RunHistoryMonsterNames": {
