@@ -144,7 +144,7 @@
     ]
   },
   "Compulsive": {
-    "NAME": "Umwindend",
+    "NAME": "Unstet",
     "DESCRIPTIONS": [
       "Ändert seine Absicht beim Erleiden von Angriffsschaden."
     ]
@@ -377,7 +377,7 @@
     ]
   },
   "Fading": {
-    "NAME": "Verblassen",
+    "NAME": "Schwindend",
     "DESCRIPTIONS": [
       "Stirbt in #b",
       " Zügen.",
@@ -544,7 +544,7 @@
     ]
   },
   "Lockon": {
-    "NAME": "Anvisieren",
+    "NAME": "Anvisiert",
     "DESCRIPTIONS": [
       "Erleidet #b",
       "% mehr Schaden durch Orbs (für #b",
@@ -918,7 +918,7 @@
   "TheBomb": {
     "NAME": "Die Bombe",
     "DESCRIPTIONS": [
-      "Füge am Ende von #b%1$s Zügen ALLEN Gegnern #b%2$s Schaden zu.",
+      "Füge nach #b%1$s Zügen ALLEN Gegnern #b%2$s Schaden zu.",
       "Füge am Ende dieses Zuges ALLEN Gegnern #b%1$s Schaden zu."
     ]
   },

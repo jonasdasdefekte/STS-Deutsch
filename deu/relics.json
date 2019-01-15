@@ -32,7 +32,7 @@
   },
   "Bag of Marbles": {
     "NAME": "Murmelsack",
-    "FLAVOR": "Ein einst beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
+    "FLAVOR": "Einst ein beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b",
       " #yVerwundbar auf ALLE Gegnern an."
@@ -222,7 +222,7 @@
   },
   "Charon's Ashes": {
     "NAME": "Charons Asche",
-    "FLAVOR": "Man sagt, Charon ist der Gott der Wiedergeburt, der ewig wieder stirbt und in einem Flammenschwall aufersteht.",
+    "FLAVOR": "Man sagt, Charon sei der Gott der Wiedergeburt, der bis in alle Ewigkeit stirbt und aus einem Flammenschwall aufersteht.",
     "DESCRIPTIONS": [
       "Immer wenn du eine Karte #yerschöpfst, verursache #b",
       " Schaden an ALLEN Gegnern."
@@ -409,7 +409,7 @@
     "NAME": "Gefrorenes Ei",
     "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
+      "Jede #yMachtkarte, die du erhältst, ist #yverbessert."
     ]
   },
   "Frozen Eye": {
@@ -500,7 +500,7 @@
     ]
   },
   "Ice Cream": {
-    "NAME": "Eiscreme",
+    "NAME": "Eis",
     "FLAVOR": "„Köstlich!“",
     "DESCRIPTIONS": [
       "Energie wird jetzt zwischen Zügen aufbewahrt."
@@ -663,7 +663,7 @@
     "NAME": "Geschmolzenes Ei",
     "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot, heiß von siedender Lava.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yAngriffskarte erhältst, ist sie #yverbessert."
+      "Jede #yAngriffskarte, die du erhältst, ist #yverbessert."
     ]
   },
   "Mummified Hand": {
@@ -1263,7 +1263,7 @@
     "NAME": "Toxisches Ei",
     "FLAVOR": "„Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei irgendeiner magischen Kreatur zu sein. Wer oder was mag es erschaffen haben?“ - Ranwid",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
+      "Jede #yFertigkeitskarte, die du erhältst, ist #yverbessert."
     ]
   },
   "Toy Ornithopter": {
@@ -1322,8 +1322,8 @@
     ]
   },
   "WarpedTongs": {
-    "NAME": "Verformte Zangen",
-    "FLAVOR": "Diese verfluchten Zangen geben dir das Gefühl, sie wollten an den Ort zurück, an dem sie gestohlen wurden.",
+    "NAME": "Verformte Zange",
+    "FLAVOR": "Diese verfluchte Zange gibt dir das Gefühl, sie wolle an den Ort zurück, an dem sie gestohlen wurde.",
     "DESCRIPTIONS": [
       "#yVerbessere am Anfang jedes Zuges eine zufällige Karte auf deiner Hand für den Rest des Kampfes."
     ]

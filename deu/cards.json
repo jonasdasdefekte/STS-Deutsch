@@ -44,7 +44,7 @@
   },
   "Anger": {
     "NAME": "Zorn",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Exemplar dieser Karte auf den Abwurfstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte eine Kopie dieser Karte auf den Abwurfstapel."
   },
   "Apotheosis": {
     "NAME": "Apotheose",
@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Blut um Blut",
-    "DESCRIPTION": "Kostet 1 [R] weniger für jedes Mal, wenn du TP im Kampf verlierst. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Die Kosten dieser Karte sinken jedes Mal um 1 [R], wenn du TP verlierst. NL Füge !D! Schaden zu."
   },
   "Bloodletting": {
     "NAME": "Aderlass",
@@ -169,7 +169,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Springende Flasche",
-    "DESCRIPTION": "Wende !M! Mal 3 Gift an einem zufälligen Gegner an."
+    "DESCRIPTION": "Wende !M! Mal 3 Gift auf einen zufälligen Gegner an."
   },
   "Brutality": {
     "NAME": "Brutalität",
@@ -285,7 +285,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug erhalte [B]."
   },
   "Consume": {
-    "NAME": "Konsumieren",
+    "NAME": "Aufzehren",
     "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
   },
   "Coolheaded": {
@@ -456,7 +456,7 @@
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
-    "DESCRIPTION": "Immer wenn du diese Karte ziehst, erhalte ein weiteres Exemplar auf die Hand. NL Füge !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Immer wenn du diese Karte ziehst, erhalte eine Kopie von ihr auf die Hand. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Energy Pulse": {
     "NAME": "Energie-Puls",
@@ -482,7 +482,7 @@
     "DESCRIPTION": "Ziehe 1 Karte. NL Ist die Karte eine Fertigkeit, NL erhalte !B! Block."
   },
   "Eviscerate": {
-    "NAME": "Vernichten",
+    "NAME": "Ausweiden",
     "DESCRIPTION": "Kostet 1 [G] weniger pro in diesem Zug abgeworfener Karte. NL Füge dreimal NL !D! Schaden zu."
   },
   "Evolve": {
@@ -816,7 +816,7 @@
   },
   "Night Terror": {
     "NAME": "Albtraum",
-    "DESCRIPTION": "Wähle eine Karte. NL Erhalte im nächsten Zug !M! Exemplare dieser Karte auf die Hand. Erschöpft.",
+    "DESCRIPTION": "Wähle eine Karte. NL Erhalte im nächsten Zug !M! Kopien dieser Karte auf die Hand. Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Ich kann NL ",
       " NL nur einmal pro Zug verwenden."
@@ -875,7 +875,7 @@
   },
   "Phantasmal Killer": {
     "NAME": "Phantomkiller",
-    "DESCRIPTION": "In deinem nächsten Zug ist dein Angriffsschaden verdoppelt."
+    "DESCRIPTION": "In deinem nächsten Zug wird dein Angriffsschaden verdoppelt."
   },
   "PiercingWail": {
     "NAME": "Schrilles Heulen",
@@ -905,7 +905,7 @@
   },
   "Pride": {
     "NAME": "Stolz",
-    "DESCRIPTION": "Angeboren. Erschöpft. NL Lege am Ende deines Zuges ein Exemplar dieser Karte auf den Nachziehstapel."
+    "DESCRIPTION": "Angeboren. Erschöpft. NL Lege am Ende deines Zuges eine Kopie dieser Karte auf den Nachziehstapel."
   },
   "Pummel": {
     "NAME": "Prügeln",
