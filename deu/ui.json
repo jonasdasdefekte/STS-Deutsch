@@ -756,7 +756,8 @@
   "Lift Option": {
     "TEXT": [
       "Trainieren",
-      "Beginne Kämpfe mit +1 Stärke (bis zu 3)."
+      "Beginne Kämpfe mit +1 Stärke (bis zu 3).",
+      ""
     ]
   },
   "MainMenuScreen": {
@@ -967,7 +968,8 @@
       "Ausruhen",
       "Heile dich um 20% deiner max. TP (",
       " TP von ",
-      "Heile dich um 30% deiner max. TP ("
+      "Heile dich um 30% deiner max. TP (",
+      ""
     ]
   },
   "RestartForChangesEffect": {
