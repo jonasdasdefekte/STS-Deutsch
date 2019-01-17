@@ -285,7 +285,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug erhalte [B]."
   },
   "Consume": {
-    "NAME": "Aufzehren",
+    "NAME": "Konsumieren",
     "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
   },
   "Coolheaded": {
