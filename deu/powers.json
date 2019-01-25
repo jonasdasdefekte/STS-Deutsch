@@ -838,8 +838,8 @@
   "Shifting": {
     "NAME": "Sphärenwechsel",
     "DESCRIPTIONS": [
-      "Immer wenn ",
-      " Schaden erleidet, verliert er für diesen Zug genauso viel #yStärke."
+      "",
+      "Verliert beim Erleiden von Schaden genauso viel #yStärke für diesen Zug."
     ]
   },
   "Shriek From Beyond": {
