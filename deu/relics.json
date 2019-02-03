@@ -686,9 +686,9 @@
     "NAME": "Necronomicon",
     "FLAVOR": "Nur ein Narr würde sich diese böse Macht aneignen wollen. Nachts träumst du davon, wie das Buch deinen Geist verschlingt.",
     "DESCRIPTIONS": [
-      "Der erste #yAngriff, der jeden Zug ausgespielt wird und Kosten von #b",
-      " oder mehr hat, wird zweimal ausgespielt. Nimmst du dieses Relikt, wirst du #rverflucht.",
-      " oder mehr hat, wird zweimal ausgespielt."
+      "Der erste #yAngriff, der in deinem Zug gespielt wird und #b",
+      " oder mehr kostet, wird zweimal ausgespielt. Nimmst du dieses Relikt, wirst du #rverflucht.",
+      " oder mehr kostet, wird zweimal ausgespielt."
     ]
   },
   "NeowsBlessing": {
@@ -703,7 +703,7 @@
     "NAME": "Nilrys Kodex",
     "FLAVOR": "Dies stammt vom berüchtigten Spielemeister selbst. Man sagt, es erweitert den Geist.",
     "DESCRIPTIONS": [
-      "Am Ende jedes Zuges kannst du #b1 von #b3 zufälligen Karten wählen und in deinen Nachziehstapel mischen."
+      "Am Ende deines Zuges kannst du #b1 von #b3 zufälligen Karten wählen und in deinen Nachziehstapel mischen."
     ]
   },
   "Ninja Scroll": {
