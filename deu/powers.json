@@ -692,9 +692,9 @@
     "NAME": "Panzerrüstung",
     "DESCRIPTIONS": [
       "Du erhältst #b",
-      " #yBlock am Ende deines Zuges. Jeder Angriffsschaden reduziert #yPanzerrüstung um #b1.",
+      " #yBlock am Ende deines Zuges. Ungeblockter Angriffsschaden reduziert #yPanzerrüstung um #b1.",
       "Erhält #b",
-      " #yBlock am Ende des eigenen Zuges. Jeder Angriffsschaden reduziert #yPanzerrüstung um #b1."
+      " #yBlock am Ende des eigenen Zuges. Ungeblockter Angriffsschaden reduziert #yPanzerrüstung um #b1."
     ]
   },
   "Poison": {
