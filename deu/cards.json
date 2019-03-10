@@ -520,7 +520,7 @@
     "DESCRIPTION": "Erschöpfe deine Hand. Füge pro erschöpfter Karte !D! Schaden zu. NL Erschöpft."
   },
   "Finesse": {
-    "NAME": "Finesse",
+    "NAME": "Ass im Ärmel",
     "DESCRIPTION": "Erhalte !B! Block. NL Ziehe 1 Karte."
   },
   "Finisher": {
@@ -807,7 +807,7 @@
     "UPGRADE_DESCRIPTION": "Entlade deinen vordersten Orb X+1 Mal."
   },
   "Necronomicurse": {
-    "NAME": "Nekronomischer Fluch",
+    "NAME": "Necronomischer Fluch",
     "DESCRIPTION": "Unspielbar. NL Du kannst diesem Fluch nicht entgehen."
   },
   "Neutralize": {
@@ -991,7 +991,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. NL Erschöpft."
   },
   "Rupture": {
-    "NAME": "Blutfluss",
+    "NAME": "Blutriss",
     "DESCRIPTION": "Immer wenn du TP durch eine Karte verlierst, NL erhalte 1 Stärke."
   },
   "Sadistic Nature": {
@@ -1120,7 +1120,7 @@
     "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 verbessertes Messer auf die Hand."
   },
   "Streamline": {
-    "NAME": "Stromlinie",
+    "NAME": "Optimieren",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte spielst, senke ihre Kosten für diesen Kampf um !M! ."
   },
   "Strike_B": {
@@ -1236,7 +1236,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Behalte deine Hand in diesem Zug."
   },
   "Unload": {
-    "NAME": "Entlasten",
+    "NAME": "Alles Abwerfen",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wirf alle Karten außer Angriffen ab."
   },
   "Uppercut": {
