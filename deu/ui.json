@@ -339,21 +339,22 @@
     "TEXT": [
       "Tägliche Herausforderung",
       "Verbindung zum Zeitserver wird hergestellt...",
-      "Du hast die heutige Herausforderung abgeschlossen, NL bei weiteren Anläufen wird kein Score gespeichert.",
+      "#yHINWEIS: Du hast die heutige Herausforderung abgeschlossen. NL Weitere Versuche tauchen nicht auf der Rangliste auf.",
       "Zurück",
       "Aufbrechen",
       "Heutiger Charakter: ",
       "dd/MM/yyyy HH:mm:ss",
-      "Zeit übrig: ",
-      "#yEbene #yErreicht: NL  ",
+      "Übrige Zeit: ",
+      "#yEbene #yerreicht: NL ",
       " NL NL  #yDeck: NL ",
       " NL NL  #yRelikte: NL  ",
       " NL Heutige Herausforderung: NL TAB #yKlasse: NL TAB ",
       " NL TAB #yMods: ",
-      "Modifikatoren: ",
+      "Regeln: ",
       "Ranglisten",
       "*Errungenschaften sind beim Täglichen Aufstieg abgeschaltet.",
-      "  [OFFLINEMODUS]"
+      "  [OFFLINEMODUS]",
+      "dd. MMMM yyyy"
     ]
   },
   "DeathScreen": {
@@ -704,10 +705,10 @@
       "Die Stille",
       "Das Defekte",
       "Durschnittlich erreichte Ebene (Letzte 20 Versuche)",
-      "Durchschnittlicher Score (Letzte 20 Versuche)",
+      "Durchschnittliche Punkte (Letzte 20 Versuche)",
       "Beste Siegesserie",
       "Schnellster Sieg",
-      "Höchster Score",
+      "Meiste Punkte",
       "Option 6. DO NOT TRANSLATE",
       "Freunde",
       "Global"
@@ -720,14 +721,14 @@
       "Charakter",
       "Region",
       "Typ",
-      "Eigenen Score zeigen",
+      "Eigene Punkte zeigen",
       "Rang",
       "Name",
-      "Score",
+      "Punkte",
       "Lade Daten...",
       "Rangliste",
       "Nicht mit Steam verbunden",
-      "Keine Scores verfügbar \n Geh und Schlag den Spire!"
+      "Keine Punkte gefunden \n Geh und Schlag den Spire!"
     ]
   },
   "Legend": {
@@ -801,7 +802,7 @@
       "Brich auf zu einer Quest in den Spire! Kämpfe dich an die Spitze des mysteriösen Turmes.",
       "Täglicher Aufstieg",
       "",
-      "Jeden Tag gibt es eine neue Herausforderung.\nTritt gegen andere Spieler an, um den Highscore zu erlangen!",
+      "Jeden Tag gibt es eine neue Herausforderung.\nMiss dich mit anderen Spielern um die höchste Punktzahl!",
       "Aufstiegsmodus",
       "",
       "Der Spire wird mit jedem Sieg stärker.\nTeste die Grenzen deiner stärksten Strategien.",
@@ -819,7 +820,7 @@
       "Fortschritte und Statistiken jedes Charakters können hier eingesehen werden.",
       "Ranglisten",
       "",
-      "Erfahre deinen Score und vergleiche ihn mit Freunden und anderen Spielern.",
+      "Erfahre deine Punktzahl und vergleiche sie mit Freunden und anderen Spielern.",
       "Run-Historie",
       "",
       "Wirf einen Blick auf deine vergangenen Versuche, den Spire zu erschlagen.",
@@ -876,7 +877,10 @@
       "Spieltester Kartendesign",
       "Zeige Tasten für Kartenschnellwahl",
       "Eingabeoptionen",
-      "Partikeleffekte deaktivieren"
+      "Partikeleffekte deaktivieren",
+      "Auflösung:",
+      "Auflösung: NL Vollbild-Monitor:",
+      "Stelle ein, welcher Monitor im Vollbildmodus genutzt wird."
     ]
   },
   "PatchNotesScreen": {
@@ -1112,7 +1116,7 @@
       "Unbekannt",
       "%1$d %2$s",
       "%1$s (%2$d):",
-      "Score: %d",
+      "Punkte: %d",
       "Alle Charaktere",
       "Siege & Niederlagen",
       "Siege",
@@ -1123,7 +1127,8 @@
       "Nur Aufstieg",
       "Tägliche Herausf.",
       "Seed: %s",
-      "Eigener Seed: %s"
+      "Eigener Seed: %s",
+      "d.M.yyyy, H:mm"
     ]
   },
   "SaveSlot": {
@@ -1304,7 +1309,7 @@
       "Ebenen erklommen",
       "Bosse getötet",
       "Spielzeit",
-      "Score",
+      "Punkte",
       "Freigeschalten",
       "Freischaltbares übrig: ",
       "Freischaltbares übrig: ",

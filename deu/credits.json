@@ -104,7 +104,8 @@
   "LOC_JPN": {
     "HEADER": "Japanische Übersetzung",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Community-Übersetzung)",
+      "Kakehashi Games (offizielle Übersetzung)"
     ]
   },
   "LOC_KOR": {
@@ -211,7 +212,9 @@
   "LOC_TUR": {
     "HEADER": "Türkische Übersetzung",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\""
     ]
   },
   "LOC_UKR": {

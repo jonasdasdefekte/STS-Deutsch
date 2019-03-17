@@ -45,7 +45,8 @@
       "Rubin+",
       "Smaragd+",
       "Saphir+",
-      "Das Ende"
+      "Das Ende?",
+      "Der Ewige"
     ],
     "TEXT": [
       "Gewinne einen Kampf mit nur noch 1 TP.",
@@ -92,7 +93,8 @@
       "Schließe das Ende mit dem Eisernen ab.",
       "Schließe das Ende mit der Stillen ab.",
       "Schließe das Ende mit dem Defekten ab.",
-      "Schließe das Ende mit dem Eisernen, der Stillen und dem Defekten ab."
+      "Schließe das Ende mit dem Eisernen, der Stillen und dem Defekten ab.",
+      "Erhalte alle anderen Errungenschaften."
     ]
   },
   "CharStat": {

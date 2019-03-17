@@ -5,7 +5,7 @@
   },
   "Accuracy": {
     "NAME": "Genauigkeit",
-    "DESCRIPTION": "Messer fügen !M! mehr Schaden zu."
+    "DESCRIPTION": "Messer fügen !M! Schaden mehr zu."
   },
   "Acrobatics": {
     "NAME": "Akrobatik",
@@ -315,7 +315,7 @@
   },
   "Crippling Poison": {
     "NAME": "Lähmende Wolke",
-    "DESCRIPTION": "Wende an ALLEN Gegnern !M! Gift und 2 Schwach an. NL Erschöpft."
+    "DESCRIPTION": "Wende an ALLEN Gegnern !M! Gift und NL 2 Schwach an. NL Erschöpft."
   },
   "Dagger Spray": {
     "NAME": "Dolchfächer",
@@ -645,8 +645,8 @@
   },
   "Heavy Blade": {
     "NAME": "Schweres Schwert",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! Mal.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert !M! Mal."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert NL !M! Mal.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert NL !M! Mal."
   },
   "Heel Hook": {
     "NAME": "Fersenklemme",
@@ -892,7 +892,7 @@
   },
   "Power Through": {
     "NAME": "Durchkämpfen",
-    "DESCRIPTION": "Erhalte 2 Wunden auf die Hand. NL Erhalte !B! Block."
+    "DESCRIPTION": "Erhalte 2 Wunden NL auf die Hand. NL Erhalte !B! Block."
   },
   "Predator": {
     "NAME": "Jagd",
@@ -1054,7 +1054,7 @@
   },
   "Shame": {
     "NAME": "Scham",
-    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Gebrechlich."
+    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges NL 1 Gebrechlich."
   },
   "Shiv": {
     "NAME": "Messer",
