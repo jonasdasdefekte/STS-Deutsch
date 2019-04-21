@@ -89,7 +89,7 @@
   "Player Tips": {
     "TEXT": [
       "Diese Karte wendet eine Macht auf dich an, wenn du sie ausspielst. NL Mächte sind passive Fähigkeiten, die für den Rest des Kampfes anhalten.",
-      "Um Karten auszuspielen, wird Energie benötigt! NL Die Kugel unten links zeigt an, wie viel Energie du für diesen Zug noch hast.",
+      "Karten auszuspielen kostet Energie! NL Die Kugel unten links zeigt an, wie viel Energie du für diesen Zug noch hast.",
       "Meine #rHand #rist #rvoll!",
       "#rMaximale Orb-Kapazität erreicht.",
       "Ich habe keine Orb-Slots."
@@ -103,7 +103,7 @@
     "TEXT": [
       "Dieser Trank wird auf deinen Gegner geworfen.",
       "Trinke diesen Trank.",
-      "Dieser Trank wird abgeworfen NL #r(kann #rnicht #rrückgängig #rgemacht #rwerden)."
+      "Dieser Trank wird abgeworfen NL #r(unwiederbringlich)."
     ],
     "LABEL": [
       "Werfen",
@@ -131,7 +131,7 @@
       "Truhen gewähren immer ein Relikt.",
       "Auf jedem Weg, den du einschlägst, wird es mindestens 1 Schatzraum geben.",
       "Elite-Gegner hinterlassen immer ein Relikt.",
-      "Du wirst niemals dasselbe Relikt zweimal in einem Durchlauf sehen.",
+      "Du wirst niemals dasselbe Relikt zweimal in einem Run sehen.",
       "Ungewöhnliche Karten haben blaue Rahmen und Banner.",
       "Seltene Karten haben goldene Rahmen und Banner.",
       "Die Seltenheit einer Karte ist auf der Karte selbst zu sehen.",
@@ -166,7 +166,7 @@
   },
   "Relic Tip": {
     "TEXT": [
-      "Relikte, die im Spire gefunden werden, gewähren einzigartige Boni und werden während des gesamten Durchlaufs behalten. NL Sie können durch das Besiegen von mächtigen Gegnern oder in Truhen gefunden werden.",
+      "Im Spire sind Relikte mit einzigartigen Boni zu finden, die du für den Rest des Runs behältst. NL Du kannst sie in Truhen oder durch das Besiegen mächtiger Gegner finden.",
       "Dieses Relikt muss noch entdeckt werden.",
       "Die Kraft dieses Reliktes ist schon aufgebraucht."
     ],
@@ -188,7 +188,7 @@
   "Shop Tip": {
     "TEXT": [
       "Entferne eine Karte aus deinem Deck. Die Kosten dieses Dienstes erhöhen sich um #b",
-      " für den restlichen Durchlauf."
+      " für den restlichen Run."
     ],
     "LABEL": [
       "Kartenentfernungsdienst"
@@ -211,7 +211,7 @@
       "Zeigt, wie viel Gold du besitzt. Gold ist die anerkannte Währung im Spire.",
       "Du erhältst dies, wenn du einen #yBoss besiegst. NL Wofür könnte das sein …?",
       "Du erhältst dies, wenn du einen #yBoss besiegst. NL Verfüttere diese an #yNeow, um Gegenstände freizuschalten und Boni für neue Durchläufe zu verdienen.",
-      "Abgelaufene Zeit in diesem Durchlauf."
+      "Abgelaufene Zeit in diesem Run."
     ],
     "LABEL": [
       "Einstellungen",
