@@ -332,7 +332,8 @@
       "Aufstiegsmodus",
       "Regeln",
       "Seed",
-      "Seed einstellen"
+      "Seed einstellen",
+      "Trophäen und Ranglisten sind abgeschaltet."
     ]
   },
   "DailyScreen": {
@@ -354,7 +355,8 @@
       "Ranglisten",
       "*Errungenschaften sind beim Täglichen Aufstieg abgeschaltet.",
       "  [OFFLINEMODUS]",
-      "dd. MMMM yyyy"
+      "dd. MMMM yyyy",
+      "*Trophäen sind beim Täglichen Aufstieg abgeschaltet."
     ]
   },
   "DeathScreen": {
@@ -380,13 +382,13 @@
       "Das lief verkehrt.",
       "Darauf war ich nicht vorbereitet.",
       "Ich versuch’s morgen nochmal.",
-      "Ich werde eine neue Karte brauchen.",
+      "Nächstes Mal auf einer anderen Karte.",
       "Unzureichend vorbereitet.",
       "Unfassbar!",
       "Ist das mein wahres Potenzial?",
       "War ja klar...",
       "Nicht so...",
-      "Nicht wirklich an der Spitze.",
+      "Nicht ganz an der Spitze.",
       "Der Spire verschlingt den Nächsten...",
       "Dein Bewusstsein schwindet...",
       "Niederlage",
@@ -837,7 +839,9 @@
       "Gewinne einen Täglichen Aufstieg, um diesen Spielmodus freizuschalten.",
       "Dieses Feature ist noch nicht verfügbar.",
       "Spezialmodus",
-      "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen."
+      "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen.",
+      "Ändere deine Steuerung.",
+      "Ändere deine Optionen für das Spiel."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1150,7 +1154,8 @@
       "Gib einen neuen Seed ein",
       "Bestätigen",
       "Abbrechen",
-      "*Errungenschaften und Ranglisten sind abgeschaltet, wenn ein eigener Seed benutzt wird."
+      "*Errungenschaften und Ranglisten sind abgeschaltet, wenn ein eigener Seed benutzt wird.",
+      "*Trophäen und Ranglisten sind abgeschaltet, wenn ein eigener Seed benutzt wird."
     ]
   },
   "SettingsScreen": {

@@ -125,19 +125,11 @@
       "Vor jedem Boss gibt es ein Lagerfeuer.",
       "Gib Gold in Läden aus! (Dieser Tipp wurde vom Händler gesponsert.)",
       "Mach ab und zu mal eine Pause.",
-      "Bei der Kartenbelohnungs-Angeige kannst du per Rechtsklick auf eine Karte mehr über sie erfahren.",
       "Prozentuale Werte werden am Ende immer abgerundet.",
       "Während des Kampfes kannst du deinen Aufnahme- und Abwurfstapel ansehen.",
-      "Bei vielen Objekten werden nützliche Informationen angezeigt, wenn du auf sie zeigst.",
-      "Schalte Tipps an/aus, indem du auf das ? in der rechten oberen Ecke klickst.",
-      "Mit einem Rechtsklick lässt du alle Karten los, die du ziehst.",
-      "Fahre mit der Maus über einen Gegner, um seinen Namen und Fähigkeiten zu sehen.",
-      "Benutze das Mausrad oder klicke auf den Bildschirm und ziehe ihn, um zu scrollen.",
-      "Wenn du einen Gegenstand untersuchen kannst, ändert sich dein Cursor zu einer Lupe.",
       "Es gibt keine Begrenzung, wie viele Relikte du tragen kannst.",
       "Truhen gewähren immer ein Relikt.",
       "Auf jedem Weg, den du einschlägst, wird es mindestens 1 Schatzraum geben.",
-      "Nutze das Mausrad oder klicke und ziehe, um über die Karte, Kartenbildschirme und andere zu scrollen.",
       "Elite-Gegner lassen immer ein Relikt fallen.",
       "Du wirst niemals dasselbe Relikt zweimal in einem Durchlauf sehen.",
       "Ungewöhnliche Karten haben blaue Rahmen und Banner.",
@@ -159,6 +151,18 @@
     "LABEL": [
       "Du kannst Tränke abwerfen, um Platz für neue zu schaffen."
     ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Rechtsklicke auf neue Karten, um mehr über sie erfahren.",
+      "Einige Gegenstände offenbaren nützliche Informationen, wenn du auf sie zeigst.",
+      "Karten, die du verschiebst kannst du mit Rechtsklick loslassen.",
+      "Fahre mit der Maus über einen Gegner, um seinen Namen und Fähigkeiten zu sehen.",
+      "Benutze zum Scrollen das Mausrad oder klicke und ziehe den Bildschirm.",
+      "Wenn du einen Gegenstand untersuchen kannst, wird dein Cursor zu einer Lupe.",
+      "Nutze das Mausrad oder klicke und ziehe, um durch die Karte, die Deckansicht und andere Screens zu scrollen."
+    ],
+    "LABEL": []
   },
   "Relic Tip": {
     "TEXT": [
