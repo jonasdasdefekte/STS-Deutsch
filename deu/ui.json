@@ -813,7 +813,7 @@
       "Sieh dir alle Karten an, denen du bisher im Spire begegnet bist.",
       "Reliktsammlung",
       "",
-      "Untersuche die Schmuckstücke und Artefakte, die du in deinen Durchläufen erhalten hast.",
+      "Untersuche die Schmuckstücke und Artefakte, die du in deinen Runs erhalten hast.",
       "Bestiarium",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
@@ -1290,8 +1290,8 @@
       "Neue Ausrüstungsgegenstände",
       "Relikte freigeschaltet!",
       "Neuer Charakter",
-      "Hinweis: Freigeschaltete Karten tauchen in zukünftigen Durchläufen auf.",
-      "Hinweis: Freigeschaltete Relikte tauchen in zukünftigen Durchläufen auf."
+      "Hinweis: Freigeschaltete Karten tauchen in zukünftigen Runs auf.",
+      "Hinweis: Freigeschaltete Relikte tauchen in zukünftigen Runs auf."
     ]
   },
   "UnlockScreen": {
@@ -1299,8 +1299,8 @@
       "Karten freigeschaltet!",
       "Relikte freigeschaltet!",
       "Neuer Charakter",
-      "Hinweis: Freigeschaltete Karten tauchen in zukünftigen Durchläufen auf.",
-      "Hinweis: Freigeschaltete Relikte tauchen in zukünftigen Durchläufen auf."
+      "Hinweis: Freigeschaltete Karten tauchen in zukünftigen Runs auf.",
+      "Hinweis: Freigeschaltete Relikte tauchen in zukünftigen Runs auf."
     ]
   },
   "UnlockTextEffect": {
