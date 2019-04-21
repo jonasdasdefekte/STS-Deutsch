@@ -1,19 +1,19 @@
 {
   "AcidSlime_L": {
     "MOVES": [
-      "Klebrige Spucke",
+      "Ätzende Spucke",
       "Spalten",
-      "Lecken"
+      "Wabbeln"
     ],
     "NAME": "Säureschleim (G)",
     "DIALOG": [
-      "Unterbrochen!"
+      ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Klebrige Spucke",
-      "Lecken"
+      "Ätzende Spucke",
+      "Wabbeln"
     ],
     "NAME": "Säureschleim (M)",
     "DIALOG": [
@@ -62,7 +62,7 @@
     ],
     "NAME": "Pointy",
     "DIALOG": [
-      "Bääääär!!!!"
+      "~Bääääär!!!!~"
     ]
   },
   "BanditLeader": {
@@ -71,9 +71,9 @@
     ],
     "NAME": "Romeo",
     "DIALOG": [
-      "Leg los, Bär!!",
-      "Dafür wirst du bezahlen!!",
-      "Neiiiiiiin, Bär!"
+      "~Leg~ ~los,~ ~Bär!!~",
+      "~Dafür~ ~wirst~ ~du~ ~bezahlen!!~",
+      "~Neiiiiiiin,~ ~Bär!~"
     ]
   },
   "BookOfStabbing": {
@@ -348,11 +348,11 @@
     ],
     "NAME": "Gremlinzauberer",
     "DIALOG": [
-      "@Das@ @ist@ @er!@ NL @Zeig@ @ihm,@ @wer@ @der@ @Boss@ @ist!@ ",
-      "Wird geladen!",
+      "",
+      "Warte nur!",
       "~Jetzt~ ~geht’s~ ~los!!~",
       "@Ich ...@ @bekomme ...@ NL @Hilfe ...!@",
-      "~Zu~ ~...~ NL ~gefährlich~ ~...~ NL ~Tschüss~ ~...~"
+      "~Zu~ ~...~ NL ~gefährlich...~ NL ~Tschüß~ ~...~"
     ]
   },
   "Healer": {
