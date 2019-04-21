@@ -590,14 +590,14 @@
     ]
   },
   "Mark of Pain": {
-    "NAME": "Zeichen der Qual",
+    "NAME": "Mal der Qual",
     "FLAVOR": "Dieses Brandzeichen erhielten Krieger der nördlichen Stämme, wenn sie im Kampf die Qual bezwangen.",
     "DESCRIPTIONS": [
       "Erhalte in deinem Zug [R] . NL Du beginnst Kämpfe mit #b2 #rWunden im Nachziehstapel."
     ]
   },
   "Mark of the Bloom": {
-    "NAME": "Zeichen der Blüte",
+    "NAME": "Mal der Blüte",
     "FLAVOR": "Im Jenseits sind Gedanken und Realität vereint.",
     "DESCRIPTIONS": [
       "Du kannst nicht mehr geheilt werden."
