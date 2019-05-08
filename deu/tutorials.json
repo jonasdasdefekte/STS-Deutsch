@@ -1,7 +1,8 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "Wenn dein Nachziehstapel leer ist, wird dein Abwurfstapel in den Nachziehstapel gemischt. NL NL Klicke, um die Karten in deinem Abwurfstapel anzusehen."
+      "Wenn dein Nachziehstapel leer ist, wird dein Abwurfstapel in den Nachziehstapel gemischt. NL NL Klicke, um die Karten in deinem Abwurfstapel anzusehen.",
+      "Wenn dein Nachziehstapel leer ist, wird dein Abwurfstapel in den Nachziehstapel gemischt. NL NL Sieh die Karten in deinem Abwurfstapel an."
     ],
     "LABEL": [
       "Abwurfstapel"
@@ -11,7 +12,9 @@
     "TEXT": [
       "Ziehe zu Beginn jedes Zuges #b",
       " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen (gemischt).",
-      " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen."
+      " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen.",
+      " Karten von hier. NL NL Sieh die Karten in deinem Nachziehstapel an (gemischt).",
+      " Karten von hier. NL NL Sieh die Karten in deinem Nachziehstapel an.",
     ],
     "LABEL": [
       "Nachziehstapel"
@@ -44,7 +47,8 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Klicke, um die in diesem Kampf erschöpften Karten anzusehen."
+      "Klicke, um die in diesem Kampf erschöpften Karten anzusehen.",
+      "Sieh die in diesem Kampf erschöpften Karten an."
     ],
     "LABEL": [
       "Erschöpfte Karten"
@@ -179,7 +183,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "Vergiss deine Belohnungen nicht! NL Klicke sie zum Aufheben einfach an."
+      "Vergiss deine Belohnungen nicht! NL Klicke sie zum Aufheben einfach an.",
+      "Vergiss deine Belohnungen nicht!"
     ],
     "LABEL": [
       "Belohnungen"

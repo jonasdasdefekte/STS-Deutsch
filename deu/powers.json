@@ -519,8 +519,8 @@
     "NAME": "Unverwundbar",
     "DESCRIPTIONS": [
       "Kann diese Runde nur noch #b",
-    " weitere TP verlieren.",
-    "Kann diese Runde nicht mehr verletzt werden."
+      " weitere TP verlieren.",
+      "Kann diese Runde nicht mehr verletzt werden."
     ]
   },
   "Juggernaut": {
