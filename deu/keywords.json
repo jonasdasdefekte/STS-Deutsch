@@ -258,7 +258,7 @@
         "schwach",
         "schwächt"
       ],
-      "DESCRIPTION": "Schwache Kreaturen verursachen #b25% weniger Schaden mit Angriffen."
+      "DESCRIPTION": "Schwache Kreaturen fügen mit Angriffen #b25% weniger Schaden zu."
     },
     "WOUND": {
       "NAMES": [
