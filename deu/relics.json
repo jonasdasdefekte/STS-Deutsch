@@ -557,7 +557,7 @@
     "NAME": "Brieföffner",
     "FLAVOR": "Unnatürlich scharf.",
     "DESCRIPTIONS": [
-      "Immer wenn du in einem einzigen Zug #b3 Fertigkeiten ausspielst, verursachst du #b",
+      "Immer wenn du in einem Zug #b3 Fertigkeiten ausspielst, verursachst du #b",
       " Schaden an ALLEN Gegnern."
     ]
   },
@@ -801,7 +801,7 @@
     "NAME": "Dekorativer Fächer",
     "FLAVOR": "Der Fächer öffnet sich und erhärtet anscheinend immer, wenn Blut vergossen wird.",
     "DESCRIPTIONS": [
-      "Immer wenn du in einem einzigen Zug #b3 #yAngriffe ausspielst, erhalte #b",
+      "Immer wenn du in einem Zug #b3 #yAngriffe ausspielst, erhalte #b",
       " #yBlock."
     ]
   },
