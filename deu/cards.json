@@ -987,7 +987,7 @@
     "DESCRIPTION": "Füge !M! Mal einem zufälligen Gegner NL !D! Schaden zu."
   },
   "RitualDagger": {
-    "NAME": "Ritueller Dolch",
+    "NAME": "Ritualdolch",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. NL Erschöpft."
   },
   "Rupture": {
