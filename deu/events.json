@@ -307,7 +307,7 @@
     ],
     "OPTIONS": [
       "[Akzeptieren] #gErhalte #g5 Apparieren. #rVerliere #r",
-      "% #rMax #rTP.",
+      " #rmax #rTP.",
       "[Ablehnen]",
       "[Akzeptieren] #gErhalte #g3 Apparieren. #rVerliere #r",
       "",
@@ -837,7 +837,7 @@
     ],
     "OPTIONS": [
       "[Annehmen] #gEntferne #galle Schläge. #gErhalte #g5 Bisse. #rVerliere #r",
-      "% #rder #rmax. #rTP.",
+      " #rmax. #rTP.",
       "[Ablehnen]",
       "[Verliere ",
       "] #gEntferne #galle Schläge. #gErhalte #g5 Bisse.",
@@ -909,7 +909,7 @@
       "[Verlassen]",
       " #gTP.",
       "[Spur zurückverfolgen] #rVerliere #r",
-      " #rMax #rTP."
+      " #rmax #rTP."
     ]
   },
   "World of Goop": {
