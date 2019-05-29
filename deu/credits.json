@@ -322,5 +322,17 @@
       "Tamara Ryan",
       "Michael Schwalbe"
     ]
+  },
+  "PORTING": {
+    "HEADER": "Portiert von",
+    "NAMES": [
+      "Sickhead Games"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Veröffentlicht von",
+    "NAMES": [
+      "Humble Bundle"
+    ]
   }
 }
