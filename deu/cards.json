@@ -524,7 +524,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Ziehe 1 Karte."
   },
   "Finisher": {
-    "NAME": "Vollstrecker",
+    "NAME": "Vollstrecken",
     "DESCRIPTION": "Füge pro in diesem Zug gespieltem Angriff !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
