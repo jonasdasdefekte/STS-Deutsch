@@ -1018,7 +1018,8 @@
       "Täglich - Ebene %s",
       "Spezial - Ebene %s",
       " - Ebene %s",
-      "Hauptmenü"
+      "Hauptmenü",
+      " (A%s)"
     ]
   },
   "RunHistoryMonsterNames": {
