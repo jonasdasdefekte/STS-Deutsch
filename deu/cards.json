@@ -1098,8 +1098,8 @@
   },
   "Static Discharge": {
     "NAME": "Statische Entladung",
-    "DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, NL erschaffe !M! Blitz.",
-    "UPGRADE_DESCRIPTION": "Immer wenn du Angriffsschaden erleidest, NL erschaffe !M! Blitze."
+    "DESCRIPTION": "Immer wenn du ungeblockten Angriffsschaden erleidest, NL erschaffe !M! Blitz.",
+    "UPGRADE_DESCRIPTION": "Immer wenn du ungeblockten Angriffsschaden erleidest, NL erschaffe !M! Blitze."
   },
   "Steam": {
     "NAME": "Dampfwall",

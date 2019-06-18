@@ -890,7 +890,7 @@
   "StaticDischarge": {
     "NAME": "Statische Entladung",
     "DESCRIPTIONS": [
-      "Wenn du #yAngriffsschaden erleidest, #yerschaffe #b",
+      "Wenn du ungeblockten #yAngriffsschaden erleidest, #yerschaffe #b",
       " #yBlitz."
     ]
   },

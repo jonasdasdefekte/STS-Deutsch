@@ -106,26 +106,26 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Eliten spawnen öfter.",
-      "Normale Gegner sind tödlicher.",
-      "Eliten sind tödlicher.",
-      "Bosse sind tödlicher.",
-      "Weniger Heilung nach Bosskämpfen.",
-      "Beginne jeden Run verletzt.",
-      "Normale Gegner halten mehr aus.",
-      "Eliten halten mehr aus.",
-      "Bosse halten mehr aus.",
-      "Beginne jeden Run verflucht.",
-      "Weniger Trank-Slots.",
-      "Verbesserte Karten erscheinen seltener.",
-      "Arme Bosse.",
-      "Weniger max. TP.",
-      "Ungünstige Ereignisse.",
-      "Läden sind teurer.",
-      "Normale Gegner haben anspruchsvollere Absichten.",
-      "Eliten haben anspruchsvollere Absichten.",
-      "Bosse haben anspruchsvollere Absichten.",
-      "(Höchstes Level) Doppelter Boss."
+      "1. Eliten spawnen öfter.",
+      "2. Normale Gegner sind tödlicher.",
+      "3. Eliten sind tödlicher.",
+      "4. Bosse sind tödlicher.",
+      "5. Weniger Heilung nach Bosskämpfen.",
+      "6. Beginne jeden Run verletzt.",
+      "7. Normale Gegner halten mehr aus.",
+      "8. Eliten halten mehr aus.",
+      "9. Bosse halten mehr aus.",
+      "10. Beginne jeden Run verflucht.",
+      "11. Weniger Trank-Slots.",
+      "12. Verbesserte Karten erscheinen seltener.",
+      "13. Arme Bosse.",
+      "14. Weniger max. TP.",
+      "15. Ungünstige Ereignisse.",
+      "16. Läden sind teurer.",
+      "17. Normale Gegner haben anspruchsvollere Absichten.",
+      "18. Eliten haben anspruchsvollere Absichten.",
+      "19. Bosse haben anspruchsvollere Absichten.",
+      "20. (Höchstes Level) Doppelter Boss."
     ]
   },
   "AscensionTextEffect": {
@@ -893,7 +893,8 @@
       "Partikeleffekte deaktivieren",
       "Auflösung:",
       "Auflösung: NL Vollbild-Monitor:",
-      "Stelle ein, welcher Monitor im Vollbildmodus genutzt wird."
+      "Stelle ein, welcher Monitor im Vollbildmodus genutzt wird.",
+      "Lang Drücken zum Bestätigen"
     ]
   },
   "PatchNotesScreen": {
