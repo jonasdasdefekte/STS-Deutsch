@@ -134,7 +134,7 @@
     "HEADER": "Polnische Übersetzung",
     "NAMES": [
       "Übersetzung und Koordination:",
-      "Stanis³aw \"ST4H\" Borkowski",
+      "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Weitere Übersetzungen:",
       "Adrian \"xeros\" Rolka",
@@ -143,11 +143,11 @@
       "Oskar \"volf3n\" Nowak",
       "Vorschläge und Feedback:",
       "Kasper \"Awokado\" Beræ",
-      "Pawe³ \"BASTIL\" Kaleta",
-      "Grzegorz \"GregPL\" Bogus³awski",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
-      "Rafa³ \"SponTon83\" Szyszko"
+      "Rafał \"SponTon83\" Szyszko"
     ]
   },
   "LOC_PTB": {
@@ -279,7 +279,11 @@
       "Evan Howell",
       "Justin Myhres",
       "robojumper",
-      "Tony \"kiooeht\" Moore"
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
@@ -330,15 +334,43 @@
     ]
   },
   "PORTING": {
-    "HEADER": "Portiert von",
+    "HEADER": "Konsolen- und mobile Portierung",
     "NAMES": [
-      "Sickhead Games"
+      "Sickhead Games, LLC"
     ]
   },
   "PUBLISHING": {
-    "HEADER": "Veröffentlicht von",
+    "HEADER": "Humble Bundle",
     "NAMES": [
-      "Humble Bundle"
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Geschäftsentwicklung:  Eduardo Aparicio",
+      "Publishing-Manager:  John Polson",
+      "Publishing-Veröffentlichung:  Manager Evan Koepf",
+      "Publishing-Markenmanagement:  Connor Bridgeman",
+      "Geschäftsentwicklungsdirektor, Publishing:  Mai Kawaguchi",
+      "Leitung Geschäftsfeldentwicklung:  Thomas Glenn",
+      "Leitung Geschäftsfeldentwicklung:  Bob Mills",
+      "Geschäftsfeldentwicklung:  Trisha Tabor",
+      "Geschäftsfeldentwicklung:  Angel Lyons-Labate",
+      "Store-Direktor:  Paul Herron",
+      "Finanz-Direktor:  Eric Samuel",
+      "Produkt-VP:  Nate Muller",
+      "Marketing-Direktor:  Jeremie Vella",
+      "Marketing-Manager:  Whitney Stutes",
+      "Marketingwachstums-Manager:  Francois du Toit",
+      "Ninja-Support:  Jimmy Chi",
+      "Ninja-Support:  Kasey Brounkowski",
+      "Ninja-Support:  Kayla Fyfe",
+      "Ninja-Support:  Patrick Monahan"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (offizielle Übersetzung):",
+      "Japanische Publishing-Unterstütung:  Kakehashi Games",
+      "Japanische Übersetzung:  Rie Ihara"
     ]
   }
 }
