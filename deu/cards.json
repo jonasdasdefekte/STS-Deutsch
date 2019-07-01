@@ -179,7 +179,7 @@
   "Buffer": {
     "NAME": "Puffer",
     "DESCRIPTION": "Verhindere den nächsten TP-Verlust.",
-    "UPGRADE_DESCRIPTION": "Verhindere die nächsten !M! TP-Verluste."
+    "UPGRADE_DESCRIPTION": "Verhindere die nächsten NL !M! TP-Verluste."
   },
   "Bullet Time": {
     "NAME": "Zeitlupe",
