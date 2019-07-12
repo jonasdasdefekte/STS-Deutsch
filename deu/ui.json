@@ -862,6 +862,13 @@
       "Oh nein!"
     ]
   },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Drücke ",
+      " zum Starten",
+      "Profil wechseln"
+    ]
+  },
   "OpeningAction": {
     "TEXT": [
       "Dieser Gegner hat nicht vor anzugreifen!"
