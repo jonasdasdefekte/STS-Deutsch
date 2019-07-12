@@ -640,8 +640,8 @@
   },
   "Heatsinks": {
     "NAME": "Wärmetauscher",
-    "DESCRIPTION": "Immer wenn du eine Machtkarte spielst, ziehe !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Immer wenn du eine Machtkarte spielst, ziehe !M! Karten."
+    "DESCRIPTION": "Immer wenn du eine Macht ausspielst, ziehe !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Immer wenn du eine Macht ausspielst, ziehe !M! Karten."
   },
   "Heavy Blade": {
     "NAME": "Schweres Schwert",
@@ -1111,8 +1111,8 @@
   },
   "Storm": {
     "NAME": "Sturm",
-    "DESCRIPTION": "Immer wenn du eine Macht spielst, erschaffe 1 Blitz.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Macht spielst, erschaffe 1 Blitz."
+    "DESCRIPTION": "Immer wenn du eine Macht ausspielst, erschaffe 1 Blitz.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Macht ausspielst, erschaffe 1 Blitz."
   },
   "Storm of Steel": {
     "NAME": "Stahlsturm",
