@@ -67,7 +67,7 @@
       "NAMES": [
         "flüchtig"
       ],
-      "DESCRIPTION": "Wenn diese Karte sich am Ende deines Zuges in deiner Hand befindet, wird sie erschöpft. NL Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+      "DESCRIPTION": "Wenn du diese Karte am Ende deines Zuges auf der Hand hast, erschöpft sie. NL Erschöpfte Karten werden für den Rest dieses Kampfes aus deinem Deck entfernt."
     },
     "EVOKE": {
       "NAMES": [
@@ -84,7 +84,7 @@
         "erschöpfe",
         "erschöpft"
       ],
-      "DESCRIPTION": "Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
+      "DESCRIPTION": "Erschöpfte Karten werden für den Rest dieses Kampfes aus deinem Deck entfernt."
     },
     "FOCUS": {
       "NAMES": [
@@ -154,14 +154,14 @@
         "gift",
         "vergiftet"
       ],
-      "DESCRIPTION": "Vergiftete Kreaturen verlieren zu ihrem Zugbeginn TP. In jedem Zug wird Gift um #b1 reduziert."
+      "DESCRIPTION": "Vergiftete Kreaturen verlieren zu Beginn ihres Zuges entsprechend viele TP. Gift verringert sich in jedem Zug um #b1."
     },
     "RETAIN": {
       "NAMES": [
         "behalten",
         "behalte"
       ],
-      "DESCRIPTION": "Behaltene Karten werden am Ende des Zuges nicht abgeworfen."
+      "DESCRIPTION": "Karten, die du behältst, wirfst du am Ende des Zuges nicht ab."
     },
     "SHIV": {
       "NAMES": [
@@ -214,7 +214,7 @@
         "transformierst",
         "transformiere"
       ],
-      "DESCRIPTION": "Transformierte Karten werden zu einer Karte von zufälliger Seltenheit."
+      "DESCRIPTION": "Transformierte Karten ändern sich zu einer Karte von zufälliger Seltenheit."
     },
     "UNKNOWN": {
       "NAMES": [
@@ -226,7 +226,7 @@
       "NAMES": [
         "unspielbar"
       ],
-      "DESCRIPTION": "Unspielbare Karten können nicht aus deiner Hand ausgespielt werden."
+      "DESCRIPTION": "Unspielbare Karten kannst du nicht aus deiner Hand spielen."
     },
     "UPGRADE": {
       "NAMES": [
