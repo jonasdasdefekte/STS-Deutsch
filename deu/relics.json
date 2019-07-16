@@ -43,7 +43,7 @@
     "FLAVOR": "Übergroßer Abenteurerrucksack. Mit vielen Taschen und Riemen.",
     "DESCRIPTIONS": [
       "Ziehe zu Beginn jedes Kampfes #b",
-      " zusätzliche Karten."
+      " Karten mehr."
     ]
   },
   "Bird Faced Urn": {
@@ -934,16 +934,16 @@
     "NAME": "Roter Schädel",
     "FLAVOR": "Ein kleiner, mit Farbe verzierter Schädel.",
     "DESCRIPTIONS": [
-      "Wenn deine TP unter oder genau #b50% sind, erhalte zusätzlich #b",
-      " #yStärke."
+      "Wenn deine TP unter oder genau #b50% sind, erhalte #b",
+      " #yStärke mehr."
     ]
   },
   "Regal Pillow": {
     "NAME": "Edles Kissen",
     "FLAVOR": "Endlich etwas für den wohlverdienten Schlaf.",
     "DESCRIPTIONS": [
-      "Heile zusätzlich #b",
-      " TP, wenn du dich #yausruhst."
+      "Heile #b",
+      " TP mehr, wenn du dich #yausruhst."
     ]
   },
   "Ring of the Serpent": {
@@ -959,14 +959,14 @@
     "FLAVOR": "Gefertigt aus einer versteinerten Schlange. Er zeugt von großem Talent als Jägerin.",
     "DESCRIPTIONS": [
       "Ziehe zu Beginn jedes Kampfes #b",
-      " zusätzliche Karten."
+      " Karten mehr."
     ]
   },
   "Runic Capacitor": {
     "NAME": "Runischer Kondensator",
     "FLAVOR": "Mehr hilft mehr.",
     "DESCRIPTIONS": [
-      "Beginne jeden Kampf mit #b3 zusätzlichen Orb-Slots."
+      "Beginne jeden Kampf mit #b3 Orb-Slots mehr."
     ]
   },
   "Runic Cube": {
@@ -1053,7 +1053,7 @@
     "NAME": "Snecko-Auge",
     "FLAVOR": "Das Auge eines gefallenen Sneckos. Viel größer, als du es dir vorgestellt hattest.",
     "DESCRIPTIONS": [
-      "Ziehe in jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf #yVerwirrt."
+      "Ziehe in jedem Zug #b2 Karten mehr. Beginne jeden Kampf #yVerwirrt."
     ]
   },
   "Sozu": {
