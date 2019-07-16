@@ -866,7 +866,11 @@
     "TEXT": [
       "Drücke ",
       " zum Starten",
-      "Profil wechseln"
+      "Profil wechseln",
+      "Anzeigebereich",
+      "Ein Wechsel bei der Anmeldung ist aufgetreten. Melde dich bitte wieder an oder verlasse das Spiel in den Titelbildschirm.",
+      "Anmelden",
+      "Verlassen"
     ]
   },
   "OpeningAction": {
