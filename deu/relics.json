@@ -35,7 +35,7 @@
     "FLAVOR": "Einst ein beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b",
-      " #yVerwundbar auf ALLE Gegnern an."
+      " #yVerwundbar auf ALLE Gegner an."
     ]
   },
   "Bag of Preparation": {
@@ -320,7 +320,7 @@
   },
   "Dodecahedron": {
     "NAME": "Runischer Dodekaeder",
-    "FLAVOR": "Die Runen sind nicht zu entziffern.",
+    "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
       "Wenn du volle TP hast, erhalte in deinem Zug ",
       "[E] ."
@@ -924,7 +924,7 @@
   },
   "Red Mask": {
     "NAME": "Rote Maske",
-    "FLAVOR": "Diese sehr stylish aussehende Maske gehört dem Anführer der Rotmasken-Banditen. Also bist du jetzt theoretisch der Anführer?",
+    "FLAVOR": "Diese sehr stilvolle Maske gehört dem Anführer der Rotmasken-Banditen. Also bist du jetzt theoretisch der Anführer?",
     "DESCRIPTIONS": [
       "Wende zu Beginn jedes Kampfes #b",
       " #ySchwach auf ALLE Gegner an."
@@ -971,7 +971,7 @@
   },
   "Runic Cube": {
     "NAME": "Runischer Würfel",
-    "FLAVOR": "Die Runen sind nicht zu entziffern.",
+    "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
       "Immer wenn du TP verlierst, ziehe #b",
       " Karte.",
@@ -980,7 +980,7 @@
   },
   "Runic Dome": {
     "NAME": "Runische Kuppel",
-    "FLAVOR": "Die Runen sind nicht zu entziffern.",
+    "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
       " NL Du kannst nicht mehr die #bAbsichten von Gegnern sehen.",
       "Erhalte in deinem Zug [E] ."
@@ -988,7 +988,7 @@
   },
   "Runic Pyramid": {
     "NAME": "Runische Pyramide",
-    "FLAVOR": "Die Runen sind nicht zu entziffern.",
+    "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
       "Am Ende deines Zuges wirfst du deine Hand nicht mehr ab.",
       ""
