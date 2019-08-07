@@ -2,16 +2,16 @@
   "Accursed Blacksmith": {
     "NAME": "Verwunschene Schmiede",
     "DESCRIPTIONS": [
-      "Du betrittst eine kleine Hütte. Drinnen stellst du fest, dass es wohl eine Schmiede ist. Die Schmiedewerkzeuge sind mit Staub bedeckt, doch im Ofen lodert ein Feuer. Du bist nervös...",
+      "Geduckt betrittst du eine kleine Hütte. Drinnen bemerkst du, dass es eine Schmiede sein muss. Die Schmiedewerkzeuge sind sehr staubig, doch im Ofen lodert ein Feuer. Du bist nervös...",
       "Du entschließt dich, die Schmiede zu benutzen und... NL #y@KLONK@ #y@KLOOONK@ #y@KLONK!@ NL ... verbesserst dein Arsenal!",
-      "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Nachdem du Planen gelüftet, Kisten durchsucht und in die Winkel und Ecken geschaut hast, findest du ein staubbedecktes #y~Relikt!~ ",
-      "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir und #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme...",
-      "NL NL Nachdem du das Relikt genommen hast, wirst du während des verlassens der Hütte dieses plötzliche Gefühl eines #r~stechenden~ #r~Schmerzes~ nicht los. Vielleicht hast du eine Art Geist aufgeschreckt?",
-      "Es scheint hier nichts von Nutzen zu geben. Du verschwindest auf dem Weg, den du gekommen bist, während die Flammen des Ofens #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
+      "Du beschließt nachzusehen, ob du etwas Nützliches finden kannst. Du lüftest Planen, durchsuchst Kisten, schaust in alle Winkel und Ecken - und siehe da! Du findest du ein staubbedecktes #y~Relikt!~ ",
+      "Als du am letzten Schliff arbeitest, greifen die Flammen der Schmiede plötzlich nach dir - sie #r@verbrennen@ #r@und@ #r@vernarben@ deine Arme...",
+      "NL NL Seit du das Relikt genommen hast, spürst du einen #r~stechenden~ #r~Schmerz~. Er lässt nicht ab, als du die Hütte verlässt. Vielleicht hast du eine Art Geist aufgeschreckt?",
+      "Es scheint hier nichts von Nutzen zu geben. Du verschwindest auf demselben Weg, den du gekommen bist, während die Flammen im Ofen #p~gespenstische~ #p~Schatten~ an die Innenwände der Hütte werfen..."
     ],
     "OPTIONS": [
       "[Schmieden] #gVerbessere #geine #gKarte #gin #gdeinem #gDeck.",
-      "[Durchstöbern] #gErhalte #gein #gbesonderes #gRelikt. #rWerde #rverflucht #r– #rSchmerz.",
+      "[Stöbern] #gErhalte #gein #gbesonderes #gRelikt. #rWerde #rverflucht #r– #rSchmerz.",
       "[Verlassen]",
       "Wähle eine Karte zum Verbessern",
       "[Gesperrt] Erfordert: Verbesserbare Karten"
@@ -20,9 +20,9 @@
   "Addict": {
     "NAME": "Flehender Landstreicher",
     "DESCRIPTIONS": [
-      "Als du an einer Gruppe verschleierter Figuren vorbeischleichst, kommt einer von ihnen auf dich zu. NL „Hast du etwas für mich, mein Freund? Bitte... vielleicht ein paar #yMünzen?“ NL „Ich brauche nur einen Platz zum Wohnen, ich habe Schätze dafür einzutauschen...“ NL Er wirkt wahnhaft, aber harmlos.",
-      "„Oh ja, ~ja!~ Hier, ein fairer Handel!“",
-      "Du schnappst dir das wertvolle #yRelikt aus seiner Jackentasche und läufst fort. NL Hinter dir kannst du hören: NL „Schämst du nicht nicht? ~SCHÄÄÄÄMST~ ~DU~ ~DICH~ ~NICHT?!~“ NL Du #pschämst dich."
+      "Gerade willst du dich an einer Gruppe verschleierter Figuren vorbeischleichen, da kommt einer von ihnen auf dich zu. NL „Hast du was für mich, mein Freund? Bitte... ein paar #yMünzen vielleicht?“ NL „Ich brauche nur einen Platz zum Wohnen, ich habe Schätze dafür einzutauschen...“ NL Er wirkt wahnhaft, aber harmlos.",
+      "„Oh ja, ~ja!~ Hier, hier, ein fairer Handel!“",
+      "Du schnappst dir das wertvolle #yRelikt aus seiner Jackentasche und läufst fort. NL Hinter dir kannst du hören: NL „Schämst du nicht nicht? ~SCHÄÄÄÄMST~ ~DU~ ~DICH~ ~NICHT?!~“ NL Dich überkommt etwas #pScham."
     ],
     "OPTIONS": [
       "[Gold geben] #y",
@@ -38,7 +38,7 @@
   "Back to Basics": {
     "NAME": "Uralte Inschrift",
     "DESCRIPTIONS": [
-      "Als du die Stadt durchstreifst, fällt dir eine Wand auf, die mit Schriften der #y~Ahnen~ bedeckt ist. Als du zu begreifen versuchst, was die rätselhaften Symbole und Glyphen bedeuten könnten, beginnt die Inschrift zu #b~leuchten.~ NL Auf einmal wird dir die Bedeutung klar...",
+      "Als du durch die Stadt stromerst, fällt dir eine Wand ins Auge, die mit Schriftzeichen der #y~Ahnen~ bedeckt ist. Gerade versuchst du zu begreifen, was die rätselhaften Symbole und Glyphen bedeuten könnten, da beginnt die Inschrift zu #b~leuchten.~ NL Auf einmal wird dir die Bedeutung klar...",
       "Die Antwort war Eleganz. NL Natürlich.",
       "Die Wahrheit ist immer schlicht."
     ],
@@ -53,7 +53,7 @@
     "NAME": "Alter Bettler",
     "DESCRIPTIONS": [
       "Ein alter, in Felle gewickelter Bettler streckt die Hand nach dir aus, als du vorbeikommst. „Hast du ein paar Münzen, mein Kind?“",
-      "Der Bettler sieht auf den Boden, als du vorbeigehst. NL „Du wirst nie etwas verändern... Das tust du nie.“",
+      "Der Bettler sieht auf den Boden, als du vorbeigehst. NL „Du wirst nie etwas Besonderes... Das tust du nie.“",
       "Der Bettler nimmt seinen Mantel ab, um zu offenbaren, dass er #bPriester ist! NL @\"Du@ @bist@ @eine@ @gute@ @Seele.@ @Erhalte@ @meine@ @Reinigung!\"@ schreit er. NL Du bist dir unsicher, ob er dankbar oder verrückt ist.",
       "@\"Ich@ @hoffe,@ @du@ @schlägst@ @dich@ @dieses@ @Mal@ @besser,@ @mein@ @Freund!\",@ ruft er. NL Unsicher darüber, was damit gemeint war, gehst du weiter."
     ],
@@ -70,12 +70,12 @@
   "Big Fish": {
     "NAME": "Großer Fang",
     "DESCRIPTIONS": [
-      "Als du einen langen Korridor hinuntergehst, siehst du eine #yBanane, einen #yDonut und eine #yKiste ~herumschweben.~ Nein... bei genauerer Betrachtung wird deutlich, dass sie an Schnüre gebunden sind, die aus Löchern in der Decke kommen. Du hörst ein leises @Gackern@ von oben, als du dich den Objekten näherst. NL Was tust du?",
-      "Du isst die #yBanane. Sie ist nahrhaft und ein wenig #bmagisch, sodass sie dich heilt.",
-      "Du isst den #yDonut. Er ist genau, was du jetzt brauchst! Deine max. TP erhöhen sich.",
+      "Dein Weg führt dich durch einen langen Korridor, wo du eine #yBanane, einen #yDonut und eine #yKiste ~herumschweben~ siehst. Nein... bei genauerer Betrachtung wird deutlich, dass sie an Schnüre gebunden sind, die aus Löchern in der Decke kommen. Du hörst ein leises hämisches @Kichern@ von oben, als du dich den Objekten näherst. NL Was tust du?",
+      "Du isst die #yBanane. Sie ist nahrhaft, ein wenig #bmagisch und heilt dich.",
+      "Du isst den #yDonut. Genau das hast du jetzt gebraucht! Deine max. TP erhöhen sich.",
       "",
       "Du greifst nach der Kiste. Darin findest du ein #yRelikt!",
-      " NL Allerdings wolltest du so gerne diesen Donut... NL Du bist voller ~Trauer,~ und vor allem #rReue."
+      " NL Allerdings wolltest du so gerne diesen Donut... NL Dich erfüllt ~Trauer,~ aber vor allem #rReue."
     ],
     "OPTIONS": [
       "[Banane] #gHeile #g",
@@ -89,14 +89,14 @@
   "Bonfire Elementals": {
     "NAME": "Geister des Lagerfeuers",
     "DESCRIPTIONS": [
-      "Du triffst auf etwas, das aussieht wie eine Gruppe #pvioletter #pFeuergeister, die um ein großes Lagerfeuer ~tanzen.~ NL ",
-      "Die Geister werfen kleine Knochen und Knochenfragmente ins Feuer, das mit jedem Mal ~hell~ ~auflodert.~ NL Als du dich näherst, wenden sich die Geister dir erwartungsvoll zu...",
+      "Du triffst auf eine Gruppe vermutlich #pvioletter #pFeuergeister, die um ein großes Lagerfeuer ~tanzen.~ NL ",
+      "Die Geister werfen kleine Knochen und Stückchen ins Feuer, das mit jedem Mal ~hell~ ~auflodert.~ NL Als du dich näherst, wenden sich die Geister dir erwartungsvoll zu...",
       "Du wirfst eine Opfergabe in das Lagerfeuer. NL NL ",
-      "Die Geister sind allerdings nicht froh darüber, dass du einen #pFluch geopfert hast... Die Karte zischt und gibt dünnen schwarzen Rauch von sich. Im Gegenzug... erhältst du #p~etwas.~",
+      "Die Geister sind allerdings nicht froh darüber, dass du einen #pFluch geopfert hast... Die Karte zischt und gibt dünnen schwarzen Rauch von sich. Im Gegenzug erhältst du... #p~etwas.~",
       "Nichts passiert... NL Die Geister scheinen dich jetzt zu ignorieren. Enttäuschend...",
       "Die Flammen werden etwas greller. NL Die Geister tanzen weiter. Du fühlst dich in ihrer Gegenwart ein wenig wärmer... NL Du #gheilst #b5 TP.",
       "Die Flammen lodern auf und brennen deutlich stärker! NL Die Geister tanzen aufgeregt um dich herum und erfüllen dich mit einem ~Gefühl~ ~der~ ~Wärme.~ NL Deine TP sind komplett #ggeheilt.",
-      "Die Flammen @stoßen@ empor und reißen dich fast von den Füßen, als sich die Stärke des Feuers @verdoppelt.@ NL Die Geister tanzen aufgeregt um dich herum, bevor sie ~deine~ ~Gestalt~ ~annehmen~ und dich mit einem Gefühl der Wärme und Stärke erfüllen. NL Deine max. TP erhöhen sich um #b10 und deine #gTP werden komplett geheilt."
+      "Die Flammen @stoßen@ empor und reißen dich fast von den Füßen, als das Feuer seine Stärke @verdoppelt.@ NL Die Geister tanzen aufgeregt um dich herum, bevor sie ~in~ ~deine~ ~Gestalt~ ~aufgehen~ und dich mit einem Gefühl der Wärme und Stärke erfüllen. NL Deine max. TP erhöhen sich um #b10 und deine #gTP werden komplett geheilt."
     ],
     "OPTIONS": [
       "[Fortsetzen]",
