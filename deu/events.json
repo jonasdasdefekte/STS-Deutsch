@@ -109,10 +109,10 @@
     "NAME": "Das Kolosseum",
     "DESCRIPTIONS": [
       "@Tschack!!!@ NL .. NL ...... NL ... NL ~Du~ ~wurdest~ ~bewusstlos~ ~geschlagen...~",
-      "~Benommen~ und mit @pochendem@ Schädel wachst du auf und findest dich wieder inmitten eines riesigen Stadions mit einem überbordenden Publikum von #bSlavernhändlern, #pKultisten und anderen Bewohnern der Stadt! NL ",
-      " NL Ein gepanzerter Riese mit einer #ygoldenen #yKrone brüllt von oben in deine Richtung: NL @„WIR@ @BEGINNEN@ @NUN@ @DEN@ @",
-      ".@ @KAMPF!!!!“@ NL Auf der Seite dir gegenüber öffnet sich ein Tor...",
-      "@„GUT@ @GEMACHT,@ @SCHWÄCHLING!“@ NL Der Riese lässt sich zu einem spöttischen Klatschen herab und stachelt die Menge mit seinen übertriebenen Gesten an. NL #y~Gold~ ~und~ #y~Konfetti~ ~regnen~ ~auf~ ~dich!~ NL @„ZEIT@ @FÜR@ @DIE@ @ECHTE@ @HERAUSFORDERUNG!!“@ NL NL Der vorige Kampf hat eine kleine Öffnung in der Mauer des Kolosseums hinterlassen, durch die du leicht fliehen könntest, solange die Leute abgelenkt sind. NL Willst du bleiben und kämpfen?"
+      "~Benommen~ und mit @pochendem@ Schädel wachst du auf. Irgendwie bist du mitten in ein riesiges Stadion gelangt, die überbordenden Zuschauerreihen sind voller #bSlavernhändler, #pKultisten und anderer Stadtbewohner! NL ",
+      " NL Ein gepanzerter Riese mit einer #ygoldenen #yKrone brüllt dich von oben an: NL @„WIR@ @BEGINNEN@ @NUN@ @DEN@ @",
+      ".@ @KAMPF!!!!“@ NL Ein Tor auf der anderen Seite öffnet sich...",
+      "@„GUT@ @GEMACHT,@ @SCHWÄCHLING!“@ NL Der Riese klatscht spöttisch und stachelt die Menge mit seinen übertriebenen Gesten an. NL #y~Gold~ ~und~ #y~Konfetti~ ~regnen~ ~auf~ ~dich!~ NL @„ZEIT@ @FÜR@ @DIE@ @ECHTE@ @HERAUSFORDERUNG!!“@ NL NL Der vorige Kampf hat eine kleine Öffnung in der Mauer des Kolosseums hinterlassen, durch die du leicht fliehen könntest, solange die Leute abgelenkt sind. NL Willst du bleiben und kämpfen?"
     ],
     "OPTIONS": [
       "[Weiter]",
@@ -124,12 +124,12 @@
   "Cursed Tome": {
     "NAME": "Verfluchter Foliant",
     "DESCRIPTIONS": [
-      "In einem verlassenen Tempel findest du ein riesiges geöffnetes Buch, gefüllt mit #p@kryptischen@ #p@Schriften.@ NL NL Als du versuchst, das komplizierte Skript zu verstehen, beginnt es sich zu #b~verändern~ und #b~verwandelt~ sich in eine Schrift, die dir bekannt ist.",
-      "Seltsam. Das Buch scheint von einer #yAhnin namens #yNiau zu handeln. NL NL Das weckt dein Interesse, bemerkst aber ein generelles Gefühl des #p~Unwohlseins.~",
+      "In einem verlassenen Tempel findest du ein riesiges Buch. Es ist geöffnet und gefüllt mit #p@kryptischen@ #p@Schriften.@ NL NL Als du versuchst, das komplizierte Skript zu verstehen, beginnt es sich zu #b~verändern~ und #b~verwandelt~ sich in eine Schrift, die du lesen kannst.",
+      "Seltsam. Das Buch scheint von einer #yAhnin namens #yNiau zu handeln. NL NL Das weckt dein Interesse, aber auch ein allgemeines Gefühl von #p~Unwohlsein.~",
       "Die Ahnin der Wiederbelebung, #yNiau, wurde auf den Grund des Spires verbannt. NL NL Du bist versucht, mehr zu lesen, aber dein Körper beginnt zu #r~schmerzen.~",
       "Auf der Suche nach Rache segnet #yNiau Außenseiter und nutzt sie für ihre eigenen Zwecke. NL NL Du beginnst, dich sehr #r~schwach~ #r~und~ #r~erschöpft~ zu fühlen...",
       "Diejenigen, die von #yNiau wiederbelebt werden, können sich nur noch an Fragmente ihres früheren Ichs erinnern und sind dazu verflucht, bis in alle Ewigkeit zu kämpfen. NL NL Als du dich der letzten Seite näherst, #r@beginnen@ #r@sich@ #r@deine@ #r@alten@ #r@Wunden@ #r@wieder@ #r@zu@ #r@öffnen!@",
-      "Nachdem du den Folianten gelesen hast, beschließt du, ihn mitzunehmen. Wirst du deine Erinnerung behalten, wenn du den Beweis in der Hand hältst?",
+      "Du beschließt, den durchgelesenen Folianten mitzunehmen. Wirst du mit einem Beweis in Händen deine Erinnerungen behalten?",
       "Du verlässt den Ort und spürst eine #p~dunkle~ #p~Energie,~ die von dem Buch auf dem Podest #p~ausgeht.~",
       "Mit unglaublicher Anstrengung und Willenskraft widerstehst du der Trance des Folianten und @SCHLÄGST@ ihn zu. NL Du drehst dich um und verlässt den Tempel. Du fühlst dich wie #b~ausgesaugt~ ~...~"
     ],
@@ -153,7 +153,7 @@
       "scheinen seine Rüstung und sein Gesicht #r@von@ #r@Flammen@ #r@versengt@ zu sein. ",
       "sieht es aus, als wäre er von einer gehörnten Bestie #r@aufgespießt@ #r@und@ #r@zertrampelt@ worden. ",
       "sieht er aus, als wäre er von riesigen Klauen #r@ausgeweidet@ #r@und@ #r@zerstückelt@ worden. ",
-      "NL Obwohl seine #yBesitztümer #ynoch #yintakt #ysind, kannst du nicht nachvollziehen, was hier passiert ist...",
+      "NL Obwohl seine #yBesitztümer #ynoch #yunversehrt #ysind, kannst du nicht nachvollziehen, was hier passiert ist...",
       "Du hast ein wenig #yGold gefunden! NL Weitersuchen?",
       "Hmmm, nichts gefunden... NL Weitersuchen?",
       "Du hast ein #yRelikt gefunden! NL Weitersuchen?",
@@ -170,7 +170,7 @@
   "Designer": {
     "NAME": "Designer In-Spire",
     "DESCRIPTIONS": [
-      "Du entdeckst einen #g~bunten~ Laden mit dem Banner „IN-SPIRE“ und gehst hinein, um zu schauen, was drinnen ist. NL „Nein, auf keinen Fall. Nö. Ich kann dich nicht reinlassen!“ NL NL Ein Mann mit lächerlicher Kleidung erscheint am Eingang, um dich zu blockieren.",
+      "Du entdeckst einen #g~bunten~ Laden mit dem Banner „IN-SPIRE“ und gehst hinein, um zu schauen, was drinnen ist. NL „Nein, auf keinen Fall. Nö. Ich kann dich nicht reinlassen!“ NL Ein Mann mit lächerlicher Kleidung erscheint am Eingang, um dich zu blockieren.",
       "„Das reicht nicht aus, nein nein. Was ist das für ein Stil? @Scheußlich!@ #rBluuuutest du etwa? #p~Eeeklig.~ @Geschäfte??@ Du bist ein Kunde? Gut. ~Egaaal.“~ NL Mit einem übertriebenen Seufzer zeigt er auf eine Liste mit Diensten. NL Die Dienste sehen gut aus, aber lieber würdest du diesem eingebildeten Typen auf seine eingebildete Nase schlagen.",
       "„Okay, tschüss jetzt.“ NL NL ...du hättest ihn schlagen sollen.",
       "Du schlägst ihn so stark, dass deine Faust wehtut. NL „Meine @NASE!!@ Jetzt muss ich-“ NL NL Er ist in Ohnmacht gefallen. Wer ist jetzt #p~eeeklig~ und #rbluuuutet?"
@@ -189,7 +189,7 @@
       "#gEntferne #geine #gKarte.",
       "#gTransformiere #g",
       " #gKarten.",
-      "#gEntferne #geine #gKarte #gund #gverbessere #geine #gzufällige #gKarte.",
+      "#gEntferne #g1 #gKarte, #gverbessere #g1 #gzufällige #gKarte.",
       "[Verlassen]",
       "Wähle eine Karte, die du verbesserst",
       "Wähle 2 Karten, die du transformierst",
@@ -247,8 +247,8 @@
   "Falling": {
     "NAME": "Fallen",
     "DESCRIPTIONS": [
-      "Als du auf dem Weg nach oben von einer schwebenden Form zur nächsten hüpfst, rutscht du aus. NL NL Du beginnst zu fallen.",
-      "Im freien Fall wägst du deine Optionen ab: NL Dank deiner besten Technik sicher landen. NL Eine Macht kanalisieren, um den Sturz zu überleben. NL In die Wand schlagen, um daran hängenzubleiben.",
+      "Auf dem Weg nach oben hüpfst du von einer schwebenden Form zur nächsten und rutschst dabei aus. NL NL Du beginnst zu fallen.",
+      "Im freien Fall wägst du deine Optionen ab: NL Mit deiner besten Technik sicher landen. NL Eine Macht kanalisieren, um den Sturz zu überleben. NL In die Wand schlagen, um daran hängenzubleiben.",
       "Du landest unglaublich graziös, bevor du deine Reise fortsetzt.",
       "Unter Einsatz deiner rohen Macht schaffst du es, unverletzt zu landen.",
       "Es gelingt dir, dich an der Wand festzuhalten und auf eine andere sichere Plattform zu springen.",
