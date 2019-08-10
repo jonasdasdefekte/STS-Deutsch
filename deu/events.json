@@ -62,7 +62,7 @@
       " #yGold: #gEntferne #geine #gKarte #gaus #gdeinem #gDeck.",
       "[Gesperrt] Erfordert: ",
       " Gold.",
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Verlassen]",
       "Wähle eine Karte zum Entfernen."
     ]
@@ -99,7 +99,7 @@
       "Die Flammen @stoßen@ empor und reißen dich fast von den Füßen, als das Feuer seine Stärke @verdoppelt.@ NL Die Geister tanzen aufgeregt um dich herum, bevor sie ~in~ ~deine~ ~Gestalt~ ~aufgehen~ und dich mit einem Gefühl der Wärme und Stärke erfüllen. NL Deine max. TP erhöhen sich um #b10 und deine #gTP werden komplett geheilt."
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Verlassen]",
       "[Opfern] Erhalte eine Belohnung gemäß deiner Opfergabe.",
       "Wähle eine Karte zum Opfern."
@@ -163,7 +163,7 @@
       "[Durchsuchen] #gFinde #gBeute. #r",
       "[Verlassen]",
       "[Kämpfen]",
-      "[Fortsetzen] #gFinde #gBeute. #r",
+      "[Weiter] #gFinde #gBeute. #r",
       "%: #rMonster #rkehrt #rzurück."
     ]
   },
@@ -176,7 +176,7 @@
       "Du schlägst ihn so stark, dass deine Faust wehtut. NL „Meine @NASE!!@ Jetzt muss ich-“ NL NL Er ist in Ohnmacht gefallen. Wer ist jetzt #p~eeeklig~ und #rbluuuutet?"
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Anpassungen] #rVerliere #r",
       "[Entrümpeln] #rVerliere #r",
       "[Komplettservice] #rVerliere #r",
@@ -240,7 +240,7 @@
       " #gGold.",
       "[Austauschen] #g50%: #gGutes #gGesicht. #r50%: #rSchlechtes #rGesicht.",
       "[Verlassen]",
-      "[Fortsetzen]",
+      "[Weiter]",
       " #rTP, #gerhalte #g"
     ]
   },
@@ -255,7 +255,7 @@
       "Du scheinst so langsam wie eine Feder zu fallen, sodass du am Boden ohne einen Kratzer ankommst."
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Landen] #rVerliere ",
       "[Gesperrt] Erfordert: Fertigkeitskarte",
       "[Kanalisieren] #rVerliere ",
@@ -366,7 +366,7 @@
       "[Gesperrt] Erfordert: Karte mit ",
       " oder mehr Schaden.",
       "[Verlassen]",
-      "[Fortsetzen]",
+      "[Weiter]",
       "Wähle eine Karte zum Entfernen."
     ]
   },
@@ -383,7 +383,7 @@
       "„HINTER DIR, STERBLICHER.“ NL Du schielst hinter den Schädel. In der Tat, da ist eine Tür."
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       " #rTP.",
       "[Information?] #gEnthülle #gden #gBoss. #rVerliere #r",
       "[Erfolg?] #gErhalte #geine #gfarblose #gKarte. #rVerliere #r",
@@ -415,7 +415,7 @@
       "[Zustimmen] #gErhalte #g",
       " #gGold. #rWerde #rverflucht #r– #rZweifel.",
       "[Widersprechen]",
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Verlassen]"
     ]
   },
@@ -448,33 +448,33 @@
     "OPTIONS": [
       "[Bezahlen] #rALL #rdein #yGold #yverlieren.",
       "[Kämpfen!]",
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Verlassen]"
     ]
   },
   "Match and Keep!": {
     "NAME": "Finde die Paare!",
     "DESCRIPTIONS": [
-      "„Hier sind #bzwölf Karten! Ordne sie zu, um sie zu behalten! NL #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Fangen wir an!“",
-      "Du beendest das Spiel des Gremlins und siehst auf. NL Er ist... verschwunden?",
-      "Ein Gremlin mischt wild auf einem Tisch Karten. Dieses Monster scheint harmlos zu sein. Aus Neugier näherst du dich ihm."
+      "„Hier sind #bzwölf Karten! Finde Paare, um sie zu behalten! #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Los geht's!“",
+      "Du beendest das Spiel des Gremlins und siehst auf. NL Ist er verschwunden?",
+      "Ein Gremlin mischt wild Karten auf einem Tisch. Dieses Monster scheint von der harmlosen Sorte zu sein. Du näherst du dich ihm aus Neugier."
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Verlassen]",
       "[Spielen]",
-      "Verbleibende Versuche: #y"
+      "Übrige Versuche: #y"
     ]
   },
   "MindBloom": {
     "NAME": "Gedankenblüte",
     "DESCRIPTIONS": [
-      "Beim Laufen quer durch all das Chaos im Spire fühlen sich deine Gedanken plötzlich sehr... #p~echt~ #p~an...~ NL NL Allmählich manifestieren sich Vorstellungen von #rMonstern und #yReichtümern in der Realität. NL Die Bilder eilen schnell davon. Was tust du?",
+      "Wie du so läufst und das Chaos des Spires durchquerst, fühlen sich deine Gedanken plötzlich sehr... #p~echt~ #p~an...~ NL NL Allmählich manifestieren sich Vorstellungen von #rMonstern und #yReichtümern in der Realität. NL Die Erfahrung eilt flüchtig davon. Was tust du?",
       "Kann es wirklich so einfach sein?",
-      "Alles macht jetzt Sinn. NL Die fehlenden Erinnerungen, der Aufstieg, die #yAhnin. NL NL Genau so ist es immer gewesen. NL Genau so wird es immer sein. NL Und alles wird bald wieder vergessen sein..."
+      "Alles ergibt jetzt Sinn. NL Die fehlenden Erinnerungen, der Aufstieg, die #yAhnin. NL NL Genau so ist es immer gewesen. NL Genau so wird es immer sein. NL Und alles wird bald wieder vergessen sein..."
     ],
     "OPTIONS": [
-      "[Ich bin Krieg] #rKämpfe #rgegen #reinen #rBoss #raus #rdem #r1. #rAkt. #gErhalte #gein #gseltenes #gRelikt.",
+      "[Ich bin Krieg] #rBekämpfe #reinen #rBoss #rdes #r1. #rAkts. #gErhalte #g1 #gseltenes #gRelikt.",
       "[Ich bin reich] #gErhalte #g999 #gGold. #rWerde #rverflucht #r- #r2 #rNormalität.",
       "[Ich bin gesund] #gHeile #gdeine #gTP #gkomplett. #rWerde #rverflucht #r- #rZweifel.",
       "[Ich bin wach] #gVerbessere #galle #gKarten. #rDu #rkannst #rdich #rnicht #rmehr #rheilen.",
@@ -484,9 +484,9 @@
   "Mushrooms": {
     "NAME": "Pilze",
     "DESCRIPTIONS": [
-      "Du fügst dich einem unnatürlichen Verlangen nach Essen. Als du Pilz um Pilz verzehrst, spürst du aufkeimende Benommenheit und verlierst das Bewusstsein. Als du erwachst, fühlst du dich sehr seltsam. NL Du #gheilst #b25% deiner TP, wirst aber #rinfiziert.",
+      "Du gibst dem unnatürlichen Verlangen, zu essen nach. Als du Pilz um Pilz verzehrst, spürst du aufkeimende Benommenheit und verlierst das Bewusstsein. Als du erwachst, fühlst du dich sehr seltsam. NL Du #gheilst #b25% deiner TP, wirst aber auch #rinfiziert.",
       "#r@Hinterhalt!!@ NL Von den Pilzen infizierte Nager erscheinen aus dem Nichts!",
-      "Du betrittst einen Korridor, der mit #b~Pilzen~ in #b~hypnotisierenden~ #b~Farben~ gefüllt ist. NL Deine mangelnden Kenntnisse in Pilzkunde erlauben es dir nicht, diese Exemplare zu identifizieren. NL Du willst fliehen, fühlst dich aber auf seltsame Art dazu gezwungen, einen #b~Pilz~ zu essen..."
+      "Du betrittst einen Korridor voller #b~Pilzen~ #b~in~ #b~hypnotisierenden~ #b~Farben.~ NL Deine mangelnden Kenntnisse in Mykologie erlauben es dir nicht, diese Exemplare zu identifizieren. NL Du willst fliehen, fühlst dich aber auf seltsame Art dazu gezwungen, einen #b~Pilz~ zu essen..."
     ],
     "OPTIONS": [
       "[Zertrampeln] #rErzürne #rdie #rPilze.",
@@ -499,12 +499,12 @@
   "Mysterious Sphere": {
     "NAME": "Mysteriöse Sphäre",
     "DESCRIPTIONS": [
-      "Aus dem chaotischen Terrain der Umgebung ragt eine knochige Sphäre hervor, die ein mysteriöses leuchtendes Objekt umgibt. NL Neugierig, was sich im Inneren befindet, bemerkst du, dass ein paar Wächter darauf aufpassen.",
-      "Als du auf die Sphäre schlägst, erwachen um dich herum die Wächter zum Leben!",
+      "Aus dem chaotischen Terrain der Umgebung ragt eine knochige Kugel hervor, die ein mysteriöses leuchtendes Objekt umgibt. NL Neugierig, was sich im Inneren befindet, bemerkst du ein paar Wächter, die ein Auge darauf haben.",
+      "Als du auf die Kugel schlägst, erwachen um dich herum die Wächter zum Leben!",
       "Kein Grund, gierig zu sein."
     ],
     "OPTIONS": [
-      "[Sphäre öffnen] #rKampf. #gBelohnung: #gSeltenes #gRelikt.",
+      "[Kugel öffnen] #rKampf. #gBelohnung: #gSeltenes #gRelikt.",
       "[Verlassen]",
       "[Kämpfen]"
     ]
@@ -512,9 +512,9 @@
   "N'loth": {
     "NAME": "N’loth",
     "DESCRIPTIONS": [
-      "Eine seltsame Kreatur mit einem gekrümmten Rücken, aus dem mehrere Tentakel sprießen, wühlt sich vor dir durch einen Haufen Müll und Trümmer. Als du dich näherst, schlurft er auf eine nicht bedrohlich wirkende Weise auf dich zu. NL „N’loth hungrig. Füttere N’loth.“",
-      "Als du ihm das #yRelikt hinhältst, schnappt es N’loth mit seinen Tentakeln aus deiner Hand, renkt seinen Kiefer aus und verschlingt deine Opfergabe mit einem schnellen Schluck. NL Er lächelt dich mit gefletschten Zähnen an, während mehr Tentakel aus seinem Mantel erscheinen. Diese halten eine unglaublich schicke Kiste. Er schiebt sie dir zu, bis du sie nimmst.",
-      "Du schüttelst den Kopf. N’loth krümmt sich noch mehr und seufzt, dann krabbelt er davon."
+      "Eine seltsame Kreatur, die einen buckligen Rücken hat, aus dem mehrere Tentakel sprießen, wühlt sich durch einen Haufen Müll und Trümmer vor dir. Als du dich näherst, schlurft er auf eine unbedrohlich wirkende Weise auf dich zu. NL „N’loth hungrig. Füttere N’loth.“",
+      "Als du ihm das #yRelikt hinhältst, schnappt es N’loth mit seinen Tentakeln aus deiner Hand, renkt seinen Kiefer aus und schlürft deine Opfergabe mit einem schnellen Schluck herunter. NL Er grinst dich mit gefletschten Zähnen an. Zugleich erscheinen hinter seinem Mantel weitere Tentakel, welche eine unglaublich schicke Kiste schwenken. Er schiebt sie dir zu, bis du sie nimmst.",
+      "Du schüttelst den Kopf. N’loth buckelt noch tiefer und seufzt, dann trippelt er davon."
     ],
     "OPTIONS": [
       "[Opfern: ",
@@ -527,7 +527,7 @@
     "DESCRIPTIONS": [
       "Eine lange Reihe #b~maskierter~ #b~Gestalten~ ist zu sehen, die NL eine #pbescheidene #pKathedrale betreten.",
       "Du reihst dich wie selbstverständlich mit ein und bist schnell von #rKultisten umgeben! NL Sie ignorieren dich, @singen@ fröhlich und ~schwenken~ ihre Waffen. NL NL #r@\"MORD!!@ #r@MORD@ #r@MORD!!\"@ NL #b~\"KRÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZZ!\"~ NL #r@\"MORD!@ #r@MORD@ #r@MOORD!!\"@ NL #b~\"KRÄÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZ!!\"~ NL NL Du erspähst eine #ySpendenkiste...",
-      "Du willst (aus Angst) nicht aus der Reihe tanzen und probierst, was wohl passiert, wenn du dich mit anstellst. NL NL Schließlich stehst du dem Anführer direkt gegenüber. Ein gut gekleideter Kultist reicht dir einen #yVerzierten #yDolch. Wie die anderen vor dir schlitzt du deinen Vorderarm auf und lässt das Blut in eine unförmige Schale tropfen. NL NL Die Kultisten @singen@ und @brüllen@ deinetwegen! NL NL #b~\"KRÄÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZ!!\"~ NL NL Du singst auch. Wieso nicht?",
+      "Du entscheidest dich (aus Angst), in der Reihe zu bleiben und zu sehen, was passiert. NL NL Schließlich stehst du dem Anführer direkt gegenüber. Ein gut gekleideter Kultist reicht dir einen #yVerzierten #yDolch. Wie die anderen vor dir schlitzt du deinen Vorderarm auf und lässt das Blut in eine unförmige Schale tropfen. NL NL Die Kultisten @singen@ und @brüllen@ für dich! NL NL #b~\"KRÄÄCHZ~ #b~KRÄCHZ~ #b~KRÄÄÄÄCHZZ!!\"~ NL NL Du singst auch. Wieso nicht?",
       "Sie haben es nicht mal bemerkt.",
       "",
       ""
@@ -566,7 +566,7 @@
     "NAME": "Schrein der Reinigung",
     "DESCRIPTIONS": [
       "Vor dir befindet sich ein kunstvoller Schrein, der einem vergessenen Geist gewidmet ist.",
-      "Als du ehrfürchtig auf die Knie sinkst, spürst du, wie dir eine Last von den Schultern genommen wird.",
+      "Als du ehrfürchtig auf die Knie sinkst, spürst du, wie eine Last von deinen Schultern abfällt.",
       "Du ignorierst den Schrein."
     ],
     "OPTIONS": [
@@ -578,10 +578,10 @@
   "Scrap Ooze": {
     "NAME": "Schrottschlamm",
     "DESCRIPTIONS": [
-      "Als du den Raum betrittst, hörst du ein ~Gurgeln~ und das Geräusch von @reibendem@ Metall. Vor dir befindet sich eine schleimartige Kreatur, die mehr Schrott gegessen hat, als gut für sie ist. Aus dem Inneren der Kreatur siehst du Licht schimmern - vielleicht etwas magisches? Es scheint, als könntest du ein paar #ySchätze bekommen, wenn du einfach in die... Öffnung greifst. Die Säure und scharfen Dinge könnten allerdings #rschmerzhaft sein.",
-      "#r@Autsch!@ NL Alles, was du findest, ist verrostetes Metall und ein bisschen #r@brennender@ #r@Schmerz.@ NL Du bist dennoch überzeugt, dass dort ein #yRelikt ist...",
-      "#gGeschafft! NL Nachdem du dich durch das Metall und die Säure gewühlt hast, bekommst du das #yRelikt zu fassen und kannst es herausziehen. NL Du ziehst dich aus dem Schlamm heraus, #rlädiert, aber auch belohnt.",
-      "Du entschließt dich, das Gebiet zu verlassen. NL Der Schleim ist unaufmerksam, da er mit seiner Mahlzeit zufrieden ist."
+      "Als du den Raum betrittst, hörst du ein ~Gurgeln~ und das @Zermahlen@ von Metallen. Vor dir liegt eine schleimartige Kreatur, die mehr als genug Schrott gegessen hat. Aus dem Inneren der Kreatur siehst du Licht schimmern - vielleicht etwas Magisches? Es scheint, als könntest du ein paar #ySchätze bekommen, wenn du einfach in seine... Öffnung greifst. Allerdings könnten die Säure und scharfen Dinge #rschmerzhaft sein.",
+      "#r@Autsch!@ NL Alles, was du findest, ist verrostetes Metall und etwas #r@brennender@ #r@Schmerz.@ NL Trotzdem bist du weiter überzeugt, dass da ein #yRelikt ist...",
+      "#gGeschafft! NL Nachdem du dich durch das Metall und die brennende Säure gewühlt hast, bekommst du endlich das #yRelikt zu fassen und wirfst es heraus. NL Du ziehst dich aus dem Schlamm heraus, #rlädiert, aber auch belohnt.",
+      "Du entschließt dich, die Gegend zu verlassen. NL Der Schleim ist unaufmerksam, da er mit seiner Mahlzeit zufrieden ist."
     ],
     "OPTIONS": [
       "[Hineingreifen] #rVerliere #r",
@@ -655,7 +655,7 @@
       " NL Das Herz #gentflieht aufwärts! Eine große Tür erscheint an seiner Stelle."
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Angreifen] #b???",
       "[Schlafen]",
       "[Zur Tür gehen]"
@@ -695,7 +695,7 @@
       "Du hast die Wette #rverloren, aber immerhin wurdest du nicht von einer Lanze aufgespießt."
     ],
     "OPTIONS": [
-      "[Fortsetzen]",
+      "[Weiter]",
       "[Mörder] #ySetze #y",
       " #yGold – #g70%: #gGewinne #g",
       " #gGold.",
