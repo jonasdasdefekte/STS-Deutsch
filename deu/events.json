@@ -163,7 +163,7 @@
       "[Durchsuchen] #gFinde #gBeute. #r",
       "[Verlassen]",
       "[Kämpfen]",
-      "[Weiter] #gFinde #gBeute. #r",
+      "[Weitersuchen] #gFinde #gBeute. #r",
       "%: #rMonster #rkehrt #rzurück."
     ]
   },
@@ -455,7 +455,7 @@
   "Match and Keep!": {
     "NAME": "Finde die Paare!",
     "DESCRIPTIONS": [
-      "„Hier sind #bzwölf Karten! Finde Paare, um sie zu behalten! #bFünf Versuche, keine Wiederholungen. NL Bist du bereit? Los geht's!“",
+      "„Hier sind #bzwölf Karten! Finde Paare, um sie zu behalten! #bFünf Versuche, aufgedeckt ist aufgedeckt. NL Bist du bereit? Los geht's!“",
       "Du beendest das Spiel des Gremlins und siehst auf. NL Ist er verschwunden?",
       "Ein Gremlin mischt wild Karten auf einem Tisch. Dieses Monster scheint von der harmlosen Sorte zu sein. Du näherst du dich ihm aus Neugier."
     ],
@@ -579,7 +579,7 @@
     "NAME": "Schrottschlamm",
     "DESCRIPTIONS": [
       "Als du den Raum betrittst, hörst du ein ~Gurgeln~ und das @Zermahlen@ von Metallen. Vor dir liegt eine schleimartige Kreatur, die mehr als genug Schrott gegessen hat. Aus dem Inneren der Kreatur siehst du Licht schimmern - vielleicht etwas Magisches? Es scheint, als könntest du ein paar #ySchätze bekommen, wenn du einfach in seine... Öffnung greifst. Allerdings könnten die Säure und scharfen Dinge #rschmerzhaft sein.",
-      "#r@Autsch!@ NL Alles, was du findest, ist verrostetes Metall und etwas #r@brennender@ #r@Schmerz.@ NL Trotzdem bist du weiter überzeugt, dass da ein #yRelikt ist...",
+      "#r@Autsch!@ NL Du findest nur verrostetes Metall und etwas #r@brennenden@ #r@Schmerz.@ NL Trotzdem bist du immer noch überzeugt, dass da ein #yRelikt ist...",
       "#gGeschafft! NL Nachdem du dich durch das Metall und die brennende Säure gewühlt hast, bekommst du endlich das #yRelikt zu fassen und wirfst es heraus. NL Du ziehst dich aus dem Schlamm heraus, #rlädiert, aber auch belohnt.",
       "Du entschließt dich, die Gegend zu verlassen. NL Der Schleim ist unaufmerksam, da er mit seiner Mahlzeit zufrieden ist."
     ],
@@ -594,22 +594,22 @@
   "SecretPortal": {
     "NAME": "Geheimes Portal",
     "DESCRIPTIONS": [
-      "Vor dir erblickst du etwas, das fehl am Platze wirkt in der fremden Landschaft um dich herum. Seltsam in den lebenden Wänden des Jenseits platziert ist ein umschlossener Steineingang, ausgefüllt von einem #p~schwindelerregenden~ #p~magischen~ #p~Portal.~ NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise durch den Spire beschleunigen.",
-      "Deine Wahrnehmung von Raum und Zeit zerreißt komplett, als du durch das Portal springst. NL NL Als du dich in der neuen Umgebung zurechtfinden willst, wird dir klar, dass direkt vor dir ein fürchterlicher Kampf liegt.",
-      "Wachsamkeit und Vorsicht scheinen ein besserer Ansatz zu sein, um die Spitze des Spire zu erreichen. Du lässt das Portal links liegen und gehst weiter."
+      "Vor dir erblickst du etwas, was in dieser fremden Landschaft fehl am Platze wirkt. Hier ist, seltsam in eine der lebende Wände des Jenseits eingelassen, ein umschlossener Steineingang, gefüllt mit einem #p~wirbelnden~ #p~magischen~ #p~Portal.~ NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise durch den Spire beschleunigen.",
+      "Du springst durch das Portal und deine Wahrnehmung von Raum und Zeit zerreißt komplett. NL NL Als du dich in der neuen Umgebung orientierst, wird dir klar, dass du direkt vor einem fürchterlichen Kampf stehst.",
+      "Man sollte wohl lieber wachsam und vorsichtig sein, um die Spitze des Spire zu erreichen. Du lässt das Portal links liegen und gehst weiter."
     ],
     "OPTIONS": [
-      "[Betrete das Portal] Bewege dich DIREKT zum Boss.",
+      "[Das Portal betreten] Bewege dich DIREKT zum Boss.",
       "[Verlassen]"
     ]
   },
   "SensoryStone": {
     "NAME": "Sinnesstein",
     "DESCRIPTIONS": [
-      "Als du durch das Jenseits wanderst, entdeckst du einen #bleuchtenden #bTesserakt, der sich sanft in der Luft @dreht@ und ~verändert.~ ",
+      "Als du durch das Jenseits wanderst, entdeckst du einen #bleuchtenden #bTesserakt, der sanft in der Luft @kreist@ und ~schwankt.~ ",
       "Du berührst ihn. NL NL Ein #r@scharfer@ #r@Schmerz@ durchfließt dich, gefolgt von lebhaften Blitzen einer fernen Erinnerung. NL ...wessen Erinnerungen sind das?",
-      "#r~ANGST.~ NL NL Eine dämonische Kreatur befindet sich über dir, ihre Flügel sind weit gespreizt, während sie in Gelächter aufheult. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen, #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft und verspottet dich. NL NL #r@\"DU@ #r@BIST@ #r@JETZT@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
-      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondschein kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist abgeschlossen. NL NL Du gehst in Richtung des Spire...",
+      "#r~FURCHT.~ NL NL Eine dämonische Kreatur überragt dich mit weit gespreizten Flügeln und bricht in heulendes Gelächter aus. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft nach dir mit Spott. NL NL #r@\"JETZT@ #r@BIST@ #r@DU@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
+      "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondschein kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist vollendet. NL NL Du gehst in Richtung des Spire...",
       "#b~VERWIRRUNG.~ NL NL #y[ZIEL] #gBALANCE #gmuss #gVERSTÄRKT #gwerden NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[WARNUNG] #rGroßes #rObjekt #rnähert #rsich NL NL ~\"Ich...~ ~..bin~ ~....Niau..\"~"
     ],
     "OPTIONS": [
@@ -622,10 +622,10 @@
     ]
   },
   "Shining Light": {
-    "NAME": "Leuchtender Schein",
+    "NAME": "Lichtschein",
     "DESCRIPTIONS": [
       "Du findest eine schimmernde #yBündelung #yvon #yLicht im Zentrum des Raumes. NL NL Sein ~warmes~ ~Leuchten~ und die ~verzaubernden~ ~Muster~ laden dich zu ihm ein.",
-      "Als du durch das Licht schreitest, bemerkst du, dass das Licht von dir absorbiert wird. NL Es ist #r@brennend@ #r@heiß@ ! Der Schmerz verschwindet jedoch schnell. NL Du fühlst dich #bbelebt, als hättest du einen wohlverdienten Klaps erhalten.",
+      "Als du durch das Licht schreitest, bemerkst du, dass das Licht von dir aufgenommen wird. NL Es ist #r@brennend@ #r@heiß@ ! Der Schmerz verschwindet jedoch schnell. NL Du fühlst dich #bbelebt, als hättest du einen wohlverdienten Klaps erhalten.",
       "Du machst einen Bogen darum und fragst dich, was hätte geschehen können."
     ],
     "OPTIONS": [
@@ -638,9 +638,9 @@
   "Spire Heart": {
     "NAME": "Herz des Spire",
     "DESCRIPTIONS": [
-      "@Ba-bumm...@ @Ba-bumm...@ @Ba-bumm...@ NL Eine tief pulsierende Bedrohung ist im gesamten Raum zu spüren... NL Ist dies das #r~Herz~ des Spires? Die Quelle des Bösen?",
+      "@Ba-bumm...@ @Ba-bumm...@ @Ba-bumm...@ NL Eine tief pulsierende Bedrohung ist im ganzen Raum zu spüren... NL Ist dies das #r~Herz~ des Spires? Der Quell dieses Bösen?",
       "Du verursachst #b",
-      " Schaden! NL Das Herz #r@windet@ sich und #r~blutet~ ... doch es schlägt letztendlich noch immer. NL Reichen deine mächtigsten Angriffe nicht aus?",
+      " Schaden! NL Das Herz #r@windet@ sich und #r~blutet~ ...doch es schlägt schließlich immer noch. NL Reichen deine mächtigsten Angriffe nicht aus?",
       "Du fragst dich: ~„War~ ~ich~ ~früher~ ~schonmal~ ~hier?“~ NL Du spürst, dass du insgesamt #b",
       " Schaden am Herzen verursacht hast.",
       " NL Insgesamt wurde #b",
@@ -652,7 +652,7 @@
       "Du fragst dich: ~„War~ ~ich~ ~früher~ ~schonmal~ ~hier?“~",
       " NL Das Herz pulsiert lauter und lauter, während dein #p~Bewusstsein~ #p~zu~ #p~schwinden~ #p~beginnt...~",
       " NL Ein plötzlicher #y@Energieschub@ strömt aus deinem Inneren und #b@schreckt@ dich auf.",
-      " NL Das Herz #gentflieht aufwärts! Eine große Tür erscheint an seiner Stelle."
+      " NL Das Herz #gentflieht aufwärts! Eine große Tür wird an seiner Stelle sichtbar."
     ],
     "OPTIONS": [
       "[Weiter]",
@@ -664,9 +664,9 @@
   "The Cleric": {
     "NAME": "Der Priester",
     "DESCRIPTIONS": [
-      "Ein seltsamer blauer Humanoider mit einem goldenen Helm (?) nähert sich dir mit einem breiten Lächeln. NL @\"Hallo,@ @mein@ @Freund!@ Ich bin #bPriester! Bist du an meinen Diensten interessiert?!\", schreit die Kreatur laut.",
-      "Ein warmes goldenes Licht umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist bester Heiler. @Einen@ @schönen@ @Tag@ @noch!\"@",
-      "Eine kalte blaue Flamme umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist talentiert. @Einen@ @schönen@ @Tag@ @noch!\"@",
+      "Ein seltsamer blauer Humanoider mit einem goldenen Helm (?) nähert sich dir grinsend. NL @\"Hallo,@ @mein@ @Freund!@ Ich bin #bPriester! Bist du an meinen Diensten interessiert?!\", schreit die Kreatur laut.",
+      "Ein warmes goldenes Licht umhüllt deinen Körper, dann zerstreut es sich. NL Die Kreatur grinst. \"Priester - bester Heiler. @Einen@ @schönen@ @Tag@ @noch!\"@",
+      "Eine kalte blaue Flamme umhüllt deinen Körper und zerstreut sich. NL Die Kreatur grinst. \"Priester ist talentiert. @Schönen@ @Tag@ @noch!\"@",
       "Du traust diesem #b\"Priester\" nicht, also gehst du."
     ],
     "OPTIONS": [
@@ -684,14 +684,14 @@
   "The Joust": {
     "NAME": "Der Tjost",
     "DESCRIPTIONS": [
-      "Als du deinen Weg durch die großen Gebäude fortsetzt, gelangst du zu einer langen, schmalen Brücke und entdeckst Ritter an beiden Enden, die einander zugewandt sind. Du näherst dich... NL @„Stillgestanden!“@ NL NL Ein Ritter zwingt dich mit seiner riesigen Lanze, stehen zu bleiben.",
-      "„Heute ist der Tag, an dem ich die Rechnung begleichen muss mit dem #rMörder meines geliebten Haustiers #yNoodles. Bis dahin kannst du nicht vorbei. NL NL Geschätzter Zeuge, warum #bwettest du nicht darauf, wer siegreich hervorgehen wird?“",
-      "„Ich kann nicht glauben, dass du gegen #yNoodles wettest!“ NL NL Wütend klappt er seinen Helm runter und stürmt auf seinen Erzfeind zu.",
-      "„Gib mir Kraft, #yNoodles!“ NL NL Der Ritter klappt seinen Helm runter und stürmt voran.",
+      "Als du deinen Weg zwischen den großen Gebäuden fortsetzt, gelangst du an eine lange schmale Brücke. Du bemerkst Ritter an beiden Enden, die einander zugewandt sind. Du kommst näher... NL @„Halt!“@ NL NL Ein Ritter zwingt dich mit seiner riesigen Lanze, stehen zu bleiben.",
+      "„Der Tag ist gekommen, an dem ich mit dem #rMörder meines geliebten Haustiers #yNudli abrechnen muss. Bis dahin kannst du nicht vorbei. NL NL Geschätzter Zeuge, warum #bwettest du nicht darauf, wer siegreich hervorgehen wird?“",
+      "„Ich kann nicht glauben, dass du gegen #yNudli wettest!“ NL NL Wütend klappt er seinen Helm runter und stürmt auf seinen Erzfeind zu.",
+      "„Gib mir Kraft, #yNudli!“ NL NL Der Ritter klappt seinen Helm runter und stürmt voran.",
       "NL #y@*KRACH!!!*@ #r@*KLOOONK!*@ NL NL #g@*POFF!*@",
       "Der Erzfeind wurde besiegt. NL NL ",
       "Der Besitzer ist gestorben. NL NL ",
-      "Du #ggewinnst die Wette. Du bist dir unsicher, was du davon halten sollst, nimmst deinen Gewinn und gehst.",
+      "Du #ggewinnst die Wette. Unsicher darüber, was du davon halten sollst, nimmst du deinen Gewinn und gehst.",
       "Du hast die Wette #rverloren, aber immerhin wurdest du nicht von einer Lanze aufgespießt."
     ],
     "OPTIONS": [
