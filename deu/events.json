@@ -708,26 +708,26 @@
   "The Library": {
     "NAME": "Die Bibliothek",
     "DESCRIPTIONS": [
-      "Du kommst an einem verzierten Gebäude vorbei, das verlassen zu sein scheint. NL Eine Tafel, die von der Wand gerissen wurde, liegt auf dem Boden. Darauf steht: #b„DIE #bBIBLIOTHEK“. NL Im Inneren findest du zahllose Schriftrollen, Manuskripte und Bücher. NL Du nimmst eines und machst es dir auf einem Stuhl gemütlich.",
-      "Lesen ist was für Trottel. NL Du schläfst stattdessen auf einem gemütlichen Stuhl ein. NL ~Zzz~ ~...~ ~zzz~ ~...~ ~..~ ~Zz~ ~....~ NL Du wachst auf und fühlst dich erholt.",
-      "Die Geschichte handelt von einem jugendlichen Mädchen, das Insekten kontrollieren kann und danach strebt, ein Held zu werden. Das Buch beschreibt kreative Einsatzmöglichkeiten von Kräften, Strategien für den Kampf und verschiedenen Perspektiven. NL Zufriedenstellend.",
-      "Die Geschichte handelt von einem Mann, der zu den Sternen reiste und sich gestrandet auf einem trostlosen Planeten wiederfand. Einfallsreichtum, Glück, Ausdauer und Humor, um seinen Verstand nicht zu verlieren, waren die Werkzeuge, mit denen er nach Hause zurückkehren konnte. NL Faszinierend.",
-      "Die Geschichte spielt in einem abgeschiedenen, unterirdischen Gebäude, da die Zustände außerhalb unerträglich geworden sind. Dieser Roman ist durchzogen von Verschwörungen, Propaganda und Ungerechtigkeit. Du denkst darüber nach, ob sich eine ähnliche Dynamik im Spire abspielt. NL Beunruhigend."
+      "Du kommst an einem verzierten, anscheinend verlassenen Gebäude vorbei. NL Eine Tafel, die von der Wand gerissen wurde, liegt auf dem Boden. Darauf steht: #b„DIE #bBIBLIOTHEK“. NL Drinnen findest du zahllose Schriftrollen, Manuskripte und Bücher. NL Du nimmst dir eins und genießt etwas stille Zeit auf einem gemütlichen Stuhl.",
+      "Lesen ist was für Trottel. NL Stattdessen döst du auf dem gemütlichen Stuhl weg. NL ~Zzz~ ~...~ ~zzz~ ~...~ ~..~ ~Zz~ ~....~ NL Du wachst erholt wieder auf.",
+      "Die Geschichte handelt von einer Insekten-kontrollierenden Teenagerin, die ein Held werden möchte. Das Buch ist voll kreativer Einsatzmöglichkeiten von Mächten, Kampfstrategien und verschiedenen Perspektiven. NL Zufriedenstellend.",
+      "Die Geschichte handelt von einem Mann, der zu den Sternen reiste und auf einem trostlosen Planeten strandete. Dank Einfallsreichtum, Glück, Ausdauer und Humor, um seinen Verstand nicht zu verlieren, konnte er nach Hause zurückkehren. NL Faszinierend.",
+      "Die Geschichte spielt in einem riesigen abgeschotteten unterirdischen Gebäude, da die Zustände außerhalb unerträglich geworden sind. Der Roman ist durchwoben mit Verschwörungen, Propaganda und Ungerechtigkeit. Du fragst dich, ob im Spire ähnliche Dynamiken am Werk sind. NL Beunruhigend."
     ],
     "OPTIONS": [
       "[Lesen] #gWähle #g1 #gvon #g20 #gKarten #gfür #gdein #gDeck.",
       "[Schlafen] #gHeile #g",
       " #gTP.",
       "[Verlassen]",
-      "Wähle eine Karte, die du erhältst."
+      "Wähle eine Karte für dein Deck."
     ]
   },
   "The Mausoleum": {
     "NAME": "Das Mausoleum",
     "DESCRIPTIONS": [
-      "Als du durch eine Reihe von Gräbern wanderst, stößt du im Zentrum eines runden Raums auf einen großen Sarkophag, der mit ~Edelsteinen~ ~besetzt~ ist. NL Du kannst die Inschrift auf dem Sarg nicht entziffern, bemerkst jedoch einen #p~schwarzen~ #p~Nebel,~ der aus den Seiten sickert.",
-      "Du stößt den Sarg auf. Da sprüht der #p~schwarze~ #p~Nebel~ heraus und hüllt den gesamten Raum ein! Im Inneren findest du keine Leiche, nur ein #y~Relikt.~ Du nimmst es an dich und gehst #r@heftig@ #r@hustend@ weiter.",
-      "Du stößt den Sarg auf. Der Nebel löst sich gefahrlos auf. Im Inneren findest du die sterblichen Überresten eines dekorierten Soldaten, der ein altes #yRelikt hält. Du entwendest es und gehst weiter.",
+      "Du wagst dich durch eine Reihe von Gräbern und stehst nun vor einem großen ~edelsteinbesetzten~ Sarkophag in der Mitte eines runden Raums. NL Du kannst die Inschrift auf dem Sarg nicht entziffern, bemerkst jedoch, wie #p~schwarzer~ #p~Nebel~ aus den Seiten strömt.",
+      "Du stößt den Sarg auf. Da speit #p~schwarzer~ #p~Nebel~ heraus und hüllt den gesamten Raum ein! Im Inneren findest du keine Leiche, nur ein #y~Relikt.~ Du nimmst es an dich und gehst #r@heftig@ #r@hustend@ weiter.",
+      "Du stößt den Sarg auf. Der Nebel löst sich gefahrlos auf. Im Inneren findest du die sterblichen Überreste eines dekorierten Soldaten, der ein altes #yRelikt hält. Du entwendest es und gehst weiter.",
       "Du setzt deinen Weg fort, ohne den vergessenen Toten zu stören."
     ],
     "OPTIONS": [
@@ -739,7 +739,7 @@
   "The Moai Head": {
     "NAME": "Der Moai-Kopf",
     "DESCRIPTIONS": [
-      "Du stolperst über etwas, das *sehr* deplatziert wirkt. Vor dir erhebt sich ein enormer Steinkopf aus einem großen Mauerabschnitt, der sich nicht bewegt und verändert, wie alles andere hier. NL Der Mund des Kopfes ist weit geöffnet und zeigt große, einschüchternde Zähne, die von Blut rot befleckt sind. Die Oberfläche der Statue ist überzogen mit Piktogrammen, welche anscheinend Leute darstellen, die sich in den Mund dieses Kopfes werfen und verschlungen werden. Warum sollte jemand das tun?",
+      "Du stolperst über etwas, das *sehr* deplatziert wirkt. Vor dir erhebt sich ein enormer Steinkopf aus einem großen Mauerabschnitt, welcher sich nicht bewegt und verändert, wie alles andere hier. NL Der Mund des Kopfes ist weit geöffnet und zeigt große, einschüchternde Zähne, die von Blut rot befleckt sind. Die Oberfläche der Statue ist überzogen mit Piktogrammen, welche anscheinend Leute darstellen, die sich in den Mund dieses Kopfes werfen und verschlungen werden. Warum sollte jemand das tun?",
       "Als du in den Mund der Statue trittst, geschieht zunächst nichts. Als du dir mehr als nur ein wenig dumm vorkommst, rasen plötzlich die riesigen Backenzähne herunter und zerschmettern dich. NL @Dunkelheit.@ NL Einige Zeit später siehst du einen Lichtschein in der Dunkelheit und hörst etwas, das du schließlich als das Geräusch steinerner Zähne erkennst, die sich langsam erheben. NL NL NL Du ziehst verwirrt von dannen.",
       "Du machst einen kleinen Satz zurück, als die gigantischen Backenzähne auf den Götzen hinabsausen und ihn in den Staub pressen. Als sich die Zähne wieder heben, strömt #yGold aus der Öffnung und übergießt dich mit Reichtümern.",
       "Du ziehst ab und fragst dich, was hätte geschehen können."
@@ -755,7 +755,7 @@
   "The Woman in Blue": {
     "NAME": "Die Frau in Blau",
     "DESCRIPTIONS": [
-      "Aus der Dunkelheit zieht dich ein Arm in einen kleinen Laden. Als sich deine Augen an die Dunkelheit gewöhnt haben, erkennst du eine blasse Frau in schicken Kleidern, die auf eine Wand voller Tränke zeigt. NL „Kaufe einen Trank. Jetzt!“, sagt sie.",
+      "Aus der Dunkelheit zieht dich ein Arm in einen kleinen Laden. Als sich deine Augen an die Dunkelheit gewöhnt haben, erkennst du eine blasse Frau in schicken Kleidern, die auf eine Wand voller Tränke zeigt. NL „Kauf einen Trank. Jetzt!“, sagt sie.",
       "„Gut. Geh jetzt.“ NL Du verlässt vorsichtig den Laden.",
       "#r@PENG@ NL Ihre behandschuhte Faust trifft dein Gesicht und wirft dich fast von den Füßen. NL „Raus hier, bevor ich den Boden mit deinen Eingeweiden dekoriere.“ Du nimmst sie beim Wort und machst dich mit intakten Eingeweiden davon."
     ],
@@ -786,9 +786,9 @@
   "Tomb of Lord Red Mask": {
     "NAME": "Grab des Herren der Roten Maske",
     "DESCRIPTIONS": [
-      "Auf der anderen Seite eines schwebenden Pfades ist ein reichlich verziertes Grab zu sehen. Als du das Grab erreichst, bemerkst du einen Schlitz für #yGoldmünzen, über dem eine Inschrift eingeritzt wurde.",
-      "Du setzt die Maske auf und das Grab beginnt zu ~zerbröckeln~ ~...~ ein geheimer Durchgang! NL NL Der Gang ist gefüllt mit zahllosen gestohlenen Dingen und Haufen von #yGold!",
-      "Eine Öffnung entsteht und es rutscht eine kleine rote Maske mit einer Notiz heraus. „Nimm von anderen, so wie ich von dir genommen habe!“"
+      "Ein reichlich verziertes Grab ist auf der anderen Seite eines schwebenden Pfades zu sehen. Als du das Grab erreichst, bemerkst du einen Schlitz für #yGoldmünzen, über dem eine Inschrift eingeritzt wurde.",
+      "Du setzt die Maske auf und das Grab beginnt zu ~zerbröckeln~ ~...~ ein geheimer Durchgang! NL NL Der Gang ist gesäumt von zahllosen gestohlenen Dingen und Haufen von #yGold!",
+      "Eine Öffnung erscheint im Grab, es rutscht eine kleine rote Maske mit einer Notiz heraus. „Nimm von anderen, so wie ich von dir genommen habe!“"
     ],
     "OPTIONS": [
       "[Die Rote Maske aufsetzen] #gErhalte #g222 #gGold.",
@@ -828,12 +828,12 @@
   "Vampires": {
     "NAME": "Vampire (?)",
     "DESCRIPTIONS": [
-      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Bruder,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
-      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Schwester,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
+      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade mitten in irgendeinem dunklen Ritual sind. Als du näher kommst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Bruder,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
+      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade mitten in irgendeinem dunklen Ritual sind. Als du näher kommst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Schwester,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~",
       "Die große Gestalt ergreift deinen Arm, zieht dich heran und versenkt ihre Fangzähne in deinem Nacken. Du spürst, wie eine @dunkle@ @Kraft@ von deinem Nacken aus durch deinen Körper @strömt.@ NL ... NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung...",
-      "Du trittst zurück und hebst trotzig deine Waffe. Die große Gestalt seufzt. „Nun gut.“ Die gesamte Gruppe aus vermummten Gestalten verwandelt sich in einen dicken, schwarzen Nebel, der sich von dir entfernt. NL Du bist wieder allein.",
-      "Den blassen Gestalten stockt der Atem, als du die #yBlutphiole hervorholst. NL ~„Das~ ~Blut~ ~des~ ~Meisters~ ~...~ ~das~ ~Blut~ ~des~ ~Meisters!~ @DAS@ @BLUT@ @DES@ @MEISTERS!“@ NL Sie sprechen inbrünstig im Chor, während der Große sich vor dir verbeugt. „Trinke Sein Blut und werde eins mit #y~Ihm.“~ NL Sie rufen lauter, während du den Inhalt der Phiole trinkst. Deine Wahrnehmung ~verzerrt~ sich und du versinkst in die Dunkelheit. NL NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung.",
-      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade ein dunkles Ritual vollziehen. Als du dich näherst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Gebrochener,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~"
+      "Du trittst zurück und hebst trotzig deine Waffe. Die große Gestalt seufzt. „Nun gut.“ Die gesamte Gruppe aus vermummten Gestalten verwandelt sich in einen dicken schwarzen Nebel, der sich von dir entfernt. NL Du bist wieder allein.",
+      "Den blassen Gestalten stockt der Atem, als du die #yBlutphiole hervorholst. NL ~„Das~ ~Blut~ ~des~ ~Meisters~ ~...~ ~das~ ~Blut~ ~des~ ~Meisters!~ @DAS@ @BLUT@ @DES@ @MEISTERS!“@ NL Sie sprechen inbrünstig im Chor; der Große verbeugt sich vor dir. „Trinke Sein Blut und werde eins mit #y~Ihm.“~ NL Sie rufen immer lauter, während du den Inhalt der Phiole trinkst. Sofort ~wankt~ deine Wahrnehmung und verklingt in Dunkelheit. NL NL Du erwachst einige Zeit später – allein. Ein starker ~Hunger~ wütet in deinem Bauch. Du #rbrauchst #rNahrung.",
+      "Auf einer unbeleuchteten Straße triffst du auf ein paar vermummte Gestalten, die gerade mitten in irgendeinem dunklen Ritual sind. Als du näher kommst, wenden sie sich dir in gespenstischem Gleichklang zu. Der Größte von ihnen entblößt Fangzähne und streckt eine lange, blasse Hand nach dir aus. NL ~„Schließ~ ~dich~ ~uns~ ~an,~ ~Gebrochener,~ ~und~ ~spüre~ ~die~ ~Wärme~ ~des~ ~Spire.“~"
     ],
     "OPTIONS": [
       "[Annehmen] #gEntferne #galle Schläge. #gErhalte #g5 Bisse. #rVerliere #r",
@@ -847,10 +847,10 @@
   "WeMeetAgain": {
     "NAME": "So sieht man sich wieder!",
     "DESCRIPTIONS": [
-      "\"So sieht man sich wieder!\" NL Ein lockerer, zerzauster Kerl kommt mit fröhlichen Schritten auf dich zu. Du kennst diesen Mann nicht. NL NL \"Ich bin's, #yRanwid! Hast du heute Güter für mich dabei? Das übliche? So ein Typ wie ich schafft's nicht alleine, weißt du?\" NL Du musterst ihn misstrauisch und wägst deine Möglichkeiten ab...",
+      "\"So sieht man sich wieder!\" NL Ein vergnügter, zerzauster Kerl kommt mit fröhlichen Schritten auf dich zu. Du kennst diesen Mann nicht. NL NL \"Ich bin's, #yRanwid! Haste heute Sachen für mich dabei? Das übliche? So 'n Typ wie ich schafft's nicht alleine, weißte?\" NL Du musterst ihn misstrauisch und wägst deine Möglichkeiten ab...",
       "\"Exquisit! War kurz vorm Verdursten.\" NL #b~Gluck~ #b~gluck~ #b~gluck~ NL NL Er kippt den Trank in einem Mal herunter und lässt ein genüssliches @öörks@ ertönen.",
       "\"Wunderbar! Das sollte recht nützlich sein, sollte ich mal wieder auf diese #rmaskentragenden #rGanoven stoßen.\"",
-      "\"Vorbildlich! Dies sollte ich nun in meinen Kammern genauer studieren.\"",
+      "\"Musterhaft! Dies sollte ich nun in meinen Kammern genauer studieren.\"",
       "\" @Aaaaargh!!@ Was für ein Grobian du manchmal bist!\" NL Er rennt davon.",
       "  NL NL Er kramt in einigen seiner Taschen... NL \"Hier, schau, was ich heute für dich habe! Nimm mit, nimm mit!\""
     ],
@@ -868,16 +868,16 @@
     ]
   },
   "Wheel of Change": {
-    "NAME": "Rad der Veränderung",
+    "NAME": "Glücksrad",
     "DESCRIPTIONS": [
-      "Du triffst auf einen adrett aussehenden, fröhlichen Gremlin. NL „Es ist an der Zeit, das Rad zu drehen! Bist du ~B~ ~E~ ~R~ ~E~ ~I~ ~T~ ~?~ Natürlich bist du das!“",
+      "Du triffst auf einen adrett aussehenden, fröhlichen Gremlin. NL „Jetzt ist es Zeit, das Rad zu drehen! Bist du ~B~ ~E~ ~R~ ~E~ ~I~ ~T~ ~?~ Natürlich bist du das!“",
       "„Du gewinnst etwas #yGold! NL YAY!!!!“",
       "„Ah, ein #gGeschenk! NL Viel Spaß damit!“",
       "„Oooh, eine kostenlose #gHeilung für dich!“",
       "„Sieht aus, als hättest du einen #pFluch gewonnen! NL Das ist nicht gut. NL Naja! Nächstes Mal hast du mehr Glück!“",
       "„Ooh, die Macht der #r~Dunkelheit~ ~...~ “ NL Wähle eine Karte, die aus deinem Deck entfernt wird!",
       "„Oh-oh! NL Du verlierst!“ NL Du bemerkst, wie er eine Klinge zieht...",
-      "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL Damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
+      "Du schlägst nach dem verrückten Gremlin, aber er ist einfach zu schnell! NL Er trifft dich ein paar Mal mit einer groben Klinge. NL „Der Preis wurde bezahlt!!“ NL ...damit verschwinden der Gremlin und das Rad in einer Rauchwolke."
     ],
     "OPTIONS": [
       "[Spielen]",
@@ -895,11 +895,11 @@
   "Winding Halls": {
     "NAME": "Gewundene Hallen",
     "DESCRIPTIONS": [
-      "Während du deinen Weg über die gekrümmten Pfade fortsetzt, verläufst du dich immer wieder, da die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. NL NL Die ständig in deinem Hinterkopf #p~flüsternden~ #p~Stimmen~ helfen auch nicht gerade weiter.",
-      "An einem Gebilde, von dem du sicher bist, dass du es schon vorher gesehen hast, fängst du an, dich zu fragen, ob du den Verstand verlierst oder ob die unmögliche Geographie dieses Ortes dich langsam in die Irre führt. Du musst etwas ändern, und zwar schnell. NL NL Jedenfalls sagen das #p~die~ #p~Stimmen~ - und warum sollten sie lügen?",
+      "Auf deinem Weg die gekrümmten Pfade hinauf verläufst du dich immer wieder, weil die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. NL NL Die ständig in deinem Hinterkopf #p~flüsternden~ #p~Stimmen~ helfen auch nicht gerade weiter.",
+      "An einem Gebilde, von dem du sicher bist, dass du es schon vorher gesehen hast, beginnst du dich zu fragen, ob du den Verstand verlierst oder ob die unmögliche Geographie dieses Ortes dich langsam in die Irre führt. Du musst etwas ändern, und zwar schnell. NL NL Jedenfalls sagen das #p~die~ #p~Stimmen~ - und warum sollten sie lügen?",
       "Etwas in dir zerbricht. NL NL Nur ein wahrhaft Verrückter kann einen Ort wie diesen verstehen, also gibst du den plappernden Stimmen nach und setzt deine Reise mit einem #p~„neuen“~ Blickwinkel fort. NL Alles scheint jetzt soviel mehr Sinn zu ergeben.",
       "Als du einen Moment anhältst, um die hügelige Landschaft zu betrachten, meinst du plötzlich eine Art Muster in der Willkürlichkeit der Umgebung zu erkennen. Immer, wenn die verrückten Geräusche deine Gedanken zu stören beginnen, erträgst du den geistigen Schmerz und ignorierst sie. NL NL Nach eine Weile gelingt es dir, einen Weg nach vorn festzulegen, und du gehst weiter – fortan immun gegen die schändliche Natur dieses fremdartigen Ortes.",
-      "Du verbringst nun gefühlt schon eine Ewigkeit verloren im Labyrinth. Langsam aber sicher findest du deine Spur, verfolgst sie zurück, gewinnst deine Orientierung wieder und entkommst den gewundenen Hallen. Die Erfahrung hinterlässt dich mit einem Gefühl der #r~Erschöpfung.~"
+      "Du verbringst nun gefühlt schon eine Ewigkeit verloren im Labyrinth. Langsam aber sicher findest du deine Spur, verfolgst sie zurück, gewinnst deine Orientierung wieder und entkommst den gewundenen Hallen. NL NL Du fühlst dich #r~entkräftet~ von dem ganzen Hin und Her."
     ],
     "OPTIONS": [
       "...",
@@ -915,8 +915,8 @@
   "World of Goop": {
     "NAME": "Welt aus Schleim",
     "DESCRIPTIONS": [
-      "Du fällst in eine Pfütze. NL @SIE@ @IST@ @AUS@ #g@KLEBRIGEM@ #g@SCHLEIM!!@ NL Verzweifelt kämpfst du dich mehrere Minuten lang frei, bis du spürst, dass der Schleim ein brennendes Gefühl verursacht. NL Du spürst Schleim in deinen Ohren, Schleim in deiner Nase, Schleim überall. NL NL Beim Herausklettern merkst du, dass etwas von deinem #yGold fehlt. Als du zurück in die Pfütze blickst, siehst du deine fehlenden Münzen zusammen mit dem #yGold anderer glückloser Abenteurer.",
-      "Du spürst das Brennen des Schleims, der nun langsam beginnt, deine Haut aufzulösen. Doch es gelingt dir, das #yGold herauszufischen.",
+      "Du fällst in eine Pfütze. NL @SIE@ @IST@ @AUS@ #g@KLEBRIGEM@ #g@SCHLEIM!!@ NL Verzweifelt kämpfst du dich mehrere Minuten lang frei; der Schleim fühlt sich brennend an. NL Du spürst Schleim in deinen Ohren, Schleim in deiner Nase, Schleim überall. NL NL Beim Herausklettern merkst du, dass etwas von deinem #yGold fehlt. Als du zurück in die Pfütze blickst, siehst du deine fehlenden Münzen zusammen mit dem #yGold anderer glückloser Abenteurer.",
+      "Du spürst das Beißen des Schleims, der nun langsam beginnt, deine Haut aufzulösen. Doch es gelingt dir, das #yGold herauszufischen.",
       "Du entscheidest, dass die Sauerei es nicht wert ist."
     ],
     "OPTIONS": [
