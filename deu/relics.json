@@ -89,8 +89,8 @@
     "NAME": "Blaue Kerze",
     "FLAVOR": "In der Dunkelheit entzündet sich die Flamme von selbst.",
     "DESCRIPTIONS": [
-      "#yUnspielbare #yFluchkarten können jetzt ausgespielt werden. NL NL Spielst du einen #yFluch aus, verlierst du #b",
-      " TP und #yerschöpfst die Karte."
+      "#yUnspielbare #rFluchkarten können jetzt ausgespielt werden. NL NL Spielst du einen #rFluch aus, verliere #b",
+      " TP und #yerschöpfe Karte."
     ]
   },
   "Boot": {
@@ -285,7 +285,7 @@
     "NAME": "Dunkelstein-Amulett",
     "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
     "DESCRIPTIONS": [
-      "Immer wenn du einen #yFluch erhältst, erhöhe deine max. TP um #b"
+      "Immer wenn du einen #rFluch erhältst, erhöhe deine max. TP um #b"
     ]
   },
   "DataDisk": {
@@ -345,9 +345,9 @@
     "NAME": "Du-Vu-Puppe",
     "FLAVOR": "Eine Puppe - gebaut, um Kraft aus tückischer Energie zu ziehen.",
     "DESCRIPTIONS": [
-      "Beginne pro #yFluch in deinem Deck jeden Kampf mit #b",
+      "Beginne pro #rFluch in deinem Deck jeden Kampf mit #b",
       " #yStärke mehr.",
-      " Du hast keine #yFlüche.",
+      " Du hast keine #rFlüche.",
       " Du hast #b",
       " #yFlüche."
     ]

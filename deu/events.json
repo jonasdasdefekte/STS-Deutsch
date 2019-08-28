@@ -191,9 +191,9 @@
       " #gKarten.",
       "#gEntferne #g1 #gKarte, #gverbessere #g1 #gzufällige #gKarte.",
       "[Verlassen]",
-      "Wähle eine Karte, die du verbesserst",
-      "Wähle 2 Karten, die du transformierst",
-      "Wähle eine Karte, die du entfernst"
+      "Wähle eine Karte zum Verbessern",
+      "Wähle 2 Karten zum Transformieren",
+      "Wähle eine Karte zum Entfernen"
     ]
   },
   "Drug Dealer": {
@@ -546,7 +546,7 @@
     "DESCRIPTIONS": [
       "Du bemerkst einen losen Stein einer Säule, der dir besonders ins Auge fällt.",
       "Hinter dem Stein findest du eine gefaltete Notiz und eine #yKarte. Darauf steht: NL \"Das Herz wartet.\" NL NL Das ist deine Handschrift.",
-      "Wähle eine Karte, die du einlagerst.",
+      "Wähle eine Karte zum Einlagern.",
       "Was geht da vor sich?"
     ],
     "OPTIONS": [

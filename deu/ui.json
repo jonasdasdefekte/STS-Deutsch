@@ -180,7 +180,7 @@
       "Überspringen",
       "JETZT ABSTIMMEN: ",
       "s übrig.",
-      "Wähle eine Folge der Fäulnis:"
+      "Wähle eine Fäulnis:"
     ]
   },
   "CacheAction": {
@@ -196,12 +196,12 @@
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Wähle eine Karte, die du verbesserst."
+      "Wähle eine Karte zum Verbessern."
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Wähle eine Karte, die du entfernst."
+      "Wähle eine Karte zum Entfernen."
     ]
   },
   "CampfireUI": {
@@ -556,7 +556,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Wähle eine Karte, die du auf die Hand nimmst."
+      "Wähle eine Karte, die du zurück auf die Hand nimmst."
     ]
   },
   "ExitGameButton": {
@@ -959,19 +959,19 @@
     "TEXT": [
       "Zurückkehren",
       "Start:",
-      "Charaktere können mit diesen Relikten beginnen.",
+      "Mit diesen Relikten können Charaktere beginnen.",
       "Gewöhnlich:",
-      "Schwache Relikte, die immer mal wieder zu finden sind.",
+      "Schwache Relikte, die desöfteren zu finden sind.",
       "Ungewöhnlich:",
-      "Stärkere Relikte, die seltener auftauchen als gewöhnliche Relikte.",
+      "Stärkere Relikte, die nicht so oft auftauchen wie gewöhnliche Relikte.",
       "Selten:",
       "Einzigartige und mächtige Relikte, die man nur selten sieht.",
       "Boss:",
-      "Relikte, die man nur in Bosstruhen finden kann.",
+      "Nur in Bosstruhen auffindbare Relikte.",
       "Ereignis:",
-      "Relikte, die man nur durch Ereignisse erhalten kann.",
+      "Nur durch Ereignisse zu entdeckende Relikte.",
       "Laden:",
-      "Relikte, die man nur beim Händler kaufen kann."
+      "Nur beim Händler erhältliche Relikte."
     ]
   },
   "RenamePanel": {
