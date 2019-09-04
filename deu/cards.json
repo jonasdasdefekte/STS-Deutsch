@@ -1295,117 +1295,117 @@
   },
   "SpiritShield": {
     "NAME": "Spirit Shield",
-    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "DESCRIPTION": "Erhalte !M! Block pro Handkarte.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gain !B! Block.)"
+      " NL (Erhalte !B! Block.)"
     ]
   },
   "BrillianceAura": {
     "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "Exhaust. NL At the start of your turn, draw 1 card. NL Retains."
+    "DESCRIPTION": "Erschöft. NL Ziehe zu Beginn deines Zuges 1 Karte. NL Behalten."
   },
   "Wrath": {
-    "NAME": "Wrath",
-    "DESCRIPTION": "Deal and receive double attack damage."
+    "NAME": "Zorn",
+    "DESCRIPTION": "Deal und receive double attack Schaden."
   },
   "Polymath": {
     "NAME": "DEPRECATED Polymath",
-    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
+    "DESCRIPTION": "Nimm Ruhe an or Wrath. NL Erschöft."
   },
   "Tantrum": {
     "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot leave Wrath for the remainder of the turn."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm Zorn an. NL You cannot leave Wrath for the remainder of the turn."
   },
   "Adaptation": {
     "NAME": "Adaptation",
-    "DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Stances, draw !M! card."
+    "DESCRIPTION": "Whenever you switch Haltungen, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Haltungen, draw !M! card."
   },
   "Causality": {
     "NAME": "Causality",
-    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw cards until your hand is full. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Draw cards until your hand is full. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Draw cards until your hand is full. NL Behalten. NL Erschöft."
   },
   "Devotion": {
     "NAME": "Devotion",
-    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
+    "DESCRIPTION": "zu Beginn deines Zuges erhalte !M! Mantra."
   },
   "EmptyFist": {
     "NAME": "Empty Fist",
-    "DESCRIPTION": "Deal !D! damage. NL Exit your Stance."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Exit your Haltung."
   },
   "Wisdom": {
     "NAME": "Wisdom",
-    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Behalten. NL Erschöft."
   },
   "Retribution": {
     "NAME": "DEPRECATED Retribution",
-    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+    "DESCRIPTION": "Whenever you lose HP, erhalte !M! Vigor."
   },
   "FlowState": {
     "NAME": "Flow State",
-    "DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
+    "DESCRIPTION": "Zorn: Nimm Ruhe an. NL Ruhe: Nimm Zorn an. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Zorn: Nimm Ruhe an. NL Ruhe: Nimm Zorn an."
   },
   "Swivel": {
     "NAME": "Swivel",
-    "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
+    "DESCRIPTION": "Erhalte !B! Block. NL The next Angriff you play costs 0."
   },
   "Wish": {
     "NAME": "Wish",
-    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times and exhaust it. NL Exhaust."
+    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice und exhaust it. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times und exhaust it. NL Erschöft."
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+    "DESCRIPTION": "Erhalte !M! temporary Stärke. NL zu Beginn deines Zuges erhalte 1 temporary Stärke. Behalten."
   },
   "DeusExMachina": {
     "NAME": "Deus Ex Machina",
-    "DESCRIPTION": "Unplayable. NL When you draw this card, add !M! *Miracles to your hand and Exhaust."
+    "DESCRIPTION": "Unspielbar. NL When you draw this card, add !M! *Miracles to your hand und Erschöft."
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erschöft."
   },
   "Metaphysics": {
     "NAME": "Metaphysics",
-    "DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Exhaust."
+    "DESCRIPTION": "Shuffle a *Causality into your draw pile. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Shuffle an Upgraded *Causality into your draw pile. NL Erschöft."
   },
   "Clarity": {
     "NAME": "Clarity",
-    "DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the other.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the rest."
+    "DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Erschöfe the other.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Erschöfe the rest."
   },
   "WreathOfFlame": {
     "NAME": "Wreath of Flame",
-    "DESCRIPTION": "Your next Attack deals !M! additional damage."
+    "DESCRIPTION": "Your next Angriff deals !M! additional Schaden zu."
   },
   "Flicker": {
     "NAME": "DEPRECATED Flicker",
-    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. If this kills the enemy, return this card to your hand."
   },
   "Alpha": {
     "NAME": "Alpha",
-    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Exhaust."
+    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Erschöft."
   },
   "FollowUp": {
     "NAME": "Follow-Up",
-    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, gain [W]."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL If the previous card played was an Angriff, erhalte [W]."
   },
   "Vault": {
     "NAME": "Vault",
-    "DESCRIPTION": "Gain 1 Intangible and end your turn. NL At the start of your next turn, deal !D! damage. Exhaust."
+    "DESCRIPTION": "Erhalte 1 Intangible und end your turn. NL At the start of your next turn, deal !D! Schaden zu. Erschöft."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte !M! Vigor."
   },
   "Wallop": {
     "NAME": "Wallop",
-    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte Block equal to unblocked damage dealt."
   },
   "Consecrate": {
     "NAME": "Consecrate",
@@ -1426,31 +1426,31 @@
   },
   "WindmillStrike": {
     "NAME": "Windmill Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M!. NL Retains."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Whenever this card is Retained, increase its damage by !M!. NL Behalten."
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Erhalte !B! Block. NL Behalten. NL Erschöft."
   },
   "LessonLearned": {
     "NAME": "Lesson Learned",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL If this kills an enemy, Upgrade a random card in your deck. Erschöft."
   },
   "Calm": {
-    "NAME": "Calm",
-    "DESCRIPTION": "Upon exiting Calm, gain [W] [W]."
+    "NAME": "Ruhe",
+    "DESCRIPTION": "Upon exiting Ruhe, erhalte [W] [W]."
   },
   "ThirdEye": {
     "NAME": "Third Eye",
-    "DESCRIPTION": "Gain !B! Block. NL Scry !M!."
+    "DESCRIPTION": "Erhalte !B! Block. NL Scry !M!."
   },
   "Survey": {
     "NAME": "DEPRECATED Survey",
-    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Vigor."
   },
   "FlyingSleeves": {
     "NAME": "Flying Sleeves",
-    "DESCRIPTION": "Deal !D! damage twice. NL Retains."
+    "DESCRIPTION": "Deal !D! damage twice. NL Behalten."
   },
   "Wireheading": {
     "NAME": "Wireheading",
@@ -1459,28 +1459,28 @@
   },
   "Sanctity": {
     "NAME": "Sanctity",
-    "DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! card."
+    "DESCRIPTION": "Erhalte !B! Block. NL If the previous card played was a Fertigkeit, draw !M! card."
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte zu Beginn deines Zuges !M! Block. NL Behalten."
   },
   "Mastery": {
     "NAME": "Mastery",
-    "DESCRIPTION": "Whenever you attempt to switch Stances to your current Stance, gain [B]."
+    "DESCRIPTION": "Whenever you attempt to switch Haltungen to your current Haltung, erhalte [B]."
   },
   "Beta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Exhaust."
+    "DESCRIPTION": "Add an *Omega to the bottom of your draw pile. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Add an Upgraded *Omega to the bottom of your draw pile. NL Erschöft."
   },
   "FearNoEvil": {
     "NAME": "Fear No Evil",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to Attack, enter Calm."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL If the enemy intends to Angriff, enter Ruhe."
   },
   "Perseverance": {
     "NAME": "Perseverance",
-    "DESCRIPTION": "Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M!. NL Retains."
+    "DESCRIPTION": "Erhalte !B! Block. NL Whenever this card is Retained, increase its Block by !M!. NL Behalten."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1488,16 +1488,16 @@
   },
   "AwakenedStrike": {
     "NAME": "DEPRECATED Awakened Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Blessed": {
     "NAME": "DEPRECATED Blessed",
-    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Erschöft."
   },
   "Eruption": {
     "NAME": "Eruption",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm Zorn an."
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
@@ -1505,26 +1505,26 @@
   },
   "CutThroughFate": {
     "NAME": "Cut Through Fate",
-    "DESCRIPTION": "Deal !D! damage. NL Scry !M!. NL Draw 1 card."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Scry !M!. NL Draw 1 card."
   },
   "WaveOfTheHand": {
     "NAME": "Wave of the Hand",
-    "DESCRIPTION": "Calm: Apply !M! Weak. NL Wrath: Apply !M! Vulnerable."
+    "DESCRIPTION": "Ruhe: Apply !M! Weak. NL Zorn: Apply !M! Vulnerable."
   },
   "Vigilance": {
     "NAME": "Vigilance",
-    "DESCRIPTION": "Enter Calm. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Enter Calm. NL Draw !M! cards."
+    "DESCRIPTION": "Nimm Ruhe an. NL Ziehe !M! Karten.",
+    "UPGRADE_DESCRIPTION": "Nimm Ruhe an. NL Ziehe !M! Karten."
   },
   "PathToVictory": {
     "NAME": "Path to Victory",
-    "DESCRIPTION": "Draw a card and reduce its cost to 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw a card and reduce its cost to 0 this turn."
+    "DESCRIPTION": "Draw a card und reduce its cost to 0 this turn. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Draw a card und reduce its cost to 0 this turn."
   },
   "Evaluate": {
     "NAME": "Evaluate",
-    "DESCRIPTION": "Gain !B! Block. NL Shuffle 1 *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle 1 Upgraded *Insight into your draw pile."
+    "DESCRIPTION": "Erhalte !B! Block. NL Shuffle 1 *Insight into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Shuffle 1 Upgraded *Insight into your draw pile."
   },
   "Establishment": {
     "NAME": "Establishment",
@@ -1533,69 +1533,69 @@
   },
   "Collect": {
     "NAME": "Collect",
-    "DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+    "DESCRIPTION": "Erhalte [W] [W] at the start of your next X turns. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Erhalte [W] [W] at the start of your next X+1 turns. NL Erschöft."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
-    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+    "DESCRIPTION": "Erhalte !B! Block for each Upgraded card in your hand."
   },
   "PerfectedForm": {
     "NAME": "DEPRECATED Perfected Form",
-    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+    "DESCRIPTION": "If you have entered all basic Haltungen this turn, enter Divinity. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Haltungen this turn, enter Divinity."
   },
   "JustLucky": {
     "NAME": "Just Lucky",
-    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
+    "DESCRIPTION": "Scry !M!. NL Erhalte !B! Block. NL Füge !D! Schaden zu."
   },
   "Torrent": {
     "NAME": "DEPRECATED Torrent",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Erschöft."
   },
   "Peace": {
     "NAME": "Peace",
-    "DESCRIPTION": "ALL enemies lose !M! Strength this turn. NL Retains. NL Exhaust."
+    "DESCRIPTION": "ALL enemies lose !M! Stärke this turn. NL Behalten. NL Erschöft."
   },
   "PalmThatRestrains": {
     "NAME": "DEPRECATED Restraining Palm",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Apply !M! Weak."
   },
   "Protect": {
     "NAME": "Protect",
-    "DESCRIPTION": "Gain !B! Block. NL Retains."
+    "DESCRIPTION": "Erhalte !B! Block. NL Behalten."
   },
   "Worship": {
     "NAME": "Worship",
-    "DESCRIPTION": "Gain !M! Mantra.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Mantra."
+    "DESCRIPTION": "Erhalte !M! Mantra.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Erhalte !M! Mantra."
   },
   "EmptyMind": {
     "NAME": "Empty Mind",
-    "DESCRIPTION": "Exit your Stance. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Exit your Stance. NL Draw !M! cards."
+    "DESCRIPTION": "Exit your Haltung. NL Ziehe !M! Karten.",
+    "UPGRADE_DESCRIPTION": "Exit your Haltung. NL Ziehe !M! Karten."
   },
   "Miracle": {
     "NAME": "Miracle",
-    "DESCRIPTION": "Gain [W]. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W]. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Erhalte [W]. NL Behalten. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Erhalte [W] [W]. NL Behalten. NL Erschöft."
   },
   "DevaForm": {
     "NAME": "Deva Form",
-    "DESCRIPTION": "Gain !M! Plated Armor."
+    "DESCRIPTION": "Erhalte !M! Plated Armor."
   },
   "TalkToTheHand": {
     "NAME": "Talk to the Hand",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this enemy takes damage, gain !M! Block. NL Exhaust."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Whenever this enemy takes damage, erhalte !M! Block. NL Erschöft."
   },
   "Strike_P": {
     "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Meditate": {
     "NAME": "Meditate",
-    "DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm.",
-    "UPGRADE_DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm."
+    "DESCRIPTION": "Erschöfe up to !M! cards. NL Nimm Ruhe an.",
+    "UPGRADE_DESCRIPTION": "Erschöfe up to !M! cards. NL Nimm Ruhe an."
   },
   "Nirvana": {
     "NAME": "Nirvana",
@@ -1604,79 +1604,79 @@
   },
   "DeceiveReality": {
     "NAME": "Deceive Reality",
-    "DESCRIPTION": "Gain !B! Block. NL Choose NL *Safety or *Wisdom. NL Add the chosen card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Choose Upgraded NL *Safety or *Wisdom. NL Add the chosen card to your hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Choose NL *Safety or *Wisdom. NL Add the chosen card to your hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Choose Upgraded NL *Safety or *Wisdom. NL Add the chosen card to your hand."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
-    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
+    "DESCRIPTION": "Ethereal. NL Erhalte !B! Block. If the previous card played was an Angriff, return this card to your hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. If the previous card played was an Angriff, return this card to your hand."
   },
   "Halt": {
     "NAME": "Halt",
-    "DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+    "DESCRIPTION": "Erhalte !B! Block. NL Zorn: Erhalte !M! additional Block."
   },
   "CurseOfTheBell": {
     "NAME": "Curse of the Bell",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "DESCRIPTION": "Unspielbar. NL Cannot be removed from your deck."
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Gain [W] for each turn this card is Retained. NL Retains. NL Exhaust.",
+    "DESCRIPTION": "Erhalte [W] for each turn this card is Retained. NL Behalten. NL Erschöft.",
     "EXTENDED_DESCRIPTION": [
       " NL (Retained !M! turns.)"
     ]
   },
   "ClearTheMind": {
     "NAME": "Clear the Mind",
-    "DESCRIPTION": "Enter Calm. NL Exhaust."
+    "DESCRIPTION": "Nimm Ruhe an. NL Erschöft."
   },
   "Safety": {
     "NAME": "Safety",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Erhalte !B! Block. NL Behalten. NL Erschöft."
   },
   "Scrawl": {
     "NAME": "Scrawl",
-    "DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL You cannot play Skills for the rest of this turn."
+    "DESCRIPTION": "Ziehe !M! Karten. NL You cannot play Fertigkeits for the rest of this turn.",
+    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL You cannot play Fertigkeits for the rest of this turn."
   },
   "Prostrate": {
     "NAME": "Prostrate",
-    "DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile."
+    "DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Vulnerable. NL Add an *Insight into your discard pile.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Vulnerable. NL Add an *Insight into your discard pile."
   },
   "Pray": {
     "NAME": "Pray",
-    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
+    "DESCRIPTION": "Erhalte !M! Mantra. NL Shuffle a *Miracle into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Shuffle an Upgraded *Miracle into your draw pile."
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Draw 1 card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
+    "DESCRIPTION": "Draw 1 card. NL Behalten. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Behalten."
   },
   "ForeignInfluence": {
     "NAME": "Foreign Influence",
-    "DESCRIPTION": "Choose 1 of 3 Attacks to add to your hand. These cards can be of any color. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Attacks to add to your hand. These cards can be of any color. Exhaust."
+    "DESCRIPTION": "Choose 1 of 3 Angriffs to add to your hand. These cards can be of any color. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Upgraded Angriffs to add to your hand. These cards can be of any color. Erschöft."
   },
   "SignatureMove": {
     "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this is your only Attack. Deal !D! damage."
+    "DESCRIPTION": "Can only be played if this is your only Angriff. Füge !D! Schaden zu."
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Sublime Slice",
-    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Enter a random Haltung."
   },
   "ReachHeaven": {
     "NAME": "Reach Heaven",
-    "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle an Upgraded *Through *Violence into your draw pile."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Shuffle a NL *Through *Violence into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Shuffle an Upgraded *Through *Violence into your draw pile."
   },
   "Insight": {
     "NAME": "Insight",
-    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Behalten. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Behalten. NL Erschöft."
   },
   "BattleHymn": {
     "NAME": "Battle Hymn",
@@ -1684,7 +1684,7 @@
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Retains."
+    "DESCRIPTION": "Apply !M! Weak. NL zu Beginn deines Zuges apply 1 Weak to a random enemy. NL Behalten."
   },
   "BowlingBash": {
     "NAME": "Bowling Bash",
@@ -1692,20 +1692,20 @@
   },
   "Truth": {
     "NAME": "Truth",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Draw !M! card. NL Behalten. NL Erschöft.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten. NL Behalten. NL Erschöft."
   },
   "Punishment": {
     "NAME": "DEPRECATED Punishment",
-    "DESCRIPTION": "Enter Punishment Stance."
+    "DESCRIPTION": "Enter Punishment Haltung."
   },
   "Smite": {
     "NAME": "Smite",
-    "DESCRIPTION": "Deal !D! damage. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Behalten. NL Erschöft."
   },
   "Omniscience": {
     "NAME": "Omniscience",
-    "DESCRIPTION": "Scry your draw pile. NL Exhaust.",
+    "DESCRIPTION": "Scry your draw pile. NL Erschöft.",
     "UPGRADE_DESCRIPTION": "Scry your draw pile."
   },
   "Omega": {
@@ -1714,7 +1714,7 @@
   },
   "Serenity": {
     "NAME": "Serenity",
-    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+    "DESCRIPTION": "While you are in Ruhe, HP loss is reduced by !M!."
   },
   "Judgement": {
     "NAME": "Judgement",
@@ -1722,23 +1722,23 @@
   },
   "MentalFortress": {
     "NAME": "Mental Fortress",
-    "DESCRIPTION": "Whenever you switch Stances, gain !M! Block."
+    "DESCRIPTION": "Whenever you switch Haltungen, erhalte !M! Block."
   },
   "EmptyBody": {
     "NAME": "Empty Body",
-    "DESCRIPTION": "Gain !B! Block. NL Exit your Stance."
+    "DESCRIPTION": "Erhalte !B! Block. NL Exit your Haltung."
   },
   "Crescendo": {
     "NAME": "Crescendo",
-    "DESCRIPTION": "Enter Wrath. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Nimm Zorn an. NL Behalten. NL Erschöft."
   },
   "SandsOfTime": {
     "NAME": "Sands of Time",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1. NL Retains."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Whenever this card is Retained, lower its cost by 1. NL Behalten."
   },
   "Blasphemy": {
     "NAME": "Blasphemy",
-    "DESCRIPTION": "Enter Divinity. NL Die next turn."
+    "DESCRIPTION": "Nimm Göttlichkeit an. NL Die next turn."
   },
   "Transcendence": {
     "NAME": "Transcendence",
@@ -1746,19 +1746,19 @@
   },
   "Flare": {
     "NAME": "DEPRECATED Flare",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Zorn: Erhalte [W] [W] ."
   },
   "Unraveling": {
     "NAME": "Unraveling",
-    "DESCRIPTION": "Play all of the cards in your hand from left to right. Targets are chosen randomly. NL Exhaust."
+    "DESCRIPTION": "Play all of the cards in your hand from left to right. Targets are chosen randomly. NL Erschöft."
   },
   "Weave": {
     "NAME": "Weave",
-    "DESCRIPTION": "Deal !D! damage. NL Add this card to your hand when it would be discarded from your draw pile."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Add this card to your hand when it would be discarded from your draw pile."
   },
   "CrushJoints": {
     "NAME": "Crush Joints",
-    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was a Skill, apply !M! Vulnerable."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL If the previous card played was a Fertigkeit, apply !M! Vulnerable."
   },
   "Vengeance": {
     "NAME": "Vengeance",
@@ -1766,51 +1766,51 @@
   },
   "CarveReality": {
     "NAME": "Carve Reality",
-    "DESCRIPTION": "Deal !D! damage. NL Choose NL *Smite or *Truth. NL Add the chosen card to your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Choose Upgraded NL *Smite or *Truth. NL Add the chosen card to your hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Choose NL *Smite or *Truth. NL Add the chosen card to your hand.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Choose Upgraded NL *Smite or *Truth. NL Add the chosen card to your hand."
   },
   "Defend_P": {
     "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "DESCRIPTION": "Erhalte !B! Block."
   },
   "CrescentKick": {
     "NAME": "DEPRECATED Crescent Kick",
-    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL If you have Vigor, NL erhalte [W] und NL draw 1 card."
   },
   "Thwack": {
     "NAME": "DEPRECATED Thwack",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Fasting": {
     "NAME": "Fasting",
-    "DESCRIPTION": "Gain !M! Artifact."
+    "DESCRIPTION": "Erhalte !M! Artifact."
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
-    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+    "DESCRIPTION": "Füge !D! Schaden zu. Deal half this damage to all other enemies."
   },
   "InnerPeace": {
     "NAME": "Inner Peace",
-    "DESCRIPTION": "Enter Calm. NL End your turn."
+    "DESCRIPTION": "Nimm Ruhe an. NL End your turn."
   },
   "StepAndStrike": {
-    "NAME": "Step and Strike",
-    "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
+    "NAME": "Step und Strike",
+    "DESCRIPTION": "Costs 1 less per switched Haltung this turn. NL Erhalte !B! Block. NL Füge !D! Schaden zu."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
-    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+    "DESCRIPTION": "Erhalte !B! Block at the start of your next turn."
   },
   "Flow": {
     "NAME": "DEPRECATED Flow",
-    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+    "DESCRIPTION": "When you play an Angriff, erhalte 1 temporary Dexterity. When you play a Fertigkeit, erhalte 1 temporary Stärke."
   },
   "FlameMastery": {
     "NAME": "DEPRECATED Flame Mastery",
-    "DESCRIPTION": "Gain !M! Strength."
+    "DESCRIPTION": "Erhalte !M! Stärke."
   },
   "FlurryOfBlows": {
     "NAME": "Flurry Of Blows",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL On Stance change, returns from the Exhaust Pile to your Hand. Exhaust."
+    "DESCRIPTION": "Deal !D! damage !M! times. NL On Haltung change, returns from the Erschöfe Pile to your Hand. Erschöft."
   }
 }

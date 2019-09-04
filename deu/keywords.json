@@ -160,7 +160,7 @@
       "NAMES": [
         "behalten",
         "behalte",
-        "retained"
+        "behaltene"
       ],
       "DESCRIPTION": "Karten, die du behältst, wirfst du am Ende des Zuges nicht ab."
     },
@@ -270,53 +270,53 @@
     },
     "STANCE": {
       "NAMES": [
-        "stance",
-        "stances"
+        "haltung",
+        "haltungen"
       ],
-      "DESCRIPTION": "You can only have one stance at a time."
+      "DESCRIPTION": "Du kannst immer nur eine Haltung haben."
     },
     "WRATH": {
       "NAMES": [
-        "wrath"
+        "zorn"
       ],
-      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+      "DESCRIPTION": "In dieser #yHaltung verursachst und erhältst du doppelten Angriffsschaden."
     },
     "CALM": {
       "NAMES": [
-        "calm"
+        "ruhe"
       ],
-      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+      "DESCRIPTION": "Erhalte beim Verlassen dieser #yHaltung [W] [W] ."
     },
     "DIVINITY": {
       "NAMES": [
-        "divinity"
+        "göttlichkeit"
       ],
-      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "DESCRIPTION": "Erhalte beim Eintritt in diese #yHaltung [W] [W] [W] . Angriffe fügen dreifachen Schaden zu. Verlasse diese #yHaltung am Beginn deines nächsten Zuges."
     },
     "PRAYER": {
       "NAMES": [
         "mantra",
-        "through violence"
+        "durch gewalt"
       ],
-      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+      "DESCRIPTION": "Wenn du #b10 #yMantra erhältst, tritt in #yGöttlichkeit ein."
     },
     "SCRY": {
       "NAMES": [
-        "scry"
+        "spähen"
       ],
-      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+      "DESCRIPTION": "Sieh die obersten X Karten deines Nachziehstapels an. Du darfst beliebige davon abwerfen."
     },
     "REGEN": {
       "NAMES": [
-        "regen"
+        "erholen"
       ],
-      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+      "DESCRIPTION": "Erholen heilt am Ende deines Zuges TP. Erholen verringert sich in jedem Zug um #b1."
     },
     "VIGOR": {
       "NAMES": [
-        "vigor"
+        "kraft"
       ],
-      "DESCRIPTION": "Your next Attack deals additional damage."
+      "DESCRIPTION": "Dein nächster Angriff fügt mehr Schaden zu."
     }
   }
 }

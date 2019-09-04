@@ -72,7 +72,7 @@
       "Der Eiserne",
       "Die Stille",
       "Das Defekte",
-      "the Watcher"
+      "Die Seherin"
     ]
   },
   "AbstractPotion": {
@@ -159,7 +159,7 @@
       "Beta-Kartenbilder Die Stille freigeschaltet!",
       "Beta-Kartenbilder Das Defekte freigeschaltet!",
       "Alle Beta-Kartenbilder freigeschaltet!",
-      "Watcher Beta Card Art Unlocked!"
+      "Beta-Kartenbilder Die Seherin freigeschaltet!"
     ]
   },
   "BetterToHandAction": {
@@ -242,7 +242,7 @@
       "Flüche",
       "Status",
       "Verbesserung ansehen",
-      "Purple"
+      "Violett"
     ]
   },
   "CardRewardScreen": {
@@ -268,7 +268,7 @@
       "Unbekannt",
       "???",
       " Zur nächsten Freischaltung",
-      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+      "Dieser Charakter wird durch das Abschließen eines normalen Runs freigeschaltet, nachdem der 3. Charakter freigeschaltet wurde."
     ]
   },
   "CharacterSelectScreen": {
@@ -287,7 +287,7 @@
       "Zufälliger Seed",
       "Mit einem Startseed wird bestimmt, was in diesem Run zufällig auftaucht.",
       "Seed einstellen",
-      "The Watcher"
+      "Die Seherin"
     ]
   },
   "ChooseOneScreen": {
@@ -729,7 +729,7 @@
       "Option 6. DO NOT TRANSLATE",
       "Freunde",
       "Global",
-      "Watcher"
+      "Die Seherin"
     ]
   },
   "LeaderboardsScreen": {
@@ -858,8 +858,8 @@
       "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen.",
       "Ändere deine Steuerung.",
       "Ändere deine Optionen für das Spiel.",
-      "Potion Lab",
-      "Observe the numerous potions found climbing the Spire."
+      "Tranklabor",
+      "Studiere die zahlreichen Tränke, die du beim Erklimmen des Spire gefunden hast."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1164,7 +1164,7 @@
       "Seed: %s",
       "Eigener Seed: %s",
       "d.M.yyyy, H:mm",
-      "The Watcher"
+      "Die Seherin"
     ]
   },
   "SaveSlot": {
@@ -1359,28 +1359,28 @@
   },
   "SignatureMoveMessage": {
     "TEXT": [
-      "This must be my only #rAttack!"
+      "Das muss mein einziger #rAngriff sein!"
     ]
   },
   "PotionViewScreen": {
     "TEXT": [
-      "Return",
-      "Common:",
-      "The most frequent potions found in the Spire.",
-      "Uncommon:",
-      "Stronger potions which appear less often than common potions.",
-      "Rare:",
-      "Unique and powerful potions which are rarely seen."
+      "Zurück",
+      "Gewöhnlich:",
+      "Die am häufigsten im Spire gefundenen Tränke.",
+      "Ungewöhnlich:",
+      "Stärkere Tränke, die seltener auftauchen als gewöhnliche Tränke.",
+      "Selten:",
+      "Einzigartige und mächtige Tränke, welche man selten sieht."
     ]
   },
   "ClarityAction": {
     "TEXT": [
-      "Choose 1 card to keep. The rest are exhausted."
+      "Wähle 1 Karte, die du behältst. Der Rest wird erschöpft."
     ]
   },
   "WishAction": {
     "TEXT": [
-      "Choose a Card to play."
+      "Wähle eine Karte, die du ausspielst."
     ]
   }
 }

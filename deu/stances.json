@@ -6,21 +6,21 @@
     ]
   },
   "Wrath": {
-    "NAME": "Wrath",
+    "NAME": "Zorn",
     "DESCRIPTION": [
-      "Your Attacks deal double damage and you take double damage from attacks."
+      "Deine Angriffe fügen doppelten Schaden zu und du nimmst doppelten Schaden von Angriffen."
     ]
   },
   "Calm": {
-    "NAME": "Calm",
+    "NAME": "Ruhe",
     "DESCRIPTION": [
-      "Upon exiting this #yStance, gain [W] [W] ."
+      "Erhalte beim Eintritt in diese #yHaltung [W] [W] ."
     ]
   },
   "Divinity": {
-    "NAME": "Divinity",
+    "NAME": "Göttlichkeit",
     "DESCRIPTION": [
-      "Upon entering this #yStance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "Erhalte beim Eintritt in diese #yHaltung [W] [W] [W] . Angriffe fügen dreifachen Schaden zu. Verlasse diese #Haltung am Beginn deines nächsten Zuges."
     ]
   }
 }
