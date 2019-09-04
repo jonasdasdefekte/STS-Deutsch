@@ -75,8 +75,8 @@
       "Den Erweckten besiegt.",
       "Donu & Deka besiegt.",
       "Den Zeitfresser besiegt.",
-      "Schließe das Spiel mit dem Eisernen ab.",
-      "Schließe das Spiel mit der Stillen ab.",
+      "Gewinne das Spiel mit dem Eisernen.",
+      "Gewinne das Spiel mit der Stillen.",
       "Details für diese Errungenschaft werden gezeigt, sobald sie freigeschaltet wurde.",
       "Gewinne das Spiel mit nur einem Relikt.",
       "Gewinne das Spiel in unter 20 Minuten.",
@@ -84,7 +84,7 @@
       "Beende das 10. Aufstiegslevel.",
       "Gewinne das Spiel mit einem Deck aus 5 oder weniger Karten.",
       "Besiege Donu mit Verschlingen.",
-      "Schließe das Spiel mit dem Defekten ab.",
+      "Gewinne das Spiel mit dem Defekten.",
       "Gewinne das Spiel mit einem Deck ohne ungewöhnlichen oder seltenen Karten.",
       "Habe 25 oder mehr Fokus während eines Kampfes.",
       "Erschaffe 9 Plasma in einem einzigen Zug.",
@@ -97,8 +97,8 @@
       "Schließe das Ende mit dem Defekten ab.",
       "Schließe das Ende mit dem Eisernen, der Stillen und dem Defekten ab.",
       "Erhalte alle anderen Errungenschaften.",
-      "Beat the game with the Watcher.",
-      "Complete the Ending with the Watcher."
+      "Gewinne das Spiel mit der Seherin.",
+      "Schließe das Ende mit der Seherin ab."
     ]
   },
   "CharStat": {
@@ -137,7 +137,7 @@
       "#rDer #rEiserne",
       "#gDie #gStille",
       "#bDas #bDefekte",
-      "#pThe #pWatcher"
+      "#pDie #pSeherin"
     ],
     "TEXT": [
       "Zurück"
