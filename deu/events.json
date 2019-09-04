@@ -610,7 +610,8 @@
       "Du berührst ihn. NL NL Ein #r@scharfer@ #r@Schmerz@ durchfließt dich, gefolgt von lebhaften Blitzen einer fernen Erinnerung. NL ...wessen Erinnerungen sind das?",
       "#r~FURCHT.~ NL NL Eine dämonische Kreatur überragt dich mit weit gespreizten Flügeln und bricht in heulendes Gelächter aus. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft nach dir mit Spott. NL NL #r@\"JETZT@ #r@BIST@ #r@DU@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
       "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondschein kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist vollendet. NL NL Du gehst in Richtung des Spire...",
-      "#b~VERWIRRUNG.~ NL NL #y[ZIEL] #gBALANCE #gmuss #gVERSTÄRKT #gwerden NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[WARNUNG] #rGroßes #rObjekt #rnähert #rsich NL NL ~\"Ich...~ ~..bin~ ~....Niau..\"~"
+      "#b~VERWIRRUNG.~ NL NL #y[ZIEL] #gBALANCE #gmuss #gVERSTÄRKT #gwerden NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[WARNUNG] #rGroßes #rObjekt #rnähert #rsich NL NL ~\"Ich...~ ~..bin~ ~....Niau..\"~",
+      "#p~SERENITY.~ NL NL Two primitive creatures fight over a carcass on the side of the road. You observe, devoid of emotion. NL #yWatch. #yRemember. #yLive. This is the Watcher's mission. NL NL Recently, one of your peers had stopped reporting on their assignmenet: a Spire of unknown origin. NL NL As the fight ends, you continue onward, unphased by the bloody scene that took place."
     ],
     "OPTIONS": [
       "[Erinnern] #gWähle #g1 #gfarblose #gKarte #gfür #gdein #gDeck.",
@@ -652,7 +653,8 @@
       "Du fragst dich: ~„War~ ~ich~ ~früher~ ~schonmal~ ~hier?“~",
       " NL Das Herz pulsiert lauter und lauter, während dein #p~Bewusstsein~ #p~zu~ #p~schwinden~ #p~beginnt...~",
       " NL Ein plötzlicher #y@Energieschub@ strömt aus deinem Inneren und #b@schreckt@ dich auf.",
-      " NL Das Herz #gentflieht aufwärts! Eine große Tür wird an seiner Stelle sichtbar."
+      " NL Das Herz #gentflieht aufwärts! Eine große Tür wird an seiner Stelle sichtbar.",
+      "NL You prime your staff with divine energy..."
     ],
     "OPTIONS": [
       "[Weiter]",

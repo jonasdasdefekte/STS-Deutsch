@@ -166,5 +166,9 @@
   "Vintage": {
     "NAME": "Antiquitäten",
     "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
   }
 }

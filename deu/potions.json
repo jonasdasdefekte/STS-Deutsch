@@ -73,7 +73,8 @@
   "FairyPotion": {
     "NAME": "Feenflasche",
     "DESCRIPTIONS": [
-      "Anstatt zu sterben, werden #b10% deiner max. TP geheilt und dieser Trank verschwindet."
+      "Anstatt zu sterben, werden #b10% deiner max. TP geheilt und dieser Trank verschwindet.",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
@@ -216,6 +217,18 @@
     "DESCRIPTIONS": [
       "Wende #b",
       " #ySchwach an."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
     ]
   }
 }
