@@ -291,18 +291,19 @@
       "NAMES": [
         "göttlichkeit"
       ],
-      "DESCRIPTION": "Erhalte beim Eintritt in diese #yHaltung [W] [W] [W] . Angriffe fügen dreifachen Schaden zu. Verlasse diese #yHaltung am Beginn deines nächsten Zuges."
+      "DESCRIPTION": "Erhalte beim Annehmen dieser #yHaltung [W] [W] [W] . Angriffe fügen dreifachen Schaden zu. Verlasse diese #yHaltung am Beginn deines nächsten Zuges."
     },
     "PRAYER": {
       "NAMES": [
         "mantra",
         "durch gewalt"
       ],
-      "DESCRIPTION": "Wenn du #b10 #yMantra erhältst, tritt in #yGöttlichkeit ein."
+      "DESCRIPTION": "Wenn du #b10 #yMantra erhältst, nimm #yGöttlichkeit an."
     },
     "SCRY": {
       "NAMES": [
-        "spähen"
+        "spähen",
+        "spähe"
       ],
       "DESCRIPTION": "Sieh die obersten X Karten deines Nachziehstapels an. Du darfst beliebige davon abwerfen."
     },
