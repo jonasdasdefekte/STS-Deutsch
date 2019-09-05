@@ -183,7 +183,7 @@
     "NAME": "Rufglocke",
     "FLAVOR": "Diese dunkle Eisenglocke läutete dreimal, als du sie fandest. Doch jetzt bleibt sie stumm.",
     "DESCRIPTIONS": [
-      "Erhalte #b3 #rFlüche und #b3 #yRelikte.",
+      "Erhalte beim Aufheben einen besonderen #rFluch und #b3 #yRelikte.",
       "Die Glocke schlägt...",
       "Belohnungen überspringen",
       "Schließen"
@@ -496,7 +496,7 @@
     "NAME": "Schwebender Drachen",
     "FLAVOR": "Der Drachen fliegt im Kampf, angetrieben von einer mysteriösen Kraft, in deiner Nähe herum.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn deines Zuges [G] und wirf #b2 Karten ab."
+      "Wenn du das erste Mal in einem Zug eine Karte abwirfst, erhalte [E] ."
     ]
   },
   "Ice Cream": {
@@ -1354,7 +1354,7 @@
     "NAME": "Unterhand-Klinge",
     "FLAVOR": "Für handliche Meuchelmorde.",
     "DESCRIPTIONS": [
-      "#yAngriffe, die #b0 kosten, fügen #b3 Schaden mehr zu."
+      "#yAngriffe, die #b0 kosten, fügen #b4 Schaden mehr zu."
     ]
   },
   "CeramicFish": {

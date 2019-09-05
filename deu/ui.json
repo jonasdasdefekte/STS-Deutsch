@@ -69,10 +69,10 @@
   "AbstractPlayer": {
     "TEXT": [
       "Geblockt",
-      "Der Eiserne",
-      "Die Stille",
-      "Das Defekte",
-      "Die Seherin"
+      "der Eiserne",
+      "die Stille",
+      "das Defekte",
+      "die Seherin"
     ]
   },
   "AbstractPotion": {
@@ -998,7 +998,7 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "Wähle Karten, die du abwirfst"
+      "Wähle beliebig viele Karten, die du abwirfst"
     ]
   },
   "Rest Option": {
