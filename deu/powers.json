@@ -1013,10 +1013,10 @@
     ]
   },
   "Vigor": {
-    "NAME": "Vigor",
+    "NAME": "Elan",
     "DESCRIPTIONS": [
-      "Your next Attack deals #b",
-      " additional damage."
+      "Dein nächster Angriff fügt #b",
+      " zusätzlichen Schaden zu."
     ]
   },
   "Condense": {
@@ -1033,10 +1033,10 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptation",
+    "NAME": "Anpassung",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, draw #b",
-      " card."
+      "Immer wenn du deine #yHaltung änderst, ziehe #b",
+      " Karte."
     ]
   },
   "Mastery": {
@@ -1047,9 +1047,9 @@
     ]
   },
   "Controlled": {
-    "NAME": "Controlled",
+    "NAME": "Kontrolle",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, gain #b",
+      "Immer wenn du deine #yHaltung änderst, erhalte #b",
       " #yBlock."
     ]
   },
@@ -1069,11 +1069,11 @@
     ]
   },
   "Collect": {
-    "NAME": "Collect",
+    "NAME": "Ansammeln",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [W] [W] .",
-      "At the start of your next #b",
-      " turns, gain [W] [W] ."
+      "Am Anfang deines nächsten Zuges, erhalte [W] [W] .",
+      "Am Anfang deiner nächsten #b",
+      " Züge, erhalte [W] [W] ."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1089,9 +1089,9 @@
     ]
   },
   "EndTurnDeath": {
-    "NAME": "Blasphemer",
+    "NAME": "Gotteslästerer",
     "DESCRIPTIONS": [
-      "At the start of your turn, die."
+      "Stirb am Anfang deines Zuges."
     ]
   },
   "AlwaysMad": {
@@ -1103,28 +1103,28 @@
   "Mantra": {
     "NAME": "Mantra",
     "DESCRIPTIONS": [
-      "When you obtain #b",
-      " #yMantra, enter #yDivinity."
+      "Nachdem du #b",
+      " #yMantra erhalten hast, nimm #yGöttlichkeit an."
     ]
   },
   "AngelForm": {
     "NAME": "Deva",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yPlated #yArmor."
+      "Am Ende deines Zuges, erhalte #b",
+      " #yPanzerrüstung."
     ]
   },
   "WireheadingPower": {
     "NAME": "Wireheading",
   "DESCRIPTIONS": [
-    "At the end of your turn, #yScry "
+    "Am Ende deines Zuges, #ySpähe "
   ]
   },
   "Vault": {
-    "NAME": "Vault",
+    "NAME": "Gewölbt",
   "DESCRIPTIONS": [
-    "Receives #b",
-    " damage at the start of your next turn."
+    "Nimmt #b",
+    " Schaden am Anfang des nächsten Zuges."
   ]
   },
   "FlowPower": {
@@ -1136,59 +1136,59 @@
     ]
   },
   "EstablishmentPower": {
-    "NAME": "Establishment",
+    "NAME": "Etablierung",
     "DESCRIPTIONS": [
-    "Whenever a card is #yRetained, lower its cost by #b"
+    "Immer wenn eine Karte #ybehalten wird, verringere ihre Kosten um #b"
   ]
   },
   "DevotionPower": {
-    "NAME": "Devotion",
+    "NAME": "Hingebung",
     "DESCRIPTIONS": [
-    "At the start of your turn, gain #b",
+    "Am Anfang deines Zuges, erhalte #b",
     " #yMantra."
   ]
   },
   "BlockReturnPower": {
     "NAME": "Block Return",
     "DESCRIPTIONS": [
-    "When attacked, you gain #b",
+    "Nachdem du Angegriffen wurdest, erhalte #b",
     " #yBlock."
   ]
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
+    "NAME": "Kampfhymne",
     "DESCRIPTIONS": [
-    "The first card you draw each turn has its cost reduced by #b",
-    " that turn."
+    "Die erste Karte die du jeden Zug spielst kostet in diesem Zug #b",
+    " weniger."
   ]
   },
   "FreeAttackPower": {
     "NAME": "Free Attack Power",
     "DESCRIPTIONS": [
-      "Ignore energy cost on the next #yAttack you play.",
-      "Ignore energy cost on the next #b",
-      " #yAttacks you play."
+      "Ignoriere die Energiekosten des nächsten #yAngriffs den du spielst.",
+      "Ignoriere die Energiekosten der nächsten #b",
+      " #yAngriffe die du spielst."
     ]
   },
   "NoSkills": {
-    "NAME": "No Skills",
+    "NAME": "Keine Fertigkeiten",
     "DESCRIPTIONS": [
-      "You cannot play #ySkills this turn."
+      "Du kannst diesen Zug keine #yFertigkeiten spielen."
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Master Reality",
+    "NAME": "Realität Gemeistert",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      "s into your hand.",
-      " into your hand."
+      "Am Anfang deines Zuges, füge deiner Hand #b",
+      " hinzu.",
+      " hinzu."
     ]
   },
   "StrikeUp": {
-    "NAME": "Strike Up",
+    "NAME": "Starke Schläge",
     "DESCRIPTIONS": [
-      "Cards containing #yStrike deal #b",
-      " additional damage."
+      "Karten die #ySchlag beinhalten fügen #b",
+      " zusätzlichen Schaden zu."
     ]
   },
   "Retribution": {
@@ -1199,24 +1199,24 @@
     ]
   },
   "CannotChangeStancePower": {
-    "NAME": "Cannot Change Stance",
+    "NAME": "Kann Haltung nicht Ändern",
     "DESCRIPTIONS": [
-      "Cannot change your stance this turn."
+      "Du kannst diesen Zug deine Haltung nicht Ändern."
     ]
   },
   "OmegaPower": {
-    "NAME": "Omega Power",
+    "NAME": "Omega Kraft",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal ",
-      " damage to ALL enemies."
+      "Am Anfang deines Zuges, füge ALLEN Gegnern ",
+      " Schaden zu."
     ]
   },
   "DuplicationPower": {
-    "NAME": "Duplication",
+    "NAME": "Verdopplung",
     "DESCRIPTIONS": [
-      "Your next card is played twice this turn.",
-      "Your next ",
-      " cards are played twice this turn."
+      "Die nächste Karte in diesem Zug wird zweimal gespielt.",
+      "Die nächsten ",
+      " Karten werden diesen Zug zweimal gespielt."
     ]
   }
 }
