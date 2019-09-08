@@ -1641,7 +1641,7 @@
     "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Du kannst für den Rest des Zuges keine Fertigkeiten spielen."
   },
   "Prostrate": {
-    "NAME": "Kniefall",
+    "NAME": "Niederknien",
     "DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Erkenntnis auf den Abwurfstapel.",
     "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Erkenntnis auf den Abwurfstapel."
   },
