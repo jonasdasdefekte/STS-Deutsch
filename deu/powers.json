@@ -1033,7 +1033,7 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Anpassung",
+    "NAME": "Adaptierung",
     "DESCRIPTIONS": [
       "Immer wenn du deine #yHaltung änderst, ziehe #b",
       " Karte."
@@ -1071,9 +1071,9 @@
   "Collect": {
     "NAME": "Ansammeln",
     "DESCRIPTIONS": [
-      "Am Anfang deines nächsten Zuges, erhalte [W] [W] .",
-      "Am Anfang deiner nächsten #b",
-      " Züge, erhalte [W] [W] ."
+      "Erhalte am Anfang deines nächsten Zuges [W] [W] .",
+      "Erhalte am Anfang deiner nächsten #b",
+      " Züge [W] [W] ."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1103,14 +1103,14 @@
   "Mantra": {
     "NAME": "Mantra",
     "DESCRIPTIONS": [
-      "Nachdem du #b",
+      "Wenn du #b",
       " #yMantra erhalten hast, nimm #yGöttlichkeit an."
     ]
   },
   "AngelForm": {
     "NAME": "Deva",
     "DESCRIPTIONS": [
-      "Am Ende deines Zuges, erhalte #b",
+      "Erhalte am Ende deines Zuges #b",
       " #yPanzerrüstung."
     ]
   },
@@ -1121,10 +1121,10 @@
   ]
   },
   "Vault": {
-    "NAME": "Gewölbt",
+    "NAME": "Überspringen",
   "DESCRIPTIONS": [
-    "Nimmt #b",
-    " Schaden am Anfang des nächsten Zuges."
+    "Nimmt am Anfang des nächsten Zuges #b",
+    " Schaden."
   ]
   },
   "FlowPower": {
@@ -1142,7 +1142,7 @@
   ]
   },
   "DevotionPower": {
-    "NAME": "Hingebung",
+    "NAME": "Hingabe",
     "DESCRIPTIONS": [
     "Am Anfang deines Zuges, erhalte #b",
     " #yMantra."
@@ -1165,9 +1165,9 @@
   "FreeAttackPower": {
     "NAME": "Free Attack Power",
     "DESCRIPTIONS": [
-      "Ignoriere die Energiekosten des nächsten #yAngriffs den du spielst.",
+      "Ignoriere die Energiekosten des nächsten gespielten #yAngriffs.",
       "Ignoriere die Energiekosten der nächsten #b",
-      " #yAngriffe die du spielst."
+      " gespielten #yAngriffe."
     ]
   },
   "NoSkills": {
@@ -1177,17 +1177,18 @@
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Realität Gemeistert",
+    "NAME": "Realität meistern",
     "DESCRIPTIONS": [
-      "Am Anfang deines Zuges, füge deiner Hand #b",
-      " hinzu.",
-      " hinzu."
+      "Erhalte am Anfang deines Zuges #b",
+      " auf deine Hand.",
+      " auf deine Hand.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
   "StrikeUp": {
     "NAME": "Starke Schläge",
     "DESCRIPTIONS": [
-      "Karten die #ySchlag beinhalten fügen #b",
+      "Karten, die #ySchlag beinhalten, fügen #b",
       " zusätzlichen Schaden zu."
     ]
   },
@@ -1201,13 +1202,13 @@
   "CannotChangeStancePower": {
     "NAME": "Kann Haltung nicht Ändern",
     "DESCRIPTIONS": [
-      "Du kannst diesen Zug deine Haltung nicht Ändern."
+      "Du kannst diesen Zug deine Haltung nicht ändern."
     ]
   },
   "OmegaPower": {
     "NAME": "Omega Kraft",
     "DESCRIPTIONS": [
-      "Am Anfang deines Zuges, füge ALLEN Gegnern ",
+      "Füge am Anfang deines Zuges ALLEN Gegnern ",
       " Schaden zu."
     ]
   },

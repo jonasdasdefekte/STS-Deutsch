@@ -416,14 +416,14 @@
     "NAME": "Gefrorenes Auge",
     "FLAVOR": "Wenn du in das Auge starrst, siehst du schemenhaft deine Zukunft.",
     "DESCRIPTIONS": [
-      "Dein Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
+      "Der Nachziehstapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
     ]
   },
   "FrozenCore": {
     "NAME": "Gefrorener Kern",
     "FLAVOR": "Der Sprung in deinem Kern ist mit einer pulsierenden kalten Energie gefüllt worden.",
     "DESCRIPTIONS": [
-      "Ersetzt #rGesprungener #rKern. Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
+      "Ersetzt #bGesprungener #bKern. Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
     ]
   },
   "Fusion Hammer": {
@@ -703,7 +703,7 @@
     "NAME": "Nilrys Kodex",
     "FLAVOR": "Dies stammt vom berüchtigten Spielemeister selbst. Man sagt, es erweitert den Geist.",
     "DESCRIPTIONS": [
-      "Am Ende deines Zuges kannst du #b1 von #b3 zufälligen Karten wählen und in deinen Nachziehstapel mischen."
+      "Am Ende deines Zuges kannst du #b1 von #b3 zufälligen Karten wählen und in den Nachziehstapel mischen."
     ]
   },
   "Ninja Scroll": {
@@ -1106,8 +1106,8 @@
     "NAME": "Sonnenuhr",
     "FLAVOR": "„Töricht und besessen von der Zeit blickten die frühen Menschen auf der Suche nach Beständigkeit gen Himmel.“ – Zoroth",
     "DESCRIPTIONS": [
-      "Jedes #b",
-      ". Mal, wenn du dein Deck mischst, erhalte [E] [E] ."
+      "Erhalte jedes #b",
+      ". Mal, wenn du den Nachziehstapel mischst, [E] [E] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1197,7 +1197,7 @@
     "NAME": "Der Abakus",
     "FLAVOR": "„Eins... Zwei... Drei...“",
     "DESCRIPTIONS": [
-      "Wenn du dein Deck mischst, erhalte #b",
+      "Immer wenn du den Nachziehstapel mischst, erhalte #b",
       " #yBlock."
     ]
   },
@@ -1369,13 +1369,13 @@
     "NAME": "Schlag-Dummy",
     "FLAVOR": "Sieht verschlagen aus.",
     "DESCRIPTIONS": [
-      "Karten die \"Schlag\" beinhalten verursachen #b",
+      "Karten, die \"Schlag\" beinhalten, verursachen #b",
       " zusätzlichen Schaden."
     ]
   },
   "VioletLotus": {
     "NAME": "Purpurlotus",
-    "FLAVOR": "Die alten Schriften beschreiben das die Oberfläche von \"mana Pools\" mit diesen Blumen übersät waren.",
+    "FLAVOR": "Die alten Schriften beschreiben, dass die Oberfläche von \"Manapools\" mit diesen Blumen übersät waren.",
     "DESCRIPTIONS": [
       "Immer wenn du #yRuhe verlässt, erhalte ein zusätzliches [E] ."
     ]
@@ -1428,7 +1428,8 @@
     "NAME": "Melange",
     "FLAVOR": "Mysteriöser Sand mit unbekanntem Ursprung. Riecht nach Zimt.",
     "DESCRIPTIONS": [
-      "Am Anfang jedes Kampfes, füge deiner Hand ein #yWunder hinzu."
+      "Immer wenn du den Nachziehstapel mischst, #ySpähe #b",
+      "."
     ]
   },
   "Yin": {
@@ -1451,6 +1452,20 @@
     "DESCRIPTIONS": [
       "Am Anfang deines Zuges, wenn es noch nicht Zug #b",
       "ist, erhalte #yBlock entsprechend des momentanen Zugs."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Heiliges Wasser",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "Ersetzt #pReines #pWasser. Erhalte zu Beginn jedes Kampfes #b3 #yWunder auf deine Hand."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Reines Wasser",
+    "FLAVOR": "Durch feinen Sand gefiltert und frei von Unreinheiten.",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn jedes Kampfes ein #yWunder auf deine Hand."
     ]
   }
 }
