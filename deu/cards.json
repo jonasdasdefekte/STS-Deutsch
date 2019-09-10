@@ -1417,12 +1417,12 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Wähle zwischen NL *Hauen und *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
-    "DESCRIPTION": "Füge deiner Hand X *Hauen hinzu.",
-    "UPGRADE_DESCRIPTION": "Füge deiner Hand X verbesserte *Hauen hinzu."
+    "DESCRIPTION": "Füge deiner Hand X *Zertrümmern hinzu.",
+    "UPGRADE_DESCRIPTION": "Füge deiner Hand X verbesserte *Zertrümmern hinzu."
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
@@ -1523,8 +1523,8 @@
   },
   "Evaluate": {
     "NAME": "Auswerten",
-    "DESCRIPTION": "Erhalte !B! Block. NL Mische 1 *Erkenntnis in den Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Mische 1 verbesserte *Erkenntnis in den Nachziehstapel."
+    "DESCRIPTION": "Erhalte !B! Block. NL Mische 1 *Einsicht in den Nachziehstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Mische 1 verbesserte *Einsicht in den Nachziehstapel."
   },
   "Establishment": {
     "NAME": "Etablierung",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "Realität trügen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Wähle zwischen NL *Geborgenheit und *Weisheit. NL Füge die gewählte Karte deiner Hand hinzu.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Wähle zwischen verbesserter NL *Geborgenheit und *Weisheit. NL Füge die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Erhalte !B! Block. NL Wähle *Geborgenheit oder *Weisheit. NL Füge die gewählte Karte deiner Hand hinzu.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Wähle verbesserte *Geborgenheit oder *Weisheit. NL Füge die gewählte Karte deiner Hand hinzu."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1624,7 +1624,7 @@
     "NAME": "Brillanz",
     "DESCRIPTION": "Behalten. NL Erhalte [W] für jeden Zug, den diese Karte behalten wurde. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Behalten für !M! Züge.)"
+      " NL (Für !M! Züge behalten.)"
     ]
   },
   "ClearTheMind": {
@@ -1642,8 +1642,8 @@
   },
   "Prostrate": {
     "NAME": "Niederknien",
-    "DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Erkenntnis auf den Abwurfstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Erkenntnis auf den Abwurfstapel."
+    "DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Einsicht auf den Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Einsicht auf den Abwurfstapel."
   },
   "Pray": {
     "NAME": "Beten",
@@ -1700,7 +1700,7 @@
     "DESCRIPTION": "Enter Punishment Haltung."
   },
   "Smite": {
-    "NAME": "Hauen",
+    "NAME": "Zertrümmern",
     "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Omniscience": {
@@ -1729,7 +1729,7 @@
     "DESCRIPTION": "Erhalte !B! Block. NL Verliere deine Haltung."
   },
   "Crescendo": {
-    "NAME": "Anschwellen",
+    "NAME": "Crescendo",
     "DESCRIPTION": "Behalten. NL Nimm Zorn an. NL Erschöpft."
   },
   "SandsOfTime": {
@@ -1738,7 +1738,7 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemie",
-    "DESCRIPTION": "Nimm Göttlichkeit an. NL Sterbe nächsten Zug."
+    "DESCRIPTION": "Nimm Göttlichkeit an. NL Stirb nächsten Zug."
   },
   "Transcendence": {
     "NAME": "Transzendenz",
@@ -1758,7 +1758,7 @@
   },
   "CrushJoints": {
     "NAME": "Gelenke brechen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn die letzte gespielte Karte eine Fertigkeit war, wende !M! Verwundbar an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte gespielte Karte eine Fertigkeit, wende !M! Verwundbar an."
   },
   "Vengeance": {
     "NAME": "Rache",
@@ -1766,8 +1766,8 @@
   },
   "CarveReality": {
     "NAME": "Realität prägen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wähle zwischen NL *Hauen und *Wahrheit. NL Füge die gewählte Karte deiner Hand hinzu.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Wähle zwischen verbesserter NL *Hauen und *Wahrheit. NL Füge die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wähle NL *Zertrümmern oder *Wahrheit. NL Füge die gewählte Karte deiner Hand hinzu.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Wähle verbessertes NL *Zertrümmern oder *Wahrheit. NL Füge die gewählte Karte deiner Hand hinzu."
   },
   "Defend_P": {
     "NAME": "Verteidigen",
@@ -1790,12 +1790,12 @@
     "DESCRIPTION": "Füge !D! Schaden zu. Deal half this damage to all other enemies."
   },
   "InnerPeace": {
-    "NAME": "Innerer Frieden",
+    "NAME": "Innerer Friede",
     "DESCRIPTION": "Nimm Ruhe an. NL Beende deinen Zug."
   },
   "StepAndStrike": {
     "NAME": "Schlag folgt Schritt",
-    "DESCRIPTION": "Kostet 1 weniger für jedes Mal, dass du diesen Zug deine Haltung gewechselt hast. NL Erhalte !B! Block. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Kostet 1 weniger pro Haltungswechsel in diesem Zug. NL Erhalte !B! Block. NL Füge !D! Schaden zu."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",

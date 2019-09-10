@@ -1144,14 +1144,14 @@
   "DevotionPower": {
     "NAME": "Hingabe",
     "DESCRIPTIONS": [
-    "Am Anfang deines Zuges, erhalte #b",
+    "Erhalte am Anfang deines Zuges #b",
     " #yMantra."
   ]
   },
   "BlockReturnPower": {
-    "NAME": "Block Return",
+    "NAME": "Block zurück",
     "DESCRIPTIONS": [
-    "Nachdem du Angegriffen wurdest, erhalte #b",
+    "Wenn dieser Gegner angegriffen wird, erhalte #b",
     " #yBlock."
   ]
   },
@@ -1163,7 +1163,7 @@
   ]
   },
   "FreeAttackPower": {
-    "NAME": "Free Attack Power",
+    "NAME": "Gratis-Angriff",
     "DESCRIPTIONS": [
       "Ignoriere die Energiekosten des nächsten gespielten #yAngriffs.",
       "Ignoriere die Energiekosten der nächsten #b",
@@ -1206,7 +1206,7 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Omega Kraft",
+    "NAME": "Omega-Macht",
     "DESCRIPTIONS": [
       "Füge am Anfang deines Zuges ALLEN Gegnern ",
       " Schaden zu."
