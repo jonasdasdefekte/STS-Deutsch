@@ -500,7 +500,7 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Füge !D! Schaden zu. Wenn du diesen Zug weniger als !M! Karten ausgepielt hast, NL ziehe 1 Karte.",
+    "DESCRIPTION": "Füge !D! Schaden zu. Hast du diesen Zug weniger als !M! Karten ausgepielt, NL ziehe 1 Karte.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Karte gespielt.)",
@@ -615,7 +615,7 @@
   },
   "Go for the Eyes": {
     "NAME": "In die Augen",
-    "DESCRIPTION": "Füge !D! Schaden zu. Wenn der Gegner beabsichtigt anzugreifen, NL wende !M! Schwach an."
+    "DESCRIPTION": "Füge !D! Schaden zu. Beabsichtigt der Gegner anzugreifen, NL wende !M! Schwach an."
   },
   "Good Instincts": {
     "NAME": "Gute Instinkte",
@@ -680,7 +680,7 @@
   },
   "Impatience": {
     "NAME": "Ungeduld",
-    "DESCRIPTION": "Wenn du keine Angriffe auf der Hand hast, ziehe !M! Karten."
+    "DESCRIPTION": "Hast du keine Angriffe auf der Hand, ziehe !M! Karten."
   },
   "Impervious": {
     "NAME": "Unempfindlich",
@@ -1226,7 +1226,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Tückischer Schlag",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du in diesem Zug eine Karte abgeworfen hast, NL erhalte [G] [G].",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Hast du in diesem Zug eine Karte abgeworfen, NL erhalte [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Ich kann diese Karte nicht ausspielen."
     ]
@@ -1662,7 +1662,7 @@
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
-    "DESCRIPTION": "Nur spielbar, wenn dies dein einziger Angriff ist. Füge !D! Schaden zu."
+    "DESCRIPTION": "Nur spielbar, wenn dies dein einziger Angriff auf der Hand ist. Füge !D! Schaden zu."
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Sublime Slice",
@@ -1762,7 +1762,7 @@
   },
   "Vengeance": {
     "NAME": "Rache",
-    "DESCRIPTION": "Wenn deine TP niedriger sind als im letzten Zug, nimm Zorn an."
+    "DESCRIPTION": "Sind deine TP niedriger als im letzten Zug, nimm Zorn an."
   },
   "CarveReality": {
     "NAME": "Realität prägen",
@@ -1811,6 +1811,6 @@
   },
   "FlurryOfBlows": {
     "NAME": "Hiebregen",
-    "DESCRIPTION": "Füge !D! Schaden !M! mal zu. NL Wenn du deine Haltung änderst, ziehe diese Karte aus den erschöpften Karten. Erschöpft."
+    "DESCRIPTION": "Füge !M! mal !D! Schaden zu. NL Änderst du deine Haltung, ziehe diese Karte aus den erschöpften Karten. Erschöpft."
   }
 }

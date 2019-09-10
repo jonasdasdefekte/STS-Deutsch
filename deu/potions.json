@@ -9,7 +9,8 @@
   "AttackPotion": {
     "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
-      "Erhalte #b1 von #b3 zufälligen #yAngriffskarten auf die Hand, die in diesem Zug #b0 kostet."
+      "Erhalte #b1 von #b3 zufälligen #yAngriffskarten auf die Hand, die in diesem Zug #b0 kostet.",
+      "Wähle #b1 von #b3 zufälligen #yAngriffskarten und erhalte #b2 auf die Hand, die in diesem Zug #b0 kosten."
     ]
   },
   "Block Potion": {
@@ -149,7 +150,8 @@
   "PowerPotion": {
     "NAME": "Machttrank",
     "DESCRIPTIONS": [
-      "Erhalte #b1 von #b3 zufälligen #yMachtkarten auf die Hand, die in diesem Zug #b0 kostet."
+      "Erhalte #b1 von #b3 zufälligen #yMachtkarten auf die Hand, die in diesem Zug #b0 kostet.",
+      "Wähle #b1 von #b3 zufälligen #yMachtkarten und erhalte #b2 auf die Hand, die in diesem Zug #b0 kosten."
     ]
   },
   "Regen Potion": {
@@ -163,7 +165,8 @@
   "SkillPotion": {
     "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
-      "Erhalte #b1 von #b3 zufälligen #yFertigkeitskarten auf die Hand, die in diesem Zug #b0 kostet."
+      "Erhalte #b1 von #b3 zufälligen #yFertigkeitskarten auf die Hand, die in diesem Zug #b0 kostet.",
+      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten und erhalte #b2 auf die Hand, die in diesem Zug #b0 kosten."
     ]
   },
   "SmokeBomb": {
@@ -222,7 +225,8 @@
   "DuplicationPotion": {
     "NAME": "Verdopplungstrank",
     "DESCRIPTIONS": [
-      "Deine nächste Karte in diesem Zug wird zweimal gespielt."
+      "Deine nächste Karte in diesem Zug wird zweimal gespielt.",
+      "Deine nächsten #b2 Karten in diesem Zug werden zweimal gespielt."
     ]
   },
   "StancePotion": {

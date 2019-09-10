@@ -1451,7 +1451,7 @@
     "FLAVOR": "Er ist schwer. Sehr sehr schwer.",
     "DESCRIPTIONS": [
       "Am Anfang deines Zuges, wenn es noch nicht Zug #b",
-      "ist, erhalte #yBlock entsprechend des momentanen Zugs."
+      " ist, erhalte #yBlock entsprechend des momentanen Zugs."
     ]
   },
   "HolyWater": {

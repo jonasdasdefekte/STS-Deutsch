@@ -40,7 +40,8 @@
     "CURSE": {
       "NAMES": [
         "fluch",
-        "flüche"
+        "flüche",
+        "fluchkarte"
       ],
       "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
     },
