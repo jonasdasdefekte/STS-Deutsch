@@ -1395,10 +1395,10 @@
     ]
   },
   "SlaversCollar": {
-    "NAME": "Sklavenhändler Halsband",
-    "FLAVOR": "Verrostete und Grausame Ketten.",
+    "NAME": "Sklavenhändler-Halsband",
+    "FLAVOR": "Rostige, grausame Ketten.",
     "DESCRIPTIONS": [
-      "Im Kampf mit Eliten oder bossen, erhalte in deinem Zug [E] ."
+      "In Elite- und Bosskämpfen erhalte in deinem Zug [E] ."
     ]
   },
   "Akabeko": {

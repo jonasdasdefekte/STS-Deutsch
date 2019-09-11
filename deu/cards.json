@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Erhalte die gewählte Karte zu Beginn jedes Zuges auf die Hand."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "Realität trügen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Wähle *Geborgenheit oder *Weisheit. NL Füge die gewählte Karte deiner Hand hinzu.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Wähle verbesserte *Geborgenheit oder *Weisheit. NL Füge die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Erhalte !B! Block. NL Wähle *Geborgenheit oder *Weisheit, die du auf die Hand erhältst.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Wähle verbesserte *Geborgenheit oder *Weisheit, die du auf die Hand erhältst."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1688,7 +1688,7 @@
   },
   "BowlingBash": {
     "NAME": "Kegeln",
-    "DESCRIPTION": "Füge für jeden Gegner im Kampf !D! Schaden zu."
+    "DESCRIPTION": "Füge pro Gegner im Kampf !D! Schaden zu."
   },
   "Truth": {
     "NAME": "Wahrheit",
@@ -1726,7 +1726,7 @@
   },
   "EmptyBody": {
     "NAME": "Leerer Körper",
-    "DESCRIPTION": "Erhalte !B! Block. NL Verliere deine Haltung."
+    "DESCRIPTION": "Erhalte !B! Block. NL Verlasse deine Haltung."
   },
   "Crescendo": {
     "NAME": "Crescendo",
@@ -1766,8 +1766,8 @@
   },
   "CarveReality": {
     "NAME": "Realität prägen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wähle NL *Zertrümmern oder *Wahrheit. NL Füge die gewählte Karte deiner Hand hinzu.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Wähle verbessertes NL *Zertrümmern oder *Wahrheit. NL Füge die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wähle *Zertrümmern oder *Wahrheit, die du auf die Hand erhältst.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Wähle verbessertes *Zertrümmern oder *Wahrheit, die du auf die Hand erhältst."
   },
   "Defend_P": {
     "NAME": "Verteidigen",
