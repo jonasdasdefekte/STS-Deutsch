@@ -1036,7 +1036,8 @@
     "NAME": "Adaptierung",
     "DESCRIPTIONS": [
       "Immer wenn du deine #yHaltung änderst, ziehe #b",
-      " Karte."
+      " Karte.",
+      " Karten."
     ]
   },
   "Mastery": {
@@ -1115,52 +1116,54 @@
     ]
   },
   "WireheadingPower": {
-    "NAME": "Wireheading",
-  "DESCRIPTIONS": [
-    "Am Ende deines Zuges, #ySpähe "
-  ]
+    "NAME": "Stimulation",
+    "DESCRIPTIONS": [
+    "#ySpähe #b",
+    " am Anfang deines Zuges."
+    ]
   },
   "Vault": {
     "NAME": "Überspringen",
-  "DESCRIPTIONS": [
-    "Nimmt am Anfang des nächsten Zuges #b",
-    " Schaden."
-  ]
+    "DESCRIPTIONS": [
+      "Nimmt am Anfang des nächsten Zuges #b",
+      " Schaden."
+    ]
   },
   "FlowPower": {
     "NAME": "DEPRECATED FlowPower",
     "DESCRIPTIONS": [
       "When you play an Attack, gain #b",
       " temporary #yStrength. When you play a Skill, gain #b,",
-    " temporary #yDexterity."
+      " temporary #yDexterity."
     ]
   },
   "EstablishmentPower": {
     "NAME": "Etablierung",
     "DESCRIPTIONS": [
-    "Immer wenn eine Karte #ybehalten wird, verringere ihre Kosten um #b"
-  ]
+      "Immer wenn eine Karte #ybehalten wird, verringere ihre Kosten um #b",
+      "."
+    ]
   },
   "DevotionPower": {
     "NAME": "Hingabe",
     "DESCRIPTIONS": [
-    "Erhalte am Anfang deines Zuges #b",
-    " #yMantra."
-  ]
+      "Erhalte am Anfang deines Zuges #b",
+      " #yMantra."
+    ]
   },
   "BlockReturnPower": {
     "NAME": "Block zurück",
     "DESCRIPTIONS": [
-    "Wenn dieser Gegner angegriffen wird, erhalte #b",
-    " #yBlock."
-  ]
+      "Wenn dieser Gegner angegriffen wird, erhalte #b",
+      " #yBlock."
+    ]
   },
   "BattleHymn": {
     "NAME": "Kampfhymne",
     "DESCRIPTIONS": [
-    "Die erste Karte die du jeden Zug spielst kostet in diesem Zug #b",
-    " weniger."
-  ]
+      "Die erste Karte, die du jeden Zug ziehst, kostet in diesem Zug #b",
+      " weniger."
+    ]
   },
   "FreeAttackPower": {
     "NAME": "Gratis-Angriff",
@@ -1218,6 +1221,18 @@
       "Die nächste Karte in diesem Zug wird zweimal gespielt.",
       "Die nächsten ",
       " Karten werden diesen Zug zweimal gespielt."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Karte spielst, #yverbessere sie."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Kochende Wut",
+    "DESCRIPTIONS": [
+      "Nimm zu Beginn deines nächsten Zuges #yZorn an."
     ]
   }
 }

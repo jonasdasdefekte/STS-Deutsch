@@ -1343,7 +1343,7 @@
     "DESCRIPTION": "Whenever you lose HP, erhalte !M! Vigor."
   },
   "FlowState": {
-    "NAME": "Haltungswechsel",
+    "NAME": "Alles fließt",
     "DESCRIPTION": "Zorn: Nimm Ruhe an. NL Ruhe: Nimm Zorn an. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Zorn: Nimm Ruhe an. NL Ruhe: Nimm Zorn an."
   },
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Erhalte die gewählte Karte zu Beginn jedes Zuges auf die Hand."
+    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1453,13 +1453,13 @@
     "DESCRIPTION": "Behalten. NL Füge zweimal !D! Schaden zu."
   },
   "Wireheading": {
-    "NAME": "Wireheading",
-    "DESCRIPTION": "Am Ende deines Zuges Spähe !M!.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Am Ende deines Zuges Spähe !M!."
+    "NAME": "Stimulation",
+    "DESCRIPTION": "Spähe !M! am Anfang deines Zuges.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Spähe !M! am Anfang deines Zuges."
   },
   "Sanctity": {
     "NAME": "Heiligkeit",
-    "DESCRIPTION": "Erhalte !B! Block. NL War die letzte gespielte Karte eine Fertigkeit, ziehe !M! Karte."
+    "DESCRIPTION": "Erhalte !B! Block. NL War die letzte gespielte Karte eine Fertigkeit, ziehe !M! Karten."
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1513,13 +1513,13 @@
   },
   "Vigilance": {
     "NAME": "Wachsamkeit",
-    "DESCRIPTION": "Nimm Ruhe an. NL Ziehe !M! Karten.",
-    "UPGRADE_DESCRIPTION": "Nimm Ruhe an. NL Ziehe !M! Karten."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm Ruhe an.",
+    "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "PathToVictory": {
-    "NAME": "Siegespfad",
+    "NAME": "Weg zum Sieg",
     "DESCRIPTION": "Ziehe eine Karte und senke ihre Kosten in diesem Zug auf 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Ziehe eine Karte und senke ihre Kosten in diesem Zug auf 0."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "Auswerten",
@@ -1572,8 +1572,8 @@
   },
   "EmptyMind": {
     "NAME": "Leerer Kopf",
-    "DESCRIPTION": "Verlasse deine Haltung. NL Ziehe !M! Karten.",
-    "UPGRADE_DESCRIPTION": "Verlasse deine Haltung. NL Ziehe !M! Karten."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Verlasse deine Haltung.",
+    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Verlasse deine Haltung."
   },
   "Miracle": {
     "NAME": "Wunder",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "Realität trügen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Wähle *Geborgenheit oder *Weisheit, die du auf die Hand erhältst.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Wähle verbesserte *Geborgenheit oder *Weisheit, die du auf die Hand erhältst."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Weisheit auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine verbessere *Weisheit auf die Hand."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1622,9 +1622,9 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Behalten. NL Erhalte [W] für jeden Zug, den diese Karte behalten wurde. NL Erschöpft.",
+    "DESCRIPTION": "Transformiere deine Hand in *Wunder. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Für !M! Züge behalten.)"
+      ""
     ]
   },
   "ClearTheMind": {
@@ -1642,8 +1642,8 @@
   },
   "Prostrate": {
     "NAME": "Niederknien",
-    "DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Einsicht auf den Abwurfstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte 1 Verwundbar. NL Erhalte eine *Einsicht auf den Abwurfstapel."
+    "DESCRIPTION": "Erhalte !M! Mantra. NL Erhalte !B! Block.",
+    "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "Pray": {
     "NAME": "Beten",
@@ -1718,7 +1718,10 @@
   },
   "Judgement": {
     "NAME": "Urteil",
-    "DESCRIPTION": "Wenn der Gegner !M! oder weniger TP hat, setze seine NL TP auf 0."
+    "DESCRIPTION": "Wenn der Gegner !M! oder weniger TP hat, setze seine NL TP auf 0.",
+    "EXTENDED_DESCRIPTION": [
+      "VERURTEILT"
+    ]
   },
   "MentalFortress": {
     "NAME": "Mentale Festung",
@@ -1761,13 +1764,13 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte gespielte Karte eine Fertigkeit, wende !M! Verwundbar an."
   },
   "Vengeance": {
-    "NAME": "Rache",
-    "DESCRIPTION": "Sind deine TP niedriger als im letzten Zug, nimm Zorn an."
+    "NAME": "Kochende Wut",
+    "DESCRIPTION": "Spähe !M!. NL Nimm zu Beginn deines nächsten Zuges Zorn an."
   },
   "CarveReality": {
     "NAME": "Realität prägen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wähle *Zertrümmern oder *Wahrheit, die du auf die Hand erhältst.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Wähle verbessertes *Zertrümmern oder *Wahrheit, die du auf die Hand erhältst."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein verbessertes *Zertrümmern auf die Hand."
   },
   "Defend_P": {
     "NAME": "Verteidigen",
@@ -1791,7 +1794,7 @@
   },
   "InnerPeace": {
     "NAME": "Innerer Friede",
-    "DESCRIPTION": "Nimm Ruhe an. NL Beende deinen Zug."
+    "DESCRIPTION": "Bist du in Ruhe, ziehe !M! Karten, sonst nimm Ruhe an."
   },
   "StepAndStrike": {
     "NAME": "Schlag folgt Schritt",
@@ -1811,6 +1814,6 @@
   },
   "FlurryOfBlows": {
     "NAME": "Hiebregen",
-    "DESCRIPTION": "Füge !M! mal !D! Schaden zu. NL Änderst du deine Haltung, ziehe diese Karte aus den erschöpften Karten. Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Kommt bei Haltungswechsel vom Abwurfstapel auf die Hand zurück."
   }
 }

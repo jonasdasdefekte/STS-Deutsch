@@ -272,7 +272,8 @@
     "STANCE": {
       "NAMES": [
         "haltung",
-        "haltungen"
+        "haltungen",
+        "haltungswechsel"
       ],
       "DESCRIPTION": "Du kannst immer nur eine Haltung haben."
     },

@@ -1450,8 +1450,8 @@
     "NAME": "Wolframstab",
     "FLAVOR": "Er ist schwer. Sehr sehr schwer.",
     "DESCRIPTIONS": [
-      "Am Anfang deines Zuges, wenn es noch nicht Zug #b",
-      " ist, erhalte #yBlock entsprechend des momentanen Zugs."
+      "Immer wenn du TP verlieren würdest, verliere #b",
+      " weniger."
     ]
   },
   "HolyWater": {
@@ -1466,6 +1466,22 @@
     "FLAVOR": "Durch feinen Sand gefiltert und frei von Unreinheiten.",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn jedes Kampfes ein #yWunder auf deine Hand."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Hornklammer",
+    "FLAVOR": "Angenehm in der Hand zu halten. Wozu die wohl mal gut war?",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn deines 2. Zuges #b",
+      " #yBlock."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Kapitänsrad",
+    "FLAVOR": "Ein mit vorzüglicher Präzision geschnitztes hölzernes Stück. Ein Name ist eingeschnitzt, aber in einer fremden Sprache.",
+    "DESCRIPTIONS": [
+      "At the start of your 3rd turn, gain #b",
+      " #yBlock."
     ]
   }
 }
