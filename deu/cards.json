@@ -1568,7 +1568,7 @@
   "Worship": {
     "NAME": "Beten",
     "DESCRIPTION": "Erhalte !M! Mantra.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte !M! Mantra."
+    "UPGRADE_DESCRIPTION": "Behalten. NL Erhalte !M! Mantra."
   },
   "EmptyMind": {
     "NAME": "Leerer Kopf",
@@ -1628,7 +1628,7 @@
     ]
   },
   "ClearTheMind": {
-    "NAME": "Den Geist klären",
+    "NAME": "Durchatmen",
     "DESCRIPTION": "Nimm Ruhe an. NL Erschöpft."
   },
   "Safety": {

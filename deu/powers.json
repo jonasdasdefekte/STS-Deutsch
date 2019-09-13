@@ -1048,7 +1048,7 @@
     ]
   },
   "Controlled": {
-    "NAME": "Kontrolle",
+    "NAME": "Mentale Festung",
     "DESCRIPTIONS": [
       "Immer wenn du deine #yHaltung änderst, erhalte #b",
       " #yBlock."
@@ -1118,8 +1118,8 @@
   "WireheadingPower": {
     "NAME": "Stimulation",
     "DESCRIPTIONS": [
-    "#ySpähe #b",
-    " am Anfang deines Zuges."
+      "#ySpähe #b",
+      " am Anfang deines Zuges."
     ]
   },
   "Vault": {

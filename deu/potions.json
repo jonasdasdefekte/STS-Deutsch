@@ -179,9 +179,9 @@
   "SneckoOil": {
     "NAME": "Snecko-Öl",
     "DESCRIPTIONS": [
-      "Du wirst #yVerwirrt. Ziehe #b",
-      " Karten.",
-      " Karte."
+      "Ziehe #b",
+      " Karten. Ändere die Kosten deiner Handkarten zufällig.",
+      ""
     ]
   },
   "SpeedPotion": {
