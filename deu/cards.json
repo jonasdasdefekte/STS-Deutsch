@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "Realität trügen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Weisheit auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine verbessere *Weisheit auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Geborgenheit auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine verbessere *Geborgenheit auf die Hand."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",

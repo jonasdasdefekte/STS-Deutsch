@@ -1469,7 +1469,7 @@
     ]
   },
   "HornCleat": {
-    "NAME": "Hornklammer",
+    "NAME": "Hornklampe",
     "FLAVOR": "Angenehm in der Hand zu halten. Wozu die wohl mal gut war?",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn deines 2. Zuges #b",
@@ -1478,7 +1478,7 @@
   },
   "CaptainsWheel": {
     "NAME": "Kapitänsrad",
-    "FLAVOR": "Ein mit vorzüglicher Präzision geschnitztes hölzernes Stück. Ein Name ist eingeschnitzt, aber in einer fremden Sprache.",
+    "FLAVOR": "Ein mit vorzüglicher Präzision geschnitztes Holzstück. Ein Name ist eingeschnitzt, aber in einer fremden Sprache.",
     "DESCRIPTIONS": [
       "At the start of your 3rd turn, gain #b",
       " #yBlock."
