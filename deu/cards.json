@@ -1594,13 +1594,13 @@
   },
   "Meditate": {
     "NAME": "Meditieren",
-    "DESCRIPTION": "Erschöpfe bis zu !M! Karten. NL Nimm Ruhe an.",
-    "UPGRADE_DESCRIPTION": "Erschöpfe bis zu !M! Karten. NL Nimm Ruhe an."
+    "DESCRIPTION": "Nimm eine Karte vom Abwurfstapel auf die Hand und behalte sie. NL Nimm Ruhe an. NL Beende deinen Zug.",
+    "UPGRADE_DESCRIPTION": "Nimm 2 Karten vom Abwurfstapel auf die Hand und behalte sie. NL Nimm Ruhe an. NL Beende deinen Zug."
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Nachdem du eine Karte spielst, verbessere sie für den Rest des Kampfes.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Nachdem du eine Karte spielst, verbessere sie für den Rest des Kampfes."
+    "DESCRIPTION": "Immer wenn du spähst, erhalte !M! Block.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
     "NAME": "Realität trügen",

@@ -305,7 +305,8 @@
     "SCRY": {
       "NAMES": [
         "spähen",
-        "spähe"
+        "spähe",
+        "spähst"
       ],
       "DESCRIPTION": "Sieh die obersten X Karten deines Nachziehstapels an. Du darfst beliebige davon abwerfen."
     },
