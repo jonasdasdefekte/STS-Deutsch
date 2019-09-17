@@ -1395,7 +1395,7 @@
     ]
   },
   "SlaversCollar": {
-    "NAME": "Sklavenhändler-Halsband",
+    "NAME": "Sklavenhändler-Kette",
     "FLAVOR": "Rostige, grausame Ketten.",
     "DESCRIPTIONS": [
       "In Elite- und Bosskämpfen erhalte in deinem Zug [E] ."
@@ -1480,7 +1480,7 @@
     "NAME": "Kapitänsrad",
     "FLAVOR": "Ein mit vorzüglicher Präzision geschnitztes Holzstück. Ein Name ist eingeschnitzt, aber in einer fremden Sprache.",
     "DESCRIPTIONS": [
-      "At the start of your 3rd turn, gain #b",
+      "Erhalte zu Beginn deines 3. Zuges #b",
       " #yBlock."
     ]
   }
