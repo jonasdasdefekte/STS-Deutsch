@@ -456,7 +456,7 @@
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
-    "DESCRIPTION": "Immer wenn du diese Karte ziehst, erhalte eine Kopie von ihr auf die Hand. NL Füge !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte ziehst, erhalte eine Kopie von ihr auf die Hand. NL Erschöpft."
   },
   "Energy Pulse": {
     "NAME": "Energie-Puls",
@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Wutanfall",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm Zorn an. NL Du kannst Zorn für den Rest dieses Zuges nicht verlassen."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm Zorn an. NL Du kannst Zorn in diesem Zug nicht verlassen."
   },
   "Adaptation": {
     "NAME": "Adaptierung",
@@ -1393,11 +1393,11 @@
   },
   "FollowUp": {
     "NAME": "Anschlusshieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte gespielte Karte ein Angriff, erhalte [W]."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte ein Angriff, erhalte [W]."
   },
   "Vault": {
     "NAME": "Überspringen",
-    "DESCRIPTION": "Erhalte 1 Immateriell und beende deinen Zug. NL Füge zu Beginn deines nächsten Zuges !D! Schaden zu. Erschöpft."
+    "DESCRIPTION": "Erhalte 1 Immateriell. NL Füge im nächsten Zug !D! Schaden zu. NL Beende deinen Zug. NL Erschöpft."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
-    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Immer wenn diese Karte behalten wird, erhöhe ihren Schaden um !M!."
+    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Immer wenn diese Karte behalten wird, erhöhe ihren Schaden für diesen Kampf um !M!."
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
@@ -1453,13 +1453,13 @@
     "DESCRIPTION": "Behalten. NL Füge zweimal !D! Schaden zu."
   },
   "Wireheading": {
-    "NAME": "Stimulation",
+    "NAME": "Voraussicht",
     "DESCRIPTION": "Spähe !M! am Anfang deines Zuges.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Spähe !M! am Anfang deines Zuges."
   },
   "Sanctity": {
     "NAME": "Heiligkeit",
-    "DESCRIPTION": "Erhalte !B! Block. NL War die letzte gespielte Karte eine Fertigkeit, ziehe !M! Karten."
+    "DESCRIPTION": "Erhalte !B! Block. NL War die letzte in diesem Kampf gespielte Karte eine Fertigkeit, ziehe !M! Karten."
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1480,7 +1480,7 @@
   },
   "Perseverance": {
     "NAME": "Beharrlichkeit",
-    "DESCRIPTION": "Behalten. NL Erhalte !B! Block. NL Immer wenn diese Karte behalten wird, erhöhe ihren Block um !M!."
+    "DESCRIPTION": "Behalten. NL Erhalte !B! Block. NL Immer wenn diese Karte behalten wird, erhöhe ihren Block für diesen Kampf um !M!."
   },
   "Ragnarok": {
     "NAME": "Ragnarök",
@@ -1519,17 +1519,17 @@
   "PathToVictory": {
     "NAME": "Weg zum Sieg",
     "DESCRIPTION": "Ziehe eine Karte und senke ihre Kosten in diesem Zug auf 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": ""
+    "UPGRADE_DESCRIPTION": "Ziehe eine Karte und senke ihre Kosten in diesem Zug auf 0."
   },
   "Evaluate": {
     "NAME": "Auswerten",
-    "DESCRIPTION": "Erhalte !B! Block. NL Mische 1 *Einsicht in den Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Mische 1 verbesserte *Einsicht in den Nachziehstapel."
+    "DESCRIPTION": "Erhalte !B! Block. NL Mische eine *Einsicht in den Nachziehstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Mische eine verbesserte *Einsicht in den Nachziehstapel."
   },
   "Establishment": {
     "NAME": "Etablierung",
-    "DESCRIPTION": "Immer wenn eine Karte behalten wird, senke ihre Kosten um !M!.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn eine Karte behalten wird, senke ihre Kosten um !M!."
+    "DESCRIPTION": "Immer wenn eine Karte behalten wird, senke ihre Kosten für diesen Kampf um !M!.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn eine Karte behalten wird, senke ihre Kosten für diesen Kampf um !M!."
   },
   "Collect": {
     "NAME": "Sammeln",
@@ -1586,7 +1586,7 @@
   },
   "TalkToTheHand": {
     "NAME": "Sprich zur Hand",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn dieser Gegner Schaden erleidet, erhalte !M! Block. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diesen Gegner angreifst, erhalte !M! Block. NL Erschöpft."
   },
   "Strike_P": {
     "NAME": "Schlag",
@@ -1637,8 +1637,8 @@
   },
   "Scrawl": {
     "NAME": "Gesudel",
-    "DESCRIPTION": "Ziehe !M! Karten. NL Du kannst für den Rest dieses Zuges keine Fertigkeiten spielen.",
-    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Du kannst für den Rest des Zuges keine Fertigkeiten spielen."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Du kannst diesen Zug keine Fertigkeiten spielen.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
     "NAME": "Niederknien",
@@ -1657,8 +1657,8 @@
   },
   "ForeignInfluence": {
     "NAME": "Fremder Einfluss",
-    "DESCRIPTION": "Wähle 1 von 3 Angriffen und füge ihn deiner Hand hinzu. Sie können jede Farbe haben. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 verbesserten Angriffen und füge ihn deiner Hand hinzu. Sie können jede Farbe haben. Erschöpft."
+    "DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben und füge ihn deiner Hand hinzu. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 verbesserten Angriffen aller Farben und füge ihn deiner Hand hinzu. Erschöpft."
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
@@ -1737,7 +1737,7 @@
   },
   "SandsOfTime": {
     "NAME": "Sand der Zeit",
-    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Immer wenn diese Karte behalten wird, verringere ihre Kosten um 1."
+    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Immer wenn diese Karte behalten wird, verringere ihre Kosten für diesen Kampf um 1."
   },
   "Blasphemy": {
     "NAME": "Blasphemie",
@@ -1757,11 +1757,11 @@
   },
   "Weave": {
     "NAME": "Einflechten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm diese Karte auf die Hand, wenn sie vom Nachziehstapel abgeworfen wird."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du diese Karte beim Spähen abwerfen würdest, nimm sie stattdessen auf die Hand."
   },
   "CrushJoints": {
     "NAME": "Gelenke brechen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte gespielte Karte eine Fertigkeit, wende !M! Verwundbar an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte eine Fertigkeit, wende !M! Verwundbar an."
   },
   "Vengeance": {
     "NAME": "Kochende Wut",
@@ -1815,5 +1815,9 @@
   "FlurryOfBlows": {
     "NAME": "Hiebregen",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Kommt bei Haltungswechsel vom Abwurfstapel auf die Hand zurück."
+  },
+  "SashWhip": {
+    "NAME": "Schärpenhieb",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte ein Angriff, wende !M! Schwach an."
   }
 }

@@ -232,7 +232,7 @@
     ]
   },
   "DexLoss": {
-    "NAME": "Ungeschickt",
+    "NAME": "Temporäre Geschicklichkeit",
     "DESCRIPTIONS": [
       "Verliere am Ende deines Zuges #b",
       " #yGeschicklichkeit."
@@ -406,7 +406,7 @@
     ]
   },
   "Flex": {
-    "NAME": "Weniger Stärke",
+    "NAME": "Temporäre Stärke",
     "DESCRIPTIONS": [
       "Am Ende deines Zuges verlierst du #b",
       " #yStärke."
@@ -1116,7 +1116,7 @@
     ]
   },
   "WireheadingPower": {
-    "NAME": "Stimulation",
+    "NAME": "Voraussicht",
     "DESCRIPTIONS": [
       "#ySpähe #b",
       " am Anfang deines Zuges."
