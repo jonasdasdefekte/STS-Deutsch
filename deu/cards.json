@@ -1362,7 +1362,7 @@
   },
   "DeusExMachina": {
     "NAME": "Deus ex Machina",
-    "DESCRIPTION": "Unspielbar. NL Wenn du diese Karte ziehst, erschöpfe sie und füge deiner Hand !M! *Wunder hinzu."
+    "DESCRIPTION": "Unspielbar. NL Wenn du diese Karte ziehst, erschöpfe sie und erhalte !M! *Wunder auf die Hand."
   },
   "ThroughViolence": {
     "NAME": "Durch Gewalt",
@@ -1421,8 +1421,8 @@
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
-    "DESCRIPTION": "Füge deiner Hand X *Zertrümmern hinzu.",
-    "UPGRADE_DESCRIPTION": "Füge deiner Hand X verbesserte *Zertrümmern hinzu."
+    "DESCRIPTION": "Erhalte X *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte X verbesserte *Zertrümmern auf die Hand."
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
@@ -1657,8 +1657,8 @@
   },
   "ForeignInfluence": {
     "NAME": "Fremder Einfluss",
-    "DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben und füge ihn deiner Hand hinzu. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 verbesserten Angriffen aller Farben und füge ihn deiner Hand hinzu. Erschöpft."
+    "DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben, den du auf die Hand erhältst. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 verbesserten Angriffen aller Farben, den du auf die Hand erhältst. Erschöpft."
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
