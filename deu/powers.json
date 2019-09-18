@@ -1226,7 +1226,8 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Karte spielst, #yverbessere sie."
+      "Immer wenn du spähst, erhalte #b",
+      " #yBlock."
     ]
   },
   "WrathNextTurnPower": {
