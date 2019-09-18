@@ -1354,7 +1354,7 @@
   "Wish": {
     "NAME": "Wünschen",
     "DESCRIPTION": "Wähle eine Karte im Nachziehstapel. NL Spiele die gewählte Karte zweimal und erschöpfe sie. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle eine Karte im Nachziehstapel. NL Spiele die gewählte Karte dreimal und erschöpfe sie. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1638,7 +1638,7 @@
   "Scrawl": {
     "NAME": "Gesudel",
     "DESCRIPTION": "Ziehe !M! Karten. NL Du kannst diesen Zug keine Fertigkeiten spielen.",
-    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Du kannst diesen Zug keine Fertigkeiten spielen."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
     "NAME": "Niederknien",
