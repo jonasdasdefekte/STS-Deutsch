@@ -1518,8 +1518,8 @@
   },
   "PathToVictory": {
     "NAME": "Weg zum Sieg",
-    "DESCRIPTION": "Ziehe eine Karte und senke ihre Kosten in diesem Zug auf 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Ziehe eine Karte und senke ihre Kosten in diesem Zug auf 0."
+    "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels."
   },
   "Evaluate": {
     "NAME": "Auswerten",
