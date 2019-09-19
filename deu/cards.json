@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Wähle eine Handkarte. NL Erhalte zu Beginn deines Zuges eine Kopie davon auf die Hand."
+    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",

@@ -1182,7 +1182,7 @@
   "MasterRealityPower": {
     "NAME": "Realität meistern",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn deines Zuges #b",
+      "Erhalte am Anfang deines Zuges #b",
       " #y",
       " auf deine Hand.",
       "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
