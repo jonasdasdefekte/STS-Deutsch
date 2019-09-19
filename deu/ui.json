@@ -611,7 +611,8 @@
       "Wähle ",
       " Karten, die du ",
       "Wähle beliebig viele Karten, die du ",
-      "Wähle eine Karte, die du "
+      "Wähle eine Karte, die du ",
+      "kopierst"
     ]
   },
   "HiddenChamberAction": {

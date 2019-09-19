@@ -234,5 +234,52 @@
     "DESCRIPTIONS": [
       "Nimm #yRuhe oder #yZorn an."
     ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixier",
+    "DESCRIPTIONS": [
+      "#yErschöpfe beliebig viele Handkarten."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Eisernes Herz",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yMetallisieren."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Listigkeitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yMesser auf die Hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Kapazitätstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Orb-Slots."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Schatten-Essenz",
+    "DESCRIPTIONS": [
+      "#yErschaffe #b",
+      " #ySchatten pro Orb-Slot."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Wunder in der Flasche",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yWunder auf die Hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Nimm die #yHaltung #yGöttlichkeit an."
+    ]
   }
 }

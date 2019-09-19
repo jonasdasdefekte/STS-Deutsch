@@ -624,7 +624,7 @@
   "Night Terror": {
     "NAME": "Albtraum",
     "DESCRIPTIONS": [
-      "Am Anfang deines nächsten Zuges erhalte #b",
+      "Zu Beginn deines nächsten Zuges erhalte #b",
       " Karten auf deine Hand."
     ]
   },
@@ -1070,11 +1070,11 @@
     ]
   },
   "Collect": {
-    "NAME": "Ansammeln",
+    "NAME": "Sammeln",
     "DESCRIPTIONS": [
-      "Erhalte am Anfang deines nächsten Zuges [W] [W] .",
-      "Erhalte am Anfang deiner nächsten #b",
-      " Züge [W] [W] ."
+      "Erhalte zu Beginn deines nächsten Zuges ein #yverbessertes #yWunder auf die Hand.",
+      "Erhalte zu Beginn deiner nächsten #b",
+      " Züge ein #yverbessertes #yWunder auf die Hand."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1092,7 +1092,7 @@
   "EndTurnDeath": {
     "NAME": "Gotteslästerer",
     "DESCRIPTIONS": [
-      "Stirb am Anfang deines Zuges."
+      "Stirb zu Beginn deines Zuges."
     ]
   },
   "AlwaysMad": {
@@ -1119,13 +1119,13 @@
     "NAME": "Voraussicht",
     "DESCRIPTIONS": [
       "#ySpähe #b",
-      " am Anfang deines Zuges."
+      " zu Beginn deines Zuges."
     ]
   },
   "Vault": {
     "NAME": "Überspringen",
     "DESCRIPTIONS": [
-      "Nimmt am Anfang des nächsten Zuges #b",
+      "Nimmt zu Beginn des nächsten Zuges #b",
       " Schaden."
     ]
   },
@@ -1147,7 +1147,7 @@
   "DevotionPower": {
     "NAME": "Hingabe",
     "DESCRIPTIONS": [
-      "Erhalte am Anfang deines Zuges #b",
+      "Erhalte zu Beginn deines Zuges #b",
       " #yMantra."
     ]
   },
@@ -1182,7 +1182,7 @@
   "MasterRealityPower": {
     "NAME": "Realität meistern",
     "DESCRIPTIONS": [
-      "Erhalte am Anfang deines Zuges #b",
+      "Erhalte zu Beginn deines Zuges #b",
       " #y",
       " auf deine Hand.",
       "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
@@ -1211,7 +1211,7 @@
   "OmegaPower": {
     "NAME": "Omega-Macht",
     "DESCRIPTIONS": [
-      "Füge am Anfang deines Zuges ALLEN Gegnern ",
+      "Füge zu Beginn deines Zuges ALLEN Gegnern ",
       " Schaden zu."
     ]
   },
@@ -1226,7 +1226,7 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Immer wenn du spähst, erhalte #b",
+      "Immer wenn du eine Karte spielst, #yverbessere sie.",
       " #yBlock."
     ]
   },
@@ -1234,6 +1234,17 @@
     "NAME": "Kochende Wut",
     "DESCRIPTIONS": [
       "Nimm zu Beginn deines nächsten Zuges #yZorn an."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn deines Zuges [W] ",
+      "Erhalte zu Beginn deines Zuges #b",
+      " mal [W] ",
+      "und erhöhe dies um #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
     ]
   }
 }

@@ -1366,7 +1366,7 @@
   },
   "ThroughViolence": {
     "NAME": "Durch Gewalt",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Metaphysics": {
     "NAME": "Metaphysik",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Wähle eine Handkarte. NL Erhalte zu Beginn deines Zuges eine Kopie davon auf die Hand."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
-    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Immer wenn diese Karte behalten wird, erhöhe ihren Schaden für diesen Kampf um !M!."
+    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Beim Behalten erhöhe den Schaden um !M! für diesen Kampf."
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
@@ -1454,8 +1454,8 @@
   },
   "Wireheading": {
     "NAME": "Voraussicht",
-    "DESCRIPTION": "Spähe !M! am Anfang deines Zuges.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Spähe !M! am Anfang deines Zuges."
+    "DESCRIPTION": "Zu Beginn deines Zuges spähe !M!.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Zu Beginn deines Zuges spähe !M!."
   },
   "Sanctity": {
     "NAME": "Heiligkeit",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "Sammeln",
-    "DESCRIPTION": "Erhalte [W] [W] zu Beginn deiner nächsten X Züge. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte [W] [W] zu Beginn deiner nächsten X+1 Züge. NL Erschöpft."
+    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten X Züge ein verbessertes Wunder auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten X+1 Züge ein verbessertes Wunder auf die Hand. NL Erschöpft."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1582,7 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Devaform",
-    "DESCRIPTION": "Erhalte !M! Panzerrüstung."
+    "DESCRIPTION": "Flüchtig. NL Erhalte zu Beginn deines Zuges [W] und erhöhe diesen Wert um !M!.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges [W] und erhöhe diesen Wert um !M!."
   },
   "TalkToTheHand": {
     "NAME": "Sprich zur Hand",
@@ -1622,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Transformiere deine Hand in *Wunder. NL Erschöpft.",
+    "DESCRIPTION": "Heile X mal !M! TP. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1710,7 +1711,7 @@
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "Füge am Anfang des Zuges ALLEN Gegnern !M! Schaden zu."
+    "DESCRIPTION": "Füge zu Beginn des Zuges ALLEN Gegnern !M! Schaden zu."
   },
   "Serenity": {
     "NAME": "Gelassenheit",
