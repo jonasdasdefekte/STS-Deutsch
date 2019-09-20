@@ -1319,7 +1319,7 @@
   "Adaptation": {
     "NAME": "Adaptierung",
     "DESCRIPTION": "Immer wenn du Haltungen wechselst, ziehe !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du Haltungen wechselst, ziehe !M! Karte."
+    "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "Causality": {
     "NAME": "Kausalität",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Wähle *Zertrümmern oder *Geborgenheit. NL Füge zu Beginn jedes Zuges die gewählte Karte deiner Hand hinzu."
+    "DESCRIPTION": "Füge am Ende des Zuges einem zufälligen Gegner !M! Schaden pro behaltener Handkarte zu."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1480,7 +1480,7 @@
   },
   "Perseverance": {
     "NAME": "Beharrlichkeit",
-    "DESCRIPTION": "Behalten. NL Erhalte !B! Block. NL Immer wenn diese Karte behalten wird, erhöhe ihren Block für diesen Kampf um !M!."
+    "DESCRIPTION": "Behalten. NL Erhalte !B! Block. NL Beim Behalten erhöhe den Block für diesen Kampf um !M!."
   },
   "Ragnarok": {
     "NAME": "Ragnarök",
@@ -1623,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Heile X mal !M! TP. NL Erschöpft.",
+    "DESCRIPTION": "Flüchtig. NL Heile X mal !M! TP. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1681,7 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "Kampfhymne",
-    "DESCRIPTION": "Die erste Karte, die du jeden Zug ziehst, kostet in diesem Zug !M! weniger."
+    "DESCRIPTION": "Erhalte zu Beginn des Zuges ein *Zerschmettern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn des Zuges !M! *Zerschmettern auf die Hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1738,7 +1739,7 @@
   },
   "SandsOfTime": {
     "NAME": "Sand der Zeit",
-    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Immer wenn diese Karte behalten wird, verringere ihre Kosten für diesen Kampf um 1."
+    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Beim Behalten verringere die Kosten für diesen Kampf um 1."
   },
   "Blasphemy": {
     "NAME": "Blasphemie",

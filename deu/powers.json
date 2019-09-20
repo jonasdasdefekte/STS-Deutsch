@@ -385,7 +385,7 @@
     ]
   },
   "Feel No Pain": {
-    "NAME": "Schmerzlos",
+    "NAME": "Schmerzfrei",
     "DESCRIPTIONS": [
       "Immer wenn eine Karte #yerschöpft, erhältst du #b",
       " #yBlock."
@@ -1161,8 +1161,9 @@
   "BattleHymn": {
     "NAME": "Kampfhymne",
     "DESCRIPTIONS": [
-      "Die erste Karte, die du jeden Zug ziehst, kostet in diesem Zug #b",
-      " weniger."
+      "Erhalte zu Beginn deines Zuges #b",
+      " #yZerschmettern auf die Hand.",
+      " #yZerschmettern auf die Hand."
     ]
   },
   "FreeAttackPower": {
@@ -1182,10 +1183,10 @@
   "MasterRealityPower": {
     "NAME": "Realität meistern",
     "DESCRIPTIONS": [
-      "Erhalte am Anfang deines Zuges #b",
-      " #y",
-      " auf deine Hand.",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "Füge am Ende deines Zuges einem zufälligen Gegner pro behaltener Handkarte #b",
+      " Schaden zu.",
+      "",
+      ""
     ]
   },
   "StrikeUp": {
