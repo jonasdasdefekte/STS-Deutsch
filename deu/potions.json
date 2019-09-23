@@ -74,7 +74,7 @@
   "FairyPotion": {
     "NAME": "Feenflasche",
     "DESCRIPTIONS": [
-      "Wenn du sterben würdest, wird dieser Trank abgeworfen. Heile stattdessen auf #b",
+      "Wenn du sterben würdest, wirf diesen Trank ab. Heile stattdessen auf #b",
       "% deiner max. TP."
     ]
   },

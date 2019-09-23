@@ -1388,8 +1388,8 @@
     ]
   },
   "TeardropLocket": {
-    "NAME": "Tränenförmiges Medaillon",
-    "FLAVOR": "Ist der Besitzer blind bleibt der Inhalt ungesehen.",
+    "NAME": "Tränenmedaillon",
+    "FLAVOR": "Ist der Besitzer blind, bleibt der Inhalt ungesehen.",
     "DESCRIPTIONS": [
       "Beginne jeden Kampf in #yRuhe."
     ]

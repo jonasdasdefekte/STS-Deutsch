@@ -1318,7 +1318,7 @@
   },
   "Adaptation": {
     "NAME": "Adaptierung",
-    "DESCRIPTION": "Immer wenn du Haltungen wechselst, ziehe !M! Karte.",
+    "DESCRIPTION": "Immer wenn du die Haltung änderst, ziehe !M! Karte.",
     "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "Causality": {
@@ -1467,7 +1467,7 @@
   },
   "Mastery": {
     "NAME": "Meisterlich",
-    "DESCRIPTION": "Immer wenn du beim Wechseln der Haltung versuchst, zu deiner aktuellen Haltung zu wechseln, erhalte [B]."
+    "DESCRIPTION": "Immer wenn du beim Ändern der Haltung versuchst, zu deiner aktuellen Haltung zu ändern, erhalte [B]."
   },
   "Beta": {
     "NAME": "Beta",
@@ -1681,8 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "Kampfhymne",
-    "DESCRIPTION": "Erhalte zu Beginn des Zuges ein *Zerschmettern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn des Zuges !M! *Zerschmettern auf die Hand."
+    "DESCRIPTION": "Erhalte zu Beginn des Zuges ein *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn des Zuges !M! *Zertrümmern auf die Hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1800,7 +1800,7 @@
   },
   "StepAndStrike": {
     "NAME": "Schlag folgt Schritt",
-    "DESCRIPTION": "Kostet 1 weniger pro Haltungswechsel in diesem Zug. NL Erhalte !B! Block. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Kostet für jedes Ändern der Haltung in diesem Zug 1 weniger. NL Erhalte !B! Block. NL Füge !D! Schaden zu."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
@@ -1816,7 +1816,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Hiebregen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Kommt bei Haltungswechsel vom Abwurfstapel auf die Hand zurück."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Kommt beim Ändern der Haltung vom Abwurfstapel auf die Hand zurück."
   },
   "SashWhip": {
     "NAME": "Schärpenhieb",
