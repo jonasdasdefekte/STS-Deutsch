@@ -1033,9 +1033,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptierung",
+    "NAME": "Eile",
     "DESCRIPTIONS": [
-      "Immer wenn du deine #yHaltung änderst, ziehe #b",
+      "Immer wenn du #yZorn annimmst, ziehe #b",
       " Karte.",
       " Karten."
     ]
@@ -1246,6 +1246,13 @@
       "und erhöhe dies um #b",
       ".",
       "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Allwissenheit",
+    "DESCRIPTIONS": [
+      "Immer wenn du #yspähst, #yspähe #b",
+      " Karten mehr."
     ]
   }
 }

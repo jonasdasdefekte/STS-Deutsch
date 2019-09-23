@@ -1370,7 +1370,7 @@
     "FLAVOR": "Sieht verschlagen aus.",
     "DESCRIPTIONS": [
       "Karten, die \"Schlag\" beinhalten, verursachen #b",
-      " zusätzlichen Schaden."
+      " Schaden mehr."
     ]
   },
   "VioletLotus": {
@@ -1417,16 +1417,16 @@
     ]
   },
   "CloakClasp": {
-    "NAME": "Mantelverschluss",
-    "FLAVOR": "Einfach und Effektiv.",
+    "NAME": "Manschettenknopf",
+    "FLAVOR": "Einfaches, aber robustes Design.",
     "DESCRIPTIONS": [
-      "Am Anfang deines Zuges, erhalte #b",
-      " #yBlock für jede Karte in deiner Hand."
+      "Erhalte am Ende deines Zuges #b",
+      " #yBlock pro Handkarte."
     ]
   },
   "Melange": {
     "NAME": "Melange",
-    "FLAVOR": "Mysteriöser Sand mit unbekanntem Ursprung. Riecht nach Zimt.",
+    "FLAVOR": "Mysteriöser Sand von unbekanntem Ursprung. Riecht nach Zimt.",
     "DESCRIPTIONS": [
       "Immer wenn du den Nachziehstapel mischst, #ySpähe #b",
       "."
@@ -1441,7 +1441,7 @@
   },
   "InkBottle": {
     "NAME": "Tintenflasche",
-    "FLAVOR": "Scheint sich automatisch mit einer neuen Farbe zu füllen, wenn sie leer ist.",
+    "FLAVOR": "Scheint sich von allein mit einer neuen Farbe zu füllen, wenn sie leer ist.",
     "DESCRIPTIONS": [
       "Immer wenn du #b10 Karten spielst, ziehe #b1 Karte."
     ]

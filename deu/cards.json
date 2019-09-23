@@ -1317,8 +1317,8 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm Zorn an. NL Du kannst Zorn in diesem Zug nicht verlassen."
   },
   "Adaptation": {
-    "NAME": "Adaptierung",
-    "DESCRIPTION": "Immer wenn du die Haltung änderst, ziehe !M! Karte.",
+    "NAME": "Eile",
+    "DESCRIPTION": "Immer wenn du Zorn annimmst, ziehe !M! Karte.",
     "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "Causality": {
@@ -1706,9 +1706,9 @@
     "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Omniscience": {
-    "NAME": "Allgegenwärtigkeit",
-    "DESCRIPTION": "Spähe den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Spähe den Nachziehstapel."
+    "NAME": "Allwissenheit",
+    "DESCRIPTION": "Immer wenn du spähst, spähe !M! Karten mehr.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "Omega",
@@ -1821,5 +1821,10 @@
   "SashWhip": {
     "NAME": "Schärpenhieb",
     "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte ein Angriff, wende !M! Schwach an."
+  },
+  "WheelKick": {
+    "NAME": "Wirbeltritt",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten."
   }
 }

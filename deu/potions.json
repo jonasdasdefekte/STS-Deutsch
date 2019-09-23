@@ -35,13 +35,13 @@
     ]
   },
   "Elixir": {
-    "NAME": "Elixier",
+    "NAME": "VERALTET Elixier",
     "DESCRIPTIONS": [
       "",
       "",
-      "#yErschöpfe alle #yStatuskarten und #Flüche auf deiner Hand.",
       "",
-      "Es hatte keinen Effekt …"
+      "",
+      ""
     ]
   },
   "Energy Potion": {
@@ -122,8 +122,8 @@
   "Health Potion": {
     "NAME": "Gesundheitstrank",
     "DESCRIPTIONS": [
-      "Heile #b",
-      " TP."
+      "VERALTET",
+      ""
     ]
   },
   "LiquidBronze": {

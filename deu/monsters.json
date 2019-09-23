@@ -669,7 +669,8 @@
     "NAME": "Zeitfresser",
     "DIALOG": [
       "~Ah~ ~...~ NL ~...~ ~Gesellschaft~ ~...~",
-      "~Töricht~ ~...~ NL @TÖRICHT!@"
+      "~Töricht~ ~...~ NL @TÖRICHT!@",
+      "~Mochte....~ NL ~...dich..~ NL ~..nie...~"
     ]
   },
   "TorchHead": {
