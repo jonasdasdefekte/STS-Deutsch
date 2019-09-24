@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Wutanfall",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm Zorn an. NL Du kannst Zorn in diesem Zug nicht verlassen."
+    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner !D! Schaden zu. NL Nimm Zorn an. NL Mische diese Karte in den Nachziehstapel."
   },
   "Adaptation": {
     "NAME": "Eile",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Füge am Ende des Zuges einem zufälligen Gegner !M! Schaden pro behaltener Handkarte zu."
+    "DESCRIPTION": "Immer wenn du eine Karte mit Behalten spielst, füge einem zufälligen Gegner !M! Schaden zu."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1826,5 +1826,9 @@
     "NAME": "Wirbeltritt",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten.",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten."
+  },
+  "Indignation": {
+    "NAME": "Empörung",
+    "DESCRIPTION": "Wenn du in Zorn bist, wende an ALLEN Gegnern !M! Verwundbar an, sonst nimm Zorn an."
   }
 }

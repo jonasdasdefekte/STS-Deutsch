@@ -1183,7 +1183,7 @@
   "MasterRealityPower": {
     "NAME": "Realität meistern",
     "DESCRIPTIONS": [
-      "Füge am Ende deines Zuges einem zufälligen Gegner pro behaltener Handkarte #b",
+      "Immer wenn du eine Karte mit #yBehalten spielst, füge einem zufälligen Gegner #b",
       " Schaden zu.",
       "",
       ""

@@ -122,8 +122,8 @@
       "Wähle eine Karte, die du verbesserst",
       "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]",
       " #rTP und",
-      "[ #gErhalte #geine #gzufällige #gfarblose #gungewöhnliche #gKarte ]",
-      "#gerhalte #g2 #gzufällige #gfarblose #gKarten ]"
+      "[ #gWähle #geine #gfarblose #gKarte #gfür #gdein #gDeck ]",
+      "#gwähle #geine #gseltene #gfarblose #gKarte ]",
     ],
     "UNIQUE_REWARDS": [
       "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
