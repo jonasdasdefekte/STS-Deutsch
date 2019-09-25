@@ -601,7 +601,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte 1 Immateriell. NL Erschöpft."
   },
   "Ghostly Armor": {
-    "NAME": "Geisterhafte Rüstung",
+    "NAME": "Geisterrüstung",
     "DESCRIPTION": "Erhalte !B! Block. NL Flüchtig."
   },
   "Glacier": {
@@ -1323,8 +1323,8 @@
   },
   "Causality": {
     "NAME": "Kausalität",
-    "DESCRIPTION": "Ziehe Karten, bis deine Hand voll ist. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Behalten. NL Ziehe Karten, bis deine Hand voll ist. NL Erschöpft."
+    "DESCRIPTION": "Ziehe Karten, NL bis deine Hand voll ist. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Behalten. NL Ziehe Karten, NL bis deine Hand voll ist. NL Erschöpft."
   },
   "Devotion": {
     "NAME": "Hingabe",
