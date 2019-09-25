@@ -1825,7 +1825,7 @@
   "WheelKick": {
     "NAME": "Wirbeltritt",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
     "NAME": "Empörung",
