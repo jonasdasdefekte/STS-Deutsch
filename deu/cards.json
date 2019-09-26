@@ -1318,7 +1318,7 @@
   },
   "Adaptation": {
     "NAME": "Eile",
-    "DESCRIPTION": "Immer wenn du Zorn annimmst, ziehe !M! Karte.",
+    "DESCRIPTION": "Immer wenn du Zorn annimmst, ziehe !M! Karten.",
     "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "Causality": {
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "Wünschen",
-    "DESCRIPTION": "Wähle eine Karte im Nachziehstapel. NL Spiele die gewählte Karte zweimal und erschöpfe sie. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": ""
+    "DESCRIPTION": "Verliere 25% deiner aktuellen TP. NL Deine Träume werden wahr. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Verliere 25% deiner aktuellen TP. NL Deine wildesten Träume werden wahr. NL Erschöpft."
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1648,8 +1648,8 @@
   },
   "Pray": {
     "NAME": "Beten",
-    "DESCRIPTION": "Erhalte !M! Mantra. NL Mische ein *Wunder in den Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Mische ein verbessertes *Wunder in den Nachziehstapel."
+    "DESCRIPTION": "Erhalte !M! Mantra. NL Mische eine *Einsicht in den Nachziehstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Mische eine verbesserte *Einsicht in den Nachziehstapel."
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
@@ -1707,7 +1707,7 @@
   },
   "Omniscience": {
     "NAME": "Allwissenheit",
-    "DESCRIPTION": "Immer wenn du spähst, spähe !M! Karten mehr.",
+    "DESCRIPTION": "Wähle eine Karte im Nachziehstapel. NL Spiele die gewählte Karte zweimal und erschöpfe sie. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
@@ -1830,5 +1830,17 @@
   "Indignation": {
     "NAME": "Empörung",
     "DESCRIPTION": "Wenn du in Zorn bist, wende an ALLEN Gegnern !M! Verwundbar an, sonst nimm Zorn an."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Allmächtig werden",
+    "DESCRIPTION": "Erhalte !M! Stärke."
+  },
+  "FameAndFortune": {
+    "NAME": "Ruhm und Reichtum",
+    "DESCRIPTION": "Erhalte !M! Gold."
+  },
+  "LiveForever": {
+    "NAME": "Ewiges Leben",
+    "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Panzerrüstung."
   }
 }

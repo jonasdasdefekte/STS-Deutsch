@@ -1483,5 +1483,13 @@
       "Erhalte zu Beginn deines 3. Zuges #b",
       " #yBlock."
     ]
+  },
+  "GoldenEye": {
+    "NAME": "Goldenes Auge",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Immer wenn du #yspähst, #yspähe #b",
+      " Karten mehr."
+    ]
   }
 }
