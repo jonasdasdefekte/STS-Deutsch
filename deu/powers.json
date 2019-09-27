@@ -506,7 +506,7 @@
   "IntangiblePlayer": {
     "NAME": "Immateriell",
     "DESCRIPTIONS": [
-      "Verringert ALLEN genommenen Schaden und TP-Verlust auf #b1."
+      "Verringert ALLEN genommenen Angriffsschaden auf #b1."
     ]
   },
   "Inverted": {
@@ -1253,6 +1253,13 @@
     "DESCRIPTIONS": [
       "",
       ""
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Händewinken",
+    "DESCRIPTIONS": [
+      "Immer wenn du #yBlock erhältst, wende an ALLEN Gegnern #b",
+      " #ySchwach und #yVerwundbar an."
     ]
   }
 }

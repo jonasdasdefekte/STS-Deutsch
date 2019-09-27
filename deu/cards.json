@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Schneesturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! Mal des in diesem Kampf erschaffenen Frosts.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal des in diesem Kampf erschaffenen Frosts.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)",
       ""
@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Blut um Blut",
-    "DESCRIPTION": "Die Kosten dieser Karte sinken jedes Mal um 1 [R] , wenn du TP verlierst. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Die Kosten dieser Karte sinken jedesmal um 1 [R] , wenn du TP verlierst. NL Füge !D! Schaden zu."
   },
   "Bloodletting": {
     "NAME": "Aderlass",
@@ -169,7 +169,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Springende Flasche",
-    "DESCRIPTION": "Wende !M! Mal 3 Gift auf einen zufälligen Gegner an."
+    "DESCRIPTION": "Wende !M! mal 3 Gift auf einen zufälligen Gegner an."
   },
   "Brutality": {
     "NAME": "Brutalität",
@@ -645,8 +645,8 @@
   },
   "Heavy Blade": {
     "NAME": "Schweres Schwert",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert NL !M! Mal.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert NL !M! Mal."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert NL !M! mal.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst Schweres Schwert NL !M! mal."
   },
   "Heel Hook": {
     "NAME": "Fersenklemme",
@@ -744,7 +744,7 @@
   "Loop": {
     "NAME": "Schleife",
     "DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs aus.",
-    "UPGRADE_DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! Mal aus."
+    "UPGRADE_DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! mal aus."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
@@ -803,8 +803,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multi-Entladung",
-    "DESCRIPTION": "Entlade deinen vordersten Orb X Mal.",
-    "UPGRADE_DESCRIPTION": "Entlade deinen vordersten Orb X+1 Mal."
+    "DESCRIPTION": "Entlade deinen vordersten Orb X mal.",
+    "UPGRADE_DESCRIPTION": "Entlade deinen vordersten Orb X+1 mal."
   },
   "Necronomicurse": {
     "NAME": "Necronomischer Fluch",
@@ -909,8 +909,8 @@
   },
   "Pummel": {
     "NAME": "Prügeln",
-    "DESCRIPTION": "Füge !M! Mal NL !D! Schaden zu. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Füge !M! Mal NL !D! Schaden zu. NL Erschöpft."
+    "DESCRIPTION": "Füge !M! mal NL !D! Schaden zu. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Füge !M! mal NL !D! Schaden zu. NL Erschöpft."
   },
   "Purity": {
     "NAME": "Reinheit",
@@ -971,7 +971,7 @@
   },
   "Reinforced Body": {
     "NAME": "Verstärkte Hülle",
-    "DESCRIPTION": "Erhalte X Mal !B! Block."
+    "DESCRIPTION": "Erhalte X mal !B! Block."
   },
   "Reprogram": {
     "NAME": "Umprogrammieren",
@@ -980,11 +980,11 @@
   },
   "Riddle With Holes": {
     "NAME": "Zerlöchern",
-    "DESCRIPTION": "Füge 5 Mal NL !D! Schaden zu."
+    "DESCRIPTION": "Füge 5 mal NL !D! Schaden zu."
   },
   "Rip and Tear": {
     "NAME": "Zerfetzen",
-    "DESCRIPTION": "Füge !M! Mal einem zufälligen Gegner NL !D! Schaden zu."
+    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner NL !D! Schaden zu."
   },
   "RitualDagger": {
     "NAME": "Ritualdolch",
@@ -1070,7 +1070,7 @@
   },
   "Skewer": {
     "NAME": "Aufspießen",
-    "DESCRIPTION": "Füge X Mal NL !D! Schaden zu."
+    "DESCRIPTION": "Füge X mal NL !D! Schaden zu."
   },
   "Skim": {
     "NAME": "Abschöpfen",
@@ -1157,7 +1157,7 @@
   },
   "Sword Boomerang": {
     "NAME": "Bumerangschwert",
-    "DESCRIPTION": "Füge !M! Mal einem zufälligen Gegner !D! Schaden zu."
+    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner !D! Schaden zu."
   },
   "Tactician": {
     "NAME": "Taktikerin",
@@ -1189,7 +1189,7 @@
     "NAME": "Donnerschlag",
     "DESCRIPTION": "Füge pro in diesem Kampf erschaffenem Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      " (Greift !M! Mal an.)"
+      " (Greift !M! mal an.)"
     ]
   },
   "Thunderclap": {
@@ -1267,7 +1267,7 @@
   },
   "Whirlwind": {
     "NAME": "Wirbelwind",
-    "DESCRIPTION": "Füge ALLEN Gegnern X Mal !D! Schaden zu."
+    "DESCRIPTION": "Füge ALLEN Gegnern X mal !D! Schaden zu."
   },
   "White Noise": {
     "NAME": "Rauschen",
@@ -1509,7 +1509,7 @@
   },
   "WaveOfTheHand": {
     "NAME": "Händewinken",
-    "DESCRIPTION": "Ruhe: Wende !M! Schwach an. NL Zorn: Wende !M! Verwundbar an."
+    "DESCRIPTION": "Immer wenn du in diesem Zug Block erhältst, wende an ALLEN Gegnern !M! Schwach und !M! Verwundbar an."
   },
   "Vigilance": {
     "NAME": "Wachsamkeit",
@@ -1681,8 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "Kampfhymne",
-    "DESCRIPTION": "Erhalte zu Beginn des Zuges ein *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn des Zuges !M! *Zertrümmern auf die Hand."
+    "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges !M! *Zertrümmern auf die Hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1712,7 +1712,7 @@
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "Füge zu Beginn des Zuges ALLEN Gegnern !M! Schaden zu."
+    "DESCRIPTION": "Füge am Ende deines Zuges ALLEN Gegnern !M! Schaden zu."
   },
   "Serenity": {
     "NAME": "Gelassenheit",
@@ -1842,5 +1842,18 @@
   "LiveForever": {
     "NAME": "Ewiges Leben",
     "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Panzerrüstung."
+  },
+  "Expunger": {
+    "NAME": "Vernichter",
+    "DESCRIPTION": "Füge X mal !D! Schaden zu.",
+    "UPGRADE_DESCRIPTION": "Füge X+1 mal !D! Schaden zu.",
+    "EXTENDED_DESCRIPTION": [
+      "Füge !M! mal !D! Schaden zu."
+    ]
+  },
+  "ConjureBlade": {
+    "NAME": "Klinge beschwören",
+    "DESCRIPTION": "Mische einen *Vernichter in den Nachziehstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Mische einen verbesserten *Vernichter in den Nachziehstapel. NL Erschöpft."
   }
 }

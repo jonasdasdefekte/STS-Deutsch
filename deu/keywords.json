@@ -116,7 +116,7 @@
       "NAMES": [
         "immateriell"
       ],
-      "DESCRIPTION": "Reduziere jeglichen genommenen Schaden auf #b1."
+      "DESCRIPTION": "Reduziere jeglichen genommenen #yAngriffsschaden auf #b1."
     },
     "LIGHTNING": {
       "NAMES": [
