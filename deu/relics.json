@@ -616,8 +616,8 @@
     "NAME": "Spar-Schlund",
     "FLAVOR": "Überraschend beliebt, obwohl immer wieder Schlund-Angriffe passieren.",
     "DESCRIPTIONS": [
-      "Für jede erreichte Ebene erhältst du #b",
-      " #yGold. Endet, sobald du #yGold im Laden bezahlst.",
+      "Erhalte auf jeder erreichten Ebene #b",
+      " #yGold, bis du das nächste Mal #yGold im Laden bezahlst.",
       "Dieses Relikt wurde aufgebraucht."
     ]
   },
