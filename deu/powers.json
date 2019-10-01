@@ -506,7 +506,7 @@
   "IntangiblePlayer": {
     "NAME": "Immateriell",
     "DESCRIPTIONS": [
-      "Verringert ALLEN genommenen Angriffsschaden auf #b1."
+      "Verringert ALLEN genommenen Schaden und TP-Verlust auf #b1."
     ]
   },
   "Inverted": {
@@ -1072,9 +1072,9 @@
   "Collect": {
     "NAME": "Sammeln",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn deines nächsten Zuges ein #yverbessertes #yWunder auf die Hand.",
+      "Erhalte zu Beginn deines nächsten Zuges ein #yWunder+ auf die Hand.",
       "Erhalte zu Beginn deiner nächsten #b",
-      " Züge ein #yverbessertes #yWunder auf die Hand."
+      " Züge ein #yWunder+ auf die Hand."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1259,7 +1259,21 @@
     "NAME": "Händewinken",
     "DESCRIPTIONS": [
       "Immer wenn du #yBlock erhältst, wende an ALLEN Gegnern #b",
+      " #ySchwach an."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "Wave Of The Hand2",
+    "DESCRIPTIONS": [
+      "Immer wenn du die #yHaltung änderst, wende an ALLEN Gegnern #b",
       " #ySchwach und #yVerwundbar an."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasten",
+    "DESCRIPTIONS": [
+      "Verliere zu Beginn deines Zuges ",
+      "."
     ]
   }
 }

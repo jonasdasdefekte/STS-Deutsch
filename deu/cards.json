@@ -1117,7 +1117,7 @@
   "Storm of Steel": {
     "NAME": "Stahlsturm",
     "DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 *Messer auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 verbessertes *Messer auf die Hand."
+    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 *Messer+ auf die Hand."
   },
   "Streamline": {
     "NAME": "Optimieren",
@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Wutanfall",
-    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner !D! Schaden zu. NL Nimm Zorn an. NL Mische diese Karte in den Nachziehstapel."
+    "DESCRIPTION": "Füge !M! mal !D! Schaden zu. NL Nimm Zorn an. NL Mische diese Karte in den Nachziehstapel."
   },
   "Adaptation": {
     "NAME": "Eile",
@@ -1353,8 +1353,8 @@
   },
   "Wish": {
     "NAME": "Wünschen",
-    "DESCRIPTION": "Verliere 25% deiner aktuellen TP. NL Deine Träume werden wahr. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Verliere 25% deiner aktuellen TP. NL Deine wildesten Träume werden wahr. NL Erschöpft."
+    "DESCRIPTION": "Wähle eins: NL Erhalte !B! Panzerrüstung in jedem Zug, !D! Stärke oder !M! Gold. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1371,7 +1371,7 @@
   "Metaphysics": {
     "NAME": "Metaphysik",
     "DESCRIPTION": "Mische eine *Kausalität in den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Mische eine verbesserte *Kausalität in den Nachziehstapel. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Mische eine *Kausalität+ in den Nachziehstapel. NL Erschöpft."
   },
   "Clarity": {
     "NAME": "Klarheit",
@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "Überspringen",
-    "DESCRIPTION": "Erhalte 1 Immateriell. NL Füge im nächsten Zug !D! Schaden zu. NL Beende deinen Zug. NL Erschöpft."
+    "DESCRIPTION": "Überspringe den nächsten Gegnerzug. NL Beende deinen Zug. NL Erschöpft."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1422,7 +1422,7 @@
   "CleanseEvil": {
     "NAME": "Böses reinigen",
     "DESCRIPTION": "Erhalte X *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte X verbesserte *Zertrümmern auf die Hand."
+    "UPGRADE_DESCRIPTION": "Erhalte X *Zertrümmern+ auf die Hand."
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
@@ -1472,7 +1472,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Erhalte ein *Omega unter den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte ein verbessertes *Omega unter den Nachziehstapel. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Erhalte ein *Omega+ unter den Nachziehstapel. NL Erschöpft."
   },
   "FearNoEvil": {
     "NAME": "Fürchte kein Böses",
@@ -1508,8 +1508,8 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Spähe !M!. NL Ziehe 1 Karte."
   },
   "WaveOfTheHand": {
-    "NAME": "Händewinken",
-    "DESCRIPTION": "Immer wenn du in diesem Zug Block erhältst, wende an ALLEN Gegnern !M! Schwach und !M! Verwundbar an."
+    "NAME": "Händewinken B",
+    "DESCRIPTION": "Immer wenn du diesen Zug Block erhältst, wende an ALLEN Gegnern !M! Schwach an."
   },
   "Vigilance": {
     "NAME": "Wachsamkeit",
@@ -1524,7 +1524,7 @@
   "Evaluate": {
     "NAME": "Auswerten",
     "DESCRIPTION": "Erhalte !B! Block. NL Mische eine *Einsicht in den Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Mische eine verbesserte *Einsicht in den Nachziehstapel."
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Mische eine *Einsicht+ in den Nachziehstapel."
   },
   "Establishment": {
     "NAME": "Etablierung",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "Sammeln",
-    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten X Züge ein verbessertes Wunder auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten X+1 Züge ein verbessertes Wunder auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten X Züge ein Wunder+ auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten X+1 Züge ein Wunder+ auf die Hand. NL Erschöpft."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1606,7 +1606,7 @@
   "DeceiveReality": {
     "NAME": "Realität trügen",
     "DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Geborgenheit auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine verbessere *Geborgenheit auf die Hand."
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Geborgenheit+ auf die Hand."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1649,7 +1649,7 @@
   "Pray": {
     "NAME": "Beten",
     "DESCRIPTION": "Erhalte !M! Mantra. NL Mische eine *Einsicht in den Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Mische eine verbesserte *Einsicht in den Nachziehstapel."
+    "UPGRADE_DESCRIPTION": "Erhalte !M! Mantra. NL Mische eine *Einsicht+ in den Nachziehstapel."
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
@@ -1672,7 +1672,7 @@
   "ReachHeaven": {
     "NAME": "Den Himmel erreichen",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein NL *Durch *Gewalt in den Nachziehstapel.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein verbessertes *Durch *Gewalt in den Nachziehstapel."
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein *Durch *Gewalt+ in den Nachziehstapel."
   },
   "Insight": {
     "NAME": "Einsicht",
@@ -1772,7 +1772,7 @@
   "CarveReality": {
     "NAME": "Realität prägen",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein verbessertes *Zertrümmern auf die Hand."
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein *Zertrümmern+ auf die Hand."
   },
   "Defend_P": {
     "NAME": "Verteidigen",
@@ -1787,8 +1787,8 @@
     "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Fasting": {
-    "NAME": "Fasten",
-    "DESCRIPTION": "Erhalte !M! Artefakt."
+    "NAME": "Fasten A",
+    "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit."
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
@@ -1854,6 +1854,14 @@
   "ConjureBlade": {
     "NAME": "Klinge beschwören",
     "DESCRIPTION": "Mische einen *Vernichter in den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Mische einen verbesserten *Vernichter in den Nachziehstapel. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Mische einen *Vernichter+ in den Nachziehstapel. NL Erschöpft."
+  },
+  "WaveOfTheHand2": {
+    "NAME": "Händewinken A",
+    "DESCRIPTION": "Immer wenn du diesen Zug die Haltung änderst, wende an ALLEN Gegnern !M! Schwach und !M! Verwundbar an."
+  },
+  "Fasting2": {
+    "NAME": "Fasten B",
+    "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
   }
 }
