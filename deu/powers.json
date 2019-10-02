@@ -1256,17 +1256,17 @@
     ]
   },
   "WaveOfTheHandPower": {
-    "NAME": "Händewinken",
+    "NAME": "Wink mit der Hand",
     "DESCRIPTIONS": [
       "Immer wenn du #yBlock erhältst, wende an ALLEN Gegnern #b",
       " #ySchwach an."
     ]
   },
   "WaveOfTheHandPower2": {
-    "NAME": "Wave Of The Hand2",
+    "NAME": "",
     "DESCRIPTIONS": [
-      "Immer wenn du die #yHaltung änderst, wende an ALLEN Gegnern #b",
-      " #ySchwach und #yVerwundbar an."
+      "",
+      ""
     ]
   },
   "EnergyDownPower": {

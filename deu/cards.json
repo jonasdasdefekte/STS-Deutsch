@@ -1369,9 +1369,9 @@
     "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Metaphysics": {
-    "NAME": "Metaphysik",
-    "DESCRIPTION": "Mische eine *Kausalität in den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Mische eine *Kausalität+ in den Nachziehstapel. NL Erschöpft."
+    "NAME": "",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Clarity": {
     "NAME": "Klarheit",
@@ -1508,7 +1508,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Spähe !M!. NL Ziehe 1 Karte."
   },
   "WaveOfTheHand": {
-    "NAME": "Händewinken B",
+    "NAME": "Wink mit der Hand",
     "DESCRIPTION": "Immer wenn du diesen Zug Block erhältst, wende an ALLEN Gegnern !M! Schwach an."
   },
   "Vigilance": {
@@ -1743,7 +1743,7 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemie",
-    "DESCRIPTION": "Nimm Göttlichkeit an. NL Stirb nächsten Zug."
+    "DESCRIPTION": "Nimm Göttlichkeit an. NL Stirb nächsten Zug. NL Erschöpft."
   },
   "Transcendence": {
     "NAME": "Transzendenz",
@@ -1787,8 +1787,8 @@
     "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "Fasting": {
-    "NAME": "Fasten A",
-    "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit."
+    "NAME": "",
+    "DESCRIPTION": ""
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
@@ -1857,11 +1857,11 @@
     "UPGRADE_DESCRIPTION": "Mische einen *Vernichter+ in den Nachziehstapel. NL Erschöpft."
   },
   "WaveOfTheHand2": {
-    "NAME": "Händewinken A",
-    "DESCRIPTION": "Immer wenn du diesen Zug die Haltung änderst, wende an ALLEN Gegnern !M! Schwach und !M! Verwundbar an."
+    "NAME": "",
+    "DESCRIPTION": ""
   },
   "Fasting2": {
-    "NAME": "Fasten B",
+    "NAME": "Fasten",
     "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
   }
 }
