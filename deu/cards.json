@@ -1454,8 +1454,8 @@
   },
   "Wireheading": {
     "NAME": "Voraussicht",
-    "DESCRIPTION": "Zu Beginn deines Zuges spähe !M!.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Zu Beginn deines Zuges spähe !M!."
+    "DESCRIPTION": "Zu Beginn deines Zuges Spähe !M!.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Zu Beginn deines Zuges Spähe !M!."
   },
   "Sanctity": {
     "NAME": "Heiligkeit",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "Sammeln",
-    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten X Züge ein Wunder+ auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten X+1 Züge ein Wunder+ auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten X Züge ein *Wunder+ auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten X+1 Züge ein *Wunder+ auf die Hand. NL Erschöpft."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1600,7 +1600,7 @@
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Immer wenn du spähst, erhalte !M! Block.",
+    "DESCRIPTION": "Immer wenn du Spähst, erhalte !M! Block.",
     "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
@@ -1682,7 +1682,7 @@
   "BattleHymn": {
     "NAME": "Kampfhymne",
     "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges !M! *Zertrümmern auf die Hand."
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges ein *Zertrümmern auf die Hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1759,7 +1759,7 @@
   },
   "Weave": {
     "NAME": "Einflechten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du diese Karte beim Spähen abwerfen würdest, nimm sie stattdessen auf die Hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du Spähst, nimm diese Karte vom Abwurfstapel auf die Hand."
   },
   "CrushJoints": {
     "NAME": "Gelenke brechen",
@@ -1816,7 +1816,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Hiebregen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Kommt beim Ändern der Haltung vom Abwurfstapel auf die Hand zurück."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du Haltungen änderst, nimm diese Karte vom Abwurfstapel auf die Hand."
   },
   "SashWhip": {
     "NAME": "Schärpenhieb",
