@@ -1183,8 +1183,8 @@
   "MasterRealityPower": {
     "NAME": "Realität meistern",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Karte mit #yBehalten spielst, füge einem zufälligen Gegner #b",
-      " Schaden zu.",
+      "Immer wenn eine Karte erschaffen wird, wird sie #yverbessert.",
+      "",
       "",
       ""
     ]
@@ -1274,6 +1274,12 @@
     "DESCRIPTIONS": [
       "Verliere zu Beginn deines Zuges ",
       "."
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "Disziplin",
+    "DESCRIPTIONS": [
+      "Wenn du deinen Zug mit unbenutzter [W] beendest, ziehe nächsten Zug genauso viele Karten."
     ]
   }
 }

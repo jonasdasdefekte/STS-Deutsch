@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Immer wenn du eine Karte mit Behalten spielst, füge einem zufälligen Gegner !M! Schaden zu."
+    "DESCRIPTION": "Immer wenn du eine Karte im Kampf erhältst, verbessere sie."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1638,7 +1638,7 @@
   },
   "Scrawl": {
     "NAME": "Gesudel",
-    "DESCRIPTION": "Ziehe !M! Karten. NL Du kannst diesen Zug keine Fertigkeiten spielen.",
+    "DESCRIPTION": "Ziehe Karten, bis deine Hand voll ist. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
@@ -1863,5 +1863,9 @@
   "Fasting2": {
     "NAME": "Fasten",
     "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
+  },
+  "Discipline": {
+    "NAME": "Disziplin",
+    "DESCRIPTION": "Wenn du deinen Zug mit unbenutzer [W] endest, ziehe nächsten Zug genauso viele Karten."
   }
 }
