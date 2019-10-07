@@ -1720,7 +1720,7 @@
   },
   "Judgement": {
     "NAME": "Urteil",
-    "DESCRIPTION": "Wenn der Gegner !M! oder weniger TP hat, setze seine NL TP auf 0.",
+    "DESCRIPTION": "Wenn der Gegner !M! oder weniger TP hat, setze seine TP auf 0.",
     "EXTENDED_DESCRIPTION": [
       "VERURTEILT"
     ]
@@ -1759,7 +1759,7 @@
   },
   "Weave": {
     "NAME": "Einflechten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du Spähst, nimm diese Karte vom Abwurfstapel auf die Hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du Spähst, NL nimm diese Karte vom Abwurfstapel auf die Hand."
   },
   "CrushJoints": {
     "NAME": "Gelenke brechen",
