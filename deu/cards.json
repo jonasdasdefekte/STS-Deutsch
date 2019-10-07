@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "Wünschen",
-    "DESCRIPTION": "Wähle eins: NL Erhalte !B! Panzerrüstung in jedem Zug, !D! Stärke oder !M! Gold. NL Erschöpft.",
+    "DESCRIPTION": "Wähle eins: Erhalte !B! Panzerrüstung in jedem Zug, !D! Stärke oder !M! Gold. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
