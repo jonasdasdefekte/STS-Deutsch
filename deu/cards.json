@@ -1659,7 +1659,7 @@
   "ForeignInfluence": {
     "NAME": "Fremder Einfluss",
     "DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben, den du auf die Hand erhältst. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 verbesserten Angriffen aller Farben, den du auf die Hand erhältst. Erschöpft."
+    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben, den du auf die Hand erhältst. NL Er kostet diesen Zug 0. NL Erschöpft."
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
