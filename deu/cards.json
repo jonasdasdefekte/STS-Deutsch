@@ -1518,8 +1518,8 @@
   },
   "PathToVictory": {
     "NAME": "Weg zum Sieg",
-    "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels."
+    "DESCRIPTION": "Dieser Gegner verliert !M! TP, wenn du *Weg *zum *Sieg spielst.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "Auswerten",
@@ -1867,5 +1867,9 @@
   "Discipline": {
     "NAME": "Disziplin",
     "DESCRIPTION": "Wenn du deinen Zug mit unbenutzer [W] endest, ziehe nächsten Zug genauso viele Karten."
+  },
+  "Flick": {
+    "NAME": "Schnippen",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn ein Gegner 3 mal *geschnippt wird, nimmt er !M! Schaden."
   }
 }

@@ -1281,5 +1281,21 @@
     "DESCRIPTIONS": [
       "Wenn du deinen Zug mit unbenutzter [W] beendest, ziehe nächsten Zug genauso viele Karten."
     ]
+  },
+  "FlickPower": {
+    "NAME": "Geschnippt",
+    "DESCRIPTIONS": [
+      "Wenn dieser Gegner noch #b",
+      "2 mal #ygeschnippt wird, erleidet er #b",
+      "1 mal #ygeschnippt wird, erleidet er #b",
+      " Schaden."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Pfad zum Sieg",
+    "DESCRIPTIONS": [
+      "Verliert immer #b",
+      " TP, wenn du #yPfad #yzum #ySieg spielst."
+    ]
   }
 }
