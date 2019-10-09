@@ -1277,7 +1277,7 @@
     ]
   },
   "DisciplinePower": {
-    "NAME": "Disziplin",
+    "NAME": "VERALTET Disziplin",
     "DESCRIPTIONS": [
       "Wenn du deinen Zug mit unbenutzter [W] beendest, ziehe nächsten Zug genauso viele Karten."
     ]
@@ -1292,10 +1292,25 @@
     ]
   },
   "PathToVictoryPower": {
-    "NAME": "Pfad zum Sieg",
+    "NAME": "Markierung",
     "DESCRIPTIONS": [
       "Verliert immer #b",
       " TP, wenn du #yPfad #yzum #ySieg spielst."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Wie Wasser",
+    "DESCRIPTIONS": [
+      "Erhalte am Ende deines Zuges #b",
+      " #yBlock, wenn du in #yRuhe bist."
+    ]
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+      "Mische am Ende deines Zuges #b",
+      " #yEinsicht in deinen Nachziehstapel.",
+      " #yEinsichten in deinen Nachziehstapel."
     ]
   }
 }

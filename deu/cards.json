@@ -1343,7 +1343,7 @@
     "DESCRIPTION": "Whenever you lose HP, erhalte !M! Vigor."
   },
   "FlowState": {
-    "NAME": "Alles fließt",
+    "NAME": "VERALTET Alles fließt",
     "DESCRIPTION": "Zorn: Nimm Ruhe an. NL Ruhe: Nimm Zorn an. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Zorn: Nimm Ruhe an. NL Ruhe: Nimm Zorn an."
   },
@@ -1518,7 +1518,7 @@
   },
   "PathToVictory": {
     "NAME": "Weg zum Sieg",
-    "DESCRIPTION": "Dieser Gegner verliert !M! TP, wenn du *Weg *zum *Sieg spielst.",
+    "DESCRIPTION": "Wende !M! Markierung an. NL ALLE Gegner verlieren TP entsprechend ihrer Markierung.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
@@ -1865,11 +1865,19 @@
     "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
   },
   "Discipline": {
-    "NAME": "Disziplin",
+    "NAME": "VERALTET Disziplin",
     "DESCRIPTION": "Wenn du deinen Zug mit unbenutzer [W] endest, ziehe nächsten Zug genauso viele Karten."
   },
   "Flick": {
     "NAME": "Schnippen",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn ein Gegner 3 mal *geschnippt wird, nimmt er !M! Schaden."
+  },
+  "LikeWater": {
+    "NAME": "Wie Wasser",
+    "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Block, wenn du in Ruhe bist."
+  },
+  "Study": {
+    "NAME": "Studieren",
+    "DESCRIPTION": "Mische am Ende deines Zuges eine *Einsicht in deinen Nachziehstapel."
   }
 }
