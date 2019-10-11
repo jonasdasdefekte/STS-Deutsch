@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Wutanfall",
-    "DESCRIPTION": "Füge !M! mal !D! Schaden zu. NL Nimm Zorn an. NL Mische diese Karte in den Nachziehstapel."
+    "DESCRIPTION": "Füge !M! mal !D! Schaden zu. Nimm Zorn an. NL Mische diese Karte in den Nachziehstapel."
   },
   "Adaptation": {
     "NAME": "Eile",
@@ -1518,7 +1518,7 @@
   },
   "PathToVictory": {
     "NAME": "Weg zum Sieg",
-    "DESCRIPTION": "Wende !M! Markierung an. NL ALLE Gegner verlieren TP entsprechend ihrer Markierung.",
+    "DESCRIPTION": "Wende !M! Markierung an. ALLE Gegner verlieren TP entsprechend ihrer Markierung.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
