@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "Überspringen",
-    "DESCRIPTION": "Überspringe den nächsten Gegnerzug. NL Beende deinen Zug. NL Erschöpft."
+    "DESCRIPTION": "Du hast einen weiteren Zug nach diesem. NL Beende deinen Zug. NL Erschöpft."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
@@ -1471,8 +1471,8 @@
   },
   "Beta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Erhalte ein *Omega unter den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte ein *Omega+ unter den Nachziehstapel. NL Erschöpft."
+    "DESCRIPTION": "Mische ein *Omega in den Nachziehstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Mische ein *Omega+ in den Nachziehstapel. NL Erschöpft."
   },
   "FearNoEvil": {
     "NAME": "Fürchte kein Böses",
@@ -1869,7 +1869,7 @@
     "DESCRIPTION": "Wenn du deinen Zug mit unbenutzer [W] endest, ziehe nächsten Zug genauso viele Karten."
   },
   "Flick": {
-    "NAME": "Schnippen",
+    "NAME": "VERALTET Schnippen",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn ein Gegner 3 mal *geschnippt wird, nimmt er !M! Schaden."
   },
   "LikeWater": {
