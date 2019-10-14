@@ -326,7 +326,7 @@
       "NAMES": [
         "ritual"
       ],
-      "DESCRIPTION": "Gain #yStrength at the end of your turn."
+      "DESCRIPTION": "Erhalte am Ende deines Zuges #yStärke."
     }
   }
 }
