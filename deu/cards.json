@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Zeitlupe",
-    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Deine Handkarten kosten in diesem Zug 0."
+    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Deine Handkarten kosten für diesen Zug 0."
   },
   "Burn": {
     "NAME": "Brennen",
@@ -393,12 +393,12 @@
   },
   "Discovery": {
     "NAME": "Entdeckung",
-    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet in diesem Zug 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet in diesem Zug 0."
+    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet für diesen Zug 0. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet für diesen Zug 0."
   },
   "Distraction": {
     "NAME": "Ablenkung",
-    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet für diesen Zug 0. NL Erschöpft."
   },
   "Dodge and Roll": {
     "NAME": "Ausweichrolle",
@@ -688,7 +688,7 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet für diesen Zug 0. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Zahllose Klingen",
@@ -1202,8 +1202,8 @@
   },
   "Transmutation": {
     "NAME": "Umwandlung",
-    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. Sie kosten in diesem Zug 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. Sie kosten in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft."
   },
   "Trip": {
     "NAME": "Straucheln",
@@ -1271,7 +1271,7 @@
   },
   "White Noise": {
     "NAME": "Rauschen",
-    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet in diesem Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet für diesen Zug 0. NL Erschöpft."
   },
   "Wild Strike": {
     "NAME": "Wilder Schlag",
@@ -1615,7 +1615,7 @@
   },
   "Halt": {
     "NAME": "HALT",
-    "DESCRIPTION": "Erhalte !B! Block. NL Zorn: Erhalte !M! Block mehr."
+    "DESCRIPTION": "Erhalte !B! Block. NL Wenn du in Zorn bist, erhalte !M! Block mehr."
   },
   "CurseOfTheBell": {
     "NAME": "Fluch der Glocke",

@@ -9,8 +9,8 @@
   "AttackPotion": {
     "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
-      "Erhalte #b1 von #b3 zufälligen #yAngriffskarten auf die Hand, die in diesem Zug #b0 kostet.",
-      "Wähle #b1 von #b3 zufälligen #yAngriffskarten und erhalte #b2 auf die Hand, die in diesem Zug #b0 kosten."
+      "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm #b2 davon auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "Block Potion": {
@@ -52,7 +52,7 @@
     ]
   },
   "EntropicBrew": {
-    "NAME": "Chaos-Gebräu",
+    "NAME": "Entropisches Gebräu",
     "DESCRIPTIONS": [
       "Fülle deine leeren Trankslots mit zufälligen Tränken auf."
     ]
@@ -150,8 +150,8 @@
   "PowerPotion": {
     "NAME": "Machttrank",
     "DESCRIPTIONS": [
-      "Erhalte #b1 von #b3 zufälligen #yMachtkarten auf die Hand, die in diesem Zug #b0 kostet.",
-      "Wähle #b1 von #b3 zufälligen #yMachtkarten und erhalte #b2 auf die Hand, die in diesem Zug #b0 kosten."
+      "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm #b2 davon auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "Regen Potion": {
@@ -165,8 +165,8 @@
   "SkillPotion": {
     "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
-      "Erhalte #b1 von #b3 zufälligen #yFertigkeitskarten auf die Hand, die in diesem Zug #b0 kostet.",
-      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten und erhalte #b2 auf die Hand, die in diesem Zug #b0 kosten."
+      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm #b2 davon auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "SmokeBomb": {
@@ -280,6 +280,28 @@
     "NAME": "Ambrosia",
     "DESCRIPTIONS": [
       "Nimm die #yHaltung #yGöttlichkeit an."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Chaos-Destillat",
+    "DESCRIPTIONS": [
+      "Spiele die obersten #b",
+      " Karten deines Nachziehstapels."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Flüssige Erinnerungen",
+    "DESCRIPTIONS": [
+      "Wähle eine Karte aus deinem Abwurfstapel und nimm sie auf die Hand. Sie kostet für diesen Zug #b0.",
+      "Wähle #b ",
+      " Karten aus deinem Abwurfstapel und nimm sie auf die Hand. Sie kosten für diesen Zug #b0."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Kultistentrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yRitual."
     ]
   }
 }

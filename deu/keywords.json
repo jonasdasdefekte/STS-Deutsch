@@ -321,6 +321,12 @@
         "kraft"
       ],
       "DESCRIPTION": "Dein nächster Angriff fügt mehr Schaden zu."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gain #yStrength at the end of your turn."
     }
   }
 }
