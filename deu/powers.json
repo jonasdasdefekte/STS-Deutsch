@@ -1283,7 +1283,7 @@
     ]
   },
   "FlickPower": {
-    "NAME": "Geschnippt",
+    "NAME": "VERALTET Geschnippt",
     "DESCRIPTIONS": [
       "Wenn dieser Gegner noch #b",
       "2 mal #ygeschnippt wird, erleidet er #b",
@@ -1309,8 +1309,8 @@
     "NAME": "Studieren",
     "DESCRIPTIONS": [
       "Mische am Ende deines Zuges #b",
-      " #yEinsicht in deinen Nachziehstapel.",
-      " #yEinsichten in deinen Nachziehstapel."
+      " #yEinsichten in deinen Nachziehstapel.",
+      " #yEinsicht in deinen Nachziehstapel."
     ]
   }
 }
