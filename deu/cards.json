@@ -1582,8 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Devaform",
-    "DESCRIPTION": "Flüchtig. NL Erhalte zu Beginn deines Zuges [W] und erhöhe diesen Wert um !M!.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges [W] und erhöhe diesen Wert um !M!."
+    "DESCRIPTION": "Flüchtig. NL Erhalte zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!."
   },
   "TalkToTheHand": {
     "NAME": "Sprich zur Hand",
