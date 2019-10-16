@@ -1240,7 +1240,7 @@
     "NAME": "Werkzeugkiste",
     "FLAVOR": "Ein Werkzeug für jedes Problem.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Kampfes eine zufällige farblose Karte auf die Hand."
+      "Wähle zu Beginn jedes Kampfes #b1 von #b3 zufälligen farblosen Karten und nimm diese auf die Hand."
     ]
   },
   "Torii": {
