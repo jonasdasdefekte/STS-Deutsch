@@ -1379,7 +1379,7 @@
     "UPGRADE_DESCRIPTION": "Sieh die obersten !M! Karten des Nachziehstapels an. Nimm eine auf die Hand. NL Erschöpfe den Rest."
   },
   "WreathOfFlame": {
-    "NAME": "Zorn der Flamme",
+    "NAME": "Flammenkranz",
     "DESCRIPTION": "Dein nächster Angriff fügt !M! Schaden mehr zu."
   },
   "Flicker": {
@@ -1819,7 +1819,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du Haltungen änderst, nimm diese Karte vom Abwurfstapel auf die Hand."
   },
   "SashWhip": {
-    "NAME": "Schärpenhieb",
+    "NAME": "Schärpenknall",
     "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte ein Angriff, wende !M! Schwach an."
   },
   "WheelKick": {
