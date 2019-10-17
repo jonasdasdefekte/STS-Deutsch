@@ -947,7 +947,7 @@
   },
   "Reckless Charge": {
     "NAME": "Gewagter Ansturm",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein Benommen in den Nachziehstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Mische ein *Benommen in den Nachziehstapel."
   },
   "Recycle": {
     "NAME": "Recyclen",
@@ -1854,7 +1854,7 @@
   "ConjureBlade": {
     "NAME": "Klinge beschwören",
     "DESCRIPTION": "Mische einen *Vernichter in den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Mische einen *Vernichter+ in den Nachziehstapel. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Mische einen *Vernichter+ mit X+1 in den Nachziehstapel. NL Erschöpft."
   },
   "WaveOfTheHand2": {
     "NAME": "",
