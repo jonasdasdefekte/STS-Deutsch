@@ -107,10 +107,10 @@
       "Spielzeit insgesamt: ",
       "Siege insgesamt: #y",
       "Tode insgesamt: #y",
-      "Anzahl insgesamt erklommener Ebenen: #y",
-      "Anzahl insgesamt erschlagener Bosse: #y",
-      "Anzahl insgesamt erschlagener Gegner: #y",
-      "Anzahl insgesamt verfütterter Kristalle: #y",
+      "Gesamtzahl erklommener Ebenen: #y",
+      "Gesamtzahl erschlagener Bosse: #y",
+      "Gesamtzahl erschlagener Gegner: #y",
+      "Gesamtzahl verfütterter Kristalle: #y",
       "Karten entdeckt: #y",
       "Karten freigeschaltet: #y",
       "Relikte entdeckt: #y",
@@ -127,7 +127,12 @@
       "Bosse erschlagen: #y",
       "Gegner erschlagen: #y",
       "Beste Siegesserie: #y",
-      "Höchster Score: #y"
+      "Höchster Score: #y",
+      "%02d:%02d:%02d",
+      "%02d:%02d",
+      "#y%02d #yStd #y%02d #yMin #y%02d #ySek",
+      "#y%02d #yMin #y%02d #ySek",
+      "%01d:%02d:%02d"
     ]
   },
   "StatsScreen": {

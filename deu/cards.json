@@ -1472,7 +1472,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Mische ein *Omega in den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Mische ein *Omega+ in den Nachziehstapel. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": ""
   },
   "FearNoEvil": {
     "NAME": "Fürchte kein Böses",
@@ -1743,7 +1743,8 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemie",
-    "DESCRIPTION": "Nimm Göttlichkeit an. NL Stirb nächsten Zug. NL Erschöpft."
+    "DESCRIPTION": "Nimm Göttlichkeit an. NL Stirb nächsten Zug. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Behalten. NL Nimm Göttlichkeit an. NL Stirb nächsten Zug. NL Erschöpft."
   },
   "Transcendence": {
     "NAME": "Transzendenz",
@@ -1846,7 +1847,7 @@
   "Expunger": {
     "NAME": "Vernichter",
     "DESCRIPTION": "Füge X mal !D! Schaden zu.",
-    "UPGRADE_DESCRIPTION": "Füge X+1 mal !D! Schaden zu.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "Füge !M! mal !D! Schaden zu."
     ]
