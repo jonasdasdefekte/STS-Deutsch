@@ -394,8 +394,8 @@
   "Fire Breathing": {
     "NAME": "Feueratem",
     "DESCRIPTIONS": [
-      "Am Ende deines Zuges verursachst du für jeden Angriff, den du in diesem Zug ausgespielt hast, #b",
-      " Schaden an ALLEN Gegnern."
+      "Immer wenn du eine #yStatus- oder #yFluchkarte ziehst, füge ALLEN Gegnern #b",
+      " Schaden zu."
     ]
   },
   "Flame Barrier": {

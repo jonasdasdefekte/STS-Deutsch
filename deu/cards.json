@@ -975,7 +975,7 @@
   },
   "Reprogram": {
     "NAME": "Umprogrammieren",
-    "DESCRIPTION": "Spähe !M!.",
+    "DESCRIPTION": "Verliere !M! Fokus. NL Erhalte 1 Stärke. NL Erhalte 1 Geschicklichkeit.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "Wünschen",
-    "DESCRIPTION": "Wähle eins: Erhalte !B! Panzerrüstung in jedem Zug, !D! Stärke oder !M! Gold. NL Erschöpft.",
+    "DESCRIPTION": "Wähle eins: Erhalte !B! Panzerrüstung, !D! Stärke oder !M! Gold. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
@@ -1455,7 +1455,7 @@
   "Wireheading": {
     "NAME": "Voraussicht",
     "DESCRIPTION": "Zu Beginn deines Zuges Spähe !M!.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Zu Beginn deines Zuges Spähe !M!."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Sanctity": {
     "NAME": "Heiligkeit",
@@ -1517,7 +1517,7 @@
     "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "PathToVictory": {
-    "NAME": "Weg zum Sieg",
+    "NAME": "Schwachpunkte",
     "DESCRIPTION": "Wende !M! Markierung an. ALLE Gegner verlieren TP entsprechend ihrer Markierung.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1842,7 +1842,7 @@
   },
   "LiveForever": {
     "NAME": "Ewiges Leben",
-    "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Panzerrüstung."
+    "DESCRIPTION": "Erhalte !M! Panzerrüstung."
   },
   "Expunger": {
     "NAME": "Vernichter",
