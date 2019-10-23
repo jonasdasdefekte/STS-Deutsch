@@ -10,7 +10,7 @@
     "NAME": "Angriffstrank",
     "DESCRIPTIONS": [
       "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
-      "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm #b2 davon auf die Hand, sie kosten für diesen Zug #b0."
+      "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm #b2 Kopien auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "Block Potion": {
@@ -151,7 +151,7 @@
     "NAME": "Machttrank",
     "DESCRIPTIONS": [
       "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
-      "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm #b2 davon auf die Hand, sie kosten für diesen Zug #b0."
+      "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm #b2 Kopien auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "Regen Potion": {
@@ -166,7 +166,7 @@
     "NAME": "Fertigkeitstrank",
     "DESCRIPTIONS": [
       "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
-      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm #b2 davon auf die Hand, sie kosten für diesen Zug #b0."
+      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm #b2 Kopien auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "SmokeBomb": {
@@ -302,6 +302,19 @@
     "DESCRIPTIONS": [
       "Erhalte #b",
       " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Farbloser Trank",
+    "DESCRIPTIONS": [
+      "Wähle #b1 von #b3 zufälligen #yFarblosen Karten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yFarblosen Karten. Nimm #b2 Kopien auf die Hand, sie kosten für diesen Zug #b0."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Gunst der Schmiede",
+    "DESCRIPTIONS": [
+      "Verbessere deine Handkarten bis zum Ende des Kampfes."
     ]
   }
 }
