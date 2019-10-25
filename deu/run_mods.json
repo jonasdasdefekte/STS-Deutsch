@@ -25,7 +25,7 @@
   },
   "Chimera": {
     "NAME": "Chimäre",
-    "DESCRIPTION": "Dein Startdeck ist eine Kombination aus 3 Charakteren."
+    "DESCRIPTION": "Dein Startdeck ist eine Kombination aller Charaktere."
   },
   "Colorless Cards": {
     "NAME": "Farblose Karten",
@@ -105,7 +105,7 @@
   },
   "My True Form": {
     "NAME": "Meine wahre Form",
-    "DESCRIPTION": "Beginne mit einem Exemplar von Dämonenform, Geistform und Echoform."
+    "DESCRIPTION": "Beginne mit einem Exemplar von Dämonenform, Geistform,  Echoform und Devaform."
   },
   "NeowTime": {
     "NAME": "Zeit der Niau",

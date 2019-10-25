@@ -319,7 +319,7 @@
     ]
   },
   "Dodecahedron": {
-    "NAME": "Runischer Dodekaeder",
+    "NAME": "VERALTET Runischer Dodekaeder",
     "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
       "Wenn du volle TP hast, erhalte in deinem Zug ",
@@ -1221,9 +1221,9 @@
     "NAME": "Winzige Truhe",
     "FLAVOR": "„Ein gelungener Prototyp.“ – Der Architekt",
     "DESCRIPTIONS": [
-      "Erhalte #b",
-      " #yGold. NL Es ist #b10% wahrscheinlicher, dass du in ?-Räumen Schätze findest.",
-      "Es ist #b10% wahrscheinlicher, dass du in ?-Räumen Schätze findest."
+      "In jedem #b",
+      ". ?-Raum ist ein #ySchatz.",
+      ""
     ]
   },
   "Tiny House": {
@@ -1490,6 +1490,14 @@
     "DESCRIPTIONS": [
       "Immer wenn du #ySpähst, #ySpähe #b",
       " Karten mehr."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "TODO. Devs, vergesst nicht, hier was hinzuschreiben!",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn deines Zuges #b",
+      " #yMantra."
     ]
   }
 }
