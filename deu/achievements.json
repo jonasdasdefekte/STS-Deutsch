@@ -130,8 +130,8 @@
       "Höchster Score: #y",
       "%02d:%02d:%02d",
       "%02d:%02d",
-      "#y%02d #yStd #y%02d #yMin #y%02d #ySek",
-      "#y%02d #yMin #y%02d #ySek",
+      "#y%02d #yStd #y%02d #yMin #y%02d #ys",
+      "#y%02d #yMin #y%02d #ys",
       "%01d:%02d:%02d"
     ]
   },

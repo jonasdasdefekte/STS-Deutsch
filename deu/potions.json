@@ -172,7 +172,7 @@
   "SmokeBomb": {
     "NAME": "Rauchbombe",
     "DESCRIPTIONS": [
-      "Fliehe aus einem Kampf (Bosskämpfe ausgenommen). Erhalte keine Belohnungen.",
+      "Fliehe aus einem Kampf (außer Bosskämpfen), ohne Belohnungen zu erhalten.",
       "Ich bin umzingelt!"
     ]
   },
@@ -307,8 +307,8 @@
   "ColorlessPotion": {
     "NAME": "Farbloser Trank",
     "DESCRIPTIONS": [
-      "Wähle #b1 von #b3 zufälligen #yFarblosen Karten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
-      "Wähle #b1 von #b3 zufälligen #yFarblosen Karten. Nimm #b2 Kopien auf die Hand, sie kosten für diesen Zug #b0."
+      "Wähle #b1 von #b3 zufälligen #yfarblosen Karten. Nimm sie auf die Hand, sie kostet für diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yfarblosen Karten. Nimm #b2 Kopien auf die Hand, sie kosten für diesen Zug #b0."
     ]
   },
   "BlessingOfTheForge": {

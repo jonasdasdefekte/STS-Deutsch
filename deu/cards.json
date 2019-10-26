@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Zeitlupe",
-    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. NL Deine Handkarten kosten für diesen Zug 0."
+    "DESCRIPTION": "Du kannst in diesem Zug keine Karten ziehen. Deine Handkarten kosten für diesen Zug 0."
   },
   "Burn": {
     "NAME": "Brennen",
@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "Wünschen",
-    "DESCRIPTION": "Wähle eins: Erhalte !B! Panzerrüstung, !D! Stärke oder !M! Gold. NL Erschöpft.",
+    "DESCRIPTION": "Wähle eins: NL Erhalte !B! Panzerrüstung, !D! Stärke oder !M! Gold. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Immer wenn du eine Karte im Kampf erhältst, verbessere sie."
+    "DESCRIPTION": "Jede Karte, die du im Kampf erhältst, ist verbessert."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
-    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Beim Behalten erhöhe den Schaden um !M! für diesen Kampf."
+    "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Beim Behalten erhöhe den Schaden für diesen Kampf um !M!."
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
