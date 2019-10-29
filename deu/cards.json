@@ -1623,9 +1623,10 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Flüchtig. NL Heile X mal !M! TP. NL Erschöpft.",
+    "DESCRIPTION": "Füge pro verschiedener Haltung, die du in diesem Kampf angenommen hast, !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
-      ""
+      " NL (!M! Haltung angenommen.)",
+      " NL (!M! Haltungen angenommen.)"
     ]
   },
   "ClearTheMind": {
