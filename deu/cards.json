@@ -1614,7 +1614,7 @@
     "UPGRADE_DESCRIPTION": "Erhalte !B! Block. If the previous Karte played was an Angriff, return this Karte to your hand."
   },
   "Halt": {
-    "NAME": "HALT",
+    "NAME": "Halt",
     "DESCRIPTION": "Erhalte !B! Block. NL Wenn du in Zorn bist, erhalte !M! Block mehr."
   },
   "CurseOfTheBell": {
@@ -1623,14 +1623,14 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Füge pro verschiedener Haltung, die du in diesem Kampf angenommen hast, !D! Schaden zu.",
+    "DESCRIPTION": "Füge pro verschiedener Haltung, die du in diesem Kampf angenommen hast, NL !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " NL (!M! Haltung angenommen.)",
       " NL (!M! Haltungen angenommen.)"
     ]
   },
   "ClearTheMind": {
-    "NAME": "Durchatmen",
+    "NAME": "Entspannen",
     "DESCRIPTION": "Behalten. NL Nimm Ruhe an. NL Erschöpft."
   },
   "Safety": {

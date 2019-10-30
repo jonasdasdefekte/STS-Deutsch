@@ -307,7 +307,7 @@
     ],
     "OPTIONS": [
       "[Annehmen] #gErhalte #g5 Apparieren. #rVerliere #r",
-      " #rmax #rTP.",
+      " #rmax. #rTP.",
       "[Ablehnen]",
       "[Annehmen] #gErhalte #g3 Apparieren. #rVerliere #r",
       "",
@@ -748,7 +748,7 @@
     ],
     "OPTIONS": [
       "[Hineinspringen] #gHeile #gTP #gkomplett. #rVerliere #r",
-      " #rmax #rTP.",
+      " #rmax. #rTP.",
       "[Opfern: Goldener Götze] #gErhalte #g333 #gGold. #rVerliere #rGoldenen #rGötzen.",
       "[Gesperrt] Erfordert: Goldener Götze.",
       "[Verlassen]"
@@ -911,7 +911,7 @@
       "[Verlassen]",
       " #gTP.",
       "[Spur zurückverfolgen] #rVerliere #r",
-      " #rmax #rTP."
+      " #rmax. #rTP."
     ]
   },
   "World of Goop": {
