@@ -327,6 +327,12 @@
         "ritual"
       ],
       "DESCRIPTION": "Erhalte am Ende deines Zuges #yStärke."
+    },
+    "FATAL": {
+      "NAMES": [
+        "tödlich"
+      ],
+      "DESCRIPTION": "Wird ausgelöst, wenn diese Karte einen Gegner außer Untertanen tötet."
     }
   }
 }

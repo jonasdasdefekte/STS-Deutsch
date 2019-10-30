@@ -1410,7 +1410,7 @@
     ]
   },
   "Yang": {
-    "NAME": "Yang",
+    "NAME": "Dualität",
     "FLAVOR": "\"Und die Sonne war für immer gelöscht, als hätte sich ein Vorhang vor ihr geschlossen.\" - Zoroth",
     "DESCRIPTIONS": [
       "Immer wenn du einen #yAngriff spielst, erhalte #b1 temporäre #yGeschicklichkeit."
@@ -1456,7 +1456,7 @@
   },
   "HolyWater": {
     "NAME": "Heiliges Wasser",
-    "FLAVOR": "TODO.",
+    "FLAVOR": "Noch aus einer Zeit vor dem Spire.",
     "DESCRIPTIONS": [
       "Ersetzt #pReines #pWasser. Erhalte zu Beginn jedes Kampfes #b3 #yWunder auf deine Hand."
     ]
@@ -1486,7 +1486,7 @@
   },
   "GoldenEye": {
     "NAME": "Goldenes Auge",
-    "FLAVOR": "TODO",
+    "FLAVOR": "Lies die Gedanken der Umstehenden und sieh voraus, was sie gleich tun.",
     "DESCRIPTIONS": [
       "Immer wenn du #ySpähst, #ySpähe #b",
       " Karten mehr."
@@ -1494,7 +1494,7 @@
   },
   "Damaru": {
     "NAME": "Damaru",
-    "FLAVOR": "TODO. Devs, vergesst nicht, hier was hinzuschreiben!",
+    "FLAVOR": "Der Klang des Trömmelchens hält deinen Geist wach und zeigt dir, wie es weitergeht.",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn deines Zuges #b",
       " #yMantra."

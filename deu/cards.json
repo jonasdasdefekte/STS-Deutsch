@@ -509,7 +509,7 @@
   },
   "Feed": {
     "NAME": "Verschlingen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner außer Untertanen, erhöhe deine max. TP um !M!. Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, erhöhe deine max. TP um !M!. Erschöpft."
   },
   "Feel No Pain": {
     "NAME": "Schmerzfrei",
@@ -628,7 +628,7 @@
   },
   "HandOfGreed": {
     "NAME": "Arm der Gier",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner außer Untertanen, erhalte !M! Gold."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, erhalte !M! Gold."
   },
   "Havoc": {
     "NAME": "Verwüstung",
@@ -988,7 +988,7 @@
   },
   "RitualDagger": {
     "NAME": "Ritualdolch",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, erhöhe den Schaden dieser Karte permanent um !M!. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, erhöhe den Schaden dieser Karte permanent um !M!. NL Erschöpft."
   },
   "Rupture": {
     "NAME": "Blutriss",
@@ -1412,7 +1412,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu."
   },
   "Conclude": {
-    "NAME": "Schließen",
+    "NAME": "Abschließen",
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Beende deinen Zug."
   },
   "MasterReality": {
@@ -1434,7 +1434,7 @@
   },
   "LessonLearned": {
     "NAME": "Lektion gelernt",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt dadurch ein Gegner, verbessere eine zufällige Karte in deinem Deck. Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, verbessere eine zufällige Karte in deinem Deck. NL Erschöpft."
   },
   "Calm": {
     "NAME": "Ruhe",
@@ -1623,10 +1623,10 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Füge pro verschiedener Haltung, die du in diesem Kampf angenommen hast, NL !D! Schaden zu.",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Fügt mehr Schaden zu pro in diesem Kampf erhaltenem Mantra.",
     "EXTENDED_DESCRIPTION": [
-      " NL (!M! Haltung angenommen.)",
-      " NL (!M! Haltungen angenommen.)"
+      " NL (!M! Mantra erhalten.)",
+      ""
     ]
   },
   "ClearTheMind": {
@@ -1843,7 +1843,7 @@
   },
   "LiveForever": {
     "NAME": "Ewiges Leben",
-    "DESCRIPTION": "Erhalte !M! Panzerrüstung."
+    "DESCRIPTION": "Erhalte !M! *Panzerrüstung."
   },
   "Expunger": {
     "NAME": "Vernichter",
