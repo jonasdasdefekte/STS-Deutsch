@@ -277,7 +277,7 @@
     "NAME": "Verfluchter Schlüssel",
     "FLAVOR": "Du spürst die tückische Energie, die vom Schlüssel ausgeht. Macht hat ihren Preis.",
     "DESCRIPTIONS": [
-      " NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, erhalte einen #rFluch.",
+      " NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, nimm einen #rFluch.",
       "Erhalte in deinem Zug [E] ."
     ]
   },
@@ -285,7 +285,7 @@
     "NAME": "Dunkelstein-Amulett",
     "FLAVOR": "Der Stein wandelt dunkle Energie in Lebenskraft um.",
     "DESCRIPTIONS": [
-      "Immer wenn du einen #rFluch erhältst, erhöhe deine max. TP um #b"
+      "Immer wenn du einen #rFluch nimmst, erhöhe deine max. TP um #b"
     ]
   },
   "DataDisk": {
@@ -300,7 +300,7 @@
     "NAME": "Toter Ast",
     "FLAVOR": "Der Ast eines Baumes aus einer längst vergessenen Zeit.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Karte #yerschöpfst, erhalte eine zufällige Karte auf die Hand."
+      "Immer wenn du eine Karte #yerschöpfst, nimm eine zufällige Karte auf die Hand."
     ]
   },
   "Derp Rock": {
@@ -330,7 +330,7 @@
     "NAME": "Dollys Spiegel",
     "FLAVOR": "„Darin sehe ich komisch aus.“",
     "DESCRIPTIONS": [
-      "Erhalte beim Aufheben ein weiteres Exemplar einer Karte in deinem Deck.",
+      "Nimm beim Aufheben eine weiteres Exemplar einer Karte in deinem Deck.",
       "Wähle 1 Karte, die du kopierst."
     ]
   },
@@ -379,7 +379,7 @@
     "NAME": "Enchiridion",
     "FLAVOR": "Das legendäre Tagebuch eines uralten Lichs.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Kampfes eine zufällige #yMachtkarte auf die Hand. Sie kostet #b0 bis zum Ende des Zuges."
+      "Nimm zu Beginn jedes Kampfes eine zufällige #yMachtkarte auf die Hand. Sie kostet #b0 bis zum Ende des Zuges."
     ]
   },
   "Eternal Feather": {
@@ -710,7 +710,7 @@
     "NAME": "Ninja-Schriftrolle",
     "FLAVOR": "Beinhaltet die Geheimnisse des Assassinierens.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Kampfes #b",
+      "Nimm zu Beginn jedes Kampfes #b",
       " #yMesser auf die Hand."
     ]
   },
@@ -777,8 +777,8 @@
     "NAME": "O-Mamori",
     "FLAVOR": "Wird oft als Talisman zum Abfangen böser Geister eingesetzt. Dieser hier enthält anscheinend einen Funken göttlicher Energie.",
     "DESCRIPTIONS": [
-      "Wehre die nächsten #b2 erhaltenen #rFlüche ab.",
-      "Wehre den nächsten erhaltenen #yFluch ab.",
+      "Wehre die nächsten #b2 genommenen #rFlüche ab.",
+      "Wehre den nächsten genommenen #yFluch ab.",
       "Dieses Relikt wurde aufgebraucht."
     ]
   },
@@ -1458,14 +1458,14 @@
     "NAME": "Heiliges Wasser",
     "FLAVOR": "Noch aus einer Zeit vor dem Spire.",
     "DESCRIPTIONS": [
-      "Ersetzt #pReines #pWasser. Erhalte zu Beginn jedes Kampfes #b3 #yWunder auf deine Hand."
+      "Ersetzt #pReines #pWasser. Nimm zu Beginn jedes Kampfes #b3 #yWunder auf deine Hand."
     ]
   },
   "PureWater": {
     "NAME": "Reines Wasser",
     "FLAVOR": "Durch feinen Sand gefiltert und frei von Unreinheiten.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Kampfes ein #yWunder auf deine Hand."
+      "Nimm zu Beginn jedes Kampfes ein #yWunder auf deine Hand."
     ]
   },
   "HornCleat": {

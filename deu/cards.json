@@ -44,7 +44,7 @@
   },
   "Anger": {
     "NAME": "Zorn",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte eine Kopie dieser Karte auf den Abwurfstapel."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm eine Kopie dieser Karte auf den Abwurfstapel."
   },
   "Apotheosis": {
     "NAME": "Apotheose",
@@ -121,7 +121,7 @@
   },
   "Blade Dance": {
     "NAME": "Messertanz",
-    "DESCRIPTION": "Erhalte !M! *Messer auf die Hand."
+    "DESCRIPTION": "Nimm !M! *Messer auf die Hand."
   },
   "Blaster": {
     "NAME": "Blaster",
@@ -238,7 +238,7 @@
   },
   "Chrysalis": {
     "NAME": "Eingepuppt",
-    "DESCRIPTION": "Erhalte !M! zufällige Fertigkeiten in den Nachziehstapel. Sie kosten in diesem Kampf 0. NL Erschöpft."
+    "DESCRIPTION": "Mische !M! zufällige Fertigkeiten in den Nachziehstapel. Sie kosten in diesem Kampf 0. Erschöpft."
   },
   "Clash": {
     "NAME": "Zusammenstoß",
@@ -253,8 +253,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "Dolch und Mantel",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! *Messer auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! *Messer auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm !M! *Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm !M! *Messer auf die Hand."
   },
   "Clothesline": {
     "NAME": "Niederreißen",
@@ -311,7 +311,7 @@
   },
   "Creative AI": {
     "NAME": "Kreative KI",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige Macht auf die Hand."
+    "DESCRIPTION": "Nimm zu Beginn deines Zuges eine zufällige Macht auf die Hand."
   },
   "Crippling Poison": {
     "NAME": "Lähmende Wolke",
@@ -398,7 +398,7 @@
   },
   "Distraction": {
     "NAME": "Ablenkung",
-    "DESCRIPTION": "Erhalte eine zufällige Fertigkeit auf die Hand. Diese kostet für diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Nimm eine zufällige Fertigkeit auf die Hand. Diese kostet für diesen Zug 0. NL Erschöpft."
   },
   "Dodge and Roll": {
     "NAME": "Ausweichrolle",
@@ -456,7 +456,7 @@
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte ziehst, erhalte eine Kopie von ihr auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte ziehst, nimm eine Kopie von ihr auf die Hand. NL Erschöpft."
   },
   "Energy Pulse": {
     "NAME": "Energie-Puls",
@@ -628,7 +628,7 @@
   },
   "HandOfGreed": {
     "NAME": "Arm der Gier",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, erhalte !M! Gold."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, NL erhalte !M! Gold."
   },
   "Havoc": {
     "NAME": "Verwüstung",
@@ -654,8 +654,8 @@
   },
   "Hello World": {
     "NAME": "Hallo Welt",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
+    "DESCRIPTION": "Nimm zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
   },
   "Hemokinesis": {
     "NAME": "Hämokinese",
@@ -676,7 +676,7 @@
   },
   "Immolate": {
     "NAME": "Feueropfer",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Erhalte ein *Brennen auf den Abwurfstapel."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Nimm ein *Brennen auf den Abwurfstapel."
   },
   "Impatience": {
     "NAME": "Ungeduld",
@@ -688,12 +688,12 @@
   },
   "Infernal Blade": {
     "NAME": "Teuflische Klinge",
-    "DESCRIPTION": "Erhalte einen zufälligen Angriff auf die Hand. Dieser kostet für diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Nimm einen zufälligen Angriff auf die Hand. Dieser kostet für diesen Zug 0. NL Erschöpft."
   },
   "Infinite Blades": {
     "NAME": "Zahllose Klingen",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein *Messer auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges ein *Messer auf die Hand."
+    "DESCRIPTION": "Nimm zu Beginn deines Zuges ein *Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm zu Beginn deines Zuges ein *Messer auf die Hand."
   },
   "Inflame": {
     "NAME": "Entflammen",
@@ -717,8 +717,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
-    "DESCRIPTION": "Erhalte !M! zufällige farblose Karte auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Nimm !M! zufällige farblose Karte auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Nimm !M! zufällige farblose Karten auf die Hand. NL Erschöpft."
   },
   "Juggernaut": {
     "NAME": "Moloch",
@@ -757,7 +757,7 @@
   },
   "Magnetism": {
     "NAME": "Magnetismus",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges eine zufällige farblose Karte auf die Hand."
+    "DESCRIPTION": "Nimm zu Beginn deines Zuges eine zufällige farblose Karte auf die Hand."
   },
   "Malaise": {
     "NAME": "Unwohlsein",
@@ -787,7 +787,7 @@
   },
   "Metamorphosis": {
     "NAME": "Metamorphose",
-    "DESCRIPTION": "Erhalte !M! zufällige Angriffe in den Nachziehstapel. Sie kosten in diesem Kampf 0. NL Erschöpft."
+    "DESCRIPTION": "Mische !M! zufällige Angriffe in den Nachziehstapel. Sie kosten in diesem Kampf 0. Erschöpft."
   },
   "Meteor Strike": {
     "NAME": "Meteorschlag",
@@ -816,7 +816,7 @@
   },
   "Night Terror": {
     "NAME": "Albtraum",
-    "DESCRIPTION": "Wähle eine Karte. NL Erhalte im nächsten Zug !M! Kopien dieser Karte auf die Hand. Erschöpft.",
+    "DESCRIPTION": "Wähle eine Karte. NL Nimm im nächsten Zug !M! Kopien dieser Karte auf die Hand. Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Ich kann NL ",
       " NL nur einmal pro Zug verwenden."
@@ -892,7 +892,7 @@
   },
   "Power Through": {
     "NAME": "Durchkämpfen",
-    "DESCRIPTION": "Erhalte 2 *Wunden NL auf die Hand. NL Erhalte !B! Block."
+    "DESCRIPTION": "Nimm 2 *Wunden NL auf die Hand. NL Erhalte !B! Block."
   },
   "Predator": {
     "NAME": "Jagd",
@@ -1107,7 +1107,7 @@
   },
   "Steam Power": {
     "NAME": "Übertakten",
-    "DESCRIPTION": "Ziehe !M! Karten. NL Erhalte ein *Brennen auf den Abwurfstapel."
+    "DESCRIPTION": "Ziehe !M! Karten. NL Nimm ein *Brennen auf den Abwurfstapel."
   },
   "Storm": {
     "NAME": "Sturm",
@@ -1116,8 +1116,8 @@
   },
   "Storm of Steel": {
     "NAME": "Stahlsturm",
-    "DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 *Messer auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Erhalte pro abgeworfener Karte 1 *Messer+ auf die Hand."
+    "DESCRIPTION": "Wirf deine Hand ab. NL Nimm pro abgeworfener Karte 1 *Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Wirf deine Hand ab. NL Nimm pro abgeworfener Karte 1 *Messer+ auf die Hand."
   },
   "Streamline": {
     "NAME": "Optimieren",
@@ -1202,8 +1202,8 @@
   },
   "Transmutation": {
     "NAME": "Umwandlung",
-    "DESCRIPTION": "Erhalte X zufällige farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte X zufällige verbesserte farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Nimm X zufällige farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Nimm X zufällige verbesserte farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft."
   },
   "Trip": {
     "NAME": "Straucheln",
@@ -1217,8 +1217,8 @@
   },
   "Turbo": {
     "NAME": "TURBO",
-    "DESCRIPTION": "Erhalte [B] [B]. NL Erhalte eine *Leere auf den Abwurfstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte [B] [B] [B]. NL Erhalte eine *Leere auf den Abwurfstapel."
+    "DESCRIPTION": "Erhalte [B] [B]. NL Nimm eine *Leere auf den Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte [B] [B] [B]. NL Nimm eine *Leere auf den Abwurfstapel."
   },
   "Twin Strike": {
     "NAME": "Doppelschlag",
@@ -1271,7 +1271,7 @@
   },
   "White Noise": {
     "NAME": "Rauschen",
-    "DESCRIPTION": "Erhalte eine zufällige Macht auf die Hand. Diese kostet für diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Nimm eine zufällige Macht auf die Hand. Diese kostet für diesen Zug 0. NL Erschöpft."
   },
   "Wild Strike": {
     "NAME": "Wilder Schlag",
@@ -1362,7 +1362,7 @@
   },
   "DeusExMachina": {
     "NAME": "Deus ex Machina",
-    "DESCRIPTION": "Unspielbar. NL Wenn du diese Karte ziehst, erschöpfe sie und erhalte !M! *Wunder auf die Hand."
+    "DESCRIPTION": "Unspielbar. NL Wenn du diese Karte ziehst, erschöpfe sie und nimm !M! *Wunder auf die Hand."
   },
   "ThroughViolence": {
     "NAME": "Durch Gewalt",
@@ -1417,12 +1417,12 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Jede Karte, die du im Kampf erhältst, ist verbessert."
+    "DESCRIPTION": "Jede Karte, die im Kampf erschaffen wird, ist verbessert."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
-    "DESCRIPTION": "Erhalte X *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte X *Zertrümmern+ auf die Hand."
+    "DESCRIPTION": "Nimm X *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Nimm X *Zertrümmern+ auf die Hand."
   },
   "WindmillStrike": {
     "NAME": "Windmühlschlag",
@@ -1434,7 +1434,7 @@
   },
   "LessonLearned": {
     "NAME": "Lektion gelernt",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, verbessere eine zufällige Karte in deinem Deck. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, verbessere eine zufällige Karte in deinem Deck. Erschöpft."
   },
   "Calm": {
     "NAME": "Ruhe",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "Sammeln",
-    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten X Züge ein *Wunder+ auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten X+1 Züge ein *Wunder+ auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Nimm zu Beginn deiner nächsten X Züge ein *Wunder+ auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Nimm zu Beginn deiner nächsten X+1 Züge ein *Wunder+ auf die Hand. NL Erschöpft."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1605,8 +1605,8 @@
   },
   "DeceiveReality": {
     "NAME": "Realität trügen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Geborgenheit auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Geborgenheit+ auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm eine *Geborgenheit auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Nimm eine *Geborgenheit+ auf die Hand."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
@@ -1625,7 +1625,7 @@
     "NAME": "Brillanz",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Fügt mehr Schaden zu pro in diesem Kampf erhaltenem Mantra.",
     "EXTENDED_DESCRIPTION": [
-      " NL (!M! Mantra erhalten.)",
+      "",
       ""
     ]
   },
@@ -1682,8 +1682,8 @@
   },
   "BattleHymn": {
     "NAME": "Kampfhymne",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges ein *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn deines Zuges ein *Zertrümmern auf die Hand."
+    "DESCRIPTION": "Nimm zu Beginn deines Zuges ein *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm zu Beginn deines Zuges ein *Zertrümmern auf die Hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1708,7 +1708,7 @@
   },
   "Omniscience": {
     "NAME": "Allwissenheit",
-    "DESCRIPTION": "Wähle eine Karte im Nachziehstapel. NL Spiele die gewählte Karte zweimal und erschöpfe sie. NL Erschöpft.",
+    "DESCRIPTION": "Wähle eine Karte im Nachziehstapel. NL Spiele sie zweimal und erschöpfe sie. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
@@ -1773,8 +1773,8 @@
   },
   "CarveReality": {
     "NAME": "Realität prägen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein *Zertrümmern+ auf die Hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Nimm ein *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Nimm ein *Zertrümmern+ auf die Hand."
   },
   "Defend_P": {
     "NAME": "Verteidigen",
