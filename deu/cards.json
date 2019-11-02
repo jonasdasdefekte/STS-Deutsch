@@ -109,11 +109,11 @@
   },
   "Berserk": {
     "NAME": "Berserker",
-    "DESCRIPTION": "Erhalte !M! Verwundbar. NL Erhalte zu Beginn deines Zuges [R]."
+    "DESCRIPTION": "Erhalte !M! Verwundbar. NL Erhalte immer zu Beginn deines Zuges [R]."
   },
   "Biased Cognition": {
     "NAME": "Verzerrter Fokus",
-    "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere zu Beginn deines Zuges 1 Fokus."
+    "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere immer zu Beginn deines Zuges 1 Fokus."
   },
   "Bite": {
     "NAME": "Biss",
@@ -173,8 +173,8 @@
   },
   "Brutality": {
     "NAME": "Brutalität",
-    "DESCRIPTION": "Verliere zu Beginn deines Zuges 1 TP und ziehe 1 Karte.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Verliere zu Beginn deines Zuges 1 TP und ziehe 1 Karte."
+    "DESCRIPTION": "Verliere immer zu Beginn deines Zuges 1 TP und ziehe 1 Karte.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Verliere immer zu Beginn deines Zuges 1 TP und ziehe 1 Karte."
   },
   "Buffer": {
     "NAME": "Puffer",
@@ -270,7 +270,7 @@
   },
   "Combust": {
     "NAME": "Verbrennen",
-    "DESCRIPTION": "Verliere am Ende deines Zuges 1 TP und füge ALLEN Gegnern !M! Schaden zu."
+    "DESCRIPTION": "Verliere immer am Ende deines Zuges 1 TP und füge ALLEN Gegnern !M! Schaden zu."
   },
   "Compile Driver": {
     "NAME": "Kompilieren",
@@ -311,7 +311,7 @@
   },
   "Creative AI": {
     "NAME": "Kreative KI",
-    "DESCRIPTION": "Nimm zu Beginn deines Zuges eine zufällige Macht auf die Hand."
+    "DESCRIPTION": "Nimm immer zu Beginn deines Zuges eine zufällige Macht auf die Hand."
   },
   "Crippling Poison": {
     "NAME": "Lähmende Wolke",
@@ -381,7 +381,7 @@
   },
   "Demon Form": {
     "NAME": "Dämonenform",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges !M! Stärke."
+    "DESCRIPTION": "Erhalte immer zu Beginn deines Zuges !M! Stärke."
   },
   "Die Die Die": {
     "NAME": "Stirb, stirb, stirb",
@@ -654,8 +654,8 @@
   },
   "Hello World": {
     "NAME": "Hallo Welt",
-    "DESCRIPTION": "Nimm zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
+    "DESCRIPTION": "Nimm immer zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm immer zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
   },
   "Hemokinesis": {
     "NAME": "Hämokinese",
@@ -692,8 +692,8 @@
   },
   "Infinite Blades": {
     "NAME": "Zahllose Klingen",
-    "DESCRIPTION": "Nimm zu Beginn deines Zuges ein *Messer auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm zu Beginn deines Zuges ein *Messer auf die Hand."
+    "DESCRIPTION": "Nimm immer zu Beginn deines Zuges ein *Messer auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm immer zu Beginn deines Zuges ein *Messer auf die Hand."
   },
   "Inflame": {
     "NAME": "Entflammen",
@@ -743,12 +743,12 @@
   },
   "Loop": {
     "NAME": "Schleife",
-    "DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs aus.",
-    "UPGRADE_DESCRIPTION": "Löse zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! mal aus."
+    "DESCRIPTION": "Löse immer zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs aus.",
+    "UPGRADE_DESCRIPTION": "Löse immer zu Beginn deines Zuges die passive Fähigkeit deines vordersten Orbs !M! mal aus."
   },
   "Machine Learning": {
     "NAME": "Lernende Maschine",
-    "DESCRIPTION": "Ziehe zu Beginn deines Zuges !M! Karte mehr.",
+    "DESCRIPTION": "Ziehe immer zu Beginn deines Zuges !M! Karte mehr.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Ziehe zu Beginn jedes Zuges !M! Karte mehr."
   },
   "Madness": {
@@ -757,7 +757,7 @@
   },
   "Magnetism": {
     "NAME": "Magnetismus",
-    "DESCRIPTION": "Nimm zu Beginn deines Zuges eine zufällige farblose Karte auf die Hand."
+    "DESCRIPTION": "Nimm immer zu Beginn deines Zuges eine zufällige farblose Karte auf die Hand."
   },
   "Malaise": {
     "NAME": "Unwohlsein",
@@ -775,7 +775,7 @@
   },
   "Mayhem": {
     "NAME": "Wilder Kampf",
-    "DESCRIPTION": "Spiele zu Beginn deines Zuges die oberste Karte des Nachziehstapels."
+    "DESCRIPTION": "Spiele immer zu Beginn deines Zuges die oberste Karte des Nachziehstapels."
   },
   "Melter": {
     "NAME": "Schmelzen",
@@ -783,7 +783,7 @@
   },
   "Metallicize": {
     "NAME": "Metallschicht",
-    "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Block."
+    "DESCRIPTION": "Erhalte immer am Ende deines Zuges !M! Block."
   },
   "Metamorphosis": {
     "NAME": "Metamorphose",
@@ -836,7 +836,7 @@
   },
   "Noxious Fumes": {
     "NAME": "Giftige Dämpfe",
-    "DESCRIPTION": "Wende zu Beginn deines Zuges auf ALLE Gegner !M! Gift an."
+    "DESCRIPTION": "Wende immer zu Beginn deines Zuges auf ALLE Gegner !M! Gift an."
   },
   "Offering": {
     "NAME": "Opfergabe",
@@ -1198,7 +1198,7 @@
   },
   "Tools of the Trade": {
     "NAME": "Handwerkszeug",
-    "DESCRIPTION": "Ziehe zu Beginn deines Zuges 1 Karte und wirf 1 Karte ab."
+    "DESCRIPTION": "Ziehe immer zu Beginn deines Zuges 1 Karte und wirf 1 Karte ab."
   },
   "Transmutation": {
     "NAME": "Umwandlung",
@@ -1262,8 +1262,8 @@
   },
   "Well Laid Plans": {
     "NAME": "Gut ausgeklügelt",
-    "DESCRIPTION": "Behalte am Ende deines Zuges NL bis zu !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Behalte am Ende deines Zuges NL bis zu !M! Karten."
+    "DESCRIPTION": "Behalte immer am Ende deines Zuges bis zu !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Behalte immer am Ende deines Zuges bis zu !M! Karten."
   },
   "Whirlwind": {
     "NAME": "Wirbelwind",
@@ -1302,7 +1302,7 @@
   },
   "BrillianceAura": {
     "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "Behalten. NL Erschöpft. NL Ziehe zu Beginn deines Zuges 1 Karte."
+    "DESCRIPTION": "Behalten. NL Erschöpft. NL Ziehe immer zu Beginn deines Zuges 1 Karte."
   },
   "Wrath": {
     "NAME": "Zorn",
@@ -1328,7 +1328,7 @@
   },
   "Devotion": {
     "NAME": "Hingabe",
-    "DESCRIPTION": "Erhalte zu Beginn deines Zuges !M! Mantra."
+    "DESCRIPTION": "Erhalte immer zu Beginn deines Zuges !M! Mantra."
   },
   "EmptyFist": {
     "NAME": "Leere Faust",
@@ -1358,7 +1358,7 @@
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Behalten. NL Erhalte !M! temporary Stärke. NL zu Beginn deines Zuges erhalte 1 temporary Stärke."
+    "DESCRIPTION": "Behalten. NL Erhalte !M! temporary Stärke. NL immer zu Beginn deines Zuges erhalte 1 temporary Stärke."
   },
   "DeusExMachina": {
     "NAME": "Deus ex Machina",
@@ -1454,7 +1454,7 @@
   },
   "Wireheading": {
     "NAME": "Voraussicht",
-    "DESCRIPTION": "Zu Beginn deines Zuges Spähe !M!.",
+    "DESCRIPTION": "Immer zu Beginn deines Zuges Spähe !M!.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Sanctity": {
@@ -1582,8 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Devaform",
-    "DESCRIPTION": "Flüchtig. NL Erhalte zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!."
+    "DESCRIPTION": "Flüchtig. NL Erhalte immer zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!.",
+    "UPGRADE_DESCRIPTION": "Erhalte immer zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!."
   },
   "TalkToTheHand": {
     "NAME": "Sprich zur Hand",
@@ -1682,8 +1682,8 @@
   },
   "BattleHymn": {
     "NAME": "Kampfhymne",
-    "DESCRIPTION": "Nimm zu Beginn deines Zuges ein *Zertrümmern auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm zu Beginn deines Zuges ein *Zertrümmern auf die Hand."
+    "DESCRIPTION": "Nimm immer zu Beginn deines Zuges ein *Zertrümmern auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm immer zu Beginn deines Zuges ein *Zertrümmern auf die Hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
@@ -1713,7 +1713,7 @@
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "Füge am Ende deines Zuges ALLEN Gegnern !M! Schaden zu."
+    "DESCRIPTION": "Füge immer am Ende deines Zuges ALLEN Gegnern !M! Schaden zu."
   },
   "Serenity": {
     "NAME": "Gelassenheit",
@@ -1876,10 +1876,10 @@
   },
   "LikeWater": {
     "NAME": "Wie Wasser",
-    "DESCRIPTION": "Erhalte am Ende deines Zuges !M! Block, wenn du in Ruhe bist."
+    "DESCRIPTION": "Erhalte immer am Ende deines Zuges !M! Block, wenn du in Ruhe bist."
   },
   "Study": {
     "NAME": "Studieren",
-    "DESCRIPTION": "Mische am Ende deines Zuges eine *Einsicht in deinen Nachziehstapel."
+    "DESCRIPTION": "Mische immer am Ende deines Zuges eine *Einsicht in deinen Nachziehstapel."
   }
 }
