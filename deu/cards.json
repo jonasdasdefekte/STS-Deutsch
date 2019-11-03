@@ -113,7 +113,7 @@
   },
   "Biased Cognition": {
     "NAME": "Verzerrter Fokus",
-    "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere immer zu Beginn deines Zuges 1 Fokus."
+    "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere immer zu Beginn deines Zuges NL 1 Fokus."
   },
   "Bite": {
     "NAME": "Biss",
@@ -160,7 +160,7 @@
   },
   "Body Slam": {
     "NAME": "Bodyslam",
-    "DESCRIPTION": "Füge Schaden in Höhe deines aktuellen Blockens zu.",
+    "DESCRIPTION": "Füge Schaden in Höhe deines aktuellen Blocks zu.",
     "UPGRADE_DESCRIPTION": " NL (Fügt !D! Schaden zu.)"
   },
   "BootSequence": {
@@ -173,8 +173,8 @@
   },
   "Brutality": {
     "NAME": "Brutalität",
-    "DESCRIPTION": "Verliere immer zu Beginn deines Zuges 1 TP und ziehe 1 Karte.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Verliere immer zu Beginn deines Zuges 1 TP und ziehe 1 Karte."
+    "DESCRIPTION": "Verliere immer zu Beginn deines Zuges NL 1 TP und ziehe 1 Karte.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Verliere immer zu Beginn deines Zuges NL 1 TP und ziehe 1 Karte."
   },
   "Buffer": {
     "NAME": "Puffer",
@@ -206,7 +206,7 @@
   },
   "Caltrops": {
     "NAME": "Krähenfüße",
-    "DESCRIPTION": "Immer wenn du angegriffen wirst, füge dem Angreifer NL !M! Schaden zu."
+    "DESCRIPTION": "Immer wenn du angegriffen wirst, NL füge dem Angreifer NL !M! Schaden zu."
   },
   "Capacitor": {
     "NAME": "Kapazität",
@@ -299,7 +299,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
-    "DESCRIPTION": "Wende !M! Gift an. NL Sobald der Gegner stirbt, füge ALLEN Gegnern Schaden in Höhe seiner max. TP zu.",
+    "DESCRIPTION": "Wende !M! Gift an. NL Sobald der Gegner stirbt, erleiden ALLE Gegner Schaden in Höhe seiner max. TP.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       ""
@@ -381,7 +381,7 @@
   },
   "Demon Form": {
     "NAME": "Dämonenform",
-    "DESCRIPTION": "Erhalte immer zu Beginn deines Zuges !M! Stärke."
+    "DESCRIPTION": "Erhalte immer zu Beginn deines Zuges NL !M! Stärke."
   },
   "Die Die Die": {
     "NAME": "Stirb, stirb, stirb",
@@ -451,7 +451,7 @@
   },
   "Electrodynamics": {
     "NAME": "Elektrodynamik",
-    "DESCRIPTION": "Blitze treffen jetzt ALLE Gegner. NL Erschaffe !M! Blitze.",
+    "DESCRIPTION": "Blitze treffen jetzt NL ALLE Gegner. NL Erschaffe !M! Blitze.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
@@ -572,7 +572,7 @@
   },
   "Footwork": {
     "NAME": "Beinarbeit",
-    "DESCRIPTION": "Erhalte !M! Geschicklichkeit."
+    "DESCRIPTION": "Erhalte NL !M! Geschicklichkeit."
   },
   "Force Field": {
     "NAME": "Kraftfeld",
@@ -816,7 +816,7 @@
   },
   "Night Terror": {
     "NAME": "Albtraum",
-    "DESCRIPTION": "Wähle eine Karte. NL Nimm im nächsten Zug !M! Kopien dieser Karte auf die Hand. Erschöpft.",
+    "DESCRIPTION": "Wähle eine Handkarte. NL Nimm im nächsten Zug !M! Kopien dieser Karte auf die Hand. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Ich kann NL ",
       " NL nur einmal pro Zug verwenden."
@@ -862,7 +862,7 @@
   },
   "PanicButton": {
     "NAME": "Panikknopf",
-    "DESCRIPTION": "Erhalte !B! Block. NL Du kannst für die nächsten !M! Züge keinen Block von Karten erhalten. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. NL Karten geben für die nächsten !M! Züge keinen Block. NL Erschöpft."
   },
   "Parasite": {
     "NAME": "Parasit",
@@ -975,7 +975,7 @@
   },
   "Reprogram": {
     "NAME": "Umprogrammieren",
-    "DESCRIPTION": "Verliere !M! Fokus. NL Erhalte 1 Stärke. NL Erhalte 1 Geschicklichkeit.",
+    "DESCRIPTION": "Verliere !M! Fokus. NL Erhalte 1 Stärke. NL Erhalte NL 1 Geschicklichkeit.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -988,11 +988,11 @@
   },
   "RitualDagger": {
     "NAME": "Ritualdolch",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, erhöhe den Schaden dieser Karte permanent um !M!. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, erhöhe den Schaden dieser Karte permanent um !M!. Erschöpft."
   },
   "Rupture": {
     "NAME": "Blutriss",
-    "DESCRIPTION": "Immer wenn du TP durch eine Karte verlierst, NL erhalte 1 Stärke."
+    "DESCRIPTION": "Immer wenn du durch eine Karte TP verlierst, erhalte 1 Stärke."
   },
   "Sadistic Nature": {
     "NAME": "Sadistische Natur",
@@ -1262,8 +1262,8 @@
   },
   "Well Laid Plans": {
     "NAME": "Gut ausgeklügelt",
-    "DESCRIPTION": "Behalte immer am Ende deines Zuges bis zu !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Behalte immer am Ende deines Zuges bis zu !M! Karten."
+    "DESCRIPTION": "Behalte immer NL am Ende deines Zuges bis zu !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Behalte immer NL am Ende deines Zuges bis zu !M! Karten."
   },
   "Whirlwind": {
     "NAME": "Wirbelwind",
@@ -1283,7 +1283,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Geistform",
-    "DESCRIPTION": "Erhalte !M! Immateriell. NL Verliere am Ende NL deines Zuges NL 1 Geschicklichkeit."
+    "DESCRIPTION": "Erhalte !M! Immateriell. NL Verliere immer am Ende deines Zuges NL 1 Geschicklichkeit."
   },
   "Writhe": {
     "NAME": "Leid",
@@ -1295,7 +1295,7 @@
   },
   "SpiritShield": {
     "NAME": "Geistesschild",
-    "DESCRIPTION": "Erhalte !M! Block pro Handkarte.",
+    "DESCRIPTION": "Erhalte !M! Block NL pro Handkarte.",
     "EXTENDED_DESCRIPTION": [
       " NL (Erhalte !B! Block.)"
     ]
@@ -1328,7 +1328,7 @@
   },
   "Devotion": {
     "NAME": "Hingabe",
-    "DESCRIPTION": "Erhalte immer zu Beginn deines Zuges !M! Mantra."
+    "DESCRIPTION": "Erhalte immer zu Beginn deines Zuges NL !M! Mantra."
   },
   "EmptyFist": {
     "NAME": "Leere Faust",
@@ -1353,7 +1353,7 @@
   },
   "Wish": {
     "NAME": "Wünschen",
-    "DESCRIPTION": "Wähle eins: NL Erhalte !B! Panzerrüstung, !D! Stärke oder !M! Gold. NL Erschöpft.",
+    "DESCRIPTION": "Wähle eins: NL Erhalte NL !B! Panzerrüstung, NL !D! Stärke oder !M! Gold. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Jede Karte, die im Kampf erschaffen wird, ist verbessert."
+    "DESCRIPTION": "Jede Karte, die du im Kampf nimmst, ist verbessert."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1434,7 +1434,7 @@
   },
   "LessonLearned": {
     "NAME": "Lektion gelernt",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, verbessere eine zufällige Karte in deinem Deck. Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, verbessere 1 zufällige Karte in deinem Deck. NL Erschöpft."
   },
   "Calm": {
     "NAME": "Ruhe",
@@ -1509,7 +1509,7 @@
   },
   "WaveOfTheHand": {
     "NAME": "Wink mit der Hand",
-    "DESCRIPTION": "Immer wenn du diesen Zug Block erhältst, wende an ALLEN Gegnern !M! Schwach an."
+    "DESCRIPTION": "Immer wenn du diesen Zug Block erhältst, wende !M! Schwach an ALLEN Gegnern an."
   },
   "Vigilance": {
     "NAME": "Wachsamkeit",
@@ -1639,7 +1639,7 @@
   },
   "Scrawl": {
     "NAME": "Gesudel",
-    "DESCRIPTION": "Ziehe Karten, bis deine Hand voll ist. NL Erschöpft.",
+    "DESCRIPTION": "Ziehe Karten, bis NL deine Hand voll ist. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
@@ -1798,7 +1798,7 @@
   },
   "InnerPeace": {
     "NAME": "Innerer Friede",
-    "DESCRIPTION": "Bist du in Ruhe, ziehe !M! Karten, sonst nimm Ruhe an."
+    "DESCRIPTION": "Bist du in Ruhe, NL ziehe !M! Karten, NL sonst nimm Ruhe an."
   },
   "StepAndStrike": {
     "NAME": "Schlag folgt Schritt",
@@ -1831,7 +1831,7 @@
   },
   "Indignation": {
     "NAME": "Empörung",
-    "DESCRIPTION": "Wenn du in Zorn bist, wende an ALLEN Gegnern !M! Verwundbar an, sonst nimm Zorn an."
+    "DESCRIPTION": "Wenn du in Zorn bist, wende !M! Verwundbar an ALLEN Gegnern an, sonst nimm Zorn an."
   },
   "BecomeAlmighty": {
     "NAME": "Allmächtig werden",
@@ -1843,7 +1843,7 @@
   },
   "LiveForever": {
     "NAME": "Ewiges Leben",
-    "DESCRIPTION": "Erhalte !M! *Panzerrüstung."
+    "DESCRIPTION": "Erhalte NL !M! *Panzerrüstung."
   },
   "Expunger": {
     "NAME": "Vernichter",
@@ -1864,7 +1864,7 @@
   },
   "Fasting2": {
     "NAME": "Fasten",
-    "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
+    "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte NL !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
   },
   "Discipline": {
     "NAME": "VERALTET Disziplin",
