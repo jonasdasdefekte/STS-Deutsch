@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Blut um Blut",
-    "DESCRIPTION": "Die Kosten dieser Karte sinken jedesmal um 1 [R] , wenn du TP verlierst. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Kostet 1 [R] weniger für jeden deiner TP-Verluste in diesem Kampf. NL Füge !D! Schaden zu."
   },
   "Bloodletting": {
     "NAME": "Aderlass",
@@ -299,7 +299,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
-    "DESCRIPTION": "Wende !M! Gift an. NL Sobald der Gegner stirbt, erleiden ALLE Gegner Schaden in Höhe seiner max. TP.",
+    "DESCRIPTION": "Wende !M! Gift an. NL Sobald dieser Gegner stirbt, erleiden ALLE Gegner Schaden in Höhe seiner max. TP.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       ""
@@ -393,8 +393,8 @@
   },
   "Discovery": {
     "NAME": "Entdeckung",
-    "DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet für diesen Zug 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 zufälligen Karten, die du auf die Hand erhältst. Diese kostet für diesen Zug 0."
+    "DESCRIPTION": "Wähle 1 aus 3 zufälligen Karten und nimm sie auf die Hand. Sie kostet für diesen Zug 0. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 zufälligen Karten und nimm sie auf die Hand. Sie kostet für diesen Zug 0."
   },
   "Distraction": {
     "NAME": "Ablenkung",
@@ -425,7 +425,7 @@
   },
   "Doubt": {
     "NAME": "Zweifel",
-    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges NL 1 Schwach."
+    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Schwach."
   },
   "Dramatic Entrance": {
     "NAME": "Dramatischer Auftritt",
@@ -456,7 +456,7 @@
   },
   "Endless Agony": {
     "NAME": "Endlose Qual",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte ziehst, nimm eine Kopie von ihr auf die Hand. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte ziehst, nimm eine Kopie von ihr auf die Hand. Erschöpft."
   },
   "Energy Pulse": {
     "NAME": "Energie-Puls",
@@ -487,8 +487,8 @@
   },
   "Evolve": {
     "NAME": "Entwickeln",
-    "DESCRIPTION": "Immer wenn du einen Status ziehst, ziehe !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Immer wenn du einen Status ziehst, ziehe !M! Karten."
+    "DESCRIPTION": "Immer wenn du einen Status ziehst, NL ziehe !M! Karte.",
+    "UPGRADE_DESCRIPTION": "Immer wenn du einen Status ziehst, NL ziehe !M! Karten."
   },
   "Exhume": {
     "NAME": "Exhumieren",
@@ -525,7 +525,7 @@
   },
   "Finisher": {
     "NAME": "Vollstrecken",
-    "DESCRIPTION": "Füge pro in diesem Zug gespieltem Angriff !D! Schaden zu.",
+    "DESCRIPTION": "Füge pro in diesem Zug gespieltem Angriff NL !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Angriff gespielt.)",
@@ -615,7 +615,7 @@
   },
   "Go for the Eyes": {
     "NAME": "In die Augen",
-    "DESCRIPTION": "Füge !D! Schaden zu. Beabsichtigt der Gegner anzugreifen, NL wende !M! Schwach an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner angreifen will, wende !M! Schwach an."
   },
   "Good Instincts": {
     "NAME": "Gute Instinkte",
@@ -836,7 +836,7 @@
   },
   "Noxious Fumes": {
     "NAME": "Giftige Dämpfe",
-    "DESCRIPTION": "Wende immer zu Beginn deines Zuges auf ALLE Gegner !M! Gift an."
+    "DESCRIPTION": "Wende immer zu Beginn deines Zuges auf ALLE Gegner NL !M! Gift an."
   },
   "Offering": {
     "NAME": "Opfergabe",
@@ -1054,7 +1054,7 @@
   },
   "Shame": {
     "NAME": "Scham",
-    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges NL 1 Gebrechlich."
+    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Gebrechlich."
   },
   "Shiv": {
     "NAME": "Messer",
@@ -1086,7 +1086,7 @@
   },
   "Spot Weakness": {
     "NAME": "Schwäche erkennen",
-    "DESCRIPTION": "Beabsichtigt der Gegner anzugreifen, NL erhalte !M! Stärke."
+    "DESCRIPTION": "Falls der Gegner angreifen will, NL erhalte !M! Stärke."
   },
   "Stack": {
     "NAME": "Stapel",
@@ -1178,7 +1178,7 @@
   },
   "The Bomb": {
     "NAME": "Die Bombe",
-    "DESCRIPTION": "Füge nach 3 Zügen ALLEN Gegnern !M! Schaden zu."
+    "DESCRIPTION": "Füge nach 3 Zügen ALLEN Gegnern NL !M! Schaden zu."
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",
@@ -1194,7 +1194,7 @@
   },
   "Thunderclap": {
     "NAME": "Blitz und Donner",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende bei ihnen 1 Verwundbar an."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende bei ihnen NL 1 Verwundbar an."
   },
   "Tools of the Trade": {
     "NAME": "Handwerkszeug",
@@ -1245,7 +1245,7 @@
   },
   "Venomology": {
     "NAME": "Alchemisieren",
-    "DESCRIPTION": "Erhalte einen zufälligen Trank. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen NL zufälligen Trank. NL Erschöpft."
   },
   "Violence": {
     "NAME": "Gewalt",
@@ -1318,7 +1318,7 @@
   },
   "Adaptation": {
     "NAME": "Eile",
-    "DESCRIPTION": "Immer wenn du Zorn annimmst, ziehe !M! Karten.",
+    "DESCRIPTION": "Immer wenn du Zorn annimmst, NL ziehe !M! Karten.",
     "UPGRADE_DESCRIPTION": "Veraltet."
   },
   "Causality": {
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Realität meistern",
-    "DESCRIPTION": "Jede Karte, die du im Kampf nimmst, ist verbessert."
+    "DESCRIPTION": "Jede Karte, die du im Kampf erhältst, ist verbessert."
   },
   "CleanseEvil": {
     "NAME": "Böses reinigen",
@@ -1450,7 +1450,7 @@
   },
   "FlyingSleeves": {
     "NAME": "Fliegende Ärmel",
-    "DESCRIPTION": "Behalten. NL Füge zweimal !D! Schaden zu."
+    "DESCRIPTION": "Behalten. NL Füge zweimal NL !D! Schaden zu."
   },
   "Wireheading": {
     "NAME": "Voraussicht",
@@ -1476,7 +1476,7 @@
   },
   "FearNoEvil": {
     "NAME": "Fürchte kein Böses",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Beabsichtigt der Gegner anzugreifen, nimm Ruhe an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner angreifen will, nimm Ruhe an."
   },
   "Perseverance": {
     "NAME": "Beharrlichkeit",
@@ -1600,7 +1600,7 @@
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Immer wenn du Spähst, erhalte !M! Block.",
+    "DESCRIPTION": "Immer wenn du Spähst, NL erhalte !M! Block.",
     "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
@@ -1659,12 +1659,12 @@
   },
   "ForeignInfluence": {
     "NAME": "Fremder Einfluss",
-    "DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben, den du auf die Hand erhältst. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 von 3 Angriffen aller Farben, den du auf die Hand erhältst. NL Er kostet diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben und nimm ihn auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben und nimm ihn auf die Hand. NL Er kostet diesen Zug 0. NL Erschöpft."
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
-    "DESCRIPTION": "Nur spielbar, wenn dies dein einziger Angriff auf der Hand ist. Füge !D! Schaden zu."
+    "DESCRIPTION": "Nur spielbar, wenn dies dein einziger Angriff auf der Hand ist. NL Füge !D! Schaden zu."
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Sublime Slice",
@@ -1798,7 +1798,7 @@
   },
   "InnerPeace": {
     "NAME": "Innerer Friede",
-    "DESCRIPTION": "Bist du in Ruhe, NL ziehe !M! Karten, NL sonst nimm Ruhe an."
+    "DESCRIPTION": "Falls du in Ruhe bist, ziehe !M! Karten, NL sonst nimm Ruhe an."
   },
   "StepAndStrike": {
     "NAME": "Schlag folgt Schritt",
@@ -1831,7 +1831,7 @@
   },
   "Indignation": {
     "NAME": "Empörung",
-    "DESCRIPTION": "Wenn du in Zorn bist, wende !M! Verwundbar an ALLEN Gegnern an, sonst nimm Zorn an."
+    "DESCRIPTION": "Falls du in Zorn bist, wende !M! Verwundbar an ALLEN Gegnern an, sonst nimm Zorn an."
   },
   "BecomeAlmighty": {
     "NAME": "Allmächtig werden",
@@ -1876,7 +1876,7 @@
   },
   "LikeWater": {
     "NAME": "Wie Wasser",
-    "DESCRIPTION": "Erhalte immer am Ende deines Zuges !M! Block, wenn du in Ruhe bist."
+    "DESCRIPTION": "Erhalte immer am Ende deines Zuges !M! Block, falls du in Ruhe bist."
   },
   "Study": {
     "NAME": "Studieren",
