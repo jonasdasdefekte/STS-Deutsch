@@ -393,7 +393,7 @@
   },
   "Discovery": {
     "NAME": "Entdeckung",
-    "DESCRIPTION": "Wähle 1 aus 3 zufälligen Karten und nimm sie auf die Hand. Sie kostet für diesen Zug 0. NL Erschöpft.",
+    "DESCRIPTION": "Wähle 1 aus 3 zufälligen Karten und nimm sie auf die Hand. Sie kostet für diesen Zug 0. Erschöpft.",
     "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 zufälligen Karten und nimm sie auf die Hand. Sie kostet für diesen Zug 0."
   },
   "Distraction": {
@@ -465,8 +465,8 @@
   },
   "Enlightenment": {
     "NAME": "Erleuchtung",
-    "DESCRIPTION": "Die Kosten deiner Handkarten reduzieren sich in diesem Zug auf 1.",
-    "UPGRADE_DESCRIPTION": "Die Kosten deiner Handkarten reduzieren sich für diesen Kampf auf 1."
+    "DESCRIPTION": "Senke die Kosten deiner Handkarten für diesem Zug auf 1.",
+    "UPGRADE_DESCRIPTION": "Senke die Kosten deiner Handkarten für diesen Kampf auf 1."
   },
   "Entrench": {
     "NAME": "Verschanzen",
@@ -1141,7 +1141,7 @@
   },
   "Sunder": {
     "NAME": "Trennen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stirbt der Gegner dadurch, erhalte [B] [B] [B]."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner dadurch stirbt, erhalte [B] [B] [B]."
   },
   "Survivor": {
     "NAME": "Überlebenskünstlerin",
@@ -1157,7 +1157,7 @@
   },
   "Sword Boomerang": {
     "NAME": "Bumerangschwert",
-    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner !D! Schaden zu."
+    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner NL !D! Schaden zu."
   },
   "Tactician": {
     "NAME": "Taktikerin",
@@ -1476,7 +1476,7 @@
   },
   "FearNoEvil": {
     "NAME": "Fürchte kein Böses",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner angreifen will, nimm Ruhe an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner angreifen will, NL nimm Ruhe an."
   },
   "Perseverance": {
     "NAME": "Beharrlichkeit",
@@ -1484,7 +1484,7 @@
   },
   "Ragnarok": {
     "NAME": "Ragnarök",
-    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner !D! Schaden zu."
+    "DESCRIPTION": "Füge !M! mal einem zufälligen Gegner NL !D! Schaden zu."
   },
   "AwakenedStrike": {
     "NAME": "DEPRECATED Awakened Strike",
@@ -1659,8 +1659,8 @@
   },
   "ForeignInfluence": {
     "NAME": "Fremder Einfluss",
-    "DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben und nimm ihn auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben und nimm ihn auf die Hand. NL Er kostet diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben. Nimm ihn auf die Hand. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben. Nimm ihn auf die Hand, er kostet diesen Zug 0. NL Erschöpft."
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
@@ -1856,7 +1856,7 @@
   "ConjureBlade": {
     "NAME": "Klinge beschwören",
     "DESCRIPTION": "Mische einen *Vernichter in den Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Mische einen *Vernichter+ mit X+1 in den Nachziehstapel. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Mische einen *Vernichter mit X+1 in den Nachziehstapel. NL Erschöpft."
   },
   "WaveOfTheHand2": {
     "NAME": "",
