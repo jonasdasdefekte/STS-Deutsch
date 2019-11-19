@@ -73,7 +73,7 @@
   },
   "Backstab": {
     "NAME": "Meucheln",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Angeboren. NL Erschöpft."
+    "DESCRIPTION": "Angeboren. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "Ball Lightning": {
     "NAME": "Kugelblitz",
@@ -165,7 +165,7 @@
   },
   "BootSequence": {
     "NAME": "Systemstart",
-    "DESCRIPTION": "Erhalte !B! Block. NL Angeboren. NL Erschöpft."
+    "DESCRIPTION": "Angeboren. NL Erhalte !B! Block. NL Erschöpft."
   },
   "Bouncing Flask": {
     "NAME": "Springende Flasche",
@@ -655,7 +655,7 @@
   "Hello World": {
     "NAME": "Hallo Welt",
     "DESCRIPTION": "Nimm immer zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm immer zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
+    "UPGRADE_DESCRIPTION": "Angeboren. Nimm immer zu Beginn deines Zuges eine zufällige gewöhnliche Karte auf die Hand."
   },
   "Hemokinesis": {
     "NAME": "Hämokinese",
@@ -1194,7 +1194,7 @@
   },
   "Thunderclap": {
     "NAME": "Blitz und Donner",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende bei ihnen NL 1 Verwundbar an."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende 1 Verwundbar auf sie an."
   },
   "Tools of the Trade": {
     "NAME": "Handwerkszeug",
