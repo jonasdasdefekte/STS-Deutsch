@@ -465,7 +465,7 @@
   },
   "Enlightenment": {
     "NAME": "Erleuchtung",
-    "DESCRIPTION": "Senke die Kosten deiner Handkarten für diesem Zug auf 1.",
+    "DESCRIPTION": "Senke die Kosten deiner Handkarten für diesen Zug auf 1.",
     "UPGRADE_DESCRIPTION": "Senke die Kosten deiner Handkarten für diesen Kampf auf 1."
   },
   "Entrench": {
@@ -615,7 +615,7 @@
   },
   "Go for the Eyes": {
     "NAME": "In die Augen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner angreifen will, wende !M! Schwach an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner angreifen will, NL wende !M! Schwach an."
   },
   "Good Instincts": {
     "NAME": "Gute Instinkte",
@@ -680,7 +680,7 @@
   },
   "Impatience": {
     "NAME": "Ungeduld",
-    "DESCRIPTION": "Hast du keine Angriffe auf der Hand, ziehe !M! Karten."
+    "DESCRIPTION": "Falls du keine Angriffe auf der Hand hast, ziehe !M! Karten."
   },
   "Impervious": {
     "NAME": "Unempfindlich",
@@ -1203,7 +1203,7 @@
   "Transmutation": {
     "NAME": "Umwandlung",
     "DESCRIPTION": "Nimm X zufällige farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Nimm X zufällige verbesserte farblose Karten auf die Hand. Sie kosten für diesen Zug 0. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Nimm X zufällige verbesserte farblose Karten auf die Hand. Sie kosten für diesen Zug 0. Erschöpft."
   },
   "Trip": {
     "NAME": "Straucheln",
@@ -1509,7 +1509,7 @@
   },
   "WaveOfTheHand": {
     "NAME": "Wink mit der Hand",
-    "DESCRIPTION": "Immer wenn du diesen Zug Block erhältst, wende !M! Schwach an ALLEN Gegnern an."
+    "DESCRIPTION": "Immer wenn du diesen Zug Block erhältst, wende !M! Schwach auf ALLE Gegner an."
   },
   "Vigilance": {
     "NAME": "Wachsamkeit",
@@ -1847,10 +1847,10 @@
   },
   "Expunger": {
     "NAME": "Vernichter",
-    "DESCRIPTION": "Füge X mal !D! Schaden zu.",
+    "DESCRIPTION": "Füge X mal NL !D! Schaden zu.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Füge !M! mal !D! Schaden zu."
+      "Füge !M! mal NL !D! Schaden zu."
     ]
   },
   "ConjureBlade": {
@@ -1864,7 +1864,7 @@
   },
   "Fasting2": {
     "NAME": "Fasten",
-    "DESCRIPTION": "Erhalte !M! Stärke. NL Erhalte NL !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
+    "DESCRIPTION": "Erhalte !M! Stärke und NL !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
   },
   "Discipline": {
     "NAME": "VERALTET Disziplin",
