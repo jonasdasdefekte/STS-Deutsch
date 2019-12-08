@@ -28,7 +28,7 @@
         "erschaffene",
         "erschaffenen"
       ],
-      "DESCRIPTION": "Wenn du einen Orb erschaffst, kommt er in deinen ersten freien Slot. Wenn du keine freien Slots hast, wird dein erster Orb automatisch #yentladen, um Platz zu machen."
+      "DESCRIPTION": "Ein erschaffener Orb kommt in deinen vordersten freien Slot. Hast du keine freien Slots, so #yentlädt sich dein vorderster Orb, um Platz zu machen."
     },
     "CONFUSED": {
       "NAMES": [
@@ -332,7 +332,7 @@
       "NAMES": [
         "tödlich"
       ],
-      "DESCRIPTION": "Wird ausgelöst, wenn diese Karte einen Gegner außer Untertanen tötet."
+      "DESCRIPTION": "Wird ausgelöst, wenn diese Karte einen Gegner tötet, der kein Untertan ist."
     }
   }
 }
