@@ -1769,7 +1769,7 @@
   },
   "Vengeance": {
     "NAME": "Kochende Wut",
-    "DESCRIPTION": "Spähe !M!. NL Nimm zu Beginn deines nächsten Zuges Zorn an."
+    "DESCRIPTION": "Nimm zu Beginn deines nächsten Zuges Zorn an und ziehe !M! Karten."
   },
   "CarveReality": {
     "NAME": "Realität prägen",
@@ -1850,6 +1850,7 @@
     "DESCRIPTION": "Füge X mal NL !D! Schaden zu.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
+      "Füge !M! mal NL !D! Schaden zu.",
       "Füge !M! mal NL !D! Schaden zu."
     ]
   },
