@@ -421,7 +421,7 @@
   "Double Tap": {
     "NAME": "Doppeltreffer",
     "DESCRIPTION": "Dein nächster Angriff in diesem Zug wird zweimal ausgespielt.",
-    "UPGRADE_DESCRIPTION": "Deine nächsten !M! Angriffe in diesem Zug werden zweimal ausgespielt."
+    "UPGRADE_DESCRIPTION": "Deine nächsten NL !M! Angriffe in diesem Zug werden zweimal ausgespielt."
   },
   "Doubt": {
     "NAME": "Zweifel",
@@ -722,7 +722,7 @@
   },
   "Juggernaut": {
     "NAME": "Moloch",
-    "DESCRIPTION": "Immer wenn du Block erhältst, füge einem zufälligen Gegner !M! Schaden zu."
+    "DESCRIPTION": "Immer wenn du Block erhältst, füge einem zufälligen Gegner NL !M! Schaden zu."
   },
   "Leap": {
     "NAME": "Sprung",

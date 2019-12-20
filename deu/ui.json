@@ -123,9 +123,9 @@
       "14. Weniger max. TP.",
       "15. Ungünstige Ereignisse.",
       "16. Läden sind teurer.",
-      "17. Normale Gegner haben anspruchsvollere Absichten.",
-      "18. Eliten haben anspruchsvollere Absichten.",
-      "19. Bosse haben anspruchsvollere Absichten.",
+      "17. Normale Gegner haben schwerere Fähigkeiten.",
+      "18. Eliten haben schwerere Fähigkeiten.",
+      "19. Bosse haben schwerere Fähigkeiten.",
       "20. (Höchstes Level) Doppelter Boss."
     ]
   },
@@ -352,7 +352,7 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Tägliche Herausforderung",
+      "Run des Tages",
       "Verbindung zum Zeitserver wird hergestellt...",
       "#yHINWEIS: Du hast die heutige Herausforderung abgeschlossen. NL Weitere Versuche tauchen nicht auf der Rangliste auf.",
       "Zurück",
@@ -367,10 +367,10 @@
       " NL TAB #yMods: ",
       "Regeln: ",
       "Ranglisten",
-      "*Errungenschaften sind beim Täglichen Aufstieg abgeschaltet.",
+      "*Errungenschaften sind beim Run des Tages abgeschaltet.",
       "  [OFFLINEMODUS]",
       "dd. MMMM yyyy",
-      "*Trophäen sind beim Täglichen Aufstieg abgeschaltet."
+      "*Trophäen sind beim Run des Tages abgeschaltet."
     ]
   },
   "DeathScreen": {
@@ -820,7 +820,7 @@
       "Standard",
       "",
       "Brich auf zu einer Quest in den Spire! Kämpfe dich an die Spitze des mysteriösen Turmes.",
-      "Täglicher Aufstieg",
+      "Run des Tages",
       "",
       "Jeden Tag gibt es eine neue Herausforderung.\nMiss dich mit anderen Spielern um die höchste Punktzahl!",
       "Aufstiegsmodus",
@@ -854,7 +854,7 @@
       "",
       "Sieh dir all die Leute an, die an Slay the Spire mitgewirkt haben!",
       "Unbekannt",
-      "Gewinne einen Täglichen Aufstieg, um diesen Spielmodus freizuschalten.",
+      "Gewinne einen Run des Tages, um diesen Spielmodus freizuschalten.",
       "Dieses Feature ist noch nicht verfügbar.",
       "Spezialmodus",
       "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen.",
@@ -1159,11 +1159,11 @@
       "Siege & Niederlagen",
       "Siege",
       "Niederlagen",
-      "Täglich",
+      "Run des Tages",
       "Jeder Spielmodus",
       "Nur Normal",
       "Nur Aufstieg",
-      "Tägliche Herausf.",
+      "Run des Tages",
       "Seed: %s",
       "Eigener Seed: %s",
       "d.M.yyyy, H:mm",
@@ -1197,10 +1197,10 @@
     "TEXT": [
       "Bist du sicher?",
       "Dein Fortschritt wird automatisch gespeichert.",
-      "Ein abgebrochener Run wird als verloren gezählt.",
+      "Ein abgebrochener Run wird als verloren gewertet.",
       "ACHTUNG:\nFortschritt NICHT gespeichert.\n\nErreiche die nächste Ebene, um den aktuellen Run zu speichern.",
       "Zurückkehren",
-      "Fortschritt für Tägliche Herausforderungen wird NICHT gespeichert."
+      "Fortschritt wird für Runs des Tages NICHT gespeichert."
     ]
   },
   "SetupAction": {
