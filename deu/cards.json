@@ -1582,8 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Devaform",
-    "DESCRIPTION": "Flüchtig. NL Erhalte immer zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!.",
-    "UPGRADE_DESCRIPTION": "Erhalte immer zu Beginn deines Zuges [W] NL und erhöhe diesen Wert um !M!."
+    "DESCRIPTION": "Flüchtig. NL Erhalte immer zu Beginn deines Zuges [W] und erhöhe diesen Wert um !M!.",
+    "UPGRADE_DESCRIPTION": "Erhalte immer zu Beginn deines Zuges [W] und erhöhe diesen Wert um !M!."
   },
   "TalkToTheHand": {
     "NAME": "Sprich zur Hand",
@@ -1660,7 +1660,7 @@
   "ForeignInfluence": {
     "NAME": "Fremder Einfluss",
     "DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben. Nimm ihn auf die Hand. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben. Nimm ihn auf die Hand, er kostet diesen Zug 0. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 Angriffen aller Farben. Nimm ihn auf die Hand, er kostet diesen Zug 0. Erschöpft."
   },
   "SignatureMove": {
     "NAME": "Spezialmanöver",
