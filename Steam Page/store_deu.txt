@@ -1,0 +1,22 @@
+[img]{STEAM_APP_IMAGE}/extras/store_silent.gif[/img]
+Wir haben Kartenspiele und Roguelikes vereint, um den bestmöglichen Singleplayer-Deckbauer zu erschaffen. Baue dein eigenes Deck, begegne bizarren Kreaturen, entdecke Relikte von unermesslicher Macht und kämpfe dich an die Spitze des Spires!
+
+[img]{STEAM_APP_IMAGE}/extras/store_ironclad.gif[/img]
+[h2][b]Features[/b][/h2]
+[list]
+[*][i]Dynamischer Deckbau[/i]: Wähle deine Karten weise! Entdecke bei jedem Versuch, den Spire zu besteigen, hunderte von Karten, die du deinem Deck hinzufügen kannst. Suche dir Karten aus, die effizient zusammenarbeiten, um deine Feinde zu überwinden und die Spitze zu erreichen.
+[*][i]Ein sich ständig ändernder Spire[/i]: Auf jeder Reise in den Spire ändert sich die Anordnung der Räume. Wähle einen riskanten oder sicheren Weg, stelle dich anderen Feinden, wähle andere Karten, entdecke andere Relikte und kämpfe sogar gegen andere Bosse!
+[*][i]Mächtige Relikte zu entdecken[/i]: Mächtige Gegenstände, die als Relikte bekannt sind, können überall im Spire gefunden werden. Die Effekte dieser Relikte können dein Deck durch mächtige Interaktionen stark verbessern. Aber Vorsicht, manche Relikte kosten dich mehr als nur Gold...
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/store_defect.gif[/img]
+[h2][b]Slay the Spire hat den Early Access verlassen und enthält jetzt:[/b][/h2]
+[list]
+[*]vier Hauptcharaktere mit jeweils komplett individuellen Kartensatz,
+[*]350+ vollständig implementierte Karten,
+[*]200+ verschiedene Gegenstände, die gefunden werden können,
+[*]50+ unterschiedliche Kampfbegegnungen,
+[*]50+ geheimnisvolle Ereignisse, die dir helfen oder schaden können,
+[*]Den Run des Tages, bei dem du dich mit den Spielern auf der ganzen Welt messen kannst.
+[*]Einen Spezialmodus, in dem du deine eigene Kombination aus verrückten Sonderregeln auswählst.
+[/list]
