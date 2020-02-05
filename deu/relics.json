@@ -572,7 +572,7 @@
     "NAME": "Echsenschwanz",
     "FLAVOR": "Ein falscher Schwanz, um Gegner während des Kampfes hereinzulegen.",
     "DESCRIPTIONS": [
-      "Anstatt zu sterben, werden #b50% deiner max. TP geheilt (funktioniert einmal)."
+      "Anstatt zu sterben, heile #b50% deiner max. TP (funktioniert einmal)."
     ]
   },
   "Magic Flower": {
