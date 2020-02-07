@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Sperrfeuer",
-    "DESCRIPTION": "Füge pro erschaffenem Orb !D! Schaden zu."
+    "DESCRIPTION": "Füge pro Orb NL !D! Schaden zu."
   },
   "Barricade": {
     "NAME": "Barrikade",
@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Schneesturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal des in diesem Kampf erschaffenen Frosts.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden zu in Höhe !M! mal des diesen Kampf erschaffenen Frosts.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu.)",
       ""
@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Blut um Blut",
-    "DESCRIPTION": "Kostet 1 [R] weniger für jeden deiner TP-Verluste in diesem Kampf. NL Füge !D! Schaden zu."
+    "DESCRIPTION": "Kostet 1 [R] weniger für jeden deiner TP-Verluste diesen Kampf. NL Füge !D! Schaden zu."
   },
   "Bloodletting": {
     "NAME": "Aderlass",
@@ -238,7 +238,7 @@
   },
   "Chrysalis": {
     "NAME": "Eingepuppt",
-    "DESCRIPTION": "Mische !M! zufällige Fertigkeiten in den Nachziehstapel. Sie kosten in diesem Kampf 0. Erschöpft."
+    "DESCRIPTION": "Mische !M! zufällige Fertigkeiten in den Nachziehstapel. Sie kosten diesen Kampf 0. Erschöpft."
   },
   "Clash": {
     "NAME": "Zusammenstoß",
@@ -576,7 +576,7 @@
   },
   "Force Field": {
     "NAME": "Kraftfeld",
-    "DESCRIPTION": "Kostet 1 [B] weniger pro in diesem Kampf gespielter Machtkarte. NL Erhalte !B! Block."
+    "DESCRIPTION": "Kostet 1 [B] weniger pro diesen Kampf gespielter Machtkarte. NL Erhalte !B! Block."
   },
   "Forethought": {
     "NAME": "Planung",
@@ -589,7 +589,7 @@
   },
   "Gash": {
     "NAME": "Kralle",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Alle Krallen fügen in diesem Kampf NL !M! Schaden mehr zu."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Alle Krallen fügen diesen Kampf NL !M! Schaden mehr zu."
   },
   "Genetic Algorithm": {
     "NAME": "Gen-Algorithmus",
@@ -787,7 +787,7 @@
   },
   "Metamorphosis": {
     "NAME": "Metamorphose",
-    "DESCRIPTION": "Mische !M! zufällige Angriffe in den Nachziehstapel. Sie kosten in diesem Kampf 0. Erschöpft."
+    "DESCRIPTION": "Mische !M! zufällige Angriffe in den Nachziehstapel. Sie kosten diesen Kampf 0. Erschöpft."
   },
   "Meteor Strike": {
     "NAME": "Meteorschlag",
@@ -931,7 +931,7 @@
   },
   "Rampage": {
     "NAME": "Toben",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Mit jedem Spielen dieser Karte erhöht sich ihr Schaden in diesem Kampf um !M!."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Mit jedem Spielen dieser Karte erhöht sich ihr Schaden diesen Kampf um !M!."
   },
   "Reaper": {
     "NAME": "Schnitter",
@@ -1187,7 +1187,7 @@
   },
   "Thunder Strike": {
     "NAME": "Donnerschlag",
-    "DESCRIPTION": "Füge pro in diesem Kampf erschaffenem Blitz einem zufälligen Gegner !D! Schaden zu.",
+    "DESCRIPTION": "Füge pro diesen Kampf erschaffenem Blitz einem zufälligen Gegner !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": [
       " (Greift !M! mal an.)"
     ]
@@ -1393,7 +1393,7 @@
   },
   "FollowUp": {
     "NAME": "Anschlusshieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte ein Angriff, erhalte [W]."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Hast du diesen Kampf zuletzt einen Angriff gespielt, erhalte [W]."
   },
   "Vault": {
     "NAME": "Überspringen",
@@ -1459,7 +1459,7 @@
   },
   "Sanctity": {
     "NAME": "Heiligkeit",
-    "DESCRIPTION": "Erhalte !B! Block. NL War die letzte in diesem Kampf gespielte Karte eine Fertigkeit, ziehe !M! Karten."
+    "DESCRIPTION": "Erhalte !B! Block. NL Hast du diesen Kampf zuletzt eine Fertigkeit gespielt, NL ziehe !M! Karten."
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
@@ -1623,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "Brillanz",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Fügt mehr Schaden zu pro in diesem Kampf erhaltenem Mantra.",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Fügt mehr Schaden zu pro diesen Kampf erhaltenem Mantra.",
     "EXTENDED_DESCRIPTION": [
       "",
       ""
@@ -1765,7 +1765,7 @@
   },
   "CrushJoints": {
     "NAME": "Gelenke brechen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte eine Fertigkeit, wende !M! Verwundbar an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Hast du diesen Kampf zuletzt eine Fertigkeit gespielt, wende NL !M! Verwundbar an."
   },
   "Vengeance": {
     "NAME": "Kochende Wut",
@@ -1822,7 +1822,7 @@
   },
   "SashWhip": {
     "NAME": "Schärpenknall",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL War die letzte in diesem Kampf gespielte Karte ein Angriff, wende !M! Schwach an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Hast du diesen Kampf zuletzt einen Angriff gespielt, NL wende !M! Schwach an."
   },
   "WheelKick": {
     "NAME": "Wirbeltritt",
