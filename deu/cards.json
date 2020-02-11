@@ -1020,7 +1020,7 @@
   },
   "Secret Weapon": {
     "NAME": "Geheimwaffe",
-    "DESCRIPTION": "Wähle einen Angriff aus dem Nachziehstapel und nimm ihn auf die Hand. NL Erschöpft.",
+    "DESCRIPTION": "Wähle einen Angriff aus dem Nachziehstapel und nimm ihn auf die Hand. Erschöpft.",
     "UPGRADE_DESCRIPTION": "Wähle einen Angriff aus dem Nachziehstapel und nimm ihn auf die Hand.",
     "EXTENDED_DESCRIPTION": [
       "Es befinden sich keine Angriffe NL in meinem Nachziehstapel."
