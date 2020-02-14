@@ -34,10 +34,10 @@
   "AbstractMonster": {
     "TEXT": [
       "Aggressiv",
-      "Dieser Gegner will NL für #b",
+      "Dieser Gegner will für NL #b",
       " Schaden #b",
       " Mal #yangreifen.",
-      "Dieser Gegner will NL für #b",
+      "Dieser Gegner will für NL #b",
       " Schaden #yangreifen.",
       "Aggressiv",
       "Dieser Gegner will einen #yBuff einsetzen und für #b",
