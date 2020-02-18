@@ -1039,11 +1039,11 @@
   },
   "RichPresence": {
     "TEXT": [
-      "Täglich - Ebene %s",
+      "Tagesrun - Ebene %s",
       "Spezial - Ebene %s",
-      " - Ebene %s",
+      " Eb.%s",
       "Hauptmenü",
-      " (A%s)"
+      " A%s"
     ]
   },
   "RunHistoryMonsterNames": {

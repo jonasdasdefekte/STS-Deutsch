@@ -534,7 +534,7 @@
   },
   "Fire Breathing": {
     "NAME": "Feueratem",
-    "DESCRIPTION": "Immer wenn du eine Status- oder Fluchkarte ziehst, füge ALLEN Gegnern !M! Schaden zu."
+    "DESCRIPTION": "Immer wenn du eine Status- oder Fluchkarte ziehst, füge ALLEN Gegnern NL !M! Schaden zu."
   },
   "Fission": {
     "NAME": "Spaltung",
