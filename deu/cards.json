@@ -425,7 +425,7 @@
   },
   "Doubt": {
     "NAME": "Zweifel",
-    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Schwach."
+    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges NL 1 Schwach."
   },
   "Dramatic Entrance": {
     "NAME": "Dramatischer Auftritt",
@@ -1054,7 +1054,7 @@
   },
   "Shame": {
     "NAME": "Scham",
-    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges 1 Gebrechlich."
+    "DESCRIPTION": "Unspielbar. NL Erhalte am Ende deines Zuges NL 1 Gebrechlich."
   },
   "Shiv": {
     "NAME": "Messer",
@@ -1518,7 +1518,7 @@
   },
   "PathToVictory": {
     "NAME": "Schwachpunkte",
-    "DESCRIPTION": "Wende !M! Markierung an. ALLE Gegner verlieren TP entsprechend ihrer Markierung.",
+    "DESCRIPTION": "Wende !M! Markierung an. NL ALLE Gegner verlieren TP in Höhe ihrer Markierung.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
@@ -1818,7 +1818,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Hiebregen",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wenn du Haltungen änderst, nimm diese Karte vom Abwurfstapel auf die Hand."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Änderst du Haltungen, nimm diese Karte vom Abwurfstapel auf die Hand."
   },
   "SashWhip": {
     "NAME": "Schärpenknall",
