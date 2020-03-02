@@ -534,7 +534,7 @@
   },
   "Fire Breathing": {
     "NAME": "Feueratem",
-    "DESCRIPTION": "Immer wenn du eine Status- oder Fluchkarte ziehst, füge ALLEN Gegnern NL !M! Schaden zu."
+    "DESCRIPTION": "Immer wenn du eine Status- oder Fluchkarte ziehst, NL füge ALLEN Gegnern NL !M! Schaden zu."
   },
   "Fission": {
     "NAME": "Spaltung",
@@ -783,7 +783,7 @@
   },
   "Metallicize": {
     "NAME": "Metallschicht",
-    "DESCRIPTION": "Erhalte immer am Ende deines Zuges !M! Block."
+    "DESCRIPTION": "Erhalte immer am Ende deines Zuges NL !M! Block."
   },
   "Metamorphosis": {
     "NAME": "Metamorphose",
@@ -935,7 +935,7 @@
   },
   "Reaper": {
     "NAME": "Schnitter",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile so viele TP, wie die Gegner TP verloren haben. Erschöpft."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Heile um die TP, die sie verloren haben. Erschöpft."
   },
   "Reboot": {
     "NAME": "Neustart",

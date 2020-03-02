@@ -216,7 +216,7 @@
         "transformierst",
         "transformiere"
       ],
-      "DESCRIPTION": "Transformierte Karten ändern sich zu einer Karte von zufälliger Seltenheit."
+      "DESCRIPTION": "Transformierte Karten ändern sich zu einer Karte gleicher Farbe, aber zufälliger Seltenheit."
     },
     "UNKNOWN": {
       "NAMES": [
