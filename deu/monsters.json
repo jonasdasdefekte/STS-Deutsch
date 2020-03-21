@@ -583,7 +583,7 @@
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Lecken",
+      "Wabbeln",
       "Spalten"
     ],
     "NAME": "Stachelschleim (G)",
@@ -593,7 +593,7 @@
   },
   "SpikeSlime_M": {
     "MOVES": [
-      "Lecken"
+      "Wabbeln"
     ],
     "NAME": "Stachelschleim (M)",
     "DIALOG": [
