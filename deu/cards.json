@@ -61,7 +61,7 @@
   },
   "Auto Shields": {
     "NAME": "Schilde hoch!",
-    "DESCRIPTION": "Wenn du 0 Block hast, erhalte !B! Block."
+    "DESCRIPTION": "Falls du 0 Block hast, erhalte !B! Block."
   },
   "Axe Kick": {
     "NAME": "Axttritt",
@@ -580,8 +580,8 @@
   },
   "Forethought": {
     "NAME": "Planung",
-    "DESCRIPTION": "Lege eine Handkarte unter den Nachziehstapel. NL Sie kostet 0, bis du sie spielst.",
-    "UPGRADE_DESCRIPTION": "Lege beliebig viele Handkarten unter den Nachziehstapel. NL Sie kosten 0, bis du sie spielst."
+    "DESCRIPTION": "Lege eine Handkarte unter den Nachziehstapel. NL Sie kostet 0, NL bis du sie spielst.",
+    "UPGRADE_DESCRIPTION": "Lege beliebig viele Handkarten unter den Nachziehstapel. NL Sie kosten 0, NL bis du sie spielst."
   },
   "Fusion": {
     "NAME": "Fusion",
@@ -1454,7 +1454,7 @@
   },
   "Wireheading": {
     "NAME": "Voraussicht",
-    "DESCRIPTION": "Immer zu Beginn deines Zuges Spähe !M!.",
+    "DESCRIPTION": "Immer zu Beginn deines Zuges NL Spähe !M!.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Sanctity": {
@@ -1615,7 +1615,7 @@
   },
   "Halt": {
     "NAME": "Halt",
-    "DESCRIPTION": "Erhalte !B! Block. NL Wenn du in Zorn bist, erhalte !M! Block mehr."
+    "DESCRIPTION": "Erhalte !B! Block. NL Falls du in Zorn bist, erhalte !M! Block mehr."
   },
   "CurseOfTheBell": {
     "NAME": "Fluch der Glocke",
@@ -1721,7 +1721,7 @@
   },
   "Judgement": {
     "NAME": "Urteil",
-    "DESCRIPTION": "Wenn der Gegner !M! oder weniger TP hat, setze seine TP auf 0.",
+    "DESCRIPTION": "Falls der Gegner !M! oder weniger TP hat, setze seine TP auf 0.",
     "EXTENDED_DESCRIPTION": [
       "VERURTEILT"
     ]
@@ -1769,7 +1769,7 @@
   },
   "Vengeance": {
     "NAME": "Kochende Wut",
-    "DESCRIPTION": "Nimm zu Beginn deines nächsten Zuges Zorn an und ziehe !M! Karten."
+    "DESCRIPTION": "Nimm zu Beginn deines nächsten Zuges Zorn an und ziehe NL !M! Karten."
   },
   "CarveReality": {
     "NAME": "Realität prägen",
@@ -1865,7 +1865,7 @@
   },
   "Fasting2": {
     "NAME": "Fasten",
-    "DESCRIPTION": "Erhalte !M! Stärke und NL !M! Geschicklichkeit. NL Erhalte jeden Zug 1 [W] weniger."
+    "DESCRIPTION": "Erhalte !M! Stärke und NL !M! Geschicklichkeit. NL Erhalte jeden Zug NL 1 [W] weniger."
   },
   "Discipline": {
     "NAME": "VERALTET Disziplin",
@@ -1877,7 +1877,7 @@
   },
   "LikeWater": {
     "NAME": "Wie Wasser",
-    "DESCRIPTION": "Erhalte immer am Ende deines Zuges !M! Block, falls du in Ruhe bist."
+    "DESCRIPTION": "Erhalte immer am Ende deines Zuges NL !M! Block, falls du in Ruhe bist."
   },
   "Study": {
     "NAME": "Studieren",
