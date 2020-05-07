@@ -423,7 +423,7 @@
     "NAME": "Gefrorener Kern",
     "FLAVOR": "Der Sprung in deinem Kern ist mit einer pulsierenden kalten Energie gefüllt worden.",
     "DESCRIPTIONS": [
-      "Ersetzt #bGesprungener #bKern. Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
+      "Ersetzt #bGesprungener #bKern. NL Wenn du deinen Zug mit leeren Orb-Slots beendest, #yerschaffe #b1 #yFrost."
     ]
   },
   "Fusion Hammer": {
@@ -1458,7 +1458,7 @@
     "NAME": "Heiliges Wasser",
     "FLAVOR": "Noch aus einer Zeit vor dem Spire.",
     "DESCRIPTIONS": [
-      "Ersetzt #pReines #pWasser. Nimm zu Beginn jedes Kampfes #b3 #yWunder auf deine Hand."
+      "Ersetzt #pReines #pWasser. NL Nimm zu Beginn jedes Kampfes #b3 #yWunder auf deine Hand."
     ]
   },
   "PureWater": {

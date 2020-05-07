@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Berserker",
-    "DESCRIPTION": "Erhalte !M! Verwundbar. NL Erhalte immer zu Beginn deines Zuges [R]."
+    "DESCRIPTION": "Erhalte NL !M! Verwundbar. NL Erhalte immer zu Beginn deines Zuges [R]."
   },
   "Biased Cognition": {
     "NAME": "Verzerrter Fokus",
@@ -543,7 +543,7 @@
   },
   "Flame Barrier": {
     "NAME": "Flammenwall",
-    "DESCRIPTION": "Erhalte !B! Block. NL Immer wenn dich in diesem Zug ein Gegner angreift, füge ihm !M! Schaden zu. "
+    "DESCRIPTION": "Erhalte !B! Block. NL Immer wenn dich in diesem Zug ein Gegner angreift, füge ihm NL !M! Schaden zu. "
   },
   "Flash of Steel": {
     "NAME": "Stahlblitz",
