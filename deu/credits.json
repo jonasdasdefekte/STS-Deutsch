@@ -27,7 +27,8 @@
   },
   "LOC_CAT": {
     "HEADER": "Katalanische Übersetzung",
-    "NAMES": []
+    "NAMES": [
+    ]
   },
   "LOC_DEU": {
     "HEADER": "Deutsche Übersetzung",
@@ -114,17 +115,20 @@
   "LOC_KOR": {
     "HEADER": "Koreanische Übersetzung",
     "NAMES": [
-      "Koordination:",
+      "Übersetzung und Koordinierung:",
       "Eteriny",
+      "Fissh",
+      "GyeRyak",
       "Übersetzung:",
       "Simcoding",
       "DesFrog",
-      "Fissh",
       "insight",
       "K4lium",
       "hina",
-      "Übersetzung der Steamseite:",
-      "GyeRyak"
+      "Vekan",
+      "Schriftart:",
+      "Im Spiel: GyeonggiCheonnyeon(Batang) von Gyeonggi-Do",
+      "Shopgrafik: NanumBrush, NanumPen von NAVER Corporation"
     ]
   },
   "LOC_NOR": {
@@ -136,7 +140,7 @@
   "LOC_POL": {
     "HEADER": "Polnische Übersetzung",
     "NAMES": [
-      "Übersetzung und Koordination:",
+      "Übersetzung und Koordinierung:",
       "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Weitere Übersetzungen:",
@@ -189,16 +193,23 @@
   "LOC_SPA": {
     "HEADER": "Spanische Übersetzung",
     "NAMES": [
-      "Übersetzung und Koordination:",
+      "Übersetzung und Koordinierung:",
+      "Juanjo \"ajuanjojjj\" Martinez",
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Übersetzung:",
+      "Erick Marroquin",
+      "Accord",
       "Xavier \"xabad98\" Abad Salinas",
       "Sergio \"Skiddome\" Malagón",
-      "Juanjo \"ajuanjojjj\" Martinez",
       "Pedro J. \"PJJLegend\" Jiménez",
-      "Durchsicht:",
+      "Rodrigo \"skylex\" Zabattaro",
+      "Alberto \"RadeonThe1st\" Botana",
+      "Spooktacular",
+      "Grammatik und Durchsicht:",
       "Joaquín \"Pip1n\" López",
-      "Xavier Castañer"
+      "Xavier Castañer",
+      "Summer",
+      "Eipic"
     ]
   },
   "LOC_SRB": {
@@ -210,7 +221,7 @@
   "LOC_THA": {
     "HEADER": "Thai-Übersetzung",
     "NAMES": [
-      "Übersetzung und Koordination:",
+      "Übersetzung und Koordinierung:",
       "Noppon Varapaiboon (PlearnGaming)",
       "Weitere Übersetzung:",
       "Rapeepat Suwan (Yuu)",
@@ -223,17 +234,19 @@
   "LOC_TUR": {
     "HEADER": "Türkische Übersetzung",
     "NAMES": [
+      "Übersetzung und Koordinierung:",
+      "Ertürk Yılmaz",
+      "Übersetzung:",
       "Erdem Gürbüz",
       "Ege \"sLanKy\" Güçkıran",
       "\"onparalelkenarag\"",
-      "Berkan Çalıkoğlu",
-      "Ertürk Yılmaz"
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
     "HEADER": "Ukrainische Übersetzung",
     "NAMES": [
-      "Übersetzung und Koordination:",
+      "Übersetzung und Koordinierung:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
       "Korrektur und Übersetzung:",
       "Vasyl \"RDSk\" Mykhaliuk",
@@ -315,7 +328,7 @@
       "Ryan Mathisen",
       "Anthony McMillian",
       "Brad Meine",
-      "Jacob Morris",
+      "Jade Wesley",
       "Alex Rockwell",
       "Greg Scheopner",
       "John \"Slide20xl\" Smith",
@@ -388,7 +401,7 @@
       "Übersetzung:",
       "Dinh Long Hoang (donkrieg1011)",
       "Dinh Hoang Nguyen (clesta)",
-      "Koordination und sprachliche Leitung:",
+      "Koordinierung und sprachliche Leitung:",
       "Hoang Son Do",
       "Besonderer Dank:",
       "Azy Tazer"

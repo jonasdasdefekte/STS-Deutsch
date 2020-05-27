@@ -332,8 +332,9 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "Erneut klicken zum Verlassen",
-      "zum Verlassen"
+      "Zum Verlassen nochmal klicken",
+      "zum Verlassen",
+      "Zum Verlassen nochmal tippen"
     ]
   },
   "CustomModeScreen": {
@@ -787,7 +788,8 @@
       "Beginnen",
       "Zurückkehren",
       "Klicke zum Bearbeiten",
-      "Bearbeiten"
+      "Bearbeiten",
+      "Tippe zum Bearbeiten"
     ]
   },
   "MasterDeckViewScreen": {
