@@ -68,7 +68,7 @@
       "NAMES": [
         "flüchtig"
       ],
-      "DESCRIPTION": "Wenn du diese Karte am Ende deines Zuges auf der Hand hast, erschöpft sie. NL Erschöpfte Karten werden für den Rest dieses Kampfes aus deinem Deck entfernt."
+      "DESCRIPTION": "Hast du diese Karte am Ende deines Zuges auf der Hand, erschöpft sie, ist also für den Rest des Kampfes aus deinem Deck entfernt."
     },
     "EVOKE": {
       "NAMES": [
