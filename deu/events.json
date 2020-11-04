@@ -269,9 +269,9 @@
   "Forgotten Altar": {
     "NAME": "Vergessener Altar",
     "DESCRIPTIONS": [
-      "Vor dir befindet sich ein Altar, der einem vergessenen Gott gewidmet ist. NL Auf dem Altar sitzt eine verzierte weibliche Statue mit ausgestreckten Armen. NL Sie ruft nach dir, sie verlangt ein Opfer.",
+      "Vor dir befindet sich ein Altar, der einem vergessenen Gott gewidmet ist. Darauf thront eine verzierte weibliche Statue mit ausgestreckten Armen. NL Sie ruft nach dir - sie verlangt ein Opfer.",
       "Als du den Götzen vorsichtig auf den Altar setzt, wirbelt ein #bkalter Wind durch den Raum. NL Die Arme der Statue beginnen sich zu entfärben und zu bröckeln. NL NL Die Farbe deines #ygoldenen #yGötzen beginnt zu verblassen und Blut strömt aus den Augen. NL Das Bluten hört nicht auf.",
-      "Du stehst auf dem Altar und schneidest in deine Handgelenke. NL Als das #rBlut als Opfergabe fließt, strecken sich die Arme der Statue nach dir aus und umschließen Augen. NL Alles wird dunkel. NL Du erwachst kurze Zeit später, durchströmt mit dem Gefühl von neuem Potential.",
+      "Du stehst auf dem Altar und schneidest in deine Handgelenke. NL Als das #rBlut deiner Opfergabe fließt, strecken sich die Arme der Statue nach dir aus und umschließen deine Augen. NL Alles wird dunkel. NL Du erwachst kurze Zeit später, durchströmt mit dem Gefühl von neuem Potential.",
       "Du holst aus und zerschmetterst die Statue vor dir, sodass der magische Bann bricht, den dieser Raum auf dich hatte. NL Ein düsteres Heulen hallt um dich wider. Du kannst spüren, wie die #p~verfluchte~ #p~Magie~ in deine Knochen sickert."
     ],
     "OPTIONS": [
