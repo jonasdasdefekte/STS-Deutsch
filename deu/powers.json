@@ -31,8 +31,8 @@
   "Angry": {
     "NAME": "Wütend",
     "DESCRIPTIONS": [
-      "Immer wenn ",
-      " #yAngriffsschaden erleidet, erhält er #b",
+      "",
+      "Erhält immer, wenn er #yAngriffsschaden erleidet, #b",
       " #yStärke."
     ]
   },
