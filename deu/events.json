@@ -22,7 +22,7 @@
     "DESCRIPTIONS": [
       "Gerade willst du dich an einer Gruppe verschleierter Figuren vorbeischleichen, da kommt einer von ihnen auf dich zu. NL „Hast du was für mich, mein Freund? Bitte... ein paar #yMünzen vielleicht?“ NL „Ich brauche nur einen Platz zum Wohnen, ich habe Schätze dafür einzutauschen...“ NL Er wirkt wahnhaft, aber harmlos.",
       "„Oh ja, ~ja!~ Hier, hier, ein fairer Handel!“",
-      "Du schnappst dir das wertvolle #yRelikt aus seiner Jackentasche und läufst fort. NL Hinter dir kannst du hören: NL „Schämst du nicht nicht? ~SCHÄÄÄÄMST~ ~DU~ ~DICH~ ~NICHT?!~“ NL Dich überkommt etwas #pScham."
+      "Du schnappst dir das wertvolle #yRelikt aus seiner Jackentasche und läufst fort. NL Hinter dir kannst du hören: NL „Schämst du nicht nicht? ~SCHÄÄÄÄMST~ ~DU~ ~DICH~ ~NICHT?!~ “ NL Dich überkommt etwas #pScham."
     ],
     "OPTIONS": [
       "[Gold geben] #y",
@@ -611,7 +611,7 @@
       "#r~FURCHT.~ NL NL Eine dämonische Kreatur überragt dich mit weit gespreizten Flügeln und bricht in heulendes Gelächter aus. Tote Körper eines Stammes umgeben dich, als das Dorf von schrecklichen #p~dunklen~ #p~Flammen~ verschlugen wird. NL NL Der Dämon ruft nach dir mit Spott. NL NL #r@\"JETZT@ #r@BIST@ #r@DU@ #r@WIRKLICH@ #r@DER@ #r@STÄRKSTE!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAA!!\"@  NL NL Dieses Gelächter hallt ewig wider... ",
       "#g~TRIUMPH.~ NL NL Die Überreste einer #p~geisterhaften~ #p~Kreatur~ fällt langsam in den Schlamm vor dir, sie ist im Mondschein kaum sichtbar. Du hast dich vor deinen Schwestern bewiesen. NL NL In der Siegespose wartest du still, während die Anderen dir zeremoniell den #ySchädel der #yKreatur auf deinen Kopf setzen. Das Ritual ist vollendet. NL NL Du gehst in Richtung des Spire...",
       "#b~VERWIRRUNG.~ NL NL #y[ZIEL] #gBALANCE #gmuss #gVERSTÄRKT #gwerden NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[DEFINIERE] #gBALANCE NL #y[FEHLER] #gBALANCE #gNICHT #gGEFUNDEN NL #y[WARNUNG] #rGroßes #rObjekt #rnähert #rsich NL NL ~\"Ich...~ ~..bin~ ~....Niau..\"~",
-      "#p~GELASSENHEIT.~ NL NL Zwei primitive Kreaturen kämpfen um ein Kadaver am Straßenrand. Du schaust emotionslos zu. NL #ySehen. #yErinnern. #yLeben. Das ist die Mission des Sehers. NL NL Vor Kurzem hatte einer deiner Kollegen die Berichte über seinen Auftrag abgebrochen: Einen Spire von unbekanntem Ursprung. NL NL Der Kampf endet und du gehst weiter, unbeeindruckt von der blutigen Szene, die sich abgespielt hat."
+      "#p~GELASSENHEIT.~ NL NL Zwei primitive Kreaturen kämpfen um ein Kadaver am Straßenrand. Du schaust emotionslos zu. NL #ySehen. #yErinnern. #yLeben. Das ist die Mission der Seherin. NL NL Vor Kurzem hatte einer deiner Kollegen die Berichte über seinen Auftrag abgebrochen: Einen Spire von unbekanntem Ursprung. NL NL Der Kampf endet und du gehst weiter, unbeeindruckt von der blutigen Szene, die sich abgespielt hat."
     ],
     "OPTIONS": [
       "[Erinnern] #gWähle #g1 #gfarblose #gKarte #gfür #gdein #gDeck.",
@@ -899,7 +899,7 @@
     "DESCRIPTIONS": [
       "Auf deinem Weg die gekrümmten Pfade hinauf verläufst du dich immer wieder, weil die Wände und der Boden sich unerklärlicherweise vor deinen Augen zu verschieben scheinen. NL NL Die ständig in deinem Hinterkopf #p~flüsternden~ #p~Stimmen~ helfen auch nicht gerade weiter.",
       "An einem Gebilde, von dem du sicher bist, dass du es schon vorher gesehen hast, beginnst du dich zu fragen, ob du den Verstand verlierst oder ob die unmögliche Geographie dieses Ortes dich langsam in die Irre führt. Du musst etwas ändern, und zwar schnell. NL NL Jedenfalls sagen das #p~die~ #p~Stimmen~ - und warum sollten sie lügen?",
-      "Etwas in dir zerbricht. NL NL Nur ein wahrhaft Verrückter kann einen Ort wie diesen verstehen, also gibst du den plappernden Stimmen nach und setzt deine Reise mit einem #p~„neuen“~ Blickwinkel fort. NL Alles scheint jetzt soviel mehr Sinn zu ergeben.",
+      "Etwas in dir zerbricht. NL NL Nur ein wahrhaft Verrückter kann einen Ort wie diesen verstehen, also gibst du den plappernden Stimmen nach und setzt deine Reise mit einem #p~„neuen“~ Blickwinkel fort. NL Alles scheint jetzt so viel mehr Sinn zu ergeben.",
       "Als du einen Moment anhältst, um die hügelige Landschaft zu betrachten, meinst du plötzlich eine Art Muster in der Willkürlichkeit der Umgebung zu erkennen. Immer, wenn die verrückten Geräusche deine Gedanken zu stören beginnen, erträgst du den geistigen Schmerz und ignorierst sie. NL NL Nach eine Weile gelingt es dir, einen Weg nach vorn festzulegen, und du gehst weiter – fortan immun gegen die schändliche Natur dieses fremdartigen Ortes.",
       "Du verbringst nun gefühlt schon eine Ewigkeit verloren im Labyrinth. Langsam aber sicher findest du deine Spur, verfolgst sie zurück, gewinnst deine Orientierung wieder und entkommst den gewundenen Hallen. NL NL Du fühlst dich #r~entkräftet~ von dem ganzen Hin und Her."
     ],
